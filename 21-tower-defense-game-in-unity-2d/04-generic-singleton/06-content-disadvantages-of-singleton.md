@@ -1,0 +1,21 @@
+<div style = "text-align:center">
+    <h1>Disadvantages of Singleton</h1>
+</div>
+Now, let's take a closer look at the potential downsides of the singleton design pattern.
+
+- One challenge is that singletons can sometimes hinder unit testing.
+- Additionally, they can introduce tight coupling between components, making it trickier to modify or extend your codebase.
+- Singletons might hide dependencies within your code, which could lead to unexpected behavior or difficulties in tracking down issues.
+<br>
+
+<br>
+<br>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/cec6d7288cfa41429810304dbb1d4ae1?sid=484f0cdd-dd1b-41f4-a961-e024c16e35cf" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<br>
+<br>
+
+<br>
+<div style = "text-align:center">
+    <img src = "https://github.com/outscal/AGD_ObjectPooling_CosmicCuration/assets/107213542/e98445eb-5211-404f-8293-91690057a6bd" style="width:70%">
+</div>
+<br>

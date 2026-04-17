@@ -1,0 +1,31 @@
+
+# **Instructions for Submissions**
+
+<figure class="video_container">
+  <iframe width="576" height="324" src="https://www.loom.com/embed/b32fc0b46d2d4f3fab949e3a19457f70" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+<br>
+<details>
+<summary>
+Important steps to keep in mind while creating and merging the branches while submission.
+</summary>
+
+1. Always create a new branch **before starting** a new feature implementation.
+2. Consider you have a branch named feature-1 and your implementation is done but code reviews are pending which means your **merging is pending for feature-1 into master**. That's why to start a new feature you should create a branch named feature-2 **from feature-1 and not from the master** to bring in an exact copy of your latest changes.
+3. **Once code review is done for feature-1**, and if you are on a different branch than feature-1 then **checkout at the feature-1 branch**(means just come to feature-1) then do required changes as per mentor code review. After the changes are over **merge the feature-1 branch into master.**
+4. **If feature-1 branch changes are critical** for the feature-2 branch **then only merge feature-1 into feature-2 as well.**
+5. After merging is done of feature-1, you can checkout at the feature-2(or any other latest branch that you were working on) and **continue your work.**
+</details>
+<details>
+<summary>
+Important steps to keep in mind while submitting your pull requests
+</summary>
+
+1. If you have created a branch named feature-1 **from a master** then submit the pull request by comparing feature-1 **with a master.**
+2. **Generalization**: If you have created an X branch **from a Y branch** then submit a pull request by comparing the X branch **with a Y branch**. 
+</details>
+
+<img src="https://outscal.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4c1c4f7d-d2ed-42f6-9a12-c11f689ecbff%2FGit_feature_branch_workflow.jpg?table=block&id=459fd194-4069-4544-8ae9-f3664f08f7a7&spaceId=8c9f7b97-3438-434a-b8ca-0a53eb7262ea&width=2000&userId=&cache=v2" width ="700">
+
+
