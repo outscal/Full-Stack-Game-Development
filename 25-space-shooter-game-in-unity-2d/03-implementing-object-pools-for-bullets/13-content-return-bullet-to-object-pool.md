@@ -5,9 +5,7 @@
 - Object deactivation, resetting bullet properties, and updating availability flags.
 <br>
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/db9d0c2e10814221a8405776ae7f8f8b)
-</div>
 <br>
 <br>
 <div style = "text-align:center">

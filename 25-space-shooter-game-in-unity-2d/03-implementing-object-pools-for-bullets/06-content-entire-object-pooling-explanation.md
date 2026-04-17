@@ -6,9 +6,7 @@
 - Logic behind object pooling, including object instantiation, activation, and deactivation.
 <br>
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/942ed916aa734010a09ecd7658a88463)
-</div>
 <br>
 <br>
 <div style = "text-align:center">

@@ -7,9 +7,7 @@
 - Example of object pooling in game dev
 <br>
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/aba04490f3034a1c9aa5de1f4afb9483)
-</div>
 <br>
 <br>
 <div style = "text-align:center">

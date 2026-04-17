@@ -8,11 +8,7 @@
 <br>
 
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-    
 [▶ Watch video](https://www.loom.com/share/05b26f19d17441b687fce08b2d1e7098)
-
-</div>
 <br>
 <br>
 <br>

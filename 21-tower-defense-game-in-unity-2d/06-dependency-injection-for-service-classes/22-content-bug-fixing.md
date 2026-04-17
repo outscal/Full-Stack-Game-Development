@@ -5,9 +5,5 @@ In this video we will be resolving some bugs in our code and we will also see wh
 <br>
 
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-    
 [▶ Watch video](https://www.loom.com/share/4f5958f3a84b47e3afd11ee21cd6cdf0)
-
-</div>
 

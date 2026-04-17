@@ -3,9 +3,7 @@
 </div>
 
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/37bc618005704d428811fab15c01b1fe)
-</div>
 
 <br>
 

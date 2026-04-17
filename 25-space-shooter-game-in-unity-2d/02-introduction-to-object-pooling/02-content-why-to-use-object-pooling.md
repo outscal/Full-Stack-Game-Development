@@ -4,9 +4,7 @@
 - Why to use Object Pooling
 
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/63bf1811a3874d938570330c6120a217)
-</div>
 
 <br>
 <div style = "text-align:center">

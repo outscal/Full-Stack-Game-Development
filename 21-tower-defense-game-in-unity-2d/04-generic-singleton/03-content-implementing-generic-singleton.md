@@ -6,7 +6,5 @@
 
 <br>
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/77fa4e5ed89d4f3a9611c96a756eb810)
-</div>
 <br>

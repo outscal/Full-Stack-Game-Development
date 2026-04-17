@@ -4,6 +4,4 @@
 
 - We will discuss the objectives of the next assignment
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/7399dfc9f21f4a78986ca6e0e227a345)
-</div>

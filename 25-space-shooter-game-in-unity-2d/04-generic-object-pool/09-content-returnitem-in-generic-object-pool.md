@@ -5,9 +5,7 @@
 - How to return generic objects in Generic Object Pool ?
 
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/213d352aafcc4e098bdd04ee03a82ba4)
-</div>
 
 <br>
 <div style="text-align: center">

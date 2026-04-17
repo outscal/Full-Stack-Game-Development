@@ -2,13 +2,7 @@
 <div style="text-align: center">
 <h1><strong>2D Platformer (UI Setup for Lobby Scene)</strong></h1>
 
-<div style="position: relative;overflow: hidden;width: 100%;padding-top: 56.25%">
-
-
 [▶ Class 30 - 2D Platformer (UI Setup for Lobby Scene)](https://www.youtube.com/watch?v=3kwi24ideao)
-
-
-</div>
 
 </div>
 

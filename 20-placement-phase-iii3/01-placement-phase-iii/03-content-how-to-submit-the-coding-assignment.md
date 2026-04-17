@@ -6,12 +6,7 @@
 <br>
 <br>
 <div style="text-align: center">
-<div style="position: relative;overflow: hidden;width: 100%;padding-top: 56.25%">
-
-
 [▶ Watch video](https://www.loom.com/share/51ce9ba47a684b5bbaa031b944e811ac)
-
-</div>
 </div>
 <br>
 <strong>[Video Discussions]</strong>

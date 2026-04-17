@@ -5,6 +5,4 @@
 - Error fixing
 - Doing respected changes in bullet pool and enemy pool as per new addition of generic type
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/50d28213a12a49d09b5a2cacec15332a)
-</div>

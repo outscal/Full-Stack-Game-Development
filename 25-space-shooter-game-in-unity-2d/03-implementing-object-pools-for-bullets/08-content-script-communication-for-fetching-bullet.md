@@ -4,9 +4,7 @@
 - Script Communication - Getting bullets from the pool.
 <br>
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/d2c899ae571b4a48b23c1f278e72f30a)
-</div>
 <br>
 <br>
 <div style = "text-align:center">

@@ -10,7 +10,5 @@ In this video we will
 <br>
 
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/1733f0b0574e4bb7924e535530803850)
-</div>
 <br>

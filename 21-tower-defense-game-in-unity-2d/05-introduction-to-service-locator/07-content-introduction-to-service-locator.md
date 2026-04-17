@@ -9,9 +9,7 @@ In this segment,
 <br>
 
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/a3cdce79a1f54dd1ba5805ab7a00d825)
-</div>
 <br>
 
 <br>

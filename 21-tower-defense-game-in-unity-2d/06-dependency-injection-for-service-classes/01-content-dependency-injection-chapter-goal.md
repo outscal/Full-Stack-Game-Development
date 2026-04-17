@@ -8,11 +8,7 @@ Let's get started.
 <br>
 
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-    
 [▶ Watch video](https://www.loom.com/share/50499ae0597f4f149ac89b612b16782f)
-
-</div>
 <br>
 <br>
 <div style = "text-align:center">

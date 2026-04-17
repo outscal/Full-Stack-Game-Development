@@ -5,9 +5,7 @@
 - Performance optimization tips.
 <br>
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/58428d89fb3744aeb965d39e5d31676b)
-</div>
 <br>
 <br>
 <div style = "text-align:center">

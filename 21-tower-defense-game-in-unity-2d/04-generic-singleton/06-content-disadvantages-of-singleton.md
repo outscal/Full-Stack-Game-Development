@@ -10,9 +10,7 @@ Now, let's take a closer look at the potential downsides of the singleton design
 
 <br>
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/cec6d7288cfa41429810304dbb1d4ae1)
-</div>
 <br>
 <br>
 

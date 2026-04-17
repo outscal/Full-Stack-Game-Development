@@ -1,13 +1,7 @@
 <div style="margin: auto 5%">
 <div style="text-align: center">
 <h1><strong>All about your first call with the company (Non-Tech Call)</strong></h1>
-<div style="position: relative;overflow: hidden;width: 100%;padding-top: 56.25%">
-
-
 [▶ Watch video](https://www.loom.com/share/59bd84794a1348cb97cf1cc99e1b9b9c)
-
-
-</div>
 </div>
 <br>
 <br>

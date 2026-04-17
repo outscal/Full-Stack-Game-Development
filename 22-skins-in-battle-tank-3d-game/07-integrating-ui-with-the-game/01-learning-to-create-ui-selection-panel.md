@@ -3,6 +3,4 @@
 </div>
 
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/ccdd68d065084f5692379a392c1a76db)
-</div>

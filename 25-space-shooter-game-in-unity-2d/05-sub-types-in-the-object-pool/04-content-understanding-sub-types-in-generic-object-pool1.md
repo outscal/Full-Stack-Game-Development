@@ -6,9 +6,7 @@
 - Powerup architecture with sub-types.
 - Understanding the problem statement of powerups with subtype with current Generic Object Pool.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/ec1fc4128df1419dbabf3dfaf11715f2)
-</div>
 <br>
 
 <br>

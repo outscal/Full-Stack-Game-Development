@@ -10,9 +10,7 @@
 <br>
 
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/15921dcc25f64cc4b8eff6aea12267f2)
-</div>
 <br>
 
 <br>

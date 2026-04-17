@@ -11,9 +11,7 @@ Ready? Let's get started!
 <br>
 
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/4b0f373a7b414660968c3dc30b501e9b)
-</div>
 
 <br>
 <br>

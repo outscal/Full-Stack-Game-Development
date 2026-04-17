@@ -6,9 +6,7 @@
 - We'll provide clear explanations and insights into the reasoning behind each line of code we write.
 <br>
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/174133b9317f47de942af813c5a10d8c)
-</div>
 <br>
 <br>
 <div style = "text-align:center">

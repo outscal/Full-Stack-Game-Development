@@ -5,9 +5,7 @@
 - C# Generics
 - Generic Object Pool
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/73ad777709a94f6ebc83fc75e3ffb5d5)
-</div>
 
 <br>
 <div style="text-align: center">

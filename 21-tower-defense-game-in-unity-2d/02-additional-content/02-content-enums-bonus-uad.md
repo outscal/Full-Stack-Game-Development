@@ -3,22 +3,10 @@
 <h1><strong>SRP, Enums, Scriptable Objects (Bonus)</strong></h1>
 
 <p><strong>C# Enumerations in Unity! - Beginner Scripting Tutorial</strong></p>
-<div style="position: relative;overflow: hidden;width: 100%;padding-top: 56.25%">
-
-
 [▶ Watch video](https://www.youtube.com/watch?v=L2E2aB1CMYw)
-
-
-</div>
 <br>
 <p><strong>SendMessage, Broadcast Message and SendMessageUpwards in Unity</strong></p>
-<div style="position: relative;overflow: hidden;width: 100%;padding-top: 56.25%">
-
-
 [▶ Watch video](https://www.youtube.com/watch?v=Syj5KKhKqwY)
-
-
-</div>
 
 </div>
 <br>

@@ -6,18 +6,10 @@ In this video, we will start looking at how can we use Dependency Injection to r
 <br>
 
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-    
 [▶ Watch video](https://www.loom.com/share/0f950e2e9be948789dcf26a38ff51625)
-
-</div>
 <br>
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-    
 [▶ Watch video](https://www.loom.com/share/deb0541db8e44363a637955f7fe5844b)
-
-</div>
 <br>
 
 <br>

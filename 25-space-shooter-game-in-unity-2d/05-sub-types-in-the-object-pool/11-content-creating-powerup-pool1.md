@@ -4,9 +4,7 @@
 
 - Implementation of PowerUp Pool.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/d5d12f20a3b545b28d8e3196ad9aca3a)
-</div>
 
 <br>
 <div style="text-align: center">

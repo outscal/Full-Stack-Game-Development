@@ -2,13 +2,7 @@
 <div style="text-align: center">
 <h1><strong>Algo - Sorting(Algorithm of Quick Sort)</strong></h1>
 
-<div style="position: relative;overflow: hidden;width: 100%;padding-top: 56.25%">
-
-
 [▶ Class 97  - Algo - Sorting(Algorithm of quick sort)](https://www.youtube.com/watch?v=40wZO5WQrtc)
-
-    
-</div>
 
 </div>
 

@@ -5,9 +5,7 @@
 - Learn how to integrate and utilize the power-up pool in your game.
 - Implement the necessary code and logic to access and activate power-ups from the pool.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/392fc9117fa249e2b102b4ed867186e4)
-</div>
 <br>
 
 <br>

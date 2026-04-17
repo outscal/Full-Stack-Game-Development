@@ -6,9 +6,7 @@ In this video, we'll discuss the chapter goal and demonstrate the desired soluti
 Let's get started.
 
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/45b861953f8d427480f1a239e1b2dd76)
-</div>
 <br>
 
 <br>

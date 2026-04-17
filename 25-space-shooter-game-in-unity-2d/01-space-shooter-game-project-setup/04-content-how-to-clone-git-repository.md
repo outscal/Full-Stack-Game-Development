@@ -9,9 +9,7 @@ Ready? Let's go!
 
 <br>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
 [▶ Watch video](https://www.loom.com/share/8a2334287e464918a87b1fcf577c5126)
-</div>
 
 <br>
 <div style = "text-align:center">
