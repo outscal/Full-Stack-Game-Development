@@ -6,8 +6,9 @@ In this video you will learn about different types of dependencies and various w
 
 <br>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-    <iframe src="https://www.loom.com/embed/02c31ad9a2d9401c8a00f84c142e4c3e?sid=9f95b1ce-31fc-40ef-8a41-da2abd0a58f5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">        
-    </iframe>
+    
+[▶ Watch video](https://www.loom.com/share/02c31ad9a2d9401c8a00f84c142e4c3e)
+
 </div>
 <br>
 

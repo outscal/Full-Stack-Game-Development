@@ -7,4 +7,6 @@
 <li> Understanding scalability of generic event controller </li>
 </ul>
 
-<figure class="video_container"> <iframe width="650" height="400" src="https://www.loom.com/embed/01b54cb497794aa8a322243c63f06ef7" frameborder="0" allowfullscreen="true"> </iframe> </figure>
+<figure class="video_container"> 
+[▶ Watch video](https://www.loom.com/share/01b54cb497794aa8a322243c63f06ef7)
+ </figure>

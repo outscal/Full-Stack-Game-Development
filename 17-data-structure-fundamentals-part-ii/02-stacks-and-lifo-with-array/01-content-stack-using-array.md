@@ -10,11 +10,15 @@
 - Stack using Array
     
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/esnFT9-iM1Q" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=esnFT9-iM1Q)
+
 </figure>
     
 - Function Call Stack
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/TQ_1njQ7yz0" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=TQ_1njQ7yz0)
+
 </figure>

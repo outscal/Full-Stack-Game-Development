@@ -14,16 +14,23 @@
 
 - SRP
 
-<iframe src="https://www.youtube.com/embed/wG9Vm2JRpa4" title="Class 4 - SRP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Class 4 - SRP](https://www.youtube.com/watch?v=wG9Vm2JRpa4)
+
 
 - Enums
 
-<iframe src="https://www.youtube.com/embed/YEwbOIdajfI" title="Class 5 - Enums" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Class 5 - Enums](https://www.youtube.com/watch?v=YEwbOIdajfI)
+
 
 - Extension Function
 
-<iframe src="https://www.youtube.com/embed/Tl3WVRT3b0U" title="Class 6 - Extension Function" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Class 6 - Extension Function](https://www.youtube.com/watch?v=Tl3WVRT3b0U)
+
 
 - Scriptable Objects
 
-<iframe src="https://www.youtube.com/embed/wfreOkFI85o" title="Class 7 - Scriptable Objects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Class 7 - Scriptable Objects](https://www.youtube.com/watch?v=wfreOkFI85o)

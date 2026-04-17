@@ -10,14 +10,19 @@
 
 - STL Sets
     
-<iframe src="https://www.youtube.com/embed/2hpEgDTxufA" title="Class 123- DS - STL(sets)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Class 123- DS - STL(sets)](https://www.youtube.com/watch?v=2hpEgDTxufA)
+
     
 
 - STL Multiset
     
-<iframe src="https://www.youtube.com/embed/5zC0szlQctQ" title="Class 124- DS - STL(Multisets)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Class 124- DS - STL(Multisets)](https://www.youtube.com/watch?v=5zC0szlQctQ)
+
     
 
 - STL Unordered Set
     
-<iframe src="https://www.youtube.com/embed/mz6klM8jFv4" title="Class 127- DS - STL(Unordered set)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Class 127- DS - STL(Unordered set)](https://www.youtube.com/watch?v=mz6klM8jFv4)

@@ -9,7 +9,9 @@
 **NOTE: Please watch this video before starting your Interview Preparation**
 
   <div style= "position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; width: 100%;">
-    <iframe style="position: absolute;top: 0; left: 0;width: 100%;height: 100%;" src="https://www.loom.com/embed/f34507e9728b4b049a119c0e4847f92a" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+[▶ Watch video](https://www.loom.com/share/f34507e9728b4b049a119c0e4847f92a)
+
   </div>
 
 <br><br>

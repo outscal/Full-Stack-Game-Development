@@ -10,11 +10,15 @@
 - Game Polish
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/4_q1O2YpzKc" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=4_q1O2YpzKc)
+
 </figure>
 
 - Final 2D Session
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/kJlv0IA7zEc" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=kJlv0IA7zEc)
+
 </figure>

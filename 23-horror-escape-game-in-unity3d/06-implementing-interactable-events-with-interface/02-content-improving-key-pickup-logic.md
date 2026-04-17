@@ -7,4 +7,6 @@
 <li> Use Event Service for key pickup logic.</li>
 </ul>
 
-<figure class="video_container"> <iframe width="650" height="400" src="https://www.loom.com/embed/6902979d6ab64fb78f6ba1680f308698" frameborder="0" allowfullscreen="true"> </iframe> </figure>
+<figure class="video_container"> 
+[▶ Watch video](https://www.loom.com/share/6902979d6ab64fb78f6ba1680f308698)
+ </figure>

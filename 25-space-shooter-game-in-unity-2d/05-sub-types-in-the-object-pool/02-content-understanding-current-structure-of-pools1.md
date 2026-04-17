@@ -5,7 +5,9 @@
 - Overview of the existing pool structure.
 - How current architecture is working to differentiate between different pools ?
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/e9b46f32e6d240eb8d065112b3fb6635" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+[▶ Watch video](https://www.loom.com/share/e9b46f32e6d240eb8d065112b3fb6635)
+</div>
 <br>
 
 <br>

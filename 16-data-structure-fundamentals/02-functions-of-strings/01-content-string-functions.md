@@ -11,7 +11,9 @@
     
     <!-- blank line -->
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/H0gljdewTkE" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=H0gljdewTkE)
+
 </figure>
 <!-- blank line -->
 
@@ -21,5 +23,7 @@
     
  
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/ge83KQVNXrc" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=ge83KQVNXrc)
+
 </figure>

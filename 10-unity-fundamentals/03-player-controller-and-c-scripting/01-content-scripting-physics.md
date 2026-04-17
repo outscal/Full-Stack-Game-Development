@@ -11,19 +11,25 @@
 - RigidBody Physics Collision
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/-ldPqeXO8SI" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=-ldPqeXO8SI)
+
 </figure>
 
 
 - Debugging problem with collision detection
     
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/0XwZcPv2tew" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=0XwZcPv2tew)
+
 </figure>
     
 
 - Building Animations with Inputs Flipping character
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/JImLOLuLBa0" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=JImLOLuLBa0)
+
 </figure>

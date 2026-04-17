@@ -10,7 +10,9 @@ Now, let's take a closer look at the potential downsides of the singleton design
 
 <br>
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/cec6d7288cfa41429810304dbb1d4ae1?sid=484f0cdd-dd1b-41f4-a961-e024c16e35cf" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+[▶ Watch video](https://www.loom.com/share/cec6d7288cfa41429810304dbb1d4ae1)
+</div>
 <br>
 <br>
 

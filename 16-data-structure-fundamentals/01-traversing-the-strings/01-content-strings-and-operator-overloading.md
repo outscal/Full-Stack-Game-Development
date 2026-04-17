@@ -13,7 +13,9 @@ Write in points explaining some important things that you learned from the assig
     
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/lNqYKK-61AI" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=lNqYKK-61AI)
+
 </figure>
 
     
@@ -21,5 +23,7 @@ Write in points explaining some important things that you learned from the assig
     
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/-6dRd-SsAMg" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=-6dRd-SsAMg)
+
 </figure>

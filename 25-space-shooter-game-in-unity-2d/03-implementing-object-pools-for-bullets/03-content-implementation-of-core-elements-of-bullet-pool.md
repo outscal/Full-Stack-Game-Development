@@ -6,7 +6,9 @@
 - We'll provide clear explanations and insights into the reasoning behind each line of code we write.
 <br>
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/174133b9317f47de942af813c5a10d8c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+[▶ Watch video](https://www.loom.com/share/174133b9317f47de942af813c5a10d8c)
+</div>
 <br>
 <br>
 <div style = "text-align:center">

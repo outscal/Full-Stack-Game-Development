@@ -11,7 +11,9 @@ You will uncover some valuable insights in this video:
 <br>
 
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/0df7f41040f0460b96f87a85b75b3fa9?sid=243f02b0-a105-4b77-82b5-a409a175d90d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+[▶ Watch video](https://www.loom.com/share/0df7f41040f0460b96f87a85b75b3fa9)
+</div>
 <br>
 
 <br>

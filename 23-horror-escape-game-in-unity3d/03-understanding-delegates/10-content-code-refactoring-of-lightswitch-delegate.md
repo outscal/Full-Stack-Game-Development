@@ -7,4 +7,6 @@
 <li> Whiteboard Discussions on LightSwitch delegate. </li>
 </ul>
 
-<figure class="video_container"> <iframe width="650" height="400" src="https://www.loom.com/embed/2b9a2bee1eae4eb698f72086517fc3b6" frameborder="0" allowfullscreen="true"> </iframe> </figure>
+<figure class="video_container"> 
+[▶ Watch video](https://www.loom.com/share/2b9a2bee1eae4eb698f72086517fc3b6)
+ </figure>

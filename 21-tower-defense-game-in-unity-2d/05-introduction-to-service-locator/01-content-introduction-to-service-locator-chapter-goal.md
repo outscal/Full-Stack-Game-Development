@@ -6,7 +6,9 @@ In this video, we'll discuss the chapter goal and demonstrate the desired soluti
 Let's get started.
 
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/45b861953f8d427480f1a239e1b2dd76?sid=7dee6672-adf4-403a-9ddb-6acc089933d1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+[▶ Watch video](https://www.loom.com/share/45b861953f8d427480f1a239e1b2dd76)
+</div>
 <br>
 
 <br>

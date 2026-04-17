@@ -4,7 +4,9 @@
 </div>
 <div style="display: flex; justify-content: center; max-width: 1000px; margin: 0 auto; width: 100%; align-items: flex-start; flex-direction: column;">
   <div style= "position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; width: 100%;">
-    <iframe style="position: absolute;top: 0; left: 0;width: 100%;height: 100%;" src="https://www.youtube.com/embed/ZMk2JnRz768" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+[▶ Watch video](https://www.youtube.com/watch?v=ZMk2JnRz768)
+
   </div>
 
 <br>

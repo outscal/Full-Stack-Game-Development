@@ -7,4 +7,6 @@
 <li> Removing the bad practice of use of static keyword </li>
 </ul>
 
-<figure class="video_container"> <iframe width="650" height="400" src="https://www.loom.com/embed/64edf63d8d8143be9491edceeff7ceef" frameborder="0" allowfullscreen="true"> </iframe> </figure>
+<figure class="video_container"> 
+[▶ Watch video](https://www.loom.com/share/64edf63d8d8143be9491edceeff7ceef)
+ </figure>

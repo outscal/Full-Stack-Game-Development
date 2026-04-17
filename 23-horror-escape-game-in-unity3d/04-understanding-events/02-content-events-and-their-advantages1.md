@@ -8,5 +8,7 @@
 <li> How do events add a layer of security over delegates? </li>
 </ul>
 
-<figure class="video_container"> <iframe width="650" height="400" src="https://www.loom.com/embed/91ce9a3c718643e6ab652f857d6a7d27" frameborder="0" allowfullscreen="true"> </iframe> </figure>
+<figure class="video_container"> 
+[▶ Watch video](https://www.loom.com/share/91ce9a3c718643e6ab652f857d6a7d27)
+ </figure>
 

@@ -13,32 +13,44 @@
 
 - Insertion Sort
     
-<iframe src="https://www.youtube.com/embed/rp6hc_tdOuY" title="Class 87 - Algo - Sorting(Insertion sort)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Class 87 - Algo - Sorting(Insertion sort)](https://www.youtube.com/watch?v=rp6hc_tdOuY)
+
     
 
 - Selection Sort
     
-<iframe src="https://www.youtube.com/embed/B5yQ2Ioc488" title="Class 88 - Algo - Sorting(selection sort)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Class 88 - Algo - Sorting(selection sort)](https://www.youtube.com/watch?v=B5yQ2Ioc488)
+
     
 
 - Bubble Sort
     
-<iframe src="https://www.youtube.com/embed/VqYyFp78cCY" title="Class 89 - Algo - Sorting(Bubble sort)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Class 89 - Algo - Sorting(Bubble sort)](https://www.youtube.com/watch?v=VqYyFp78cCY)
+
     
 
 - Time Complexity Comparison of Sorting Algorithms
     
-<iframe src="https://www.youtube.com/embed/oi20-a_K1dA" title="Class 90 - Algo - Sorting(Time complexity comparison of sorting algorithms)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Class 90 - Algo - Sorting(Time complexity comparison of sorting algorithms)](https://www.youtube.com/watch?v=oi20-a_K1dA)
+
     
 
 - Podcast
     
-<iframe src="https://www.youtube.com/embed/XMStXDhWl64" title="Class 91 - Algo - Sorting(Podcasts)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Class 91 - Algo - Sorting(Podcasts)](https://www.youtube.com/watch?v=XMStXDhWl64)
+
     
 
 - Codes of Insertion, Selecfion and Bubble Sort
     
-<iframe src="https://www.youtube.com/embed/9yCHPSlVrYc" title="Class 92 - Algo - Sorting(Codes of Insertion  Selection and Bubble Sorts)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Class 92 - Algo - Sorting(Codes of Insertion  Selection and Bubble Sorts)](https://www.youtube.com/watch?v=9yCHPSlVrYc)
+
     
 
 **[Readings]** 

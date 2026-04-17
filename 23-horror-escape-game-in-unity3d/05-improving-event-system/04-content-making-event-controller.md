@@ -7,4 +7,6 @@
 <li> Imlementing 3 base methods in EventController to Add Listeners, Remove Listeners and for Invoking Events </li>
 </ul>
 
-<figure class="video_container"> <iframe width="650" height="400" src="https://www.loom.com/embed/9b69314ddc3f450796e8d3bf6943afd6" frameborder="0" allowfullscreen="true"> </iframe> </figure>
+<figure class="video_container"> 
+[▶ Watch video](https://www.loom.com/share/9b69314ddc3f450796e8d3bf6943afd6)
+ </figure>

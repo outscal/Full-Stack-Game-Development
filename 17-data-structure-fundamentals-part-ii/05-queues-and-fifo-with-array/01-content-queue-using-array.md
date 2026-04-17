@@ -10,10 +10,14 @@
 - Introduction to Queue
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/kOrrusvmBt8" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=kOrrusvmBt8)
+
 </figure>
 
 - Queue Implementation using Array
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/lT9QbfMHLGo" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=lT9QbfMHLGo)
+
 </figure>

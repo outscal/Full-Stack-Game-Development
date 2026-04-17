@@ -10,11 +10,15 @@
 - Adding Basic Enemy
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/CVjMkEKepvU" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=CVjMkEKepvU)
+
 </figure>
 
 - Reloading Scene
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/XmQkOXjLbc8" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=XmQkOXjLbc8)
+
 </figure>

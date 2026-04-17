@@ -8,4 +8,6 @@
 <li> Understanding the syntax of delegate</li>
 </ul>
 
-<figure class="video_container"> <iframe width="650" height="400" src="https://www.loom.com/embed/0009a7cb216a48ab99b307a25cc28712" frameborder="0" allowfullscreen="true"> </iframe> </figure>
+<figure class="video_container"> 
+[▶ Watch video](https://www.loom.com/share/0009a7cb216a48ab99b307a25cc28712)
+ </figure>

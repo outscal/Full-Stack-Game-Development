@@ -4,7 +4,9 @@
 - Why to use Object Pooling
 
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/63bf1811a3874d938570330c6120a217?sid=d884d712-1b55-44b5-b470-3e1093fc2d77" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+[▶ Watch video](https://www.loom.com/share/63bf1811a3874d938570330c6120a217)
+</div>
 
 <br>
 <div style = "text-align:center">

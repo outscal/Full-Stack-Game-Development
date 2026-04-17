@@ -13,35 +13,45 @@
 - Introduction to Graphs
     
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/V1HjPMt7uS4" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=V1HjPMt7uS4)
+
 </figure>
     
 
 - Adjacency Matrix Representation
     
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/PSmtzyajeiE" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=PSmtzyajeiE)
+
 </figure>
     
 
 - Adjacency List Representation
     
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/BWd6t5rLqM0" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=BWd6t5rLqM0)
+
 </figure>
     
 
 - Code
     
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/UNG_ENMk3Dc" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=UNG_ENMk3Dc)
+
 </figure>
     
 
 - Code Assignment
     
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/gw4zXClG5bI" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=gw4zXClG5bI)
+
 </figure>
     
 

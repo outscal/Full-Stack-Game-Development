@@ -14,34 +14,44 @@
 - Course Introduction
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/F3HoyAQYEA8" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=F3HoyAQYEA8)
+
 </figure>
 
 - Prefab Creation
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.loom.com/embed/fc7a01cb6e134d248d769c320a9c1a39" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.loom.com/share/fc7a01cb6e134d248d769c320a9c1a39)
+
 </figure>
 
 
 - Project Setup
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/LHkWivKnqfQ" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=LHkWivKnqfQ)
+
 </figure>
 
 
 - Animations Basics
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/TMko-L9cJhg" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=TMko-L9cJhg)
+
 </figure>
 
 
 - Animator Window, Animation State Machine, Run Animation
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/S8FE3GPlyY4" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=S8FE3GPlyY4)
+
 </figure>
 
 
@@ -49,5 +59,7 @@
 - Jump Animation
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/ZS-zD3CnAMM" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=ZS-zD3CnAMM)
+
 </figure>
