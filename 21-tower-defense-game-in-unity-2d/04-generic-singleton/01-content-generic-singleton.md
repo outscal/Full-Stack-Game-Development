@@ -7,6 +7,7 @@
 - This comes in handy when we're aiming to eliminate redundant code and enhance efficiency in our project.
 
 <br>
+
 [▶ Watch video](https://www.loom.com/share/c8b635f72a354703afa61a9e95c1e564)
 <br>
 

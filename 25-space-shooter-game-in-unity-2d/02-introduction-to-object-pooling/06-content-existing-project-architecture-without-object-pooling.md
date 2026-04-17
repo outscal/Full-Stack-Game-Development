@@ -5,6 +5,7 @@
 - Understanding the architecture of the current project
 <br>
 <br>
+
 [▶ Watch video](https://www.loom.com/share/c336d769422b48c98f2cbe5ac64e0cf8)
 <br>
 <br>

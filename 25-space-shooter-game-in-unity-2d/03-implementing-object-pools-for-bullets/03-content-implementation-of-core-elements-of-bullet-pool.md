@@ -6,6 +6,7 @@
 - We'll provide clear explanations and insights into the reasoning behind each line of code we write.
 <br>
 <br>
+
 [▶ Watch video](https://www.loom.com/share/174133b9317f47de942af813c5a10d8c)
 <br>
 <br>
