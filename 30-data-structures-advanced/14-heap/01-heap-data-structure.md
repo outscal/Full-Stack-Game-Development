@@ -15,49 +15,63 @@
 - Array Representation of Tree
     
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/2obkVqFn-ZI" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=2obkVqFn-ZI)
+
 </figure>
     
 
 - Heap Data Structure
     
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/QWHUCmgV9ng" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=QWHUCmgV9ng)
+
 </figure>
     
 
 - Finding Parent and Child
     
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/x-HXZD1gM04" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=x-HXZD1gM04)
+
 </figure>
     
 
 - Max Heap
     
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/9LVfzf_2IpY" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=9LVfzf_2IpY)
+
 </figure>
     
 
 - Insertion in Max Heap
     
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/dhNgvuzaBm8" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=dhNgvuzaBm8)
+
 </figure>
     
 
 - Deletion in Max Heap
     
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/Aci8eVR12rI" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=Aci8eVR12rI)
+
 </figure>
     
 
 - Time Complexity of Insertion and Deletion in Max Heap
     
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/zNMRjgXy6Dg" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=zNMRjgXy6Dg)
+
 </figure>
     
 

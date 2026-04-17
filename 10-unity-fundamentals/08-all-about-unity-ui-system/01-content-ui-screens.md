@@ -11,19 +11,25 @@
 - Restarting and GameOver UI after Death
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/kYk49BrLboU" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=kYk49BrLboU)
+
 </figure>
 
  
 - Lobby Scene Setup
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/Wc7c4eDn35E" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=Wc7c4eDn35E)
+
 </figure>
 
 
 - Discussions
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/RzqjUCmY4SI" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=RzqjUCmY4SI)
+
 </figure>

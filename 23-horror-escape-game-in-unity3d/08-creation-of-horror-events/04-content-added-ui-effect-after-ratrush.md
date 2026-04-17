@@ -6,4 +6,6 @@
 <li> Implementing UI effects after RatRush using events </li>
 </ul>
 
-<figure class="video_container"> <iframe width="650" height="400" src="https://www.loom.com/embed/7e62bdfb39314225a1c449502cb0386c" frameborder="0" allowfullscreen="true"> </iframe> </figure>
+<figure class="video_container"> 
+[▶ Watch video](https://www.loom.com/share/7e62bdfb39314225a1c449502cb0386c)
+ </figure>

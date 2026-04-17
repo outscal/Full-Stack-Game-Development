@@ -12,26 +12,34 @@
 - Intro to Trees
     
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/bV5QNAncYUo" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=bV5QNAncYUo)
+
 </figure>
 
 - Binary Search Tree
     
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/CZGDdS8lhyA" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=CZGDdS8lhyA)
+
 </figure>
 
 - Code Representation of Tree
     
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/J84fp0DovM0" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=J84fp0DovM0)
+
 </figure>
 
     
 - Skewed and Balanced Binary Tree
     
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/H7pdg5ftW6w" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=H7pdg5ftW6w)
+
 </figure>
 
 **[Readings]**

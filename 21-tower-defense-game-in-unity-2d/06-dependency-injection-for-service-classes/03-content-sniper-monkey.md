@@ -8,6 +8,7 @@
 <br>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-    <iframe src="https://www.loom.com/embed/40f6b9b888c24122a88649a0f02d8f6d?sid=91694cdf-137e-4e41-9491-ce53469dc745" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">        
-    </iframe>
+    
+[▶ Watch video](https://www.loom.com/share/40f6b9b888c24122a88649a0f02d8f6d)
+
 </div>

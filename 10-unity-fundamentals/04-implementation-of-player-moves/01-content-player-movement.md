@@ -11,19 +11,25 @@
 - Player Movement
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/weeio2AGBhk" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=weeio2AGBhk)
+
 </figure>
 
 
 - Player Horizontal Moment
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/meH8m7b7JvE" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=meH8m7b7JvE)
+
 </figure>
 
 
 - Player Jump
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/HTJ1UNPTRZU" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=HTJ1UNPTRZU)
+
 </figure>

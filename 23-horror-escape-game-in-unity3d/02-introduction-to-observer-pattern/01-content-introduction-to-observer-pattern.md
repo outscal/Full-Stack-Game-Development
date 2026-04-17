@@ -7,4 +7,6 @@
 <li> Why it is called an observer pattern? </li>
 </ul>
 
-<figure class="video_container"> <iframe width="650" height="400" src="https://www.loom.com/embed/991e75bb550c47928399cc8985368f81" frameborder="0" allowfullscreen="true"> </iframe> </figure>
+<figure class="video_container"> 
+[▶ Watch video](https://www.loom.com/share/991e75bb550c47928399cc8985368f81)
+ </figure>

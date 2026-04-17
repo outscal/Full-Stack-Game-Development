@@ -5,14 +5,18 @@
 <p><strong>C# Enumerations in Unity! - Beginner Scripting Tutorial</strong></p>
 <div style="position: relative;overflow: hidden;width: 100%;padding-top: 56.25%">
 
-<iframe style="position: absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;height: 100%;" src="https://www.youtube.com/embed/L2E2aB1CMYw" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Watch video](https://www.youtube.com/watch?v=L2E2aB1CMYw)
+
 
 </div>
 <br>
 <p><strong>SendMessage, Broadcast Message and SendMessageUpwards in Unity</strong></p>
 <div style="position: relative;overflow: hidden;width: 100%;padding-top: 56.25%">
 
-<iframe style="position: absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;height: 100%;" src="https://www.youtube.com/embed/Syj5KKhKqwY" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Watch video](https://www.youtube.com/watch?v=Syj5KKhKqwY)
+
 
 </div>
 

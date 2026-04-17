@@ -8,9 +8,13 @@
 
 - Circular Queue
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/DVMZaaZOvk0" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=DVMZaaZOvk0)
+
 </figure>
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/eBazifAf_kE" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=eBazifAf_kE)
+
 </figure>

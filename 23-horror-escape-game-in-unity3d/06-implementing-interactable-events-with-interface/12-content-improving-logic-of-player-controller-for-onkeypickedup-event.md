@@ -6,4 +6,6 @@
 <li> Adding a listener in PlayerController to update the keys picked up by the player </li>
 </ul>
 
-<figure class="video_container"> <iframe width="650" height="400" src="https://www.loom.com/embed/d21f76069a824e87b5c61853c5768631" frameborder="0" allowfullscreen="true"> </iframe> </figure>
+<figure class="video_container"> 
+[▶ Watch video](https://www.loom.com/share/d21f76069a824e87b5c61853c5768631)
+ </figure>

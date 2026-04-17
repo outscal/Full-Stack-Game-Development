@@ -3,7 +3,9 @@
 <h1><strong>Presenting Yourself Confidently</strong></h1>
 <div style="position: relative;overflow: hidden;width: 100%;padding-top: 56.25%">
 
-<iframe style="position: absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;height: 100%;" src="https://www.loom.com/embed/0ffa245151104f4fb30ac10c7f6635af" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Watch video](https://www.loom.com/share/0ffa245151104f4fb30ac10c7f6635af)
+
 
 </div>
 </div>

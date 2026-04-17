@@ -6,4 +6,6 @@
 <li>Understanding the chapter goal of delegates</li>
 </ul>
 
-<figure class="video_container"> <iframe width="650" height="400" src="https://www.loom.com/embed/be47f9bd12f94861a0362b73c1dd9f76" frameborder="0" allowfullscreen="true"> </iframe> </figure>
+<figure class="video_container"> 
+[▶ Watch video](https://www.loom.com/share/be47f9bd12f94861a0362b73c1dd9f76)
+ </figure>

@@ -3,7 +3,9 @@
 <h1><strong>All about your first call with the company (Non-Tech Call)</strong></h1>
 <div style="position: relative;overflow: hidden;width: 100%;padding-top: 56.25%">
 
-<iframe style="position: absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;height: 100%;" src="https://www.loom.com/embed/59bd84794a1348cb97cf1cc99e1b9b9c" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Watch video](https://www.loom.com/share/59bd84794a1348cb97cf1cc99e1b9b9c)
+
 
 </div>
 </div>
@@ -45,7 +47,9 @@
 </div>
 </div>
 <div style="margin-top:1rem;text-align:center;">
-<iframe src="https://docs.google.com/gview?url=https://github.com/outscal/2D-Platformer-Game/files/12829440/Non.Tech.QnA.1.pdf&embedded=true" style="width:400px; height:500px;" frameborder="0"></iframe>
+
+[▶ Watch video](https://docs.google.com/gview?url=https://github.com/outscal/2D-Platformer-Game/files/12829440/Non.Tech.QnA.1.pdf&embedded=true)
+
 </div>
 
 

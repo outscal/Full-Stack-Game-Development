@@ -3,7 +3,9 @@
 </div>
 
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/00cdde31fd8a4d43b3ca1345273af63e?sid=086ab3e0-15cb-443c-93ea-a59e975938d0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+[▶ Watch video](https://www.loom.com/share/00cdde31fd8a4d43b3ca1345273af63e)
+</div>
 <br>
 
 <br>

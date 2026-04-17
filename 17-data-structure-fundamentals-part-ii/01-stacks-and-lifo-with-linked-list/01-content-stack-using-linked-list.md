@@ -10,16 +10,22 @@
 
 - Stack
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/RqlXnlgQO3Y" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=RqlXnlgQO3Y)
+
 </figure> 
  
 - Balance Parenthesis Problem
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/CoPY3rLJcO0" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=CoPY3rLJcO0)
+
 </figure> 
 
 - Stack using Linked List
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/gbrN87rVKZA" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=gbrN87rVKZA)
+
 </figure>

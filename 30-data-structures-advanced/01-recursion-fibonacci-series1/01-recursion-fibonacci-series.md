@@ -10,15 +10,21 @@
 
 - Intro to Recursion
     
-<iframe src="https://www.youtube.com/embed/rYbZ5BXROEM" title="Class 34 - Algo - Recursion(Intro to Recursion)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Class 34 - Algo - Recursion(Intro to Recursion)](https://www.youtube.com/watch?v=rYbZ5BXROEM)
+
     
 - Iterative Fibonacci Series
     
-<iframe src="https://www.youtube.com/embed/VCSHvps13_c" title="Class 35 - Algo - Recursion(Iterative Fibonnaci Series)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Class 35 - Algo - Recursion(Iterative Fibonnaci Series)](https://www.youtube.com/watch?v=VCSHvps13_c)
+
     
 - Recursive Way Fibonacci Series
     
-<iframe src="https://www.youtube.com/embed/axb3pXoU7I0" title="Class 36 - Algo - Recursion(Recursive Way Fibonnaci Series)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Class 36 - Algo - Recursion(Recursive Way Fibonnaci Series)](https://www.youtube.com/watch?v=axb3pXoU7I0)
+
     
 
 **[Readings]**

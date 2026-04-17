@@ -5,7 +5,9 @@
 - Object deactivation, resetting bullet properties, and updating availability flags.
 <br>
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/db9d0c2e10814221a8405776ae7f8f8b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+[▶ Watch video](https://www.loom.com/share/db9d0c2e10814221a8405776ae7f8f8b)
+</div>
 <br>
 <br>
 <div style = "text-align:center">

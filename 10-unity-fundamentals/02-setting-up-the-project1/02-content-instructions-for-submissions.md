@@ -2,7 +2,9 @@
 # **Instructions for Submissions**
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.loom.com/embed/b32fc0b46d2d4f3fab949e3a19457f70" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.loom.com/share/b32fc0b46d2d4f3fab949e3a19457f70)
+
 </figure>
 
 <br>

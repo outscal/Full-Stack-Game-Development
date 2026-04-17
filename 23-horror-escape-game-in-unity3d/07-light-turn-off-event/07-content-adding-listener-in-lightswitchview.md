@@ -6,4 +6,6 @@
 <li>Adding listener in LightSwitchView to turn off the lights</li>
 </ul>
 
-<figure class="video_container"> <iframe width="650" height="400" src="https://www.loom.com/embed/31153b7080f1473280bed21f9107b9a0" frameborder="0" allowfullscreen="true"> </iframe> </figure>
+<figure class="video_container"> 
+[▶ Watch video](https://www.loom.com/share/31153b7080f1473280bed21f9107b9a0)
+ </figure>

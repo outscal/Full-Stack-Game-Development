@@ -11,19 +11,25 @@
 - Introduction About Class
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/ee3jc_LiXnA" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=ee3jc_LiXnA)
+
 </figure>
 
 
 - Adding collectible key
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/vTTef27Lrew" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=vTTef27Lrew)
+
 </figure>
 
 
 - Responsive UI for Score Text
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/0nRQgz_8lRY" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=0nRQgz_8lRY)
+
 </figure>

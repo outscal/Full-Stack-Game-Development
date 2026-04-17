@@ -10,7 +10,9 @@
 <br>
 
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/15921dcc25f64cc4b8eff6aea12267f2?sid=0478ecea-0515-4be0-ab67-029092103f64" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+[▶ Watch video](https://www.loom.com/share/15921dcc25f64cc4b8eff6aea12267f2)
+</div>
 <br>
 
 <br>

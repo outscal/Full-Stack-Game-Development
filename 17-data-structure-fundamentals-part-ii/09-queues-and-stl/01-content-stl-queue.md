@@ -10,12 +10,16 @@
 - Queue
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/4NDiuIhwDZc" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=4NDiuIhwDZc)
+
 </figure>
     
 
 - Priority Queue
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/Lk-rWPGPFbw" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=Lk-rWPGPFbw)
+
 </figure>

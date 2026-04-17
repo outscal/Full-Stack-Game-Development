@@ -12,7 +12,9 @@
 - Level Lock/Unlock System Setup Part-1- SIngleton
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/UOycYjc42I8" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=UOycYjc42I8)
+
 </figure>
 
 <br>
@@ -20,5 +22,7 @@
 - Level Lock/Unlock System Setup Part-2
 
 <figure class="video_container">
-  <iframe width="576" height="324" src="https://www.youtube.com/embed/dEGEh3RmYHw" frameborder="0" allowfullscreen="true"> </iframe>
+  
+[▶ Watch video](https://www.youtube.com/watch?v=dEGEh3RmYHw)
+
 </figure>

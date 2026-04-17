@@ -4,7 +4,9 @@
 <h1><strong>DS - HashMaps(Password Encryption & File system)</strong></h1>
 <div style="position: relative;overflow: hidden;width: 100%;padding-top: 56.25%">
 
-<iframe style="position: absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;height: 100%;" src="https://www.youtube.com/embed/1Ghweyp91bU" title="Class 46 - DS - HashMaps(Password Encryption & File system)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Class 46 - DS - HashMaps(Password Encryption & File system)](https://www.youtube.com/watch?v=1Ghweyp91bU)
+
 
 </div>
 </div>
