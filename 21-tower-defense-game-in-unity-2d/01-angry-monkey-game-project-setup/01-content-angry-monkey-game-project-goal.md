@@ -12,7 +12,7 @@ Ready? Let's get started!
 
 <br>
 
-[▶ Watch video](https://www.loom.com/share/4b0f373a7b414660968c3dc30b501e9b)
+https://www.loom.com/share/4b0f373a7b414660968c3dc30b501e9b
 
 <br>
 <br>

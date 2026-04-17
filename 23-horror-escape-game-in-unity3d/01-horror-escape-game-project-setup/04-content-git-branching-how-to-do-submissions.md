@@ -13,7 +13,7 @@ Let's dive in and become branching pros!
 
 <br>
 
-[▶ Watch video](https://www.loom.com/share/0c7c2b3f2eaf45f4aa2c4a0e69960118)
+https://www.loom.com/share/0c7c2b3f2eaf45f4aa2c4a0e69960118
 
 <br>
 <div style = "text-align:center">

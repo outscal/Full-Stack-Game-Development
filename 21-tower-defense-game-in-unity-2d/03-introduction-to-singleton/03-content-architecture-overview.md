@@ -12,7 +12,7 @@ You will uncover some valuable insights in this video:
 
 <br>
 
-[▶ Watch video](https://www.loom.com/share/0df7f41040f0460b96f87a85b75b3fa9)
+https://www.loom.com/share/0df7f41040f0460b96f87a85b75b3fa9
 <br>
 
 <br>

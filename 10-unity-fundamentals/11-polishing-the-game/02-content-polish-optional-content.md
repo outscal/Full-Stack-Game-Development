@@ -13,7 +13,7 @@
 
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=6OT43pvUyfY)
+https://www.youtube.com/watch?v=6OT43pvUyfY
 
 </figure>
 
@@ -21,6 +21,6 @@
 
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=fZeZ75gM9p4)
+https://www.youtube.com/watch?v=fZeZ75gM9p4
 
 </figure>

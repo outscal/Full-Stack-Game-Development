@@ -3,7 +3,7 @@
 
 <figure class="video_container">
   
-[▶ Watch video](https://www.loom.com/share/b32fc0b46d2d4f3fab949e3a19457f70)
+https://www.loom.com/share/b32fc0b46d2d4f3fab949e3a19457f70
 
 </figure>
 

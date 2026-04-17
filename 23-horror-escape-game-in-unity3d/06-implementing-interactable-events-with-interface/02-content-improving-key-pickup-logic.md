@@ -8,5 +8,5 @@
 </ul>
 
 <figure class="video_container"> 
-[▶ Watch video](https://www.loom.com/share/6902979d6ab64fb78f6ba1680f308698)
+https://www.loom.com/share/6902979d6ab64fb78f6ba1680f308698
  </figure>

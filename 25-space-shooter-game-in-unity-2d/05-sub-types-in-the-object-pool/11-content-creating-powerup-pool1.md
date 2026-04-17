@@ -4,7 +4,7 @@
 
 - Implementation of PowerUp Pool.
 
-[▶ Watch video](https://www.loom.com/share/d5d12f20a3b545b28d8e3196ad9aca3a)
+https://www.loom.com/share/d5d12f20a3b545b28d8e3196ad9aca3a
 
 <br>
 <div style="text-align: center">

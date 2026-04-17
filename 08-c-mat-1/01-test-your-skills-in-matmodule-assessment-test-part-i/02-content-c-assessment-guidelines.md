@@ -10,7 +10,7 @@
 
   <div style= "position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; width: 100%;">
     
-[▶ Watch video](https://www.loom.com/share/f34507e9728b4b049a119c0e4847f92a)
+https://www.loom.com/share/f34507e9728b4b049a119c0e4847f92a
 
   </div>
 

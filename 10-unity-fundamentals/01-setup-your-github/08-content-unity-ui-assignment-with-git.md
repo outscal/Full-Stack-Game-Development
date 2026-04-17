@@ -14,37 +14,37 @@
 - Unity Introduction.
 
 <figure class="video_container"> 
-[▶ Watch video](https://www.youtube.com/watch?v=7Pgo3Lf3MvU)
+https://www.youtube.com/watch?v=7Pgo3Lf3MvU
  </figure>
 
 - Game Objects & Transforms
 
 <figure class="video_container"> 
-[▶ Watch video](https://www.youtube.com/watch?v=9uTA0jEw4-E)
+https://www.youtube.com/watch?v=9uTA0jEw4-E
  </figure>
 
 - Components & Scripting
 
 <figure class="video_container"> 
-[▶ Watch video](https://www.youtube.com/watch?v=7cJNAVS7OUk)
+https://www.youtube.com/watch?v=7cJNAVS7OUk
  </figure>
 
 - Inbuilt Functions
 
 <figure class="video_container"> 
-[▶ Watch video](https://www.youtube.com/watch?v=39hC6X9y6fo)
+https://www.youtube.com/watch?v=39hC6X9y6fo
  </figure>
 
 - Detecting inputs
 
 <figure class="video_container"> 
-[▶ Watch video](https://www.youtube.com/watch?v=LrM_wimr4AA)
+https://www.youtube.com/watch?v=LrM_wimr4AA
  </figure>
 
 - Unity UI & Assignment
 
 <figure class="video_container"> 
-[▶ Watch video](https://www.youtube.com/watch?v=_TD2J7KPloQ)
+https://www.youtube.com/watch?v=_TD2J7KPloQ
  </figure>
 
 

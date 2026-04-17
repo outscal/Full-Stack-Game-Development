@@ -7,7 +7,7 @@
 <br>
 <br>
 
-[▶ Watch video](https://www.loom.com/share/942ed916aa734010a09ecd7658a88463)
+https://www.loom.com/share/942ed916aa734010a09ecd7658a88463
 <br>
 <br>
 <div style = "text-align:center">

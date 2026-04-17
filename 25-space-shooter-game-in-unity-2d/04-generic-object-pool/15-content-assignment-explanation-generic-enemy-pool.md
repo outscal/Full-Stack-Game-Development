@@ -4,4 +4,4 @@
 
 - We will discuss the objectives of the next assignment
 
-[▶ Watch video](https://www.loom.com/share/7399dfc9f21f4a78986ca6e0e227a345)
+https://www.loom.com/share/7399dfc9f21f4a78986ca6e0e227a345

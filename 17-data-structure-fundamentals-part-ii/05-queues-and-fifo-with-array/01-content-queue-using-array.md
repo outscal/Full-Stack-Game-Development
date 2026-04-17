@@ -11,13 +11,13 @@
 
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=kOrrusvmBt8)
+https://www.youtube.com/watch?v=kOrrusvmBt8
 
 </figure>
 
 - Queue Implementation using Array
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=lT9QbfMHLGo)
+https://www.youtube.com/watch?v=lT9QbfMHLGo
 
 </figure>

@@ -5,7 +5,7 @@
 - Adding a new type of generic pool architecture.
 - Understanding the new architecture to manage sub-types effectively.
 
-[▶ Watch video](https://www.loom.com/share/81502b6b4b7643c88e8df6d64bf331a3)
+https://www.loom.com/share/81502b6b4b7643c88e8df6d64bf331a3
 <br>
 
 <br>

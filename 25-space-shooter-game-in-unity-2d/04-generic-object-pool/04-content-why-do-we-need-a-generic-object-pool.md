@@ -5,7 +5,7 @@
 - DRY principle - Do not repeat yourself.
 - Why Generic Object Pool is important ?
 
-[▶ Watch video](https://www.loom.com/share/562a00413aad43bf8511c25d3c533999)
+https://www.loom.com/share/562a00413aad43bf8511c25d3c533999
 
 <br>
 <div style="text-align: center">

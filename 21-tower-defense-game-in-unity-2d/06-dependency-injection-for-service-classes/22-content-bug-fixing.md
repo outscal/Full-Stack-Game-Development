@@ -6,5 +6,5 @@ In this video we will be resolving some bugs in our code and we will also see wh
 
 <br>
 
-[▶ Watch video](https://www.loom.com/share/4f5958f3a84b47e3afd11ee21cd6cdf0)
+https://www.loom.com/share/4f5958f3a84b47e3afd11ee21cd6cdf0
 

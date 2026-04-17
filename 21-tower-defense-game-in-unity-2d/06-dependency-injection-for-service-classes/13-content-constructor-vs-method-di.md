@@ -8,4 +8,4 @@
 
 <br>
 
-[▶ Watch video](https://www.loom.com/share/8e2ff6fcdca343f0bc6fa4a13c2983a1)
+https://www.loom.com/share/8e2ff6fcdca343f0bc6fa4a13c2983a1

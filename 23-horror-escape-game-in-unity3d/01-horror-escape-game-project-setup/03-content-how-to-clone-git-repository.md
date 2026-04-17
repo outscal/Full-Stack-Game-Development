@@ -9,7 +9,7 @@ Ready? Let's go!
 
 <br>
 
-[▶ Watch video](https://www.loom.com/share/8a2334287e464918a87b1fcf577c5126)
+https://www.loom.com/share/8a2334287e464918a87b1fcf577c5126
 
 <br>
 <div style = "text-align:center">

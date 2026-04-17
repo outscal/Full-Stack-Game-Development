@@ -6,7 +6,7 @@
 - GetItem() method implementation for Generic Object Pool.
 
 
-[▶ Watch video](https://www.loom.com/share/3ff4c6ffaccd4bc38a0dbd92a3476c9f)
+https://www.loom.com/share/3ff4c6ffaccd4bc38a0dbd92a3476c9f
 
 <br>
 <div style="text-align: center">

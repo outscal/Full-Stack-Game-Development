@@ -1,7 +1,7 @@
 <div style="margin: auto 5%">
 <div style="text-align: center">
 <h1><strong>All about your first call with the company (Non-Tech Call)</strong></h1>
-[▶ Watch video](https://www.loom.com/share/59bd84794a1348cb97cf1cc99e1b9b9c)
+https://www.loom.com/share/59bd84794a1348cb97cf1cc99e1b9b9c
 </div>
 <br>
 <br>
@@ -42,7 +42,7 @@
 </div>
 <div style="margin-top:1rem;text-align:center;">
 
-[▶ Watch video](https://docs.google.com/gview?url=https://github.com/outscal/2D-Platformer-Game/files/12829440/Non.Tech.QnA.1.pdf&embedded=true)
+https://docs.google.com/gview?url=https://github.com/outscal/2D-Platformer-Game/files/12829440/Non.Tech.QnA.1.pdf&embedded=true
 
 </div>
 

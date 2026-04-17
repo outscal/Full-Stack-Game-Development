@@ -5,7 +5,7 @@
 - C# Generics
 - Generic Object Pool
 
-[▶ Watch video](https://www.loom.com/share/73ad777709a94f6ebc83fc75e3ffb5d5)
+https://www.loom.com/share/73ad777709a94f6ebc83fc75e3ffb5d5
 
 <br>
 <div style="text-align: center">

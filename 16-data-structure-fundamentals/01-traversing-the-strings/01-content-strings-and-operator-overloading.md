@@ -14,7 +14,7 @@ Write in points explaining some important things that you learned from the assig
 
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=lNqYKK-61AI)
+https://www.youtube.com/watch?v=lNqYKK-61AI
 
 </figure>
 
@@ -24,6 +24,6 @@ Write in points explaining some important things that you learned from the assig
 
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=-6dRd-SsAMg)
+https://www.youtube.com/watch?v=-6dRd-SsAMg
 
 </figure>

@@ -4,4 +4,4 @@
 
 <br>
 
-[▶ Watch video](https://www.youtube.com/watch?v=BcrlwOg3Jjs)
+https://www.youtube.com/watch?v=BcrlwOg3Jjs

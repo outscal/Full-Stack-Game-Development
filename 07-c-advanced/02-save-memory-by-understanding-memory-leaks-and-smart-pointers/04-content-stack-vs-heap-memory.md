@@ -5,7 +5,7 @@
 <div style="display: flex; justify-content: center; max-width: 1000px; margin: 0 auto; width: 100%; align-items: flex-start; flex-direction: column;">
   <div style= "position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; width: 100%;">
     
-[▶ Watch video](https://www.youtube.com/watch?v=6cpN5sNUbEY)
+https://www.youtube.com/watch?v=6cpN5sNUbEY
 
   </div>
 

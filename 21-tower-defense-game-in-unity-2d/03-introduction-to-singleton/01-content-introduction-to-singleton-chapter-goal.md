@@ -8,7 +8,7 @@ Let's get started.
 <br>
 <br>
 
-[▶ Watch video](https://www.loom.com/share/2352ae6d962c4c758ce4db65460cc7d9)
+https://www.loom.com/share/2352ae6d962c4c758ce4db65460cc7d9
 <br>
 
 <br>

@@ -9,7 +9,7 @@
 
 <br>
 
-[▶ Watch video](https://www.loom.com/share/a892a38bc85f450caf91211769ed44ca)
+https://www.loom.com/share/a892a38bc85f450caf91211769ed44ca
 <br>
 
 <br>

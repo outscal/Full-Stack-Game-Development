@@ -11,14 +11,14 @@
 - Stack
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=RqlXnlgQO3Y)
+https://www.youtube.com/watch?v=RqlXnlgQO3Y
 
 </figure> 
  
 - Balance Parenthesis Problem
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=CoPY3rLJcO0)
+https://www.youtube.com/watch?v=CoPY3rLJcO0
 
 </figure> 
 
@@ -26,6 +26,6 @@
 
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=gbrN87rVKZA)
+https://www.youtube.com/watch?v=gbrN87rVKZA
 
 </figure>

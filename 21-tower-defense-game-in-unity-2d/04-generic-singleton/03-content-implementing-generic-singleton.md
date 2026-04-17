@@ -7,5 +7,5 @@
 <br>
 <br>
 
-[▶ Watch video](https://www.loom.com/share/77fa4e5ed89d4f3a9611c96a756eb810)
+https://www.loom.com/share/77fa4e5ed89d4f3a9611c96a756eb810
 <br>

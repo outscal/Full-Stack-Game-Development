@@ -11,5 +11,5 @@ In this video we will
 
 <br>
 
-[▶ Watch video](https://www.loom.com/share/1733f0b0574e4bb7924e535530803850)
+https://www.loom.com/share/1733f0b0574e4bb7924e535530803850
 <br>

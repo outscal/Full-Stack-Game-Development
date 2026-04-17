@@ -9,12 +9,12 @@
 - Circular Queue
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=DVMZaaZOvk0)
+https://www.youtube.com/watch?v=DVMZaaZOvk0
 
 </figure>
 
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=eBazifAf_kE)
+https://www.youtube.com/watch?v=eBazifAf_kE
 
 </figure>

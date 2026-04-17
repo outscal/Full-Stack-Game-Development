@@ -11,7 +11,7 @@
 
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=Z0Z7xc18CcA)
+https://www.youtube.com/watch?v=Z0Z7xc18CcA
 
 </figure>
 
@@ -19,6 +19,6 @@
 
 <figure class="webpage_container">
   
-[▶ Watch video](https://docs.unity3d.com/Manual/ExecutionOrder.html)
+https://docs.unity3d.com/Manual/ExecutionOrder.html
 
 </figure>

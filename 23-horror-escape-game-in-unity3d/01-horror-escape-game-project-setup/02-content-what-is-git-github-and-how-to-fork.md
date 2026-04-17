@@ -11,7 +11,7 @@ Let's begin!
 
 <br>
 
-[▶ Watch video](https://www.loom.com/share/38bcb58e40bb411ab23e8dddafdaadae)
+https://www.loom.com/share/38bcb58e40bb411ab23e8dddafdaadae
 
 <br>
 <div style = "text-align:center">

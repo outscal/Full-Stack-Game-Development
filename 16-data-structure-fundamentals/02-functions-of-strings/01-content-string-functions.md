@@ -12,7 +12,7 @@
     <!-- blank line -->
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=H0gljdewTkE)
+https://www.youtube.com/watch?v=H0gljdewTkE
 
 </figure>
 <!-- blank line -->
@@ -24,6 +24,6 @@
  
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=ge83KQVNXrc)
+https://www.youtube.com/watch?v=ge83KQVNXrc
 
 </figure>

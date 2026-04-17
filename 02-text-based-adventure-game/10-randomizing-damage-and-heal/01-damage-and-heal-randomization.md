@@ -4,4 +4,4 @@
 
 <br>
 
-[▶ Watch video](https://www.loom.com/share/82710ccb40424c7a9ca3fc8bdb5717a4)
+https://www.loom.com/share/82710ccb40424c7a9ca3fc8bdb5717a4

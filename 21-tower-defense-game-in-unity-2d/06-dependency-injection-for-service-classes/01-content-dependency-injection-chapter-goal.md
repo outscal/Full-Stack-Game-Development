@@ -9,7 +9,7 @@ Let's get started.
 
 <br>
 
-[▶ Watch video](https://www.loom.com/share/50499ae0597f4f149ac89b612b16782f)
+https://www.loom.com/share/50499ae0597f4f149ac89b612b16782f
 <br>
 <br>
 <div style = "text-align:center">

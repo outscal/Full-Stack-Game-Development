@@ -8,7 +8,7 @@
 
 <br>
 
-[▶ Watch video](https://www.loom.com/share/c8b635f72a354703afa61a9e95c1e564)
+https://www.loom.com/share/c8b635f72a354703afa61a9e95c1e564
 <br>
 
 <br>

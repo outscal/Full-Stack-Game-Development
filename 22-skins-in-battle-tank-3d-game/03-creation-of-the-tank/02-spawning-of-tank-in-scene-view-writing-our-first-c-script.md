@@ -5,4 +5,4 @@
 
 <br>
 
-[▶ Watch video](https://www.loom.com/share/47cbf2cda7374aeb807a853332004fbe)
+https://www.loom.com/share/47cbf2cda7374aeb807a853332004fbe

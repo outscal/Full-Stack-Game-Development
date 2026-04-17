@@ -15,7 +15,7 @@
 
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=F3HoyAQYEA8)
+https://www.youtube.com/watch?v=F3HoyAQYEA8
 
 </figure>
 
@@ -23,7 +23,7 @@
 
 <figure class="video_container">
   
-[▶ Watch video](https://www.loom.com/share/fc7a01cb6e134d248d769c320a9c1a39)
+https://www.loom.com/share/fc7a01cb6e134d248d769c320a9c1a39
 
 </figure>
 
@@ -32,7 +32,7 @@
 
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=LHkWivKnqfQ)
+https://www.youtube.com/watch?v=LHkWivKnqfQ
 
 </figure>
 
@@ -41,7 +41,7 @@
 
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=TMko-L9cJhg)
+https://www.youtube.com/watch?v=TMko-L9cJhg
 
 </figure>
 
@@ -50,7 +50,7 @@
 
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=S8FE3GPlyY4)
+https://www.youtube.com/watch?v=S8FE3GPlyY4
 
 </figure>
 
@@ -60,6 +60,6 @@
 
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=ZS-zD3CnAMM)
+https://www.youtube.com/watch?v=ZS-zD3CnAMM
 
 </figure>

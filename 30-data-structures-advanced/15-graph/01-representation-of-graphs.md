@@ -14,7 +14,7 @@
     
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=V1HjPMt7uS4)
+https://www.youtube.com/watch?v=V1HjPMt7uS4
 
 </figure>
     
@@ -23,7 +23,7 @@
     
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=PSmtzyajeiE)
+https://www.youtube.com/watch?v=PSmtzyajeiE
 
 </figure>
     
@@ -32,7 +32,7 @@
     
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=BWd6t5rLqM0)
+https://www.youtube.com/watch?v=BWd6t5rLqM0
 
 </figure>
     
@@ -41,7 +41,7 @@
     
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=UNG_ENMk3Dc)
+https://www.youtube.com/watch?v=UNG_ENMk3Dc
 
 </figure>
     
@@ -50,7 +50,7 @@
     
 <figure class="video_container">
   
-[▶ Watch video](https://www.youtube.com/watch?v=gw4zXClG5bI)
+https://www.youtube.com/watch?v=gw4zXClG5bI
 
 </figure>
     

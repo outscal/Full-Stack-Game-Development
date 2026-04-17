@@ -11,7 +11,7 @@
 
 <br>
 
-[▶ Watch video](https://www.loom.com/share/15921dcc25f64cc4b8eff6aea12267f2)
+https://www.loom.com/share/15921dcc25f64cc4b8eff6aea12267f2
 <br>
 
 <br>

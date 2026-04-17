@@ -5,4 +5,4 @@
 - A brief overview of the next assignment.
 - Guidance on how to approach the assignment.
 
-[▶ Watch video](https://www.loom.com/share/9b02cd8ff3dc4c91b4856454736a6182)
+https://www.loom.com/share/9b02cd8ff3dc4c91b4856454736a6182
