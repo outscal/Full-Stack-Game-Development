@@ -1,1 +1,138 @@
-"{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"It’s time to create a new feature branch for the upcoming game features.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"left\",\"indent\":0,\"type\":\"quote\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Make a new feature branch out of your main branch called → [ \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":17,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Feature-3-Food-Spawning\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" ]\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"left\",\"indent\":0,\"type\":\"quote\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"left\",\"indent\":0,\"type\":\"quote\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Let’s start working on the new feature now!\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"left\",\"indent\":0,\"type\":\"quote\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"type\":\"horizontalrule\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"NO MORE HUNGRY SNAKE!! 🍕😋🐍\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"You've been doing a fantastic job so far by adding obstacles for the snake. \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Now, it's time to add some delicious items to your game. \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"You will introduce different types of food items that will have different effects on the snake! 🫡\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Remember the OG snake game where the only food was a tiny dot that made the snake grow? \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"altText\":\" \",\"caption\":{\"editorState\":{\"root\":{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}},\"height\":\"fit-content\",\"maxWidth\":2000,\"showCaption\":false,\"src\":\"https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_04_2024__12_08_37.gif\",\"type\":\"image\",\"version\":1,\"width\":\"300px\"}],\"direction\":null,\"format\":\"center\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In the original snake game, variety wasn't on the menu. \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"But why settle for just one type of food when we can have many delightful options? \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Let's make it more exciting by offering your snake some tasty snacks (and a few not-so-tasty snacks).🍕🧀🍔🍎🍊\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"altText\":\"Image\",\"caption\":{\"editorState\":{\"root\":{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}},\"height\":284.7025,\"maxWidth\":2000,\"showCaption\":false,\"src\":\"https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_20_2024__08_44_24.png\",\"type\":\"image\",\"version\":1,\"width\":564},{\"detail\":0,\"format\":3,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Food Items for Snake\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"center\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Each food item has a special effect that will change how you play the game.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"You'll understand the effects of food as we go along, but for now, let's get your code ready to handle this variety.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"How do you handle different types of things in programming? That's right—\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Enums\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"! 🎉\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"But, But, But...\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Do you have an idea of how the Food architecture would look like. Let's discuss.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Understanding Food Architecture\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"type\":\"horizontalrule\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"altText\":\"Image\",\"caption\":{\"editorState\":{\"root\":{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}},\"height\":342.38,\"maxWidth\":2000,\"showCaption\":false,\"src\":\"https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_24_2024__10_59_18.png\",\"type\":\"image\",\"version\":1,\"width\":408},{\"detail\":0,\"format\":3,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Food Architecture\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"center\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":16,\"mode\":\"normal\",\"style\":\"\",\"text\":\"FoodService\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" manages different food items in the game, represented by \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":16,\"mode\":\"normal\",\"style\":\"\",\"text\":\"FoodItem\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" elements. \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"These foods are characterized using enums like \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":16,\"mode\":\"normal\",\"style\":\"\",\"text\":\"FoodType\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" and \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":16,\"mode\":\"normal\",\"style\":\"\",\"text\":\"FoodSpawningStatus\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\". \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Understanding the need of \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":16,\"mode\":\"normal\",\"style\":\"\",\"text\":\"FoodSpawningStatus\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" is for later. \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"First, have a look  \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":16,\"mode\":\"normal\",\"style\":\"\",\"text\":\"enum class FoodType\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" would look like this:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"enum\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"keyword\"},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"class\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"keyword\"},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"FoodType\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"class-name\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    \",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"{\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"        APPLE\",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\",\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"        MANGO\",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\",\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"        ORANGE\",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\",\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"        PIZZA\",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\",\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"        BURGER\",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\",\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"        CHEESE\",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\",\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"        POISION\",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\",\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"        ALCOHOL\",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\",\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    \",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"}\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\";\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"code\",\"version\":1,\"language\":\"cpp\"},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Now, do the things that are important right now.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"TODO: \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":17,\"mode\":\"normal\",\"style\":\"\",\"text\":\"FoodType.h\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"quote\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"✅ Create a new file \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":16,\"mode\":\"normal\",\"style\":\"\",\"text\":\"FoodType.h\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" inside the \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":16,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Food\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" folder. Use \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":16,\"mode\":\"normal\",\"style\":\"\",\"text\":\"namespace Food\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\".\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"quote\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"✅ Create \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":16,\"mode\":\"normal\",\"style\":\"\",\"text\":\"enum class FoodType\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"quote\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Click here to see \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":16,\"mode\":\"normal\",\"style\":\"\",\"text\":\"FoodType.h\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"collapsible-title\",\"version\":1},{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"#\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"directive-hash\"},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"pragma\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"directive\"},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"macro\"},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"once\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"expression\"},{\"type\":\"linebreak\",\"version\":1},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"namespace\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"keyword\"},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" Food\",\"type\":\"code-highlight\",\"version\":1},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"{\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    \",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"enum\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"keyword\"},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"class\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"keyword\"},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"FoodType\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"class-name\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    \",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"{\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"        APPLE\",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\",\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"        MANGO\",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\",\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"        ORANGE\",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\",\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"        PIZZA\",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\",\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"        BURGER\",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\",\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"        CHEESE\",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\",\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"        POISION\",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\",\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"        ALCOHOL\",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\",\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"    \",\"type\":\"code-highlight\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"}\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\";\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"},{\"type\":\"linebreak\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"}\",\"type\":\"code-highlight\",\"version\":1,\"highlightType\":\"punctuation\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"code\",\"version\":1,\"language\":\"cpp\"}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"collapsible-content\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"collapsible-container\",\"version\":1,\"open\":false},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The above diagram shows a \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":16,\"mode\":\"normal\",\"style\":\"\",\"text\":\"FoodService\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" for food items. Time to work on it.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"See you in the next section.👋🏼\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}"
+> It’s time to create a new feature branch for the upcoming game features.
+
+> Make a new feature branch out of your main branch called → [ `**Feature-3-Food-Spawning**` ]
+
+> 
+
+> Let’s start working on the new feature now!
+
+
+
+
+---
+
+
+
+**NO MORE HUNGRY SNAKE!! 🍕😋🐍**
+
+
+
+You've been doing a fantastic job so far by adding obstacles for the snake. 
+
+Now, it's time to add some delicious items to your game. 
+
+You will introduce different types of food items that will have different effects on the snake! 🫡
+
+
+
+Remember the OG snake game where the only food was a tiny dot that made the snake grow? 
+
+
+
+![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_04_2024__12_08_37.gif)
+
+
+
+In the original snake game, variety wasn't on the menu. 
+
+But why settle for just one type of food when we can have many delightful options? 
+
+Let's make it more exciting by offering your snake some tasty snacks (and a few not-so-tasty snacks).🍕🧀🍔🍎🍊
+
+
+
+![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_20_2024__08_44_24.png)
+
+***Food Items for Snake***
+
+
+
+Each food item has a special effect that will change how you play the game.
+
+You'll understand the effects of food as we go along, but for now, let's get your code ready to handle this variety.
+
+
+
+How do you handle different types of things in programming? That's right—**Enums**! 🎉
+
+But, But, But...
+
+Do you have an idea of how the Food architecture would look like. Let's discuss.
+
+
+
+## Understanding Food Architecture
+
+
+---
+
+![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_24_2024__10_59_18.png)
+
+***Food Architecture***
+
+
+
+The `FoodService` manages different food items in the game, represented by `FoodItem` elements. 
+
+These foods are characterized using enums like `FoodType` and `FoodSpawningStatus`. 
+
+Understanding the need of `FoodSpawningStatus` is for later. 
+
+
+
+First, have a look  `enum class FoodType` would look like this:
+
+```cpp
+enum class FoodType
+    {
+        APPLE,
+        MANGO,
+        ORANGE,
+        PIZZA,
+        BURGER,
+        CHEESE,
+        POISION,
+        ALCOHOL,
+    };
+```
+
+
+
+Now, do the things that are important right now.
+
+
+
+> **TODO: **`**FoodType.h**`
+
+> ✅ Create a new file `FoodType.h` inside the `Food` folder. Use `namespace Food`.
+
+> ✅ Create `enum class FoodType`
+
+
+
+Click here to see `FoodType.h````cpp
+#pragma once
+
+namespace Food
+{
+    enum class FoodType
+    {
+        APPLE,
+        MANGO,
+        ORANGE,
+        PIZZA,
+        BURGER,
+        CHEESE,
+        POISION,
+        ALCOHOL,
+    };
+}
+```
+
+
+
+The above diagram shows a `FoodService` for food items. Time to work on it.
+
+
+
+**See you in the next section.👋🏼**

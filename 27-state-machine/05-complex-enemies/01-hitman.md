@@ -1,1 +1,34 @@
-"{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Before you begin this Chapter, please checkout the following branch: \",\"type\":\"text\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":3,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Complex-Enemies-Setup\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"link\",\"version\":1,\"rel\":\"noreferrer\",\"target\":null,\"title\":null,\"url\":\"https://github.com/outscal/AGD_StateMachine/tree/Complex-Enemies-Setup\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"quote\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Your code has evolved a lot since you started. Now let's move on and use all this good architecture that you have created to add some more complex enemies in your game.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"text\",\"version\":1},{\"caption\":{\"editorState\":{\"root\":{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}},\"height\":\"fit-content\",\"maxWidth\":\"100%\",\"showCaption\":false,\"src\":\"https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_20_2023__13_55_01.jpg\",\"type\":\"image\",\"version\":1,\"width\":\"300px\"}],\"direction\":null,\"format\":\"center\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The next enemy that we are going to create is called Hitman. This guy must have the following states:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Idle\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Patrolling\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":2},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Chasing\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":3},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Shooting\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":4},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Teleporting\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":5}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"list\",\"version\":1,\"listType\":\"bullet\",\"start\":1,\"tag\":\"ul\"},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The patrolling behavior and chasing behavior will be same as it is for Patrol Man. But whenever Hitman shoots at player he will teleport at some random place and continue chasing and attacking player from there. Hitman adds an element of surprise by teleporting after shooting. This creates an engaging challenge for players.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"caption\":{\"editorState\":{\"root\":{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}},\"height\":\"450px\",\"maxWidth\":\"100%\",\"showCaption\":false,\"src\":\"https://www.loom.com/embed/d3891cbd0e2242f3a7182529cd38b9c3?sid=d0ad42fc-55e6-44e3-9881-bdb31860d716\",\"type\":\"video\",\"version\":1,\"width\":\"800px\"}],\"direction\":\"ltr\",\"format\":\"center\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"children\":[{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Pick up a pen & paper\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"collapsible-title\",\"version\":1},{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Create a state diagram for the Hitman's State Machine.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"collapsible-content\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"collapsible-container\",\"version\":1,\"open\":false},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Let's put our game development skills to work and bring this formidable enemy to life!\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}"
+> Before you begin this Chapter, please checkout the following branch: [***Complex-Enemies-Setup***](https://github.com/outscal/AGD_StateMachine/tree/Complex-Enemies-Setup)
+
+
+
+Your code has evolved a lot since you started. Now let's move on and use all this good architecture that you have created to add some more complex enemies in your game.
+
+ ![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_20_2023__13_55_01.jpg)
+
+
+
+The next enemy that we are going to create is called Hitman. This guy must have the following states:
+
+- Idle
+- Patrolling
+- Chasing
+- Shooting
+- Teleporting
+
+
+
+The patrolling behavior and chasing behavior will be same as it is for Patrol Man. But whenever Hitman shoots at player he will teleport at some random place and continue chasing and attacking player from there. Hitman adds an element of surprise by teleporting after shooting. This creates an engaging challenge for players.
+
+
+[Watch video](https://www.loom.com/embed/d3891cbd0e2242f3a7182529cd38b9c3?sid=d0ad42fc-55e6-44e3-9881-bdb31860d716)
+
+
+
+
+
+**Pick up a pen & paper**Create a state diagram for the Hitman's State Machine.
+
+
+
+Let's put our game development skills to work and bring this formidable enemy to life!

@@ -1,1 +1,7 @@
-"{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Strengthening LinkedIn profile\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"center\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"type\":\"horizontalrule\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"caption\":{\"editorState\":{\"root\":{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}},\"height\":\"560px\",\"maxWidth\":\"100%\",\"showCaption\":false,\"src\":\"https://www.loom.com/embed/7c16f10142dc4e3ebd6ba536584698e6?sid=0c888b49-e174-44d5-878e-47d7d05ba2de\",\"type\":\"video\",\"version\":1,\"width\":\"1000px\"}],\"direction\":null,\"format\":\"center\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}"
+# **Strengthening LinkedIn profile**
+
+
+---
+
+
+[Watch video](https://www.loom.com/embed/7c16f10142dc4e3ebd6ba536584698e6?sid=0c888b49-e174-44d5-878e-47d7d05ba2de)

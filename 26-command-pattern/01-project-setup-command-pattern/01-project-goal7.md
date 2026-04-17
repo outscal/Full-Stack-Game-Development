@@ -1,1 +1,47 @@
-"{\"root\":{\"children\":[{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Prerequisites (Click Here)\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"collapsible-title\",\"version\":1},{\"children\":[{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Must have previous hands-on experience with Object Oriented Programming Principles.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Previous experience of Programming in C#\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":2},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Prior Experience with Unity Game Engine is required\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":3},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Must have hands-on experience of Service Locator, MVC Pattern and Observer Pattern\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":4}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"list\",\"version\":1,\"listType\":\"bullet\",\"start\":1,\"tag\":\"ul\"}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"collapsible-content\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"collapsible-container\",\"version\":1,\"open\":false},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In this module you are going to learn the \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Command Pattern\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" and make a \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"turn-based battle game\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" like retro final fantasy.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"caption\":{\"editorState\":{\"root\":{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}},\"height\":\"450px\",\"maxWidth\":\"100%\",\"showCaption\":false,\"src\":\"https://www.loom.com/embed/096f7bc0fda5431183e5a4b22483d03f?sid=40f7f6b9-8889-49e9-9e5f-c9eeed4a8bc9\",\"type\":\"video\",\"version\":1,\"width\":\"800px\"}],\"direction\":\"ltr\",\"format\":\"center\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"center\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"I am assuming you have played FIFA before or at least heard of the game.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Have you ever wondered though, whenever a goal is scored in FIFA you can watch the replay of the scored goal from various angles. How do you think that replay feature might have been implemented?\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Even in mobile games like Clash Royale, you can watch replays of battles you played a week ago and can even fast forward it while watching them. There are even games where you can Undo\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\" \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"or rewind an action that you performed and go back in time, like in Prince of Persia.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"There are many other such examples in games where these tricky game mechanics can be seen. How are these features implemented? Have you ever thought as a game developer?\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"caption\":{\"editorState\":{\"root\":{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}},\"height\":\"450px\",\"maxWidth\":\"100%\",\"showCaption\":false,\"src\":\"https://www.youtube.com/embed/GFHbNX8ASqA?si=yHI90xm0xiZ_ZV4X\",\"type\":\"video\",\"version\":1,\"width\":\"800px\"}],\"direction\":\"ltr\",\"format\":\"center\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"center\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Implementing these kind of tricky game mechanics is a common use case for command pattern.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In this module you will learn how you can use command pattern to implement Undo and Replay mechanics in your game.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"caption\":{\"editorState\":{\"root\":{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}},\"height\":\"450px\",\"maxWidth\":\"100%\",\"showCaption\":false,\"src\":\"https://www.loom.com/embed/767fa9f07d34431fad8acf3cd7924499?sid=bc4dd24c-c7e7-455b-9de1-10077bb98347\",\"type\":\"video\",\"version\":1,\"width\":\"800px\"}],\"direction\":\"ltr\",\"format\":\"center\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}"
+Prerequisites (Click Here)- Must have previous hands-on experience with Object Oriented Programming Principles.
+- Previous experience of Programming in C#
+- Prior Experience with Unity Game Engine is required
+- Must have hands-on experience of Service Locator, MVC Pattern and Observer Pattern
+
+
+
+In this module you are going to learn the **Command Pattern** and make a **turn-based battle game** like retro final fantasy.
+
+
+
+
+[Watch video](https://www.loom.com/embed/096f7bc0fda5431183e5a4b22483d03f?sid=40f7f6b9-8889-49e9-9e5f-c9eeed4a8bc9)
+
+
+
+
+
+I am assuming you have played FIFA before or at least heard of the game.
+
+Have you ever wondered though, whenever a goal is scored in FIFA you can watch the replay of the scored goal from various angles. How do you think that replay feature might have been implemented?
+
+
+
+Even in mobile games like Clash Royale, you can watch replays of battles you played a week ago and can even fast forward it while watching them. There are even games where you can Undo** **or rewind an action that you performed and go back in time, like in Prince of Persia.
+
+
+
+There are many other such examples in games where these tricky game mechanics can be seen. How are these features implemented? Have you ever thought as a game developer?
+
+
+
+
+[Watch video](https://www.youtube.com/embed/GFHbNX8ASqA?si=yHI90xm0xiZ_ZV4X)
+
+
+
+
+
+Implementing these kind of tricky game mechanics is a common use case for command pattern.
+
+In this module you will learn how you can use command pattern to implement Undo and Replay mechanics in your game.
+
+
+
+
+[Watch video](https://www.loom.com/embed/767fa9f07d34431fad8acf3cd7924499?sid=bc4dd24c-c7e7-455b-9de1-10077bb98347)

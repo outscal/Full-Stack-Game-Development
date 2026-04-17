@@ -1,1 +1,21 @@
-"{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"If you ever want to check out the game builds that you have uploaded previously, you can go to the \\\"\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"My Games\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"\\\" section. \",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"It can be accessed from your profile menu on the top right corner:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"altText\":\"sfml\",\"caption\":{\"editorState\":{\"root\":{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}},\"height\":\"fit-content\",\"maxWidth\":\"100%\",\"showCaption\":false,\"src\":\"https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/64cd02d0393723c5a46dde58/03_14_2024__11_44_08.png\",\"type\":\"image\",\"version\":1,\"width\":\"200px\"}],\"direction\":\"ltr\",\"format\":\"center\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"All your games that you have submitted will be listed in this page. You can access any game and play here and share it with others!\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"altText\":\"\",\"caption\":{\"editorState\":{\"root\":{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}},\"height\":\"fit-content\",\"maxWidth\":\"100%\",\"showCaption\":false,\"src\":\"https://cdn.discordapp.com/attachments/1136946465055453225/1217812481259601950/image.png?ex=66056341&is=65f2ee41&hm=806cb114ae392029bf91f6e49910e3a6c758b3dd9a4a4ca6c03a66c69eef31db&=\",\"type\":\"image\",\"version\":1,\"width\":\"fit-content\"}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"If you share this page's link with anyone else, they will also be able to see and play the games made by you.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"You Games Page can act like a perfect portfolio to showcase your work.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Go ahead and add it in your Resume and other profiles.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}"
+If you ever want to check out the game builds that you have uploaded previously, you can go to the "**My Games**" section. 
+
+It can be accessed from your profile menu on the top right corner:
+
+![sfml](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/64cd02d0393723c5a46dde58/03_14_2024__11_44_08.png)
+
+
+
+All your games that you have submitted will be listed in this page. You can access any game and play here and share it with others!
+
+
+
+![](https://cdn.discordapp.com/attachments/1136946465055453225/1217812481259601950/image.png?ex=66056341&is=65f2ee41&hm=806cb114ae392029bf91f6e49910e3a6c758b3dd9a4a4ca6c03a66c69eef31db&=)
+
+
+
+If you share this page's link with anyone else, they will also be able to see and play the games made by you.
+
+You Games Page can act like a perfect portfolio to showcase your work.
+
+Go ahead and add it in your Resume and other profiles.

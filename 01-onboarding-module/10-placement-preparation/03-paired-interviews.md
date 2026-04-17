@@ -1,1 +1,13 @@
-"{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Have you ever thought how it feels like to sit on the other side of the table during an interview?\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In paired rounds, You will be paired with one of your fellow aspiring game developers currently going through the course and you will be interviewing each other by asking and answering questions to each other.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"You will be judging each other and giving a status of ‘Passed’ or ‘Failed’. You will be providing feedback to other person as well on how they can/should improve.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Trying to look at things from the interviewer's perspective will give you a fresh new perspective and that perspective will help you in an actual interview.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}"
+Have you ever thought how it feels like to sit on the other side of the table during an interview?
+
+
+
+In paired rounds, You will be paired with one of your fellow aspiring game developers currently going through the course and you will be interviewing each other by asking and answering questions to each other.
+
+
+
+You will be judging each other and giving a status of ‘Passed’ or ‘Failed’. You will be providing feedback to other person as well on how they can/should improve.
+
+
+
+Trying to look at things from the interviewer's perspective will give you a fresh new perspective and that perspective will help you in an actual interview.

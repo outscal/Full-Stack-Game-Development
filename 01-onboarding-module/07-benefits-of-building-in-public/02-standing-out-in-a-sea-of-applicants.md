@@ -1,1 +1,35 @@
-"{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"“But I can still decide not to go through all of this LinkedIn posting hassle and just apply to jobs when I need one, right? So why should I work on building in public on LinkedIn in the first place?”.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"quote\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The answer to this is very clear and simple: \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"You are not the only one who is pressing that apply button.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Thousands of people are applying for the same jobs you want. Even if you have the skills, your resume could easily get lost in the pile. Recruiters only spend seconds reviewing each one.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This problem is even worse for top jobs at best game companies or any top companies for that matter - be it Rockstar or Google\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"If you think it is possible for your profile to get the same kind of recognition by clicking the applying the button and sitting back on your seat, you are dead wrong.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Posting on LinkedIn, however, helps you build a personal brand and professional network. Over time, recruiters will come to you. \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"You'll have the luxury of choosing between companies, instead of hoping a company chooses you.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The majority of our students have found jobs this way, with recruiters reaching out after being impressed by their LinkedIn posts. They were able to negotiate better offers, too.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Here are just a few examples of recruiters flooding the DMs of our students:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"altText\":\"Untitled\",\"caption\":{\"editorState\":{\"root\":{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}},\"height\":\"fit-content\",\"maxWidth\":\"100%\",\"showCaption\":false,\"src\":\"https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/beb38d67-6091-440c-b3b8-5fdeb8829707/Untitled.png\",\"type\":\"image\",\"version\":1,\"width\":\"fit-content\"},{\"caption\":{\"editorState\":{\"root\":{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}},\"height\":\"fit-content\",\"maxWidth\":\"100%\",\"showCaption\":false,\"src\":\"https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/64cd02d0393723c5a46dde58/01_24_2024__09_10_38.png\",\"type\":\"image\",\"version\":1,\"width\":\"800px\"}],\"direction\":null,\"format\":\"center\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}"
+> **“But I can still decide not to go through all of this LinkedIn posting hassle and just apply to jobs when I need one, right? So why should I work on building in public on LinkedIn in the first place?”.**
+
+
+
+The answer to this is very clear and simple: **You are not the only one who is pressing that apply button.**
+
+
+
+Thousands of people are applying for the same jobs you want. Even if you have the skills, your resume could easily get lost in the pile. Recruiters only spend seconds reviewing each one.
+
+
+
+This problem is even worse for top jobs at best game companies or any top companies for that matter - be it Rockstar or Google
+
+
+
+If you think it is possible for your profile to get the same kind of recognition by clicking the applying the button and sitting back on your seat, you are dead wrong.
+
+
+
+Posting on LinkedIn, however, helps you build a personal brand and professional network. Over time, recruiters will come to you. **You'll have the luxury of choosing between companies, instead of hoping a company chooses you.**
+
+
+
+The majority of our students have found jobs this way, with recruiters reaching out after being impressed by their LinkedIn posts. They were able to negotiate better offers, too.
+
+
+
+Here are just a few examples of recruiters flooding the DMs of our students:
+
+
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/beb38d67-6091-440c-b3b8-5fdeb8829707/Untitled.png)
+
+![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/64cd02d0393723c5a46dde58/01_24_2024__09_10_38.png)

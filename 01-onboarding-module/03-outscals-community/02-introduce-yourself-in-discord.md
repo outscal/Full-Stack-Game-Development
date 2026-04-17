@@ -1,1 +1,17 @@
-"{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Once you have Joined the server, the first thing you should do is introduce yourself.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"left\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"left\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"#introdue\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" channel is for introductions, so go ahead and introduce yourself like these people in the example below:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"left\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"altText\":\"\",\"caption\":{\"editorState\":{\"root\":{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}},\"height\":\"fit-content\",\"maxWidth\":\"100%\",\"showCaption\":false,\"src\":\"https://user-images.githubusercontent.com/107213542/191529741-59fe300f-203d-4e3a-ab0b-4e960137ee8b.png\",\"type\":\"image\",\"version\":1,\"width\":\"fit-content\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"There is a lot of other stuff to do here as well, you can explore it by yourself and have fun while doing so.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Nobody taught you to use Instagram, right?😛 You always learn by interacting with each and every feature that any app provides to you.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}"
+Once you have Joined the server, the first thing you should do is introduce yourself.
+
+
+
+**#introdue** channel is for introductions, so go ahead and introduce yourself like these people in the example below:
+
+
+
+![](https://user-images.githubusercontent.com/107213542/191529741-59fe300f-203d-4e3a-ab0b-4e960137ee8b.png)
+
+
+
+There is a lot of other stuff to do here as well, you can explore it by yourself and have fun while doing so.
+
+
+
+Nobody taught you to use Instagram, right?😛 You always learn by interacting with each and every feature that any app provides to you.

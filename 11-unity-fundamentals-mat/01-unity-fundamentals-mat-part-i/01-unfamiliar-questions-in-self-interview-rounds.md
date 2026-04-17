@@ -1,1 +1,27 @@
-"{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In our self-interview rounds, you might encounter questions on topics not covered in the course. This deliberate choice aims to nurture your ability to learn independently, a crucial skill for game developers.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Why Include Unfamiliar Questions?\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h3\"},{\"type\":\"horizontalrule\",\"version\":1},{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Game development often demands self-initiated learning. We encourage you to seek answers independently, even when facing unfamiliar concepts.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"By tackling unfamiliar questions, you'll learn to explore online resources, books, and forums to find solutions—a skill valuable throughout your career.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":2},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Successfully addressing new challenges boosts your confidence, preparing you for dynamic environments in game development.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":3}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"list\",\"version\":1,\"listType\":\"bullet\",\"start\":1,\"tag\":\"ul\"},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Approaching Unfamiliar Questions:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h3\"},{\"type\":\"horizontalrule\",\"version\":1},{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"See unfamiliar questions as opportunities to expand your knowledge. Approach them with an open mind.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Use online resources to learn. Look for articles, tutorials, videos, and documentation related to the topic.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":2},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"If you don't get proper direction within 3h/6h/12h (depending on your time availability) immediately ask it on relevant channels in discord. Time is the most precious thing, don't get stuck for long. Take help of the community if you can’t find answers.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":3}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"list\",\"version\":1,\"listType\":\"bullet\",\"start\":1,\"tag\":\"ul\"},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Embrace these challenges as opportunities for growth. Developing problem-solving skills and resourcefulness will serve you well in your game development journey.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}"
+In our self-interview rounds, you might encounter questions on topics not covered in the course. This deliberate choice aims to nurture your ability to learn independently, a crucial skill for game developers.
+
+
+
+### **Why Include Unfamiliar Questions?**
+
+
+---
+
+- Game development often demands self-initiated learning. We encourage you to seek answers independently, even when facing unfamiliar concepts.
+- By tackling unfamiliar questions, you'll learn to explore online resources, books, and forums to find solutions—a skill valuable throughout your career.
+- Successfully addressing new challenges boosts your confidence, preparing you for dynamic environments in game development.
+
+
+
+### **Approaching Unfamiliar Questions:**
+
+
+---
+
+- See unfamiliar questions as opportunities to expand your knowledge. Approach them with an open mind.
+- Use online resources to learn. Look for articles, tutorials, videos, and documentation related to the topic.
+- If you don't get proper direction within 3h/6h/12h (depending on your time availability) immediately ask it on relevant channels in discord. Time is the most precious thing, don't get stuck for long. Take help of the community if you can’t find answers.
+
+
+
+Embrace these challenges as opportunities for growth. Developing problem-solving skills and resourcefulness will serve you well in your game development journey.
