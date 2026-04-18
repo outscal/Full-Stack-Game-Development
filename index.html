@@ -11,8 +11,12 @@
 
     /* Top banner with course title */
     #top-bar { position: fixed; top: 0; left: 0; right: 0; height: var(--topbar-h); background: #fff; border-bottom: 1px solid #e5e7eb; display: flex; align-items: center; justify-content: center; padding: 0 24px; z-index: 1000; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
-    #top-bar a { text-decoration: none; color: #111; font-weight: 700; font-size: 1.05em; letter-spacing: 0.01em; }
-    #top-bar a:hover { color: var(--accent); }
+    #top-bar a.topbar-title { text-decoration: none; color: #111; font-weight: 700; font-size: 1.05em; letter-spacing: 0.01em; }
+    #top-bar a.topbar-title:hover { color: var(--accent); }
+    #topbar-toggle { position: absolute; left: 14px; top: 50%; transform: translateY(-50%); background: transparent; border: none; cursor: pointer; padding: 10px; display: flex; flex-direction: column; justify-content: center; gap: 4px; border-radius: 6px; }
+    #topbar-toggle:hover { background: #f3f4f6; }
+    #topbar-toggle span { display: block; width: 22px; height: 2.5px; background: #374151; border-radius: 2px; transition: transform 0.2s, opacity 0.2s; }
+    body.on-home #topbar-toggle { display: none; }
 
     /* Hide the default sidebar name; shift sidebar + content under the top bar */
     .sidebar > h1.app-name, .sidebar .app-name { display: none !important; }
@@ -21,13 +25,7 @@
     .markdown-section { max-width: 960px; padding: 24px 32px 64px; }
     body.on-home .sidebar,
     body.on-home .sidebar-toggle { display: none !important; }
-    .sidebar-toggle { display: flex !important; align-items: center; justify-content: center; position: fixed !important; top: 10px !important; bottom: auto !important; left: 10px !important; z-index: 1001; background: transparent !important; border: none !important; border-radius: 6px; padding: 8px 10px !important; width: auto !important; height: auto !important; cursor: pointer; }
-    .sidebar-toggle:hover { background: #f3f4f6 !important; }
-    .sidebar-toggle .sidebar-toggle-button { position: relative; width: 22px; height: 18px; display: block; }
-    .sidebar-toggle .sidebar-toggle-button span { display: block !important; position: absolute !important; left: 0 !important; width: 100% !important; height: 2.5px !important; background-color: #374151 !important; border-radius: 2px !important; transition: transform 0.2s !important; }
-    .sidebar-toggle .sidebar-toggle-button span:nth-child(1) { top: 0 !important; }
-    .sidebar-toggle .sidebar-toggle-button span:nth-child(2) { top: 8px !important; }
-    .sidebar-toggle .sidebar-toggle-button span:nth-child(3) { top: 16px !important; }
+    .sidebar-toggle { display: none !important; }
     /* Desktop collapsed state */
     body.close .sidebar { transform: translateX(-100%) !important; }
     body.close .content { left: 0 !important; }
@@ -105,7 +103,10 @@
   </style>
 </head>
 <body>
-  <header id="top-bar"><a href="#/">Full Stack Game Development</a></header>
+  <header id="top-bar">
+    <button id="topbar-toggle" aria-label="Toggle sidebar" onclick="document.body.classList.toggle('close')"><span></span><span></span><span></span></button>
+    <a class="topbar-title" href="#/">Full Stack Game Development</a>
+  </header>
   <div id="app">Loading…</div>
   <script src="course-manifest.js"></script>
   <script>
