@@ -11,46 +11,6 @@
 </div>
 </section>
 
-<section class="sections">
-<div class="wrap">
-<div class="sections-intro">
-<h2>Pick where to start.</h2>
-<p>Three ways in — foundations, projects, or mastery.</p>
-</div>
-<div class="section-grid">
-<a class="section-card" href="#/01-onboarding-module/01-about-the-course-3/01-goal-of-this-course.md">
-<span class="tag">Begin</span>
-<h3>Foundations</h3>
-<p>C++, C#, Unity basics, and Git. Twelve modules that build the programming intuition and studio workflow you'll rely on for the rest of the program.</p>
-<div class="stats"><span><strong>12</strong> modules</span><span><strong>~60</strong> chapters</span></div>
-<span class="cta">Start here <span class="arrow">→</span></span>
-</a>
-<a class="section-card projects-card" href="#/13-pong-sfml-beginner/01-project-setup-17/01-project-goal-content-4.md">
-<span class="tag">Build</span>
-<div class="heading-row">
-<h3>Projects</h3>
-<svg class="card-icon" viewBox="0 0 48 48" fill="none" aria-hidden="true"><circle cx="24" cy="24" r="21" stroke="#0A0A0A" stroke-width="2.5"/><circle cx="24" cy="24" r="14" stroke="#0A0A0A" stroke-width="2.5"/><circle cx="24" cy="24" r="7.5" fill="#F5C518" stroke="#0A0A0A" stroke-width="2.5"/></svg>
-</div>
-<p>Fifteen games across SFML, Unity 2D, and Unity 3D — Pong, Minesweeper, Tower Defense, Battle Tanks, Horror Escape, Space Shooter, and more. Built from scratch with design patterns that ship in real studios.</p>
-<div class="tile-stack" aria-hidden="true">
-<div class="tile" style="background-image:url('https://outscal-assets.s3.ap-south-1.amazonaws.com/production/modules/10_17_2023__07_48_20.png')"></div>
-<div class="tile" style="background-image:url('https://outscal-assets.s3.ap-south-1.amazonaws.com/production/modules/10_17_2023__07_49_57.png')"></div>
-<div class="tile" style="background-image:url('https://outscal-assets.s3.ap-south-1.amazonaws.com/production/modules/10_17_2023__07_50_20.png')"></div>
-</div>
-<div class="stats"><span><strong>15</strong> games</span><span><strong>~120</strong> chapters</span></div>
-<span class="cta">Start building <span class="arrow">→</span></span>
-</a>
-<a class="section-card" href="#/30-data-structures-advanced/01-recursion-fibonacci-series1/01-recursion-fibonacci-series.md">
-<span class="tag">Master</span>
-<h3>Mastery &amp; Placements</h3>
-<p>Advanced data structures, design patterns, module assessments, and the four placement phases. Interview prep and mock rounds that take you from graduate to studio-hire.</p>
-<div class="stats"><span><strong>4</strong> placement phases</span><span><strong>6</strong> assessments</span></div>
-<span class="cta">See the path <span class="arrow">→</span></span>
-</a>
-</div>
-</div>
-</section>
-
 <section class="library-preview" id="modules">
 <div class="wrap">
 <div class="sections-intro">

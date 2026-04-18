@@ -153,6 +153,14 @@
     .folder .count { font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: .08em; font-family: var(--serif); font-weight: 500; }
     .folder .label { font-family: var(--serif); font-size: 14px; font-weight: 600; letter-spacing: -0.01em; margin-top: 2px; color: var(--ink); line-height: 1.25; }
     .folder .mod-num { font-family: var(--serif); font-size: 10px; color: var(--muted); letter-spacing: .1em; text-transform: uppercase; margin-top: 6px; }
+    .phase { display: inline-block; font-family: var(--serif); font-size: 10px; letter-spacing: .12em; text-transform: uppercase; font-weight: 600; padding: 3px 8px; border-radius: 3px; align-self: flex-start; }
+    .phase-foundations { background: #E3ECFD; color: var(--blue); }
+    .phase-projects { background: var(--yellow); color: var(--ink); }
+    .phase-mastery { background: #EDE4FB; color: #6D28D9; }
+    .folder .phase { margin-top: 2px; }
+    .dyn-modhead .phase { margin-top: 6px; }
+    .article-phase { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin: 0 0 20px; padding: 0 0 16px; border-bottom: 1px solid var(--rule); }
+    .article-phase-mod { font-family: var(--serif); font-size: 12px; color: var(--muted); letter-spacing: .02em; }
 
     /* ---------------- FOOTER ---------------- */
     .site-footer { border-top: 1px solid var(--rule); margin-top: 32px; padding: 40px 0 56px; color: var(--muted); font-size: 13px; }
@@ -262,6 +270,29 @@
         function dynSidebar(hook, vm) {
           function escape(s) { return String(s).replace(/[&<>"']/g, function (c) { return ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' })[c]; }); }
           function pad2(n) { return ('0' + n).slice(-2); }
+          function phaseFor(idx) {
+            if (idx < 12) return { key: 'foundations', label: 'Foundations' };
+            if (idx < 27) return { key: 'projects', label: 'Projects' };
+            return { key: 'mastery', label: 'Mastery' };
+          }
+          function stampHomeFolders() {
+            if (!window.COURSE) return;
+            var folders = document.querySelectorAll('.library-folders .folder');
+            folders.forEach(function (f) {
+              if (f.dataset.phaseInit === '1') return;
+              var href = f.getAttribute('href') || '';
+              var m = href.match(/^#\/([^/]+)/);
+              if (!m) return;
+              var idx = window.COURSE.modules.findIndex(function (mm) { return mm.folder === m[1]; });
+              if (idx < 0) return;
+              var p = phaseFor(idx);
+              var span = document.createElement('span');
+              span.className = 'phase phase-' + p.key;
+              span.textContent = p.label;
+              f.appendChild(span);
+              f.dataset.phaseInit = '1';
+            });
+          }
           function renderSidebar() {
             var nav = document.querySelector('.sidebar-nav');
             if (!nav || !window.COURSE) return;
@@ -286,7 +317,8 @@
               var mod = window.COURSE.modules[modIdx];
               html += '<li><a class="dyn-back" href="#/">← All Modules</a></li>';
               if (mod) {
-                html += '<li><div class="dyn-modhead"><div class="num">Module ' + pad2(modIdx + 1) + '</div><div class="title">' + escape(mod.title) + '</div></div></li>';
+                var ph = phaseFor(modIdx);
+                html += '<li><div class="dyn-modhead"><div class="num">Module ' + pad2(modIdx + 1) + '</div><div class="title">' + escape(mod.title) + '</div><span class="phase phase-' + ph.key + '">' + ph.label + '</span></div></li>';
                 mod.chapters.forEach(function (ch, ci) {
                   var isCurrent = ch.folder === chSlug;
                   html += '<details class="dyn-ch' + (isCurrent ? ' is-current' : '') + '"' + (isCurrent ? ' open' : '') + '>';
@@ -318,8 +350,23 @@
             }
             next(content);
           });
-          hook.doneEach(function () { renderSidebar(); });
-          hook.ready(function () { renderSidebar(); });
+          function stampArticlePhase() {
+            if (!window.COURSE) return;
+            var hash = (window.location.hash || '#/').replace(/^#/, '');
+            var modSlug = (hash.split('/').filter(Boolean)[0]) || null;
+            if (!modSlug || modSlug === 'README.md') return;
+            var idx = window.COURSE.modules.findIndex(function (mm) { return mm.folder === modSlug; });
+            if (idx < 0) return;
+            var section = document.querySelector('.markdown-section');
+            if (!section || section.querySelector('.article-phase')) return;
+            var p = phaseFor(idx);
+            var badge = document.createElement('div');
+            badge.className = 'article-phase';
+            badge.innerHTML = '<span class="phase phase-' + p.key + '">' + p.label + '</span><span class="article-phase-mod">Module ' + pad2(idx + 1) + ' · ' + escape(window.COURSE.modules[idx].title) + '</span>';
+            section.insertBefore(badge, section.firstChild);
+          }
+          hook.doneEach(function () { renderSidebar(); stampHomeFolders(); stampArticlePhase(); });
+          hook.ready(function () { renderSidebar(); stampHomeFolders(); stampArticlePhase(); });
         },
         function quizPlugin(hook) {
           hook.doneEach(function () {
