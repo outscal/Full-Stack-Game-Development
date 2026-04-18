@@ -21,8 +21,14 @@
     .markdown-section { max-width: 960px; padding: 24px 32px 64px; }
     body.on-home .sidebar,
     body.on-home .sidebar-toggle { display: none !important; }
-    .sidebar-toggle { top: 10px !important; bottom: auto !important; left: 10px !important; z-index: 1001; background: transparent !important; border-radius: 6px; padding: 6px 8px !important; width: auto !important; }
+    .sidebar-toggle { display: flex !important; align-items: center; justify-content: center; position: fixed !important; top: 10px !important; bottom: auto !important; left: 10px !important; z-index: 1001; background: transparent !important; border-radius: 6px; padding: 8px 10px !important; width: auto !important; height: auto !important; color: #374151 !important; }
     .sidebar-toggle:hover { background: #f3f4f6 !important; }
+    .sidebar-toggle .sidebar-toggle-button { width: 22px; height: 18px; }
+    .sidebar-toggle span { background-color: #374151 !important; }
+    /* Desktop collapsed state */
+    body.close .sidebar { transform: translateX(-100%) !important; }
+    body.close .content { left: 0 !important; }
+    body.close .markdown-section { max-width: 1100px; margin: 0 auto; }
     body.on-home .content { left: 0 !important; }
     body.on-home .markdown-section { max-width: 1200px; margin: 0 auto; padding: 32px 40px 80px; }
     .markdown-section iframe { width: 100%; aspect-ratio: 16/9; height: auto; border: 0; border-radius: 8px; }
