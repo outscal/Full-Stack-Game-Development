@@ -10,7 +10,7 @@ You were obviously able to sort the papers since each page had a number.
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_12_2024__06_54_34.png)
+![Image](/Full-Stack-Game-Development/images/702bb3e2c6b95a93.png)
 
 
 
@@ -38,7 +38,7 @@ What does sorting even mean?
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_12_2024__06_29_06.gif)
+![Image](/Full-Stack-Game-Development/images/fe83247bb4fcb064.gif)
 
 ***Sorting***
 

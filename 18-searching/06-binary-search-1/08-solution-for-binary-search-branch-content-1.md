@@ -16,4 +16,4 @@ go for a jog, refresh yourself, touch grass
 
 
 
-![Refreshing Run](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/03_28_2024__10_02_15.png)
+![Refreshing Run](/Full-Stack-Game-Development/images/9efcf88671ab17d9.png)

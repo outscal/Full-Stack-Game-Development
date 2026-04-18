@@ -2,7 +2,7 @@ Imagine sorting a list of students. There are two types of sorting: Comparison-B
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_24_2024__12_13_51.png)
+![ ](/Full-Stack-Game-Development/images/c0f9284ac87bf569.png)
 
 ***List of Student***
 
@@ -85,7 +85,7 @@ Starting with the `A` group, then the `D` group, and finally, the `H` group, you
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_24_2024__12_14_27.png)
+![ ](/Full-Stack-Game-Development/images/323cf6e42058178a.png)
 
 ***Sorted List of Students***
 
@@ -186,7 +186,7 @@ Now, you can start sorting based on the LSD, which means you'll begin by looking
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_26_2024__10_05_00.png)
+![ ](/Full-Stack-Game-Development/images/2b37b5de3f758409.png)
 
 ***least significant digit: the ones***
 

@@ -34,7 +34,7 @@ For that, create enums for `TimeComplexity` and `LinkedListOperations`. They wil
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_04_2024__13_43_23.png)
+![Image](/Full-Stack-Game-Development/images/fc16ce9706c90721.png)
 
 ***Operation to Time Table***
 
@@ -557,7 +557,7 @@ Now, you are able to see everything on the screen: score, current level, time co
 
 Your screen should look like this:
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_22_2024__06_47_02.gif)
+![Image](/Full-Stack-Game-Development/images/a71e0c74e904bd72.gif)
 
 
 

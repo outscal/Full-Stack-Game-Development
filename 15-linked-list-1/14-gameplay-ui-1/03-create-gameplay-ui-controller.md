@@ -9,7 +9,7 @@
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_22_2024__06_47_02.gif)
+![Image](/Full-Stack-Game-Development/images/a71e0c74e904bd72.gif)
 
 **Top-Bar showing: Current*** ***Level, Point, Last Operation & Time Complexity**
 

@@ -13,7 +13,7 @@ Creating a ***Fork*** is producing a personal copy of someone else's project. Fo
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_17_2023__10_17_36.png)
+![](/Full-Stack-Game-Development/images/6e2ce0f2c7421968.png)
 
 
 
@@ -27,20 +27,20 @@ Creating a ***Fork*** is producing a personal copy of someone else's project. Fo
 1. Go to this project’s git repository [Repository link]
 2. **Fork this repository:** Click on the "Fork" button at the top right corner of this page. This action will create a copy of this repository under your GitHub account.
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_17_2023__10_18_21.png)
+![](/Full-Stack-Game-Development/images/dd5b6a89f342e602.png)
 
 
 
 1. **Uncheck main branch only:** After clicking on Fork Button, the following menu will appear. **Uncheck** the below highlighted option - “Copy the main branch only”
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_17_2023__10_18_58.png)
+![](/Full-Stack-Game-Development/images/ace2030f3beb2bee.png)
 
 
 
 1. **Make changes:** Now that you have cloned the repository to your local machine, feel free to make any changes you want. Experiment with modifying existing files, creating new ones, or customizing the project according to your preferences.
 2. **Commit and push your changes:** After making the desired changes, commit your changes and push them to **your own forked repository**
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_17_2023__10_19_56.png)
+![](/Full-Stack-Game-Development/images/1b2f05eacb7ee7bb.png)
 
 
 
@@ -61,7 +61,7 @@ Cloning a repository pulls down a full copy of all the repository data that git 
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_17_2023__10_21_44.gif)
+![](/Full-Stack-Game-Development/images/e79bd3948ef2e04c.gif)
 
 
 
@@ -82,7 +82,7 @@ Cloning a repository pulls down a full copy of all the repository data that git 
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_17_2023__10_22_57.png)
+![](/Full-Stack-Game-Development/images/917033d601fce9c8.png)
 
 
 

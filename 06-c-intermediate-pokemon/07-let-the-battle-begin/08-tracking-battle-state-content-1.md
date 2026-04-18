@@ -50,7 +50,7 @@ For a clear understanding, below are the critical aspects of the battle state
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_04_2024__07_11_48.png)
+![ ](/Full-Stack-Game-Development/images/dbbb4a68548f1141.png)
 
 
 
@@ -218,7 +218,7 @@ Similarly, every step will be followed again.
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_16_2024__09_48_09.png)
+![ ](/Full-Stack-Game-Development/images/30fb3d3cd19b5bf4.png)
 
 
 

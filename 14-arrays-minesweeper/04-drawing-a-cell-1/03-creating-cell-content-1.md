@@ -422,7 +422,7 @@ void Board::render(sf::RenderWindow& window)
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/01_13_2025__12_15_08.png)
+![ ](/Full-Stack-Game-Development/images/e88b4131f5c37c65.png)
 
 
 
@@ -437,7 +437,7 @@ void Board::render(sf::RenderWindow& window)
 
 ---
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/01_13_2025__12_15_47.png)
+![ ](/Full-Stack-Game-Development/images/d87a712125da19ee.png)
 
 **CELL TEXTURE**
 
@@ -445,7 +445,7 @@ This is the cell texture. The cell is a square in shape. But this texture is def
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/01_13_2025__12_16_41.png)
+![ ](/Full-Stack-Game-Development/images/b9ae323737cdab71.png)
 
 **LABELLED**
 

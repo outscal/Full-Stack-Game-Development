@@ -10,7 +10,7 @@ Ready to make your game more exciting? **Let’s get cooking! 🍲**
 
 
 
-![gif](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_20_2024__10_55_24.gif)
+![gif](/Full-Stack-Game-Development/images/94c6f0cd1e27e181.gif)
 
 
 

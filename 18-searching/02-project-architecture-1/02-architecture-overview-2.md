@@ -1,4 +1,4 @@
-![placeholder](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/03_06_2024__09_27_27.png)
+![placeholder](/Full-Stack-Game-Development/images/280bb6fd05c62af7.png)
 
 PROJECT ARCHITECTURE
 
@@ -21,7 +21,7 @@ A service is responsible for handling a specific set of functions. A *‘service
 
 In the `**main**` branch, you have the following services:
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/04_05_2024__07_37_55.png)
+![ ](/Full-Stack-Game-Development/images/21e373d6988b0ce0.png)
 
 
 
@@ -45,14 +45,14 @@ Every entity in a game goes through some critical milestones:
 
 
 
-![Birth-Life-Death](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/03_06_2024__09_30_39.png)
+![Birth-Life-Death](/Full-Stack-Game-Development/images/a04ec4ccea37df7f.png)
 
 
 
 
 You will handle these milestones with *Lifecycle methods*
 
-![Lifecycle Methods](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/03_06_2024__09_32_46.png)
+![Lifecycle Methods](/Full-Stack-Game-Development/images/5bccdb786271b375.png)
 
 
 
@@ -167,7 +167,7 @@ It also helps different services access each other.
 
 
 
-![UI_Overview](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/04_05_2024__07_32_43.png)
+![UI_Overview](/Full-Stack-Game-Development/images/e2c22d08f429f3c8.png)
 
 
 

@@ -15,7 +15,7 @@ Just like your jacket zip, it smoothly combines both sides to make one unit.
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_15_2024__07_23_17.gif)
+![ ](/Full-Stack-Game-Development/images/0bd44b3f969f9c97.gif)
 
 
 
@@ -79,7 +79,7 @@ Simply compare the two smallest elements and then copy the smaller one to the th
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_15_2024__07_57_09.gif)
+![ ](/Full-Stack-Game-Development/images/e3e951f189d137c8.gif)
 
 ***Merge Two Sorted Arrays***
 
@@ -156,7 +156,7 @@ To do that, you can define low (l), high (h), and mid (m), which you can use to 
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_26_2024__07_16_19.png)
+![ ](/Full-Stack-Game-Development/images/b2b31ea3f11915ae.png)
 
 ***Define the two sub-array boundaries***.
 
@@ -172,7 +172,7 @@ Then, do exactly the same procedure, but instead of `i`, `j`, & `k` starting fro
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_26_2024__07_11_19.gif)
+![ ](/Full-Stack-Game-Development/images/cb10ce5075a39fdc.gif)
 
 ***Merge Two Sorted Sub-Arrays**** ****(Out-of-Place)***
 
@@ -207,7 +207,7 @@ Just like before, you need to define the boundaries of the two sub-arrays using 
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_26_2024__07_16_19.png)
+![ ](/Full-Stack-Game-Development/images/b2b31ea3f11915ae.png)
 
 ***Define the two sub-array boundaries***.
 
@@ -230,7 +230,7 @@ If the element at `s` is smaller, here comes the main logic of **in-place**, you
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_29_2024__12_06_17.gif)
+![ ](/Full-Stack-Game-Development/images/ff7455227190aaf4.gif)
 
 ***In-place Merging***
 
@@ -315,7 +315,7 @@ Here’s how it works for this specific algorithm:
 
 
 
-![ ](https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif)
+![ ](/Full-Stack-Game-Development/images/8c074d46d4c96077.gif)
 
 ***Merge Sort***
 
@@ -386,7 +386,7 @@ Let's try it on one more example `[8, 2, 9, 6, 5, 3, 7, 4]`
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_26_2024__07_18_41.gif)
+![ ](/Full-Stack-Game-Development/images/5a433347ab6dc900.gif)
 
 ***Merge Sort***
 

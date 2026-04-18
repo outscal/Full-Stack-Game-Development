@@ -2,7 +2,7 @@ Loops in C++ are essential constructs that allow developers, including those in 
 
 
 
-![](https://tenor.com/view/infinite-loop-game-boy-video-games-gif-16977132.gif)
+![](/Full-Stack-Game-Development/images/495bdcdea67d611d.gif)
 
 
 

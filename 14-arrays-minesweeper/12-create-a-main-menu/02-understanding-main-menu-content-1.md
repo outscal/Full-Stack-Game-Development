@@ -20,7 +20,7 @@ It needs:
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/01_14_2025__07_04_07.png)
+![ ](/Full-Stack-Game-Development/images/19eedad6f66a77ad.png)
 
 
 

@@ -32,4 +32,4 @@ Here are just a few examples of recruiters flooding the DMs of our students:
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/beb38d67-6091-440c-b3b8-5fdeb8829707/Untitled.png)
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/64cd02d0393723c5a46dde58/01_24_2024__09_10_38.png)
+![](/Full-Stack-Game-Development/images/4bbac81bcb2e42e1.png)

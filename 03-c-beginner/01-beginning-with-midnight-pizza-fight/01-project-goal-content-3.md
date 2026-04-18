@@ -56,7 +56,7 @@ Before the ***"why"***, let's answer the ***"what"***!
 
 ---
 
-![Midnight Pizza Fight](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/09_05_2024__09_07_52.png)
+![Midnight Pizza Fight](/Full-Stack-Game-Development/images/c8a8a5ab53899eb9.png)
 
 ***Midnight Pizza Fight***
 
@@ -120,4 +120,4 @@ So!
 
 Get ready to run!
 
-![RUN!](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/09_05_2024__09_12_26.png)
+![RUN!](/Full-Stack-Game-Development/images/5f6c5bd802441cf1.png)

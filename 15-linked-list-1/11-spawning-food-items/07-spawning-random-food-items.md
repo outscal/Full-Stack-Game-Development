@@ -8,7 +8,7 @@ In this section, you'll enhance your gaming experience by spawning random food i
 
 Remember how you placed mines randomly in Minesweeper using C++'s randomization tools? 💥
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/02_03_2024__10_31_43.png)
+![](/Full-Stack-Game-Development/images/8dd5d19e6c0e3007.png)
 
 ***Randomly Placed Mines in Minesweeper***
 
@@ -68,7 +68,7 @@ Let's discuss the solution!
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/06_05_2024__08_26_00.png)
+![ ](/Full-Stack-Game-Development/images/f831594660444114.png)
 
 ***Flow diagram of generating random food***
 
@@ -330,7 +330,7 @@ sf::Vector2i FoodService::getValidSpawnPosition()
 **Keep pushing yourself!! You're almost there!!**
 
 
-![gif](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_21_2024__07_23_05.gif)
+![gif](/Full-Stack-Game-Development/images/b308a47d6ad657e3.gif)
 
 
 
@@ -376,7 +376,7 @@ void FoodService::spawnFood()
 
 **Congratulations! You did it! 🎉**
 
-![gif](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_21_2024__07_41_28.gif)
+![gif](/Full-Stack-Game-Development/images/a907ef5cf8d8c010.gif)
 
 
 

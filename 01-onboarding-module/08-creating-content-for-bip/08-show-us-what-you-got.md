@@ -14,4 +14,4 @@ You've got this! Keep learning, keep creating, and keep sharing. We can't wait t
 
 
 
-![](https://tenor.com/view/show-me-what-you-got-rick-and-morty-what-you-got-gif-14263667.gif)
+![](/Full-Stack-Game-Development/images/648d6599b1711051.gif)

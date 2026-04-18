@@ -40,7 +40,7 @@ Some games have UI so good, they changed how other games are made. Here are a fe
 
 
 
-![UI in Games](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/11_06_2024__14_16_17.png)
+![UI in Games](/Full-Stack-Game-Development/images/873bef11fa4f91ab.png)
 
 **UI in Games**
 

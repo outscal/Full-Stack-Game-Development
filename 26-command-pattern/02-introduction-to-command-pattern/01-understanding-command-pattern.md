@@ -45,7 +45,7 @@ The Chef prepares your meal according to the order received.
 
 Lets see the above process in a more object oriented way now:
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_24_2023__11_28_02.png)
+![](/Full-Stack-Game-Development/images/d4a016d512d401a9.png)
 
 
 
@@ -67,7 +67,7 @@ If we do so, we can even store these encapsulated method invocations as objects 
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_24_2023__12_03_44.jpg)
+![](/Full-Stack-Game-Development/images/f801a5ccaf7481de.jpg)
 
 
 

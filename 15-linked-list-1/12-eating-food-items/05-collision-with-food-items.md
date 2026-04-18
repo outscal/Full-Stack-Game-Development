@@ -21,7 +21,7 @@ And then it will act accordingly
 
 The flow for this will look like this:
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_31_2024__09_34_35.png)
+![ ](/Full-Stack-Game-Development/images/8d930cfc7981e00e.png)
 
 `***SnakeController***`*** and ***`***FoodService***`*** Communication for Food Collision***
 
@@ -105,7 +105,7 @@ bool FoodService::processFoodCollision(LinkedList::Node* head_node, FoodType& ou
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/664c357050602831d2c379d3/05_31_2024__13_32_05.png)
+![ ](/Full-Stack-Game-Development/images/8694f124a9aeb66a.png)
 
 ***Flow for collision with food***
 

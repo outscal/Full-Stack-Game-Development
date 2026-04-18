@@ -2,7 +2,7 @@ Currently, you're in the Splash Screen state:
 
 `**GameLoop.cpp**`
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/02_28_2025__08_06_30.png)
+![ ](/Full-Stack-Game-Development/images/8da6f2fde648cbf6.png)
 
 
 

@@ -1,4 +1,4 @@
-![Nodes of Snake](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_14_2024__11_47_02.png)
+![Nodes of Snake](/Full-Stack-Game-Development/images/4cfcf396a502ab21.png)
 
 **Nodes of Snake**
 

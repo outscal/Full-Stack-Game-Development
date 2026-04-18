@@ -19,7 +19,7 @@ Showing off your skills to potential recruiters through your posts and engagemen
 
 Below is a screenshot of how your LinkedIn DM is going to look like if you daily put out updates from your LinkedIn handle. Remember that consistency is what matters the most.
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/12_08_2023__11_31_44.png)
+![](/Full-Stack-Game-Development/images/495dfaa4e963d096.png)
 
 
 
@@ -30,4 +30,4 @@ Below is a screenshot of how your LinkedIn DM is going to look like if you daily
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/12_08_2023__11_34_03.png)
+![](/Full-Stack-Game-Development/images/af36ba73b1766b44.png)

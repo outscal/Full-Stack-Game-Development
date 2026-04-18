@@ -14,7 +14,7 @@ For example, our Enemy, One Punch Man has 3 different behaviors which are:
 - Rotating
 - Shooting
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_20_2023__10_00_38.png)
+![](/Full-Stack-Game-Development/images/0617cd570aa9c3ca.png)
 
 
 
@@ -94,7 +94,7 @@ Just like that, go ahead and create `**RotatingState.cs**` and `**ShootingState.
 
 Before we start implementing the methods in these state classes, we need to figure out when and how will our enemy transition from one state to another. Lets take a look at the updated diagram form before:
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_20_2023__10_11_39.png)
+![](/Full-Stack-Game-Development/images/5a8ab5d76a07a9fa.png)
 
 
 
@@ -108,7 +108,7 @@ That's right, this is exactly the kind of diagram you saw earlier for our old fr
 
 Here is a reminder below:
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_20_2023__10_13_41.png)
+![](/Full-Stack-Game-Development/images/5cb5f4668bfd0686.png)
 
 
 
@@ -135,7 +135,7 @@ public enum OnePunchManStates
 
 Now lets create our **State Machine!**
 
-![](https://media.tenor.com/xDDoG4N3zL8AAAAC/lets-go.gif)
+![](/Full-Stack-Game-Development/images/a6dcb2e2ba2b34a8.gif)
 
 
 
@@ -143,7 +143,7 @@ Inside our `**OnePunchManStateMachine**`, we will create an instance of each sta
 
 We will also need to know who is the owner of this state machine and pass the owner reference down to each individual state object as well. 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_20_2023__10_28_07.png)
+![](/Full-Stack-Game-Development/images/7c6b3a39ab7815d9.png)
 
 
 
@@ -413,4 +413,4 @@ All that spaghetti code has now been reduced to clean and simple 10 lines of cod
 
 
 
-![](https://media.tenor.com/hJJbYSUCt5kAAAAC/im-starting-to-understand-it-louis-wain.gif)
+![](/Full-Stack-Game-Development/images/5c92c569b972992b.gif)

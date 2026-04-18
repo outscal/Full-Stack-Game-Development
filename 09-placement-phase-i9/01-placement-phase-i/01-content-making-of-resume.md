@@ -9,7 +9,7 @@
 
 - **[NOTE]**: **If Outscal found out the plagiarism(copy-pasting points) while building a resume then strict actions will be taken against the candidates and responsible candidates will not be allowed to sit for placement drives. Do not copy-paste points from others.**
 
-![gif](https://media.tenor.com/RoosU2UFlloAAAAC/the-muppet-kermit-the-frog.gif)
+![gif](/Full-Stack-Game-Development/images/9f9a6a8239112b38.gif)
 
 
 

@@ -51,7 +51,7 @@ Before we begin implementing methods in the above class, can you look at it agai
 
 **Hint:**
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_20_2023__12_31_27.jpg)
+![](/Full-Stack-Game-Development/images/7443e4195ebca829.jpg)
 
 
 
@@ -140,7 +140,7 @@ Once you are done refactoring the code for previous states, Let's continue imple
 
 The behavior of this state is quite simple, our enemy will have a set of patrol points assigned to it on which it will iterate one by one. 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_20_2023__12_36_32.png)
+![](/Full-Stack-Game-Development/images/24c6f9fa7371302f.png)
 
 
 

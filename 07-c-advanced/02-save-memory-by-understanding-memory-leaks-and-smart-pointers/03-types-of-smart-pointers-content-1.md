@@ -24,7 +24,7 @@ A `**unique_ptr**` represents exclusive ownership of a dynamically allocated o
 
 
 
-![gif](https://github.com/outscal/2D-Platformer-Game/assets/107213542/f0dedc50-7395-45ac-a816-333241e1c9c1)
+![gif](/Full-Stack-Game-Development/images/c97d59ab01fa3424.png)
 
 
 
@@ -53,7 +53,7 @@ A “`**shared_ptr**`” allows multiple pointers to share ownership of the same
 
 
 
-![gif](https://github.com/outscal/2D-Platformer-Game/assets/107213542/a7d7153f-a936-4937-8195-ca7e204c581f)
+![gif](/Full-Stack-Game-Development/images/9922c154d7fb7f68.png)
 
 
 
@@ -94,7 +94,7 @@ So, it’s always like Player is pointing to GameMap and GameMap is pointing to 
 
 
 
-![gif](https://github.com/outscal/2D-Platformer-Game/assets/107213542/3f54d07f-ce89-4921-bce7-106f6cbc77d0)
+![gif](/Full-Stack-Game-Development/images/1c6d45bbffe62dc6.png)
 
 
 
@@ -103,7 +103,7 @@ So, it’s always like Player is pointing to GameMap and GameMap is pointing to 
 
 
 
-![gif](https://github.com/outscal/2D-Platformer-Game/assets/107213542/9c906ad4-28a9-465a-b9ce-3161c6fe4780)
+![gif](/Full-Stack-Game-Development/images/695007d93ae0f4a0.png)
 
 
 

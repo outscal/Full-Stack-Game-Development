@@ -11,7 +11,7 @@
 </ul>
 <p>Form Link: <a href ="https://airtable.com/shrD78PuiTLKwfQ7L" target="_blank">https://airtable.com/shrD78PuiTLKwfQ7L</a></p>
 <div style = "text-align:center;margin-top:1rem">
-<img src="https://media.tenor.com/PJ44GA8oe14AAAAC/email-sent.gif" width="70%">
+<img src="/Full-Stack-Game-Development/images/4ba1f7766c513ccf.gif" width="70%">
 </div>
 </div>
 

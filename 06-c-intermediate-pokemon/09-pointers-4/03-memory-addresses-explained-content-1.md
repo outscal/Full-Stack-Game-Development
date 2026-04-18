@@ -14,7 +14,7 @@ And every variable you declare in your program resides within one of these boxes
 
 
 
-![img](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_07_2024__02_52_07.gif)
+![img](/Full-Stack-Game-Development/images/2aad760549fac36d.gif)
 
 
 
@@ -183,7 +183,7 @@ Great, Now you knows How to Find the exact value of variable, using pointer vari
 
 
 
-![img](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_07_2024__03_41_54.png)
+![img](/Full-Stack-Game-Development/images/ab078f032dac011a.png)
 
 
 
@@ -232,7 +232,7 @@ int ** ptr2  = &ptr;  // ptr2 store the address of ptr.
 - `**ptr2**` is a pointer to `ptr`, which means it stores the address where `ptr` is located.
 - and so on.
 
-![img](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_07_2024__05_58_52.png)
+![img](/Full-Stack-Game-Development/images/f89da2d8fb1abb89.png)
 
 
 

@@ -90,7 +90,7 @@ Knowing when to use each one is the real learning that will help you make better
 
 Click here for Quick Sort vs Merge Sort Comparision Chart
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_19_2024__06_30_29.png)
+![ ](/Full-Stack-Game-Development/images/702167449a11b946.png)
 
 ***Quick Sort vs Merge Sort***
 

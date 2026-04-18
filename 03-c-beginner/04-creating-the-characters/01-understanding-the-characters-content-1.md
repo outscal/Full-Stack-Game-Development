@@ -1,4 +1,4 @@
-![Game Characters](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/09_05_2024__11_14_15.png)
+![Game Characters](/Full-Stack-Game-Development/images/c8a8a5ab53899eb9.png)
 
 ***Dough Master and Crust Bandit***
 

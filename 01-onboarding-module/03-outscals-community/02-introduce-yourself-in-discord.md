@@ -6,7 +6,7 @@ Once you have Joined the server, the first thing you should do is introduce your
 
 
 
-![](https://user-images.githubusercontent.com/107213542/191529741-59fe300f-203d-4e3a-ab0b-4e960137ee8b.png)
+![](/Full-Stack-Game-Development/images/344c54da703227f5.png)
 
 
 

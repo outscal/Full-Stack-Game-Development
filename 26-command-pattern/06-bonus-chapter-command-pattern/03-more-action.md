@@ -6,7 +6,7 @@ It's time to learn some new moves!
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/11_17_2023__13_39_15.png)
+![](/Full-Stack-Game-Development/images/711992134e9d91f1.png)
 
 
 

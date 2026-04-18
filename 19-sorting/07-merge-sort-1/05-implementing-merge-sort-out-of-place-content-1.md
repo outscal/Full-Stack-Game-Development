@@ -33,7 +33,7 @@ Let's do a quick recap of the steps for merge sort before seeing the implementat
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_21_2024__09_07_28.gif)
+![ ](/Full-Stack-Game-Development/images/62a0222ab85600a3.gif)
 
 **Merge Sort**
 
@@ -102,7 +102,7 @@ This process continues, further dividing each segment until the base condition i
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_26_2024__07_20_57.gif)
+![ ](/Full-Stack-Game-Development/images/fc76429ba1b214ac.gif)
 
 **Split Into Two Halves**
 
@@ -174,7 +174,7 @@ Take care of the visualization carefully.
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_26_2024__07_25_32.gif)
+![ ](/Full-Stack-Game-Development/images/d8b5d5ab0d873bf1.gif)
 
 **Merging Segments**
 

@@ -8,7 +8,7 @@ This new enemy is a monster called **Venomar **because of it's venomous attacks 
 
 This creature is smaller but highly agile and erratic in its behavior.
 
-![](https://tenor.com/view/gjirlfriend-eddie-brock-venom-gif-24175957.gif)
+![](/Full-Stack-Game-Development/images/f5d978775ed84747.gif)
 
 
 
@@ -21,4 +21,4 @@ Create the following additional states for the **Venomar**:
 
 
 
-![](https://tenor.com/view/mr-burns-simpsons-enemies-enemy-gif-18199124.gif)
+![](/Full-Stack-Game-Development/images/2dca05199e72ec1d.gif)

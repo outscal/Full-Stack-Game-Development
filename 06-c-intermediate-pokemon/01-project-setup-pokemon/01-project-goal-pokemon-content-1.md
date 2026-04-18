@@ -26,13 +26,13 @@ My favorite was PIKACHU!!
 
 
 
-![pikachu](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_26_2024__10_00_39.png)
+![pikachu](/Full-Stack-Game-Development/images/4daf4c4fa20eeabe.png)
 
 
 
 I still remember how much I cried in front of my parents (I was acting, guys, don't tell my parents, please😁) for the ***GameBoy console*** because I wanted to play Pokémon. 
 
-![c++](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_09_2024__05_58_36.png)
+![c++](/Full-Stack-Game-Development/images/c1594219f567704f.png)
 
 
 
@@ -95,4 +95,4 @@ Let's see how this game was developed and how the concept of Pokémon came into 
 
 
 
-![c++](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_14_2024__13_48_57.png)
+![c++](/Full-Stack-Game-Development/images/855817e0fa0d1fa1.png)

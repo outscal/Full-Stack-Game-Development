@@ -7,7 +7,7 @@ To create your scaling spike, you'll combine two behaviors: rotation and size ch
 
 
 
-![Scaling Spike](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/11_06_2024__13_59_55.gif)
+![Scaling Spike](/Full-Stack-Game-Development/images/9bc4b7ebf55bb21a.gif)
 
 **Scaling Spike**
 

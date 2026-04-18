@@ -94,7 +94,7 @@ Did you also get an error similar to the one shown below?
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_17_2024__10_31_22.png)
+![ ](/Full-Stack-Game-Development/images/a13869a60cc73dce.png)
 
 
 

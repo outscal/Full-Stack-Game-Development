@@ -2,7 +2,7 @@ The journey to become a game developer is filled with ups and downs. We’ve all
 
 
 
-![](https://tenor.com/view/winnie-the-pooh-up-and-gif-19453028.gif)
+![](/Full-Stack-Game-Development/images/a4dece982b8c394c.gif)
 
 
 
@@ -40,7 +40,7 @@ Cause its your journey and you are the main character of this story.
 
 
 
-![](https://tenor.com/view/anime-one-one-punch-man-one-punch-hero-gif-15438336.gif)
+![](/Full-Stack-Game-Development/images/b0f18f510b05cf6b.gif)
 
 
 
@@ -48,4 +48,4 @@ Here is an example of Piyush’s (Outscal’s Marketing Head) posting on LinkedI
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/64cd02d0393723c5a46dde58/01_24_2024__09_45_21.png)
+![](/Full-Stack-Game-Development/images/d9fece33305ce9df.png)

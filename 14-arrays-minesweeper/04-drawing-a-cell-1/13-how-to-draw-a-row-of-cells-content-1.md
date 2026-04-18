@@ -1,4 +1,4 @@
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/01_13_2025__12_53_01.png)
+![ ](/Full-Stack-Game-Development/images/e085c71abad5545e.png)
 
 **DRAWING A ROW**
 
@@ -22,7 +22,7 @@ Guess how many cell object that’ll be 🤔
 
 
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3RhMHA0NzdwdmQweXZzdHQzOWFmYnNrNGUybjVyMnE0amdoOWFvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gtfppP6qR3tiU/giphy.gif)
+![](/Full-Stack-Game-Development/images/b7739d211879d7d8.gif)
 
  
 

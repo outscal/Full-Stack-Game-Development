@@ -23,7 +23,7 @@ But how do you intend to set values for these?
 
 
 
-![    ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/06_18_2024__07_51_39.png)
+![    ](/Full-Stack-Game-Development/images/74f994fc27e62832.png)
 
 *Stick's size*
 
@@ -54,7 +54,7 @@ Let's discuss one of these ways:-
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/06_04_2024__05_29_08.png)
+![ ](/Full-Stack-Game-Development/images/df3ed3fa6a1104d3.png)
 
 *spacing between the sticks*
 
@@ -77,7 +77,7 @@ Imagine the `**space_percentage**` value is `**0.1**`; this means that 10% of th
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/06_03_2024__11_50_59.png)
+![ ](/Full-Stack-Game-Development/images/3d7c523735891b3e.png)
 
 *sticks when the space percentage is high (0.5)*
 
@@ -85,7 +85,7 @@ Imagine the `**space_percentage**` value is `**0.1**`; this means that 10% of th
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/06_03_2024__11_51_47.png)
+![ ](/Full-Stack-Game-Development/images/8e2a6b5cf71a3a8b.png)
 
 *sticks when the space percentage is low (0)*
 
@@ -311,7 +311,7 @@ void Gameplay::Collection::StickCollectionContoller::resetSticksColor()
 
 Have a look at what the rendered sticks would look like!
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/07_01_2024__19_23_41.png)
+![ ](/Full-Stack-Game-Development/images/b74530ec6f21a934.png)
 
 
 

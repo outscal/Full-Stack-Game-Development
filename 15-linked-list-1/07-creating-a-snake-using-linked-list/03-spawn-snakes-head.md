@@ -208,7 +208,7 @@ namespace LinkedList
 
 woah! Now, you will be able to see the head of your Snake.
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_18_2024__08_12_13.png)
+![Image](/Full-Stack-Game-Development/images/45895f25a3751212.png)
 
 ***Snake's Head***
 

@@ -4,7 +4,7 @@ In this lesson, you'll slice the whole texture to render a single cell on the ga
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/01_13_2025__12_28_30.png)
+![ ](/Full-Stack-Game-Development/images/b7be88f80613ceff.png)
 
 **Cell State** and **Cell Value**
 
@@ -26,7 +26,7 @@ This hierarchy is explained in the diagram:
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/01_13_2025__12_28_56.png)
+![ ](/Full-Stack-Game-Development/images/179ec3a72f6fb5fa.png)
 
 **Cell STATE-VALUE Map**
 
@@ -124,7 +124,7 @@ Well, to define the dimensions of the rectangle, you need to understand the cons
 
 ---
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/01_13_2025__12_30_02.png)
+![ ](/Full-Stack-Game-Development/images/d968871ab1fd9dd4.png)
 
 
 
@@ -138,7 +138,7 @@ The width and height is as straightforward as it sounds.
 
 It is the width and height of the rectangle.
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/03_01_2025__12_56_30.png)
+![ ](/Full-Stack-Game-Development/images/c445afd8e3d2d1c9.png)
 
 **Cells Texture's Properties**
 
@@ -158,7 +158,7 @@ Now, how to calculate the Top-Left coordinates?🤔
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/02_19_2025__06_42_21.png)
+![ ](/Full-Stack-Game-Development/images/619834bd22347d67.png)
 
 **Dimension of an Empty Cell**
 
@@ -174,7 +174,7 @@ The rest of the dimensions, Top coordinate, width, and height remain the same.
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/02_19_2025__06_44_46.png)
+![ ](/Full-Stack-Game-Development/images/59d25148d2f038b2.png)
 
 **Dimensions of the '*****4*****' Cell**
 
@@ -235,7 +235,7 @@ Let's start with the Cells in `OPEN` state:
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/02_15_2025__14_14_11.png)
+![ ](/Full-Stack-Game-Development/images/9211f48ace9f6a4f.png)
 
 
 
@@ -298,7 +298,7 @@ For a `HIDDEN` cell, you need to set the Left coordinate to `10 * tile_size` as 
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/02_19_2025__07_02_15.png)
+![ ](/Full-Stack-Game-Development/images/ae1d5baacc9c3b87.png)
 
 
 
@@ -332,7 +332,7 @@ As it is in the 12th position and has 11 cells before it, its left coordinate wi
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/02_19_2025__07_05_42.png)
+![ ](/Full-Stack-Game-Development/images/c07c8de0138c77b1.png)
 
 
 
@@ -426,7 +426,7 @@ void Cell::render(sf::RenderWindow& window)
 
 Click Here to see the expected output!
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/01_13_2025__12_32_43.png)
+![ ](/Full-Stack-Game-Development/images/54fa51a15c39db0c.png)
 
 
 

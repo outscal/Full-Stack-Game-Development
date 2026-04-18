@@ -27,7 +27,7 @@ This division process continues until each subarray contains only one element, r
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_26_2024__08_04_31.png)
+![ ](/Full-Stack-Game-Development/images/812120fd66f3ccdf.png)
 
 `***O(log(n))***`*** time complexity***
 
@@ -39,7 +39,7 @@ Each merge operation compares and combines elements from two subarrays, resultin
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_26_2024__08_02_46.png)
+![ ](/Full-Stack-Game-Development/images/cc70de5b42b8ba8f.png)
 
 `***O(n)***`*** time complexity***
 

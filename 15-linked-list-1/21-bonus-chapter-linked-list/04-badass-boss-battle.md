@@ -16,7 +16,7 @@ Remember the thrill of facing **Bowser** in **Super Mario**? That one is my all-
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_27_2024__13_25_24.gif)
+![Image](/Full-Stack-Game-Development/images/e3754c6b2ee7b708.gif)
 
 
 
@@ -30,7 +30,7 @@ It’s time to level up and show your skills!
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_27_2024__13_05_10.png)
+![Image](/Full-Stack-Game-Development/images/fde02ce74b95d44f.png)
 
 **Boss Battle**
 
@@ -62,7 +62,7 @@ Meet the **Hunter Snake**, an ancient snake that has slept for ages. On a random
 
 ---
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_02_2024__11_57_48.png)
+![Image](/Full-Stack-Game-Development/images/bb30c14856e9e95e.png)
 
 
 

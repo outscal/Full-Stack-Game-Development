@@ -6,7 +6,7 @@ In this assignment, You must create some new playable characters for the game wi
 
 
 
-![](https://tenor.com/view/omg-new-playable-character-scc-super-cube-cavern-tan-tanich-your-mother-gif-22771492.gif)
+![](/Full-Stack-Game-Development/images/bddd9d71bc506b9e.gif)
 
 
 
@@ -34,4 +34,4 @@ The details of these characters and their executable moves is as follows:
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/11_18_2023__05_19_00.png)
+![](/Full-Stack-Game-Development/images/497b2eb7398ab681.png)

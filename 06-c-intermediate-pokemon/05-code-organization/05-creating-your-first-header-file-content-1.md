@@ -57,7 +57,7 @@ You will create this header file for `PokemonType` enum.
 
 Your file directory should look like
 
-![ss](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_30_2024__11_24_07.png)
+![ss](/Full-Stack-Game-Development/images/dbaad671202886af.png)
 
 
 

@@ -21,7 +21,7 @@ public void Undo()
 
 There are a couple of edge cases in this which will cause some bugs in our game. Can you detect them and fix it?
 
-![](https://tenor.com/view/brand-new-bugs-bug-glitch-error-new-gif-22594128.gif)
+![](/Full-Stack-Game-Development/images/48d3a4f0340db4ab.gif)
 
 
 
@@ -78,7 +78,7 @@ Now you have almost implemented Undo mechanic in your game. All you need to do i
 
 
 
-![](https://tenor.com/view/sml-brooklyn-guy-uno-reverse-uno-reverse-gif-25566098.gif)
+![](/Full-Stack-Game-Development/images/a2dde8831fa3abfd.gif)
 
 
 

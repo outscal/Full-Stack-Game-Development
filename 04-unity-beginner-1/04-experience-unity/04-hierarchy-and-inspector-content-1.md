@@ -2,7 +2,7 @@ In this lesson, you're going to explore the Scene view, Hierarchy and Inspector.
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/11_06_2024__13_09_32.png)
+![ ](/Full-Stack-Game-Development/images/8088bb85f08773c9.png)
 
 **Hierarchy, Inspector, and Scene view**
 

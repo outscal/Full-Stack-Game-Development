@@ -34,7 +34,7 @@ While a **Burned** Pokémon might have weakened attacks.
 
 
 
-![img](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_21_2024__06_58_29.png)
+![img](/Full-Stack-Game-Development/images/c031692ff69411dd.png)
 
 
 

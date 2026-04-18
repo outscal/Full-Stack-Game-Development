@@ -15,7 +15,7 @@ In 1958, a physicist named *William Higinbotham* created a revolutionary game, "
 
 
 
-![Tennis For Two](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/12_05_2024__14_34_04.gif)
+![Tennis For Two](/Full-Stack-Game-Development/images/9609a51b872b5b8d.gif)
 
 **Tennis For Two**
 
@@ -29,7 +29,7 @@ Have you heard of *Pong?*
 
 
 
-![Pong](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/12_05_2024__14_34_43.gif)
+![Pong](/Full-Stack-Game-Development/images/06cf7fafa429ca9c.gif)
 
 **Pong**
 

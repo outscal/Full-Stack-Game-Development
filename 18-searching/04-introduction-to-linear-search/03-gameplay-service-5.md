@@ -1,4 +1,4 @@
-![    ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/06_22_2024__07_56_51.png)
+![    ](/Full-Stack-Game-Development/images/a08a30624a361fe2.png)
 
 
 
@@ -26,7 +26,7 @@ Let's go through the structure for this project before you dive into the tasks.
 
 ---
 
-![      ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/06_18_2024__06_36_12.png)
+![      ](/Full-Stack-Game-Development/images/9527f1d930ac6199.png)
 
 ***Gameplay Hierarchy***
 
@@ -441,7 +441,7 @@ The background on the screen will look like this:-
 
 
 
-![background image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/664c357050602831d2c379d3/05_28_2024__11_24_39.png)
+![background image](/Full-Stack-Game-Development/images/bbba114c575baeba.png)
 
 
 

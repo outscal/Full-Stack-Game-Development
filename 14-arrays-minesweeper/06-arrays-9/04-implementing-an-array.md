@@ -61,7 +61,7 @@ int player_scores[arraySize] = {10, 20, 30, 40, 50};
 This is how the `player_scores` array looks:
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/02_18_2025__06_28_17.png)
+![ ](/Full-Stack-Game-Development/images/d34d3f4637adefea.png)
 
 
 
@@ -84,7 +84,7 @@ Well, an index is just the numbering of elements that starts from `**0 to arrayS
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/02_19_2025__05_49_15.png)
+![ ](/Full-Stack-Game-Development/images/a54dd190ceafd64e.png)
 
 
 
@@ -163,7 +163,7 @@ But do you how memory is allocated to an array?🤔
 
 ---
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/02_18_2025__06_26_54.png)
+![ ](/Full-Stack-Game-Development/images/d1a4c8e600555979.png)
 
 
 

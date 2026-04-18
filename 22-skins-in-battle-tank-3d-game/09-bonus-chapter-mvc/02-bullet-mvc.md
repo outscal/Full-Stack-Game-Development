@@ -14,7 +14,7 @@ Each bullet type will have different data values for properties such as speed, d
 
 
 
-![](https://tenor.com/view/m84-autocannon-foxtrot12-slovenian-army-glavni-bojni-tank-gif-16561260702497065365.gif)
+![](/Full-Stack-Game-Development/images/660fd7fb4ed9fd3d.gif)
 
 
 
@@ -28,7 +28,7 @@ Blue Tank:
 
 - **Guided Missiles**: Implement bullets can lock onto targets and track the enemy tank's movement. These missiles could be slower but highly accurate and deal significant damage.
 
-![](https://tenor.com/view/lock-missile-top-gun-missiles-gif-24200367.gif)
+![](/Full-Stack-Game-Development/images/57d91c12147e7562.gif)
 
 
 

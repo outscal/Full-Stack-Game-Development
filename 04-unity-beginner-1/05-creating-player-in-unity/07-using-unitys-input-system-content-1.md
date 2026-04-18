@@ -11,7 +11,7 @@ Imagine Mr. Blocks standing in the middle of a giant coordinate system:
 
 
 
-![Axes In Unity](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/11_06_2024__13_37_16.gif)
+![Axes In Unity](/Full-Stack-Game-Development/images/680dba34a54b8836.gif)
 
 **Axes In Unity**
 

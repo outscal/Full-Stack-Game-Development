@@ -1,7 +1,7 @@
 In this chapter, you'll make those boring cells clickable!
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/01_14_2025__08_26_03.png)
+![ ](/Full-Stack-Game-Development/images/1e51c6b084f82418.png)
 
 
 

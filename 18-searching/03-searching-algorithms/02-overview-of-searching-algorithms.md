@@ -40,7 +40,7 @@ The ghosts keep searching the maze to find and catch you while you try to run aw
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/07_01_2024__11_08_36.gif)
+![ ](/Full-Stack-Game-Development/images/601cb1d6bb6d1b39.gif)
 
 
 
@@ -60,7 +60,7 @@ The search space may vary in size and organization depending on the data structu
 
 *In chess, the ****whole Chessboard**** is the ****space search****.*
 
-![  ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/06_12_2024__08_03_14.png)
+![  ](/Full-Stack-Game-Development/images/82893df32a46d1d6.png)
 
 *Search space = Chessboard*
 
@@ -82,7 +82,7 @@ Different search algorithms take varying amounts of time and space to find the t
 
 
 
-![     ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/06_17_2024__11_14_44.png)
+![     ](/Full-Stack-Game-Development/images/f3d19fe5fb405dc1.png)
 
 
 

@@ -11,7 +11,7 @@
 
 - Get ready to make a grand entrance, you are going to make your First LinkedIn Post !!!!!
 
-![](https://tenor.com/view/vince-mcmahon-entrance-walking-gif-13375548.gif)
+![](/Full-Stack-Game-Development/images/8bcc5b1142efa918.gif)
 
 
 
@@ -23,7 +23,7 @@
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/a0c71c52-9a09-4d09-bf58-034da5e801e5/Untitled.png)
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/64cd02d0393723c5a46dde58/01_24_2024__10_05_16.jpg)
+![](/Full-Stack-Game-Development/images/f401f5983eb70802.jpg)
 
 
 

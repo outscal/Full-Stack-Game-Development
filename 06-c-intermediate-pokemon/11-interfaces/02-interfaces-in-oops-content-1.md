@@ -10,7 +10,7 @@ You just know that when you press a button, something happens.
 
 This is called a **User Interface**.
 
-![img](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_19_2024__04_28_54.png)
+![img](/Full-Stack-Game-Development/images/6f2e3c52ebc94e9e.png)
 
 
 
@@ -48,7 +48,7 @@ They cause different amounts of damage, too.
 
 
 
-![img](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_21_2024__06_28_59.png)
+![img](/Full-Stack-Game-Development/images/1ca23b90dc440a17.png)
 
 
 
@@ -61,7 +61,7 @@ Rather than defining how each projectile behaves in separate classes.
 
 
 
-![img](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_21_2024__06_30_49.png)
+![img](/Full-Stack-Game-Development/images/42e0f598eacff91d.png)
 
 
 
@@ -141,7 +141,7 @@ But it doesn’t care how they implement them.
 
 
 
-![img](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_21_2024__06_45_09.png)
+![img](/Full-Stack-Game-Development/images/3bf2989e448afc94.png)
 
 
 

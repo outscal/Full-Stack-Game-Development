@@ -30,4 +30,4 @@
 
 
 
-![](https://tenor.com/view/mission-impossible-self-destruct-gif-12351084.gif)
+![](/Full-Stack-Game-Development/images/c384479b0168e549.gif)

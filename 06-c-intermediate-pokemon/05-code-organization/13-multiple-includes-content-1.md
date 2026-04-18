@@ -10,7 +10,7 @@ Now the only error that remains in your main file is: **”redefinition of Pokem
 
 
 
-![redefinitionofpokemon](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_31_2024__05_25_40.png)
+![redefinitionofpokemon](/Full-Stack-Game-Development/images/3c9205befda968a3.png)
 
 
 
@@ -37,7 +37,7 @@ Look at this Flow Diagram - ಠ_ಠ.
 
 
 
-![img](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_31_2024__05_56_09.png)
+![img](/Full-Stack-Game-Development/images/099bfd3630d5d463.png)
 
 
 
@@ -69,7 +69,7 @@ So, this solves the issue of Redefinition.
 
 
 
-![img](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_14_2024__07_22_48.png)
+![img](/Full-Stack-Game-Development/images/500d5924815ded00.png)
 
 
 
@@ -191,7 +191,7 @@ Now, check Your `Player.cpp` File.
 
 What you Noticed ?
 
-![img](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_31_2024__06_56_29.jpg)
+![img](/Full-Stack-Game-Development/images/66059a7371d5be76.jpg)
 
 
 

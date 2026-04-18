@@ -4,7 +4,7 @@ Now, it's time to visualize a more powerful search algorithm: Binary Search.
 
 
 
-![      ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/06_10_2024__10_14_22.jpg)
+![      ](/Full-Stack-Game-Development/images/395bdcebb80d7e59.jpg)
 
 
 
@@ -690,7 +690,7 @@ Check out the video below:-
 
 
 
-![  ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/06_08_2024__10_02_15.gif)
+![  ](/Full-Stack-Game-Development/images/35031f2695e1dbf7.gif)
 
 
 

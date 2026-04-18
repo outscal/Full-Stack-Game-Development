@@ -22,7 +22,7 @@ When you post updates about your progress, skills, and projects, you increase yo
 
 
 
-![](https://tenor.com/view/i-got-a-job-for-you-tommy-flanagan-alec-mccullough-wu-assassins-i-have-something-for-you-to-do-gif-18626868.gif)
+![](/Full-Stack-Game-Development/images/1e2a0637a8f7036f.gif)
 
 
 

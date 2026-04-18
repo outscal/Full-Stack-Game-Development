@@ -12,7 +12,7 @@ I'll make you hungry!🍽️😋
 
 Imagine you're at a buffet, you take a plate and start adding items one by one, linking them together like a food train.
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_14_2024__06_30_48.gif)
+![Image](/Full-Stack-Game-Development/images/818d83a3a42512b4.gif)
 
 
 
@@ -48,7 +48,7 @@ Let's understand it with some technical definitions of linked list:
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_14_2024__06_32_02.png)
+![Image](/Full-Stack-Game-Development/images/ffe4b7841ffcd0b3.png)
 
 ***Linked List as a chain of elements, each element holding hands with its neighbor***
 
@@ -61,7 +61,7 @@ Difference between **contiguous** and non-**contiguous memory**- Contiguous memo
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_30_2024__11_33_03.png)
+![Image](/Full-Stack-Game-Development/images/072309865f6c6304.png)
 
 
 
@@ -69,7 +69,7 @@ Difference between **contiguous** and non-**contiguous memory**- Contiguous memo
 
 ## Node in a Linked List
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_14_2024__06_32_54.png)
+![Image](/Full-Stack-Game-Development/images/d87ba8bea7e15cfd.png)
 
 
 
@@ -77,7 +77,7 @@ Difference between **contiguous** and non-**contiguous memory**- Contiguous memo
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_14_2024__06_33_22.png)
+![Image](/Full-Stack-Game-Development/images/ea26d4af266e8a39.png)
 
 
 
@@ -91,7 +91,7 @@ The last node is not connected to any other node and thus, its connection to the
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_14_2024__06_34_12.png)
+![Image](/Full-Stack-Game-Development/images/58ae0ac1c6559ba7.png)
 
 
 
@@ -120,7 +120,7 @@ In this representation, completing Quest 1 unlocks Quest 2, completing Quest 2 u
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_14_2024__06_35_10.gif)
+![Image](/Full-Stack-Game-Development/images/df2cf3469359018f.gif)
 
 🎵***MUSIC PLAYLIST***
 

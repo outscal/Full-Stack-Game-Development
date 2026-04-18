@@ -28,7 +28,7 @@
     6<br>
 - **Explanation**<br>
     
-    ![Untitled](https://outscal.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9e4c89dd-5fc5-45c8-81a5-45132c9f080d%2FUntitled.png?table=block&id=0d27dbed-9581-47dd-97d5-5ac83becd68f&spaceId=8c9f7b97-3438-434a-b8ca-0a53eb7262ea&width=770&userId=&cache=v2)
+    ![Untitled](/Full-Stack-Game-Development/images/23c9dd529f9a9d28.png)
 
 
 **[Submission]**

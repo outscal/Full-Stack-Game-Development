@@ -26,13 +26,13 @@
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_23_2023__02_10_03.png)
+![](/Full-Stack-Game-Development/images/e83d4943f1c08bb8.png)
 
 
 
 - When the enemies which are clone twice killed by the player, they should not replicate themselves further and shall remain dead.
 
-![](https://tenor.com/view/star-wars-obi-wan-kenobi-he-doesnt-seem-to-stay-dead-hes-still-alive-he-cant-die-gif-25112682.gif)
+![](/Full-Stack-Game-Development/images/97821ab8d4c4b406.gif)
 
 
 

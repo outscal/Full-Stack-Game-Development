@@ -2,7 +2,7 @@ If you ever want to check out the game builds that you have uploaded previously,
 
 It can be accessed from your profile menu on the top right corner:
 
-![sfml](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/64cd02d0393723c5a46dde58/03_14_2024__11_44_08.png)
+![sfml](/Full-Stack-Game-Development/images/2c18e04e8eac2f37.png)
 
 
 

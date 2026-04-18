@@ -14,7 +14,7 @@ You learned about sorting algorithms in the last lesson; in this one, let's exam
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_12_2024__11_20_00.jpg)
+![ ](/Full-Stack-Game-Development/images/6a21bcceba6a0771.jpg)
 
 
 
@@ -22,7 +22,7 @@ You learned about sorting algorithms in the last lesson; in this one, let's exam
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_17_2024__08_38_40.png)
+![ ](/Full-Stack-Game-Development/images/733e3bf61331e76e.png)
 
 ***z-buffer with depth value z for each pixel***
 
@@ -32,7 +32,7 @@ You learned about sorting algorithms in the last lesson; in this one, let's exam
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_22_2024__07_03_47.png)
+![ ](/Full-Stack-Game-Development/images/2200a7c2e6515df2.png)
 
 ***Order of Action***
 

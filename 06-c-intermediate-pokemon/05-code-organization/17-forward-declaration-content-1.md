@@ -16,7 +16,7 @@ Look at the map below to understand it more clearly.
 
 
 
-![  ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/12_24_2024__12_46_37.png)
+![  ](/Full-Stack-Game-Development/images/752a337cbe10a139.png)
 
 
 
@@ -131,7 +131,7 @@ To tackle this problem, forward declaration is used.
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_14_2024__10_57_55.png)
+![ ](/Full-Stack-Game-Development/images/e73bfd84e8033e84.png)
 
 
 

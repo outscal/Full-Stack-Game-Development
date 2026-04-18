@@ -1,4 +1,4 @@
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_31_2024__09_42_57.png)
+![Image](/Full-Stack-Game-Development/images/eef98ee9860832ae.png)
 
 
 
@@ -6,7 +6,7 @@ Professor Oak: "But what’s the point of all this hard work if you don’t shar
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_31_2024__09_46_39.png)
+![Image](/Full-Stack-Game-Development/images/59e6c3565655f8bf.png)
 
 
 
@@ -41,7 +41,7 @@ Professor Oak: "Now, listen carefully, Trainer. Just as you would show off a rar
 
 
 
-![Animated Computer GIFs - Find the Perfect GIF for Your Computer Needs!](https://clipart-library.com/images/8iG5zgjia.gif)
+![Animated Computer GIFs - Find the Perfect GIF for Your Computer Needs!](/Full-Stack-Game-Development/images/dd227d0d91f9ef20.gif)
 
 You on your way to post on LinkedIn before anyone else* 
 

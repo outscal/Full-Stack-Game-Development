@@ -9,7 +9,7 @@ If you were a developer at YouTube and your task was to build the search feature
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/03_12_2025__15_06_37.png)
+![ ](/Full-Stack-Game-Development/images/e392f0cc8d2a48c8.png)
 
 
 
@@ -19,7 +19,7 @@ Sounds logical 👍🏼
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/03_12_2025__15_07_36.png)
+![ ](/Full-Stack-Game-Development/images/3bf2ac7392c15e20.png)
 
 
 
@@ -35,9 +35,9 @@ That is billions and billions of videos to go through in seconds!
 
 
 
-![ ](https://tenor.com/nqwM9KKopTC.gif)
+![ ](/Full-Stack-Game-Development/images/d0ba1bb6bd8db1bb.gif)
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/03_19_2025__05_56_36.png)
+![ ](/Full-Stack-Game-Development/images/1b081a999c1aefd4.png)
 
 
 

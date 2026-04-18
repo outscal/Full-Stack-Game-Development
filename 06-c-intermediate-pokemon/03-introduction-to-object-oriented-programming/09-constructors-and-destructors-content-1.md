@@ -21,7 +21,7 @@ What if I Program a robot for you that do all these chores for you. Now, you can
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_13_2024__10_05_37.jpg)
+![Image](/Full-Stack-Game-Development/images/ca07489798f57942.jpg)
 
 
 
@@ -124,7 +124,7 @@ What is the output?
 
 The default values that we have given to the constructor 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_28_2024__11_23_12.jpg)
+![Image](/Full-Stack-Game-Development/images/76e0e9f46f50e56f.jpg)
 
 
 

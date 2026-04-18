@@ -22,4 +22,4 @@ Discussing specific game mechanics, designs or coding concepts can provide usefu
 
 
 
-![](https://tenor.com/view/be-with-someone-you-are-able-to-grow-with-motivational-gif-24983774.gif)
+![](/Full-Stack-Game-Development/images/e8f1279d9613c9eb.gif)

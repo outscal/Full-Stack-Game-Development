@@ -191,7 +191,7 @@ Now, to render the board, the Gameplay Manager will call the `render` method of 
 
 Here's how the render method of the Board class is called:
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/02_12_2025__12_10_52.png)
+![ ](/Full-Stack-Game-Development/images/c0c3f53ec02e13f0.png)
 
 
 
@@ -439,7 +439,7 @@ I think a background image would look nice 😌
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/01_13_2025__11_56_08.png)
+![ ](/Full-Stack-Game-Development/images/fd39e0d99155956c.png)
 
 
 

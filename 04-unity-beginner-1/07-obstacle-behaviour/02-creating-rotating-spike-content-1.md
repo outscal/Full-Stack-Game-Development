@@ -248,7 +248,7 @@ Let's break this down:
 
 
 
-![Rotation Along Z-Axis](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/11_06_2024__13_53_21.gif)
+![Rotation Along Z-Axis](/Full-Stack-Game-Development/images/353b6cc389fd2901.gif)
 
 **Rotation Along Z-Axis**
 

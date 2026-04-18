@@ -39,7 +39,7 @@ Again you get a request to make a **Healer** Unit with the Actions **Heal & Clea
 - `**Heal()**`
 - `**Cleanse()**`
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_25_2023__07_02_41.png)
+![](/Full-Stack-Game-Development/images/6ac89fe44f69afb5.png)
 
 
 
@@ -250,7 +250,7 @@ This can be changed by the designer in the scriptable object and that's all you 
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_25_2023__07_37_56.png)
+![](/Full-Stack-Game-Development/images/8090e6be9d2874ca.png)
 
 
 

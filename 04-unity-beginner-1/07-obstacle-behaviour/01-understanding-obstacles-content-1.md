@@ -95,7 +95,7 @@ Let's see what you'll be building:
 
 
 
-![Spikes](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/11_06_2024__13_50_24.gif)
+![Spikes](/Full-Stack-Game-Development/images/ca4934982eca0f63.gif)
 
 **Spikes**
 

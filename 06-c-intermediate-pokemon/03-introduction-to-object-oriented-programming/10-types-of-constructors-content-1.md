@@ -129,7 +129,7 @@ Ditto is a type of Pokémon that rearranges its cell structure to transform itse
 
 In Pokémon battles, it uses this power to copy the exact appearance and abilities of the Pokémon it is fighting. 
 
-![gif](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_30_2024__04_40_41.gif)
+![gif](/Full-Stack-Game-Development/images/f8063daa762f2583.gif)
 
 
 
@@ -170,7 +170,7 @@ Pokemon pokemon3 = pokemon1;
 
 
 
-                      ![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_30_2024__05_08_27.png)
+                      ![Image](/Full-Stack-Game-Development/images/4b6550df178ccf8b.png)
 
 
 
@@ -243,7 +243,7 @@ Now, do you know how will you create ditto for your pokemon game?
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_30_2024__05_11_51.gif)
+![Image](/Full-Stack-Game-Development/images/0dee70a2eeca0fb5.gif)
 
 
 

@@ -9,7 +9,7 @@ In a Singly Linked List (SLL), to remove a node from the end, you had to travers
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_25_2024__16_09_18.gif)
+![Image](/Full-Stack-Game-Development/images/cc74d8dd2744f87e.gif)
 
 
 

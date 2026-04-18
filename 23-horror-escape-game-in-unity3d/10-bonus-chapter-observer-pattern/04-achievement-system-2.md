@@ -6,7 +6,7 @@ Your task is to craft an achievement system for this project, that enhances play
 
 
 
-![](https://tenor.com/view/achievement-unlocked-gif-27073940.gif)
+![](/Full-Stack-Game-Development/images/76534779e1e891c9.gif)
 
 
 

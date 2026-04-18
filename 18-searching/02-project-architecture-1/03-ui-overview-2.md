@@ -1,4 +1,4 @@
-![   ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/06_12_2024__09_18_01.png)
+![   ](/Full-Stack-Game-Development/images/3e4ac9869a764287.png)
 
 
 

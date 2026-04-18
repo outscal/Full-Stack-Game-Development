@@ -35,7 +35,7 @@ But we don't do that here!
 
 
 
-![ ](https://media1.tenor.com/m/fBvQV_5Lp6UAAAAd/we-dont-do-that-here-black-panther.gif)
+![ ](/Full-Stack-Game-Development/images/fc37453e78fd6c15.gif)
 
 
 

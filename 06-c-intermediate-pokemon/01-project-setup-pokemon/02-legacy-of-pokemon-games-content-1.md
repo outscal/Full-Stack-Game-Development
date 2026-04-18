@@ -6,7 +6,7 @@ Tajiri’s inspiration came from his childhood love of collecting insects, and t
 
 
 
-![c++](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_09_2024__06_59_43.png)
+![c++](/Full-Stack-Game-Development/images/52bb560e42edf313.png)
 
 
 
@@ -20,7 +20,7 @@ Tajiri founded the game development company Game Freak.
 
 When the team at Game Freak began developing Pokémon, it was a project unlike anything else at the time.
 
-![c++](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_09_2024__07_09_20.png)
+![c++](/Full-Stack-Game-Development/images/75394455a836fc7b.png)
 
 
 
@@ -41,7 +41,7 @@ These game changed the whole scenario of the gaming industry at that time.
 
 
 
-![c++](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_09_2024__07_19_35.png)
+![c++](/Full-Stack-Game-Development/images/8811bdf521f49a8c.png)
 
 
 
@@ -77,7 +77,7 @@ The games inspired a long-running anime series, which introduced characters like
 
 
 
-![c++](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_09_2024__07_28_49.png)
+![c++](/Full-Stack-Game-Development/images/f2d8881e667fccf6.png)
 
 
 
@@ -87,7 +87,7 @@ Pokémon became a household name, with a presence in everything from movies to m
 
 
 
-![c++](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_09_2024__07_30_56.png)
+![c++](/Full-Stack-Game-Development/images/be1552d84f583096.png)
 
 
 

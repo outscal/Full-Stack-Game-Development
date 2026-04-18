@@ -9,7 +9,7 @@ In this content you will learn how to attach links in your posts to get the most
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/2010b58a-74d4-4042-9918-9990408de1de/Untitled.png)
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/64cd02d0393723c5a46dde58/01_24_2024__09_57_18.png)
+![](/Full-Stack-Game-Development/images/baff2f8d9886c81e.png)
 
 
 

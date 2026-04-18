@@ -13,7 +13,7 @@
 
 
 
-![SNAKE](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_27_2024__11_58_11.png)
+![SNAKE](/Full-Stack-Game-Development/images/77f3d16699cb2fc3.png)
 
 
 
@@ -83,7 +83,7 @@ Now you will do these insertion and deletion operations at any position!
 
 
 
-![Food Items with Functions](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_27_2024__12_28_02.png)
+![Food Items with Functions](/Full-Stack-Game-Development/images/98ad4570943f2d31.png)
 
 
 

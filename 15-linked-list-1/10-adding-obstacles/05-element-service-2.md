@@ -16,7 +16,7 @@ Step-by-step process:
 
 
 
-![gif](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_17_2024__21_08_29.gif)
+![gif](/Full-Stack-Game-Development/images/57adada380875f03.gif)
 
 ***As Simple As That***
 
@@ -24,7 +24,7 @@ Sounds like a plan, right?
 
 Let's visualize this with a diagram:
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_05_2024__07_31_54.png)
+![Image](/Full-Stack-Game-Development/images/64507c84563bce5d.png)
 
 ***Flow diagram of Initialization of Obstacles***
 

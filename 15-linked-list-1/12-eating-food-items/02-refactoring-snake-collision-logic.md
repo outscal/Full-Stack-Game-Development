@@ -1,4 +1,4 @@
-![Game Dev Monk](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_27_2024__12_32_34.png)
+![Game Dev Monk](/Full-Stack-Game-Development/images/846fd373464ff69e.png)
 
 
 
@@ -48,7 +48,7 @@ Fixing means, creating a structure that supports collision detection for all obj
 
 This new structure handles all kind of collisions
 
-![Collision Detection Flow](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_31_2024__09_31_38.png)
+![Collision Detection Flow](/Full-Stack-Game-Development/images/4ec8b8b0b40ec12c.png)
 
 ***Collision Detection Flow***
 

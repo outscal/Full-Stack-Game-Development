@@ -2,7 +2,7 @@ Let's learn about what a Branch is and how we can merge different branches in th
 
 
 
-![placeholder](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/05_13_2024__11_21_37.png)
+![placeholder](/Full-Stack-Game-Development/images/0d19837bbaf82a71.png)
 
 
 
@@ -32,7 +32,7 @@ This can be helpful if you need to return to an earlier view of the repository t
 
 
 
-![placeholder](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/05_13_2024__11_22_12.png)
+![placeholder](/Full-Stack-Game-Development/images/ba830c9fc57d9bcb.png)
 
 
 

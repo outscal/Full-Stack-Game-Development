@@ -1,4 +1,4 @@
-![ ](https://media1.tenor.com/m/57_zV98BB-AAAAAC/coffe-cup.gif)
+![ ](/Full-Stack-Game-Development/images/cdc42313dd6aa628.gif)
 
 
 
@@ -81,7 +81,7 @@ So, the actual code will not be changed in this case.
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_13_2024__10_16_06.png)
+![ ](/Full-Stack-Game-Development/images/eab8954ce583cca2.png)
 
 
 
@@ -112,7 +112,7 @@ you can pass any variable as **call by reference**.
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_13_2024__10_34_12.png)
+![ ](/Full-Stack-Game-Development/images/cba9ac4421ccfa39.png)
 
 
 

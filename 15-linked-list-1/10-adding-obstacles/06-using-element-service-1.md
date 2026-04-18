@@ -218,7 +218,7 @@ Now that you have connected everything. Great!!
 
 
 
-![i am restraining from freaking out quite admirably — Well, that's what will  happen if you open the red...](https://64.media.tumblr.com/6bbb1d87e7c296c144be715eb222065c/e6d72c5606362070-90/s400x600/0492d120008f6bac85b2615aeac9b7a678b1319e.gif)
+![i am restraining from freaking out quite admirably — Well, that's what will  happen if you open the red...](/Full-Stack-Game-Development/images/4c9fcbe7da0be717.gif)
 
 
 

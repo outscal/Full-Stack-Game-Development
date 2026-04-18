@@ -21,7 +21,7 @@ Ready to brainstorm?
 
 Hint Inside. 🙃
 
-![Solving Problems: Snake Game | Rodrigo de Oliveira](https://d33wubrfki0l68.cloudfront.net/e68b91955407f19cded1eca7e6f04c0bf7447418/3c13d/assets/img/posts/solving-problems-snake-game/gameplay.gif)
+![Solving Problems: Snake Game | Rodrigo de Oliveira](/Full-Stack-Game-Development/images/e68b91955407f19c.gif)
 
 
 
@@ -34,7 +34,7 @@ This dynamic growth and shrinking mechanism adds an exciting layer to the gamepl
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_14_2024__06_01_27.jpg)
+![Image](/Full-Stack-Game-Development/images/978a010206b48ac2.jpg)
 
 ***Kind of your Snake***
 
@@ -53,7 +53,7 @@ This dynamic growth and shrinking mechanism adds an exciting layer to the gamepl
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_14_2024__06_01_58.png)
+![Image](/Full-Stack-Game-Development/images/b1630d53a7cf8e49.png)
 
 ***Snake and Food in Grid***
 
@@ -65,7 +65,7 @@ This dynamic growth and shrinking mechanism adds an exciting layer to the gamepl
 
 ![Image](https://media.discordapp.net/attachments/823251706044481619/1236226021724782664/7fa34ff0-8d60-4eab-9087-2543e3cb9b86.png?ex=66373cb3&is=6635eb33&hm=c5f72bd6d4606ecdc319399a746e64aa9ddb84a88f6c96b2b0c056499496d48d&=&format=webp&quality=lossless&width=717&height=374)
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_14_2024__18_03_49.gif)
+![Image](/Full-Stack-Game-Development/images/1e0950f076a234e9.gif)
 
 
 
@@ -84,7 +84,7 @@ This dynamic growth and shrinking mechanism adds an exciting layer to the gamepl
 
 ![Image](https://media.discordapp.net/attachments/823251706044481619/1236226021724782664/7fa34ff0-8d60-4eab-9087-2543e3cb9b86.png?ex=66373cb3&is=6635eb33&hm=c5f72bd6d4606ecdc319399a746e64aa9ddb84a88f6c96b2b0c056499496d48d&=&format=webp&quality=lossless&width=717&height=374)
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_14_2024__18_04_49.gif)
+![Image](/Full-Stack-Game-Development/images/a71e0c74e904bd72.gif)
 
 ***Snake moving in different directions***
 
@@ -97,7 +97,7 @@ This dynamic growth and shrinking mechanism adds an exciting layer to the gamepl
 
 ![Image](https://media.discordapp.net/attachments/823251706044481619/1236226021724782664/7fa34ff0-8d60-4eab-9087-2543e3cb9b86.png?ex=66373cb3&is=6635eb33&hm=c5f72bd6d4606ecdc319399a746e64aa9ddb84a88f6c96b2b0c056499496d48d&=&format=webp&quality=lossless&width=717&height=374)
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_14_2024__18_22_10.gif)
+![Image](/Full-Stack-Game-Development/images/162cf0bb1251086d.gif)
 
 ***Snake eats itself and gets dead***
 
@@ -112,7 +112,7 @@ This dynamic growth and shrinking mechanism adds an exciting layer to the gamepl
 
 ![Image](https://media.discordapp.net/attachments/823251706044481619/1236226021724782664/7fa34ff0-8d60-4eab-9087-2543e3cb9b86.png?ex=66373cb3&is=6635eb33&hm=c5f72bd6d4606ecdc319399a746e64aa9ddb84a88f6c96b2b0c056499496d48d&=&format=webp&quality=lossless&width=717&height=374)
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_14_2024__18_06_20.gif)
+![Image](/Full-Stack-Game-Development/images/b31b1290e2b88fcc.gif)
 
 ***Snake movement through the wall***
 
@@ -143,7 +143,7 @@ This dynamic growth and shrinking mechanism adds an exciting layer to the gamepl
 
 ![Image](https://media.discordapp.net/attachments/823251706044481619/1236226021724782664/7fa34ff0-8d60-4eab-9087-2543e3cb9b86.png?ex=66373cb3&is=6635eb33&hm=c5f72bd6d4606ecdc319399a746e64aa9ddb84a88f6c96b2b0c056499496d48d&=&format=webp&quality=lossless&width=717&height=374)
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_14_2024__18_06_58.gif)
+![Image](/Full-Stack-Game-Development/images/a71e0c74e904bd72.gif)
 
 ***Snake changing its size***
 

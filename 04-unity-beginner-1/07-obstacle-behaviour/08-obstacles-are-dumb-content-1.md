@@ -14,7 +14,7 @@ Mr. Blocks just passed right through it!
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/11_06_2024__14_01_46.gif)
+![ ](/Full-Stack-Game-Development/images/d3ef716c7e89f602.gif)
 
 
 
@@ -25,7 +25,7 @@ Nothing! Mr. Blocks is unfazed!
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/11_06_2024__14_02_27.gif)
+![ ](/Full-Stack-Game-Development/images/b178f6b26b143a2b.gif)
 
 
 
@@ -35,7 +35,7 @@ Mr. Blocks is still having a great day, completely ignoring the spike.
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/11_06_2024__14_02_58.gif)
+![ ](/Full-Stack-Game-Development/images/2745d5488ded212a.gif)
 
 
 

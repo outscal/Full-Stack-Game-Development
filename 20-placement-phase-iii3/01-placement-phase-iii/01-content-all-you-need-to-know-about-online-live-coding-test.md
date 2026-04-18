@@ -14,7 +14,7 @@
 <li>If there are <b>three</b> questions rather than breaking your head to solve only one problem with all the test cases, always give priority to cracking all the base test cases of all three problems.</li>
 </ul>
 <div style = "text-align:center">
-<img src="https://i.giphy.com/media/3o7TKTDn976rzVgky4/200w.webp">
+<img src="/Full-Stack-Game-Development/images/db957e21b2fb1b5e.webp">
 </div>
 </div>
 

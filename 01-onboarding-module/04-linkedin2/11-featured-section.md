@@ -5,4 +5,4 @@
 - Here, you can highlight your Resume, Portfolio & Github Profile (if any) and make the job of a recruiter easier.
 - You can add any viral or important post that you created earlier for even more visibility.
 
-![gif](https://github.com/outscal/2D-Platformer-Game/assets/107213542/b513066a-3c62-40bb-82ff-fdb32130e02d)
+![gif](/Full-Stack-Game-Development/images/f7d83fdd4b8f4f98.png)

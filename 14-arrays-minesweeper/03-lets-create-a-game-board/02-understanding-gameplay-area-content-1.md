@@ -13,7 +13,7 @@ Let's see the background image first:
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/01_14_2025__07_30_47.png)
+![ ](/Full-Stack-Game-Development/images/51f09d9aa6fca08a.png)
 
 **A Background Image**
 
@@ -24,7 +24,7 @@ It's not just for looks - it helps players focus on what matters.
 
 Now, here's where it gets interesting...
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/02_11_2025__08_11_10.png)
+![ ](/Full-Stack-Game-Development/images/cc508b9fd162e8b2.png)
 
 
 

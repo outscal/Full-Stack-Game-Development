@@ -14,4 +14,4 @@
   - what kind of outcomes were you able to achieve. Take a look at an example below:
 - Here’s a [link](https://www.linkedin.com/in/mayankgrover?utm_source=linkedin-ttv&utm_medium=free-course&utm_term=tagline-and-location) to the below example
 
-![gif](https://github.com/outscal/2D-Platformer-Game/assets/107213542/751b7a16-24d5-4adc-b0e2-a10d2f602c0a)
+![gif](/Full-Stack-Game-Development/images/61ebc807face8d2a.png)

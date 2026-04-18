@@ -2,7 +2,7 @@
 
 **(Assets can be placeholders)**
 
-![](https://user-images.githubusercontent.com/85812175/227511158-ce10ef30-efb3-40d5-9e3f-d49f1fe70bd0.png)
+![](/Full-Stack-Game-Development/images/c288f55b376f6cde.png)
 
 
 
@@ -14,7 +14,7 @@
 1. **Coins**
 2. **Gems**
 
-![](https://user-images.githubusercontent.com/85812175/227511754-3795d635-fd34-40eb-97fa-357414a1a65e.png)
+![](/Full-Stack-Game-Development/images/59d3af59a4d8db04.png)
 
 
 
@@ -25,7 +25,7 @@
 
 - Every number here should be flexible to change by the designers and should not be hard coded!
 
-![](https://user-images.githubusercontent.com/85812175/227713102-aa4f1820-28ac-45fc-a83a-608d463c1e09.png)
+![](/Full-Stack-Game-Development/images/4714c61d9df79040.png)
 
 
 
@@ -43,7 +43,7 @@
 
 - If slots are full → Pop up saying slots are full will appear.!
 
-![](https://user-images.githubusercontent.com/85812175/227512089-5ed843a1-cdf4-4e10-a370-54f48865b267.png)
+![](/Full-Stack-Game-Development/images/603fc3fdd3fc0989.png)
 
 
 
@@ -52,7 +52,7 @@
 
 ---
 
-## ![](https://user-images.githubusercontent.com/85812175/227512211-3a0af551-6d58-4743-acb8-b1a0b81f861b.png)
+## ![](/Full-Stack-Game-Development/images/989e2dabf9a3ab35.png)
 
 - Chests can be
 

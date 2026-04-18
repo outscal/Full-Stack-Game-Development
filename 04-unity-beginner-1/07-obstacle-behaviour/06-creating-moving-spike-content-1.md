@@ -9,7 +9,7 @@ To create your moving spike, you'll combine two behaviors: rotation and back-and
 
 
 
-![Moving Spike](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/11_06_2024__13_58_17.gif)
+![Moving Spike](/Full-Stack-Game-Development/images/e9705f47889f6ff8.gif)
 
 **Moving Spike**
 

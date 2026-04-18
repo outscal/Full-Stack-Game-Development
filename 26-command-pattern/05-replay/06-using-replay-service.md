@@ -6,7 +6,7 @@ Right now when a Battle ends, you can see a **Game End UI Screen** which current
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/11_01_2023__13_45_31.png)
+![](/Full-Stack-Game-Development/images/873d46c4cfe1143f.png)
 
 
 
@@ -145,4 +145,4 @@ Its that easy to implement a replay functionality if you know how to utilize Com
 
 
 
-![](https://tenor.com/view/replay-instant-replay-gif-24027882.gif)
+![](/Full-Stack-Game-Development/images/64feba886c1c3e51.gif)

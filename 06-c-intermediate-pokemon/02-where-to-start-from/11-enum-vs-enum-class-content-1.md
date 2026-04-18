@@ -127,7 +127,7 @@ Did you get some error as shown below?
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_12_2024__12_47_31.png)
+![ ](/Full-Stack-Game-Development/images/d80679c273f03f32.png)
 
 
 

@@ -28,7 +28,7 @@ Let's see this with ***Flappy Bird’s*** example.
 
 ---
 
-![Flappy Bird](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/02_12_2025__06_18_30.gif)
+![Flappy Bird](/Full-Stack-Game-Development/images/4e4740d94a61e86f.gif)
 
 **Flappy Bird Gameplay**
 

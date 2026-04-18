@@ -22,7 +22,7 @@ and the only way to manage its powerful tools is through mystical tags called Po
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_21_2024__12_01_40.png)
+![Image](/Full-Stack-Game-Development/images/00a3d87c08860a88.png)
 
 
 

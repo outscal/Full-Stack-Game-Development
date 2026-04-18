@@ -43,11 +43,11 @@ undo the last step played by the user
 **Note - These are samples, create a more engaging look by printing the grid and messages in any other way.**
 
 .
-<img src="https://user-images.githubusercontent.com/85812175/232395751-7c52132d-9424-497d-89a0-193b0b00b792.png" alt="image" width = 800>
+<img src="/Full-Stack-Game-Development/images/4a1494a9c5745847.png" alt="image" width = 800>
 
-<img src="https://user-images.githubusercontent.com/85812175/232396410-640e02ea-2dea-4ec4-9068-0eb5b1f19c57.png" alt="image" width = 300>
+<img src="/Full-Stack-Game-Development/images/f2b72f1c30fdf808.png" alt="image" width = 300>
 
-<img src="https://user-images.githubusercontent.com/85812175/232396653-7786aaa8-5cf9-4902-8bf1-aafd456bb022.png" alt="image" width = 450>
+<img src="/Full-Stack-Game-Development/images/06be98d6414ee19b.png" alt="image" width = 450>
 
 .
 

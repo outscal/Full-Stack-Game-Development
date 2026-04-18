@@ -31,7 +31,7 @@ Stay engaged, keep learning, and keep sharing. We’re here to support you, and 
 
 
 
-![](https://tenor.com/view/lets-share-everything-that-we-have-bev-keane-samantha-sloyan-midnight-mass-book-vi-acts-of-the-apostles-gif-23604203.gif)
+![](/Full-Stack-Game-Development/images/313c6bbe1a81a622.gif)
 
 
 

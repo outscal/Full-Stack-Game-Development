@@ -249,7 +249,7 @@ It is only using the common `attack()` method inside it.
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_06_2024__09_22_25.png)
+![Image](/Full-Stack-Game-Development/images/dbfa14ba3dfd0930.png)
 
 
 
@@ -273,7 +273,7 @@ Did you get an error saying no member named 'thunderShock' in Pokemon?
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_06_2024__09_27_52.png)
+![Image](/Full-Stack-Game-Development/images/a5de75ed81e45c4f.png)
 
 
 

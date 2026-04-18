@@ -28,7 +28,7 @@ The goal wasn't just to eat apples. It was getting through tougher and tougher t
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_05_2024__06_02_57.png)
+![Image](/Full-Stack-Game-Development/images/9efc39388cbc696e.png)
 
 ***Different levels of Nokia Snake game***
 
@@ -51,11 +51,11 @@ For example, you don’t want to introduce too many gameplay features too quickl
 
 
 
-![](http://www.davetech.co.uk/pages/difficultycurves/i/easy-to-learn-hard-to-master.gif)
+![](/Full-Stack-Game-Development/images/b3d76e7f7224bfd5.gif)
 
-![](http://www.davetech.co.uk/pages/difficultycurves/i/easy-to-learn-hard-to-master.gif)
+![](/Full-Stack-Game-Development/images/b3d76e7f7224bfd5.gif)
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_17_2024__15_08_00.gif)
+![Image](/Full-Stack-Game-Development/images/3ff1dfa66c26ce34.gif)
 
 
 
@@ -80,7 +80,7 @@ Here are a few examples:
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_05_2024__06_15_15.png)
+![Image](/Full-Stack-Game-Development/images/5fa8e2bc83eeb786.png)
 
 
 
@@ -96,7 +96,7 @@ Directly inspired by the OG Snake!
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_05_2024__06_03_50.png)
+![Image](/Full-Stack-Game-Development/images/b572cff86cbc4898.png)
 
 ***Glimpse of Level 2***
 

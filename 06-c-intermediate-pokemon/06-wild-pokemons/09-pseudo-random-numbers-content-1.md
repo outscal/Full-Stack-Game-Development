@@ -14,7 +14,7 @@ That random number is the thing that makes the ludo really interesting.
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_16_2024__06_36_15.png)
+![ ](/Full-Stack-Game-Development/images/93281ee1c0761f56.png)
 
 
 
@@ -75,7 +75,7 @@ But still the result is unpredictable.
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_16_2024__06_33_40.png)
+![ ](/Full-Stack-Game-Development/images/2eaad53c9cc03292.png)
 
 
 
@@ -188,7 +188,7 @@ suppose x is the **seed**. Inside a random function, the processing is something
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_16_2024__06_44_22.png)
+![ ](/Full-Stack-Game-Development/images/2f72524dd4893f99.png)
 
 Random Function
 

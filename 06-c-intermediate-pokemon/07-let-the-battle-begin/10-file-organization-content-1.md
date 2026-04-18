@@ -47,7 +47,7 @@ then you will be able to do it on your own.
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_05_2024__05_36_21.png)
+![ ](/Full-Stack-Game-Development/images/eeda5e209d182f0a.png)
 
 
 
@@ -103,7 +103,7 @@ to organise the code according to functionalities.
 
 Your directory should look like
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_05_2024__09_28_06.png)
+![ ](/Full-Stack-Game-Development/images/a3b7c4e5dbd4ea37.png)
 
 
 
@@ -111,7 +111,7 @@ Your directory should look like
 
 ***include*** folder should look like
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_05_2024__06_17_45.png)
+![ ](/Full-Stack-Game-Development/images/f12fc7def4e1ad5f.png)
 
 
 
@@ -119,7 +119,7 @@ Your directory should look like
 
 ***src*** folder should look like
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_05_2024__09_31_29.png)
+![ ](/Full-Stack-Game-Development/images/965d3b70f56759b4.png)
 
 
 

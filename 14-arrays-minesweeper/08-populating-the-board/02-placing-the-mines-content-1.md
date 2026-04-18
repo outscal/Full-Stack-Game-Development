@@ -326,7 +326,7 @@ This helps us see if our mines are placed correctly!
 
 Now, you should be able to see the mines!
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/02_18_2025__10_33_05.png)
+![ ](/Full-Stack-Game-Development/images/5745ec906a33d47c.png)
 
 
 

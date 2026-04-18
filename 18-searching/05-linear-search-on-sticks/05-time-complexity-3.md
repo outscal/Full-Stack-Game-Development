@@ -504,7 +504,7 @@ From the video, you can easily see the UI elements that are present on the scree
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/06_07_2024__10_27_05.gif)
+![ ](/Full-Stack-Game-Development/images/ea55c0dc0ea9292e.gif)
 
 
 

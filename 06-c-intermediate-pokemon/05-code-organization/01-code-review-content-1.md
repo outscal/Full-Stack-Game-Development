@@ -134,7 +134,7 @@ Unless you jump in from the window like me 😂
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_14_2024__06_12_19.png)
+![ ](/Full-Stack-Game-Development/images/fd1cf9faff24a846.png)
 
 
 

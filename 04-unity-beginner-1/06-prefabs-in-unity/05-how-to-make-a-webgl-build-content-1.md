@@ -77,7 +77,7 @@ If you open your Build folder, you will see 3 files like these:
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/11_20_2024__10_30_55.png)
+![ ](/Full-Stack-Game-Development/images/b686caa95c0f59f1.png)
 
 
 

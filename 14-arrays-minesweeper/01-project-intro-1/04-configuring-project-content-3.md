@@ -23,7 +23,7 @@ If you don't have SFML, install it from this link: [SFML](https://www.sfml-dev.o
 
 Download the version that works with Visual Studio C++ **2022** 
 
-![SFML Download Version](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/04_05_2024__07_46_10.png)
+![SFML Download Version](/Full-Stack-Game-Development/images/3fe1f73f7816fe77.png)
 
 
 
@@ -37,7 +37,7 @@ Download the version that works with Visual Studio C++ **2022**
 
 - Open the directory where your solution file (`, before we begin, you need to set up SFML for`) for your project is present, as shown in the image below:
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/02_20_2024__15_55_05.png)
+![](/Full-Stack-Game-Development/images/091fefcb5bd0641b.png)
 
 **Project Folder**
 
@@ -50,10 +50,10 @@ Download the version that works with Visual Studio C++ **2022**
 
 **BEFORE:**
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/12_19_2023__10_18_59.png)
+![](/Full-Stack-Game-Development/images/89e4d709f9c9ef03.png)
 
 **AFTER:**
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/12_19_2023__10_49_52.png)
+![](/Full-Stack-Game-Development/images/744b9e93af502308.png)
 
 
 
@@ -75,7 +75,7 @@ Download the version that works with Visual Studio C++ **2022**
 - Ensure you copy all the files highlighted below from the bin folder (they should have a -d suffix indicating debug mode).
 - Let's copy and paste them among our executable files as follows:
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/02_20_2024__16_05_09.png)
+![](/Full-Stack-Game-Development/images/a19dbcd7c5f7ea10.png)
 
 
 
@@ -88,7 +88,7 @@ Download the version that works with Visual Studio C++ **2022**
 Expected Output.
 
 
-![Splash Screen](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/02_12_2025__06_49_17.gif)
+![Splash Screen](/Full-Stack-Game-Development/images/bb98e20096ff3083.gif)
 
 
 
@@ -102,6 +102,6 @@ You can compare your project with the [solution branch](https://github.com/outsc
 
 
 
-![Minesweeper is ready to be built](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/04_04_2024__07_36_21.png)
+![Minesweeper is ready to be built](/Full-Stack-Game-Development/images/e234cd73b192fdab.png)
 
 **The game is ready to be created!**

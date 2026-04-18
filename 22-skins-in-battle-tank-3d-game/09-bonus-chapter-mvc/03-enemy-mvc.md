@@ -18,7 +18,7 @@ In this assignment, you'll be creating three distinct enemy tank types, each wit
 
 
 
-![](https://tenor.com/view/tank-battle-gif-22892677.gif)
+![](/Full-Stack-Game-Development/images/0064424e08f7d448.gif)
 
 
 

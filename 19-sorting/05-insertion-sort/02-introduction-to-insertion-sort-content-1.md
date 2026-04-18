@@ -25,13 +25,13 @@ Let's look at all of this in a bit more detail now.
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_27_2024__09_08_27.png)
+![ ](/Full-Stack-Game-Development/images/4bc7c810b1c9ce82.png)
 
 ***Unsorted Dataset***
 
 - Initially, only the first element is "Sorted".
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_27_2024__09_12_51.png)
+![ ](/Full-Stack-Game-Development/images/06e672574b810778.png)
 
 
 
@@ -39,7 +39,7 @@ Let's look at all of this in a bit more detail now.
 - - If the unsorted element is smaller than the sorted element; then shift the sorted element backwards to make room.
   - Otherwise, if it's larger than the sorted element, it stays as it is.
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_27_2024__09_30_10.gif)
+![ ](/Full-Stack-Game-Development/images/4b04442683519ddf.gif)
 
 ***Case 1***
 
@@ -61,7 +61,7 @@ As the algorithm continues to iterate through the unsorted subset, it picks elem
 
 Imagine you have an unsorted dataset like this: `[6, 5, 3, 1, 8, 7, 2, 4]`.
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_25_2024__08_57_51.gif)
+![ ](/Full-Stack-Game-Development/images/59cbb2c37f857d01.gif)
 
 *Insertion Sort *
 

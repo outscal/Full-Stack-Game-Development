@@ -8,7 +8,7 @@
 **TODO: Create a Level Selection Screen. Add 3 buttons: one for Level One, one for Level Two, and one for the menu. Display this screen when the player clicks the Play button in the menu.**
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_03_2024__10_19_23.png)
+![Image](/Full-Stack-Game-Development/images/46eacd46568542db.png)
 
 ***Level Selection UI***
 

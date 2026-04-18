@@ -2,7 +2,7 @@ Ready for the next move?
 
 It's time to implement the logic of adding the last minion to the minion train! 🚂
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_25_2024__09_15_37.gif)
+![Image](/Full-Stack-Game-Development/images/6f70a59fd0c9f2b5.gif)
 
 
 
@@ -63,7 +63,7 @@ First, point the last node's `next` to `new_node`.
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_25_2024__10_54_10.png)
+![Image](/Full-Stack-Game-Development/images/9fd47c4293440756.png)
 
 
 
@@ -71,7 +71,7 @@ Then. the`previous` of `new_node` to the last node.
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_25_2024__10_54_55.png)
+![Image](/Full-Stack-Game-Development/images/fac5b43a50636b07.png)
 
 
 

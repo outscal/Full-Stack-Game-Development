@@ -16,7 +16,7 @@ Giving the player enough time to read each one.
 
 ![c++](https://images-ext-1.discordapp.net/external/86fnV5Opd5SzP6QyLWbfg5vM-mklZE95cruzdfoLST4/https/media.tenor.com/N8Wp9CHroz4AAAPo/game-interface-video-game.gif)
 
-![c++](https://media1.tenor.com/m/N8Wp9CHroz4AAAAC/game-interface-video-game.gif)
+![c++](/Full-Stack-Game-Development/images/a853d6c8f470a226.gif)
 
 
 

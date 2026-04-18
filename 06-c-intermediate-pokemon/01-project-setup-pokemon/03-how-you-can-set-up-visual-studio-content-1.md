@@ -24,7 +24,7 @@ and click on the official website of Microsoft as shown below
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_21_2024__06_04_53.png)
+![ ](/Full-Stack-Game-Development/images/8cc62c27a08e55de.png)
 
 
 
@@ -36,7 +36,7 @@ Step 2 - Click on **Free Download** under **Community** as shown below
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_21_2024__06_07_25.png)
+![ ](/Full-Stack-Game-Development/images/d28cbe3e47037751.png)
 
 
 
@@ -52,7 +52,7 @@ Select the **downloads** folder.
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_21_2024__06_13_58.png)
+![ ](/Full-Stack-Game-Development/images/23b16e1ee020363e.png)
 
 
 
@@ -68,11 +68,11 @@ A pop up window will appear on the screen
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_21_2024__06_17_28.png)
+![ ](/Full-Stack-Game-Development/images/8f2e8b7a88869b1d.png)
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_21_2024__06_19_00.png)
+![ ](/Full-Stack-Game-Development/images/72a1ff56da50790f.png)
 
 
 
@@ -88,7 +88,7 @@ and Visual Studio will be opened.
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_21_2024__06_33_30.png)
+![ ](/Full-Stack-Game-Development/images/b11efbf21a15dcb5.png)
 
 
 
@@ -102,9 +102,9 @@ It will take some time so have a glass of Water guys!
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_21_2024__06_38_20.png)
+![ ](/Full-Stack-Game-Development/images/3e358dd5ff9f948c.png)
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_21_2024__06_38_32.png)
+![ ](/Full-Stack-Game-Development/images/2efed38697c2c7b8.png)
 
 
 
@@ -116,7 +116,7 @@ You will see a window shown below, click on **launch**
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_21_2024__06_45_34.png)
+![ ](/Full-Stack-Game-Development/images/9ff3716633966fc7.png)
 
 
 

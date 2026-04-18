@@ -28,6 +28,6 @@ Important steps to keep in mind while submitting your pull requests
 2. **Generalization**: If you have created an X branch **from a Y branch** then submit a pull request by comparing the X branch **with a Y branch**. 
 </details>
 
-<img src="https://outscal.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4c1c4f7d-d2ed-42f6-9a12-c11f689ecbff%2FGit_feature_branch_workflow.jpg?table=block&id=459fd194-4069-4544-8ae9-f3664f08f7a7&spaceId=8c9f7b97-3438-434a-b8ca-0a53eb7262ea&width=2000&userId=&cache=v2" width ="700">
+<img src="/Full-Stack-Game-Development/images/6f3dd1991e346e42.jpg" width ="700">
 
 

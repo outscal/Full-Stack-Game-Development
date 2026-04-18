@@ -22,7 +22,7 @@
 
 Expected Output.
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/10_04_2024__06_49_31.png)
+![ ](/Full-Stack-Game-Development/images/f137c5753f9076fb.png)
 
 
 

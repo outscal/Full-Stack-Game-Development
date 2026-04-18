@@ -25,7 +25,7 @@ So, for that, just **break the bond** between the blue and green blocks (unlin
 
 Insert the yellow block above the blue and then connect the green block with the yellow. Tada, simple that was. 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_30_2024__17_38_14.jpg)
+![Image](/Full-Stack-Game-Development/images/4240d87764effacf.jpg)
 
 *** Lego Tower***
 
@@ -35,13 +35,13 @@ In terms of a linked list, the **node** represents an individual Lego block, and
 
 The new block is like the **new node**. 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_01_2024__10_03_36.jpg)
+![Image](/Full-Stack-Game-Development/images/0021c2fc0e36b339.jpg)
 
 
 
 The connection between these Lego blocks is like a **pointer**: the yellow block **points** to the blue block.
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_01_2024__10_09_03.jpg)
+![Image](/Full-Stack-Game-Development/images/416722ea02dd1ce3.jpg)
 
 
 
@@ -53,7 +53,7 @@ If you add a new red block on top, the blue block must now **point** to the red 
 
 Arrays are great for fast-indexed access, but you must know the exact number of elements.
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_30_2024__17_48_23.jpg)
+![Image](/Full-Stack-Game-Development/images/a9c924699922d104.jpg)
 
 ***Theatre***
 
@@ -84,7 +84,7 @@ Now, if you want to insert an element/node in the 2nd index of both data structu
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_01_2024__10_44_52.png)
+![Image](/Full-Stack-Game-Development/images/dac926902ba07802.png)
 
 
 
@@ -133,7 +133,7 @@ Simple right?
 
 
 
-![gif](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_01_2024__10_27_08.gif)
+![gif](/Full-Stack-Game-Development/images/c99719029826aeb4.gif)
 
 ***Insertion at Middle***
 

@@ -8,7 +8,7 @@ Get ready to send shivers down players' spines with these new horrors. Here's yo
 
 
 
-![](https://tenor.com/view/cj-gif-22858252.gif)
+![](/Full-Stack-Game-Development/images/388d3e442f254112.gif)
 
 
 
@@ -22,7 +22,7 @@ Get ready to send shivers down players' spines with these new horrors. Here's yo
 
 
 
-![](https://tenor.com/view/annabelle-the-conjuring-creepy-doll-doll-creepy-gif-6423220.gif)
+![](/Full-Stack-Game-Development/images/3231ced7353bba8e.gif)
 
 
 
@@ -36,7 +36,7 @@ Get ready to send shivers down players' spines with these new horrors. Here's yo
 
 
 
-![](https://tenor.com/view/girl-painting-scary-boo-halloween-gif-14057389.gif)
+![](/Full-Stack-Game-Development/images/07fdfa7929556a13.gif)
 
 
 

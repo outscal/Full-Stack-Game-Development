@@ -4,7 +4,7 @@ Continuing from where we left in the previous section, we have created and given
 
 Here is a reminder of how its going to be processed:
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_26_2023__10_12_49.png)
+![](/Full-Stack-Game-Development/images/183849087d6f85a3.png)
 
 The command will pass through the player service, allowing each component to add necessary data to it.
 
@@ -105,7 +105,7 @@ While you won't notice significant gameplay changes yet, you've successfully int
 
 
 
-![](https://tenor.com/view/hipphipphurra-hurrahurrahurra-congratulations-gif-10870550763180405662.gif)
+![](/Full-Stack-Game-Development/images/6e8ff1ea6e096f87.gif)
 
 
 

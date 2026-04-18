@@ -1,4 +1,4 @@
-![Type of Data Structures](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/03_07_2024__15_01_55.png)
+![Type of Data Structures](/Full-Stack-Game-Development/images/4fc244ceffc79c45.png)
 
 
 
@@ -20,7 +20,7 @@ Data structures that can be used for other complex storages are called **non-pr
 
 A data structure is called linear if its elements are arranged in a sequence, one after the other.
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/02_28_2025__11_33_36.png)
+![ ](/Full-Stack-Game-Development/images/43cf9cedc33c1703.png)
 
 
 
@@ -34,7 +34,7 @@ In **non-linear data** structure elements are **not **arranged in sequence. Tr
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/03_11_2025__06_11_51.png)
+![ ](/Full-Stack-Game-Development/images/4dd9a694df900874.png)
 
 
 

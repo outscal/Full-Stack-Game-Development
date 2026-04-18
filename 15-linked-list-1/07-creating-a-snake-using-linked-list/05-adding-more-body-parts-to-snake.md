@@ -71,7 +71,7 @@ If any node whose next pointer is not `**nullptr**` can never be referred to as 
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_05_2024__10_07_50.png)
+![Image](/Full-Stack-Game-Development/images/654f639298ccc52a.png)
 
 
 
@@ -101,7 +101,7 @@ This loop visits each node from the head to the node whose next pointer is `**nu
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_05_2024__10_19_49.gif)
+![Image](/Full-Stack-Game-Development/images/0208b9359413092a.gif)
 
 
 
@@ -134,7 +134,7 @@ Imagine you have two nodes **A** & **B**. Both are pointing to `**nullptr**` rig
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_05_2024__10_51_13.png)
+![Image](/Full-Stack-Game-Development/images/178eef2d71099152.png)
 
 
 
@@ -146,7 +146,7 @@ This connects node **A** to node **B**, creating a sequence in the linked list.
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_05_2024__10_50_59.png)
+![Image](/Full-Stack-Game-Development/images/12d99700f73e38a4.png)
 
 
 
@@ -167,7 +167,7 @@ You know the drill: create a new node, reach till the end, then point it to the 
 
 This is how it looks:
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_05_2024__11_02_29.gif)
+![Image](/Full-Stack-Game-Development/images/c66ef8ef0cdb73db.gif)
 
 ***Insertion at the Tail***
 
@@ -360,7 +360,7 @@ Now, you should see your snake with its body. 🤭
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_31_2024__04_34_12.gif)
+![Image](/Full-Stack-Game-Development/images/6f70a59fd0c9f2b5.gif)
 
 ***Inserting Node At Tail: Minion Edition *****😁**
 

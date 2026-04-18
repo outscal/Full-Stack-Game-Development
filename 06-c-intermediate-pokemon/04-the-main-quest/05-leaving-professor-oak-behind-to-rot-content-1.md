@@ -4,7 +4,7 @@ move on to your next adventure.
 
 
 
-![Pokemon Champion](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_28_2024__09_28_35.png)
+![Pokemon Champion](/Full-Stack-Game-Development/images/d075ad17c5d636eb.png)
 
 
 

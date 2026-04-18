@@ -1,4 +1,4 @@
-![Half-Half](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_31_2024__10_16_29.gif)
+![Half-Half](/Full-Stack-Game-Development/images/ac3bfe1c1725fa4d.gif)
 
 ***Snake Half-Half***
 
@@ -13,7 +13,7 @@ Eating poison reduces the snake's length to half.
 
 ---
 
-![Splitting in Half Index Calculations](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_31_2024__11_31_32.png)
+![Splitting in Half Index Calculations](/Full-Stack-Game-Development/images/7672ba39e4a69a7e.png)
 
 ***Splitting in Half Index Calculations***
 
@@ -73,7 +73,7 @@ Something to start the process. First, calculate the new tail index and then rem
 
 Let's follow the architecture in the image:
 
-![Flow- Snake Splitting](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_31_2024__10_17_28.png)
+![Flow- Snake Splitting](/Full-Stack-Game-Development/images/dd0d49974a7ad6b1.png)
 
 ***Flow- Splitting Snake***
 

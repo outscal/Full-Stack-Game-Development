@@ -17,9 +17,9 @@ You just need to traverse to that index and change some `*next*` pointers.
 
 But we are not just working on a Linked List but on a Snake.
 
-![placeholder](https://outscal.com/EditLMS/snake/linked-list-1/linked-list-operations/undefined)
+![placeholder](/Full-Stack-Game-Development/images/bb685daa8eb45802.bin)
 
-![Insertion at Middle](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_31_2024__12_51_03.gif)
+![Insertion at Middle](/Full-Stack-Game-Development/images/42cba2bc7ff3ae9c.gif)
 
 ***Inserting a Body Part at index = 2***
 

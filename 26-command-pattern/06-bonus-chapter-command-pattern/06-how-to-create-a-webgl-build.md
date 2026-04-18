@@ -50,27 +50,27 @@ Check if the WebGL Build Support module has been added to your Unity installatio
 1. Open the Unity Hub.
 2. Select the **Projects** tab, and identify the version of Unity you are using in the project you want to build.
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_17_2023__10_29_01.png)
+![](/Full-Stack-Game-Development/images/8a52fd3b3bad1a00.png)
 
 
 
 1. Select the **Installs** tab and search for the **same version** in the list available as shown below in the image. 
   If the **WebGL Build Support** module is installed, a WebGL icon will be present at the bottom of the version tile.
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNFfdngFlgr3qRNLUeeJM%2Fuploads%2FaJuy3bWIkt6WLz1gwk41%2Fwg2.png?alt=media&token=9ac64fc6-8474-4c3d-82c2-7921de1d39e7)
+![](/Full-Stack-Game-Development/images/b8c7600983105a1b.png)
 
 
 
 1. If the WebGL icon is not present, add the **WebGL Build Support** module to your version of Unity.
 2. Select “**Add modules**” option in Settings menu for the Unity version you wish to use.
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNFfdngFlgr3qRNLUeeJM%2Fuploads%2FUp2QlE5APh3qfxPv7OXI%2Fwg3.png?alt=media&token=83fbd3b4-b35a-4fba-8adc-0f2a57c6396e)
+![](/Full-Stack-Game-Development/images/e090367647805820.png)
 
 
 
 1. Choose “**WebGL Build Support**” module and select “**Install Button**”.
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNFfdngFlgr3qRNLUeeJM%2Fuploads%2FXtLlMQyE1skggArAMCOo%2Fwg4.png?alt=media&token=4461cf70-a336-4de0-a9cc-8e12157e941a)
+![](/Full-Stack-Game-Development/images/2bb2d59957a369d8.png)
 
 
 
@@ -86,7 +86,7 @@ Check if the WebGL Build Support module has been added to your Unity installatio
 - In the Unity Editor top menu, go to **File** > **Build Settings**.
 - In the Build Settings window, find the **Scenes in Build** section. This is where you can control which Scenes are included in your build.
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNFfdngFlgr3qRNLUeeJM%2Fuploads%2FJZGumeTbiUNnzLtjfvUE%2Fwg5.png?alt=media&token=55e847f6-56c3-426e-a51f-52296fdeae62)
+![](/Full-Stack-Game-Development/images/40a3b1d56a0d2d17.png)
 
 - 
 
@@ -94,7 +94,7 @@ Check if the WebGL Build Support module has been added to your Unity installatio
 - Once WebGL is selected, A **Switch Platform** button will be available at the bottom right of the window as highlighted below. 
   Select it to change your build Platform to WebGL.
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNFfdngFlgr3qRNLUeeJM%2Fuploads%2FyRv6b3S5VbovsrgkiIkw%2Fwg6.png?alt=media&token=5863ce57-dbee-4aef-9d9e-ac8a68510718)
+![](/Full-Stack-Game-Development/images/7da858549d0dbf67.png)
 
 
 

@@ -15,7 +15,7 @@ This is my favourite topic.
 
 
 
-![ ](https://media.tenor.com/vvu2K7B2puEAAAAM/excited-hockey.gif)
+![ ](/Full-Stack-Game-Development/images/39462d63867edee9.gif)
 
 
 
@@ -66,4 +66,4 @@ SO LETS GOOOOO!!!
 
 
 
-![ ](https://media.tenor.com/vUE_peSWrrwAAAAM/pikahappy.gif)
+![ ](/Full-Stack-Game-Development/images/f98a3ce59acab195.gif)

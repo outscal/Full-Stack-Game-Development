@@ -6,7 +6,7 @@ Its time to create our own Abstract Command Interface.
 
 Create a Folder and namespace inside your script folder called "Commands". Inside that Folder create another Folder called Abstract Commands:
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_25_2023__08_30_01.png)
+![](/Full-Stack-Game-Development/images/18e993d9ade6c8e1.png)
 
 
 

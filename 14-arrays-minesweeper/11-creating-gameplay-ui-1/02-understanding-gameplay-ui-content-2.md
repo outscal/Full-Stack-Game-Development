@@ -9,7 +9,7 @@ In this lesson, you'll understand the purpose of the UI Elements that you'll add
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/01_14_2025__06_39_10.png)
+![ ](/Full-Stack-Game-Development/images/8fae717a2f140c45.png)
 
 **Gameplay UI Elements**
 

@@ -6,7 +6,7 @@ As you progress through each module in this course, you'll encounter an opportun
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/11_15_2023__09_27_52.png)
+![](/Full-Stack-Game-Development/images/2a898cd3d8ffa8c3.png)
 
 
 

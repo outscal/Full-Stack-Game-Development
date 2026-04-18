@@ -28,7 +28,7 @@ Before implementing this function, you need to keep track of the Linked List's s
 
 ---
 
-![Flow- Inserting at Head](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/06_05_2024__10_35_52.png)
+![Flow- Inserting at Head](/Full-Stack-Game-Development/images/f1667dea3cd6dee2.png)
 
 ***Flow for Inserting at Head***
 

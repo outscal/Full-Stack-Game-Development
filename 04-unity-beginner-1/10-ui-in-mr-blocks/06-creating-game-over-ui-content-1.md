@@ -4,7 +4,7 @@ Here’s how the Game Over UI looks:
 
 
 
-![Game Over UI](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/11_06_2024__14_22_29.png)
+![Game Over UI](/Full-Stack-Game-Development/images/71d41ea75ac9a63d.png)
 
 **Game Over UI**
 

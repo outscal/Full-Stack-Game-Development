@@ -23,7 +23,7 @@ What is an Array?!🤔
 
 
 
-![Biscuits](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/04_01_2024__09_47_43.png)
+![Biscuits](/Full-Stack-Game-Development/images/6ff79457d0f1c857.png)
 
 
 

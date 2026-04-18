@@ -8,7 +8,7 @@ You must defeat the Boss of all enemies...  **THE HARBRINGER!**
 
 
 
-![](https://tenor.com/view/darksouls-gif-20991094.gif)
+![](/Full-Stack-Game-Development/images/17ab4b3ee356e68f.gif)
 
 
 
@@ -26,4 +26,4 @@ The **Harbinger** is a colossal, otherworldly being, a manifestation of the chao
 
 
 
-![](https://tenor.com/view/kirito-in-a-boss-battle-with-demon-gif-14902732.gif)
+![](/Full-Stack-Game-Development/images/2e221d6204fe8e5f.gif)

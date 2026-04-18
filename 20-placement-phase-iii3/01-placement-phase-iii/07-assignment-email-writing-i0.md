@@ -11,7 +11,7 @@
 <li>Take a screenshot of your written email and submit the screenshot as a submission.</li>
 </ul>
 <div style = "text-align:center;margin-top:1rem">
-<img src="https://media.tenor.com/1kGVwjCO36wAAAAC/sent-send-email.gif" width="70%">
+<img src="/Full-Stack-Game-Development/images/d8c179260e239a69.gif" width="70%">
 </div>
 </div>
 

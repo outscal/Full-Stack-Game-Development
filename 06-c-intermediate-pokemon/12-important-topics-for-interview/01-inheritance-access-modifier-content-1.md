@@ -154,7 +154,7 @@ Take a look at the below diagram:
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_18_2024__07_01_21.png)
+![Image](/Full-Stack-Game-Development/images/9c2860ea363cacab.png)
 
 
 

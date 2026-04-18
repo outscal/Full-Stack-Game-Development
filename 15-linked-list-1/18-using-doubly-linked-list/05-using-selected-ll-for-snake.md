@@ -9,7 +9,7 @@ In this section, you will write the complete code to use the UI Menus to select 
 
 ---
 
-![Flow- Creating Desired Linked List](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_31_2024__10_49_54.png)
+![Flow- Creating Desired Linked List](/Full-Stack-Game-Development/images/7e12d456a9fd19b0.png)
 
 ***Flow for creating desired Linked List***
 
@@ -30,7 +30,7 @@ Let's go the bottom-up approach and start with Snake Controller
 
 ---
 
-![Linked List Inheritance Tree](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_31_2024__10_50_36.png)
+![Linked List Inheritance Tree](/Full-Stack-Game-Development/images/b324f8a4969391f9.png)
 
 ***Linked List Inheritance Tree***
 

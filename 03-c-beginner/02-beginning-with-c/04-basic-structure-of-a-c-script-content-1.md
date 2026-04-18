@@ -1,4 +1,4 @@
-![Code with Fancy Words](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/09_05_2024__09_58_46.png)
+![Code with Fancy Words](/Full-Stack-Game-Development/images/42a33573b3a69bdb.png)
 
 **Code with fancy words**
 
@@ -120,7 +120,7 @@ Why is this?
 
 Well, you are printing a message using `Console.Writeline()`, right?
 
-![Console.Writeline()](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/09_05_2024__10_08_06.png)
+![Console.Writeline()](/Full-Stack-Game-Development/images/1f10cb7fbd90bcbe.png)
 
 `***Console.Writeline()***`
 

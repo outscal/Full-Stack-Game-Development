@@ -8,7 +8,7 @@ Let me be the Old Saint and guide you!
 
 
 
-![Old Game Dev Saint](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_18_2024__13_34_22.png)
+![Old Game Dev Saint](/Full-Stack-Game-Development/images/a3d0b74fa8e3c48f.png)
 
 ***Old Game Dev Saint***
 
@@ -32,7 +32,7 @@ The snake should move in the direction of user input!
 
 ---
 
-![Position on Grid](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_18_2024__13_54_23.png)
+![Position on Grid](/Full-Stack-Game-Development/images/2fa84711cf194192.png)
 
 `**BodyPart**`**'s position on Grid**
 
@@ -50,7 +50,7 @@ You can create 4 different functions to return next position in each direction a
 
 
 
-![Function Tree for getNextPosition()](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_18_2024__14_01_08.png)
+![Function Tree for getNextPosition()](/Full-Stack-Game-Development/images/d54c6cd689d76e80.png)
 
 **Function hierarchy for **`**getNextPosition()**`
 

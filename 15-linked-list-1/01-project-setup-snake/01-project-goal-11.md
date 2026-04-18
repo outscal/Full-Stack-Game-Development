@@ -14,7 +14,7 @@ Remember the iconic **Snake Game**? If not, here, let us take a walk down the me
 
 
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ3dmJib2k0aHd5YmZ1ajhqZjVjNW12MTNuNWpha3NkZG0zZjg0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPdwt79PXjMEo/giphy.gif)
+![](/Full-Stack-Game-Development/images/4a7eb34188d65d06.gif)
 
 
 
@@ -32,7 +32,7 @@ Yes! My parents were addicted to a game!
 
 
 
-![Mom playing on Nokia](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_14_2024__06_02_40.png)
+![Mom playing on Nokia](/Full-Stack-Game-Development/images/d554d0b92bbf93e2.png)
 
 ***"Mom you've been playing for 3 hours!"***
 
@@ -69,7 +69,7 @@ Keep up your excitement!
 
 - Get a glimpse of what you'll create by the end of this course
 
-![Snake Gameplay](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_14_2024__06_41_57.gif)
+![Snake Gameplay](/Full-Stack-Game-Development/images/d3296f0cd82f08b0.gif)
 
 ***GAMEPLAY***
 

@@ -11,7 +11,7 @@ Try to imagine yourself as the player as I explain how the game will proceed bel
 
 
 
-![Pokemon Noir, Pokemon Art, Indie Game Dev, Indie Games, Pokemon ...](https://i.pinimg.com/originals/44/e3/37/44e337037243e4fcf33d1760b16d3b4f.gif)
+![Pokemon Noir, Pokemon Art, Indie Game Dev, Indie Games, Pokemon ...](/Full-Stack-Game-Development/images/878e21a9e86cfeb0.gif)
 
 
 
@@ -50,7 +50,7 @@ It is a repetitive cycle unless one player is victorious.
 
 
 
-![Wizard Chess Gifs Get The Best Gif On Giphy | My XXX Hot Girl](https://media.giphy.com/media/TCuEAHdx3OHNS/source.gif)
+![Wizard Chess Gifs Get The Best Gif On Giphy | My XXX Hot Girl](/Full-Stack-Game-Development/images/62b3c8c891f400d8.gif)
 
 
 
@@ -64,7 +64,7 @@ Let's understand this more with the help of a flowchart
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_14_2024__05_45_23.png)
+![Image](/Full-Stack-Game-Development/images/47c530a2b7404f33.png)
 
 
 
@@ -122,4 +122,4 @@ And sooner you will be creating more complex and realistic battle system in your
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_04_2024__10_44_40.png)
+![Image](/Full-Stack-Game-Development/images/d068785739ea771e.png)

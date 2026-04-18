@@ -16,7 +16,7 @@ Before You can find wild Pokémon.
 
 
 
-![img](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_03_2024__06_47_12.png)
+![img](/Full-Stack-Game-Development/images/59e6c3565655f8bf.png)
 
 
 
@@ -205,7 +205,7 @@ Youe’ve just created a `Grass` struct.
 
 
 
-![img](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_03_2024__07_50_22.png)
+![img](/Full-Stack-Game-Development/images/59e6c3565655f8bf.png)
 
 
 
@@ -331,7 +331,7 @@ You might wonder what these **vectors** are and how they work.
 
 
 
-![img](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_03_2024__08_09_44.png)
+![img](/Full-Stack-Game-Development/images/59e6c3565655f8bf.png)
 
 
 

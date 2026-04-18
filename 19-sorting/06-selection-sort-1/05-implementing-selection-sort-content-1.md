@@ -22,7 +22,7 @@ Let's do a quick recap of the steps for selection before seeing the implementati
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_25_2024__18_49_35.gif)
+![ ](/Full-Stack-Game-Development/images/62b454291793e4e8.gif)
 
 ***Selection Sort***
 
@@ -64,7 +64,7 @@ Consider you have a collection of sticks : `sticks = [170, 45, 75, 90]`
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_27_2024__11_04_05.png)
+![ ](/Full-Stack-Game-Development/images/febe16335394a579.png)
 
 `stick` array
 
@@ -83,7 +83,7 @@ Consider you have a collection of sticks : `sticks = [170, 45, 75, 90]`
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_27_2024__11_23_56.gif)
+![ ](/Full-Stack-Game-Development/images/ff1b96fca54621ee.gif)
 
 *Find the Minimum Element*
 
@@ -95,7 +95,7 @@ Consider you have a collection of sticks : `sticks = [170, 45, 75, 90]`
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_27_2024__11_28_09.gif)
+![ ](/Full-Stack-Game-Development/images/d16718fe5fec0cc9.gif)
 
 *Swap Elements*
 

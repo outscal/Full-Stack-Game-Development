@@ -1,4 +1,4 @@
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_31_2024__11_01_02.png)
+![Image](/Full-Stack-Game-Development/images/10ed61bbaeca3574.png)
 
 
 
@@ -8,7 +8,7 @@ Even Professor Oak is appreciating you now who keeps demotivating us.
 
 Congratulations!!! (From my side as well)
 
-![Head Pat Anime GIF - Head Pat Anime Cute - Discover & Share GIFs](https://media1.tenor.com/images/153e9bdd80008e8c0f94110450fcbf98/tenor.gif?itemid=10534102)
+![Head Pat Anime GIF - Head Pat Anime Cute - Discover & Share GIFs](/Full-Stack-Game-Development/images/b0393e155f35d306.gif)
 
 
 
@@ -28,4 +28,4 @@ Keep working like this and in no time, you will become a pro game developer
 
 
 
-![Cat Shooting GIF - Cat Shooting Cat Shooting - Discover & Share GIFs](https://media1.tenor.com/m/iYsPx0hzvNkAAAAC/cat-shooting.gif)
+![Cat Shooting GIF - Cat Shooting Cat Shooting - Discover & Share GIFs](/Full-Stack-Game-Development/images/9845473b0fb3c813.gif)

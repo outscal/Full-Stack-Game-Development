@@ -26,7 +26,7 @@ Let's do a quick recap of the steps for insertion sort before seeing the impleme
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_25_2024__11_20_18.gif)
+![ ](/Full-Stack-Game-Development/images/a56a342c547c9dbe.gif)
 
 ***Insertion Sort***
 
@@ -69,7 +69,7 @@ Consider you have a collection of sticks : `sticks = [170, 45, 75, 90]`
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_27_2024__09_50_39.png)
+![ ](/Full-Stack-Game-Development/images/b1154f25bae37e5a.png)
 
 `stick` array
 
@@ -93,7 +93,7 @@ Consider you have a collection of sticks : `sticks = [170, 45, 75, 90]`
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_27_2024__10_23_03.gif)
+![ ](/Full-Stack-Game-Development/images/f67ffdcbef6e5399.gif)
 
 
 

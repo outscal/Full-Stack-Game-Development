@@ -12,7 +12,7 @@ think .. think.. think ...
 
 
 
-Answer![c++](https://media1.tenor.com/m/onTlUVMtWy4AAAAC/rickroll-rick.gif)
+Answer![c++](/Full-Stack-Game-Development/images/ab1e5c88cd202e27.gif)
 
 
 

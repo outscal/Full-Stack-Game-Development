@@ -7,4 +7,4 @@ Go ahead and switch to the branch called [*Service-Locator-Setup*](https://gith
 
 
 
-![](https://github.com/outscal/2D-Platformer-Game/assets/93391124/67374bf2-feea-4141-b8e4-006b643e604d)
+![](/Full-Stack-Game-Development/images/bb52b6dccc42f3be.png)

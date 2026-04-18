@@ -26,7 +26,7 @@ The expected date of completion for each module will be shown like in the image 
 
 
 
-![fd](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/03_06_2024__14_09_06.png)
+![fd](/Full-Stack-Game-Development/images/1061cdfcb25fbe6b.png)
 
 
 
@@ -36,7 +36,7 @@ If you are not able to complete the module before the deadline, your module will
 
 ![](https://cdn.discordapp.com/attachments/1136946465055453225/1213396232706457670/image.png?ex=65f5524d&is=65e2dd4d&hm=003b28f1a86fcec69be4f7cb206d209cb87634caa8e76aab2e55c2ad85a6d0fa&)
 
-![onboarding](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_10_2024__12_28_58.png)
+![onboarding](/Full-Stack-Game-Development/images/e1e39a01316265f3.png)
 
 
 

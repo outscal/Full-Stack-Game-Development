@@ -1,4 +1,4 @@
-![Snake Wrapping](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_31_2024__12_06_26.gif)
+![Snake Wrapping](/Full-Stack-Game-Development/images/b2b0e62a6e048004.gif)
 
 ***OG Snake Wrapping***
 
@@ -133,7 +133,7 @@ sf::Vector2i BodyPart::getNextPositionLeft()
 
 
 
-![Doofenshmirtz: Evil Laugh](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_28_2024__08_21_17.png)
+![Doofenshmirtz: Evil Laugh](/Full-Stack-Game-Development/images/53b78727bf462612.png)
 
 *It is time!*
 

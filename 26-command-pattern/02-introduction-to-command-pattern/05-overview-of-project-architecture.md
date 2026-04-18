@@ -1,6 +1,6 @@
 Before you start implementing command pattern in your project let us understand the current architecture of the project first:
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_24_2023__14_27_37.png)
+![](/Full-Stack-Game-Development/images/141dc5be3d45b763.png)
 
 
 

@@ -1,4 +1,4 @@
-![Snake Moving](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_31_2024__09_11_25.gif)
+![Snake Moving](/Full-Stack-Game-Development/images/835aed2b45e6ea02.gif)
 
 ***The Snake is moving around***
 
@@ -19,7 +19,7 @@ You have a `SnakeController` that controls the entire snake. So, even the moveme
 
 Here is the pipeline for that movement:
 
-![Snake Movement Flow Chart](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_20_2024__07_24_45.png)
+![Snake Movement Flow Chart](/Full-Stack-Game-Development/images/4cce6cad7e1ecfd4.png)
 
 **Snake Movement Flow**
 
@@ -31,4 +31,4 @@ Here is the pipeline for that movement:
 
 This mission is crucial for your Snake's movement, so get ready! Platypus Perry!
 
-![Platypus Perry Transformation](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_20_2024__07_28_15.gif)
+![Platypus Perry Transformation](/Full-Stack-Game-Development/images/34daf68c311f738f.gif)

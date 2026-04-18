@@ -44,7 +44,7 @@ You can make him visible, but before that you need to know about an important pa
 
 ---
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/11_06_2024__13_28_35.png)
+![ ](/Full-Stack-Game-Development/images/bca54ad673b9f40b.png)
 
 **Transform Component**
 

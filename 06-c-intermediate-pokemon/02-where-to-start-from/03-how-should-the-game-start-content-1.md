@@ -1,4 +1,4 @@
-![pro](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_29_2024__10_53_24.png)
+![pro](/Full-Stack-Game-Development/images/c1623c9180c288ae.png)
 
 
 
@@ -37,7 +37,7 @@ I guess that will be a fantastic start for your game.
 
 
 
-![c++](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_29_2024__11_21_02.png)
+![c++](/Full-Stack-Game-Development/images/30ac3f795664d141.png)
 
 
 
@@ -138,7 +138,7 @@ Hmmmm, remember those conditional statements?
 
 
 
-![shocked](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_27_2024__11_05_23.png)
+![shocked](/Full-Stack-Game-Development/images/b94d2a090d2ad1b4.png)
 
 
 

@@ -21,7 +21,7 @@
 4. Call `*performSpecialAbility*()` in each case to print the damage delivered.
 5. Add a cool gamified message to make the assignment exciting.
 
-![https://media.tenor.com/kAL6Da4WM24AAAAC/saiyan-super.gif](https://media.tenor.com/kAL6Da4WM24AAAAC/saiyan-super.gif)
+![/Full-Stack-Game-Development/images/52c9968fac621cca.gif](/Full-Stack-Game-Development/images/52c9968fac621cca.gif)
 
 
 

@@ -6,11 +6,11 @@ When you score an awesome goal in FIFA and are able to watch the replay of that 
 
 
 
-![](https://tenor.com/view/the-goon-fifa-header-goal-tech-support-fc-gif-12110254.gif)
+![](/Full-Stack-Game-Development/images/cdf19dda1742a2f1.gif)
 
 
 
-![](https://tenor.com/view/clash-royale-gif-23473759.gif)
+![](/Full-Stack-Game-Development/images/e15ba768bf523a04.gif)
 
 
 
@@ -39,13 +39,13 @@ According to the communication flow you implemented earlier, the **Input Service
 
 During replay mode, your Input Service will not be required to function. Instead the **Replay Service** will pass the next command to be processed by the **Game Service**. The responsibility of Replay Service will be to maintain its state and when it is in active state, it will store the list of all commands in a **replay stack** and pass commands one-by-one to the Game Service in the correct order to be processed. While in **Replay Mode**, the **Input Service** will be set as Inactive.
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_27_2023__11_09_30.png)
+![](/Full-Stack-Game-Development/images/9f20ad4c79dad7fe.png)
 
 
 
 So let's jump into it right away, Create a folder called **Replay** in the Scripts folder and create a new script called **Replay Service** in it.
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_27_2023__11_14_45.png)
+![](/Full-Stack-Game-Development/images/efb592c94d201873.png)
 
 
 

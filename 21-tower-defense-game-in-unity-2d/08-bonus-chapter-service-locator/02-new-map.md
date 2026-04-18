@@ -10,7 +10,7 @@ Congratulations on progressing through the Angry Monkeys tower defense course! A
 
 
 
-![](https://tenor.com/view/swellview-map-police-officer-direction-henry-danger-gif-12642994.gif)
+![](/Full-Stack-Game-Development/images/18b05dfc7d8d16b0.gif)
 
 
 

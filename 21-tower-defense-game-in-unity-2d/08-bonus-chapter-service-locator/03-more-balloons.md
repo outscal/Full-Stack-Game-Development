@@ -6,7 +6,7 @@ Enhance your gameplay by creating even more balloon layers triggered upon poppin
 
 
 
-![](https://tenor.com/view/celebration-celebrate-party-balloon-gif-24172565.gif)
+![](/Full-Stack-Game-Development/images/d5c69ef00626517a.gif)
 
 
 
@@ -16,4 +16,4 @@ Enhance your gameplay by creating even more balloon layers triggered upon poppin
 
 
 
-![](https://tenor.com/view/armin-season4-final-season-attack-on-titan-season4part2-blimb-gif-24530214.gif)
+![](/Full-Stack-Game-Development/images/d602846a93595f0e.gif)

@@ -114,7 +114,7 @@ int main() {
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_07_2024__07_17_01.png)
+![Image](/Full-Stack-Game-Development/images/ec6f7949c3e94c75.png)
 
 
 

@@ -28,7 +28,7 @@ Think about it.
 
 .
 
-![  ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/06_10_2024__07_56_17.gif)
+![  ](/Full-Stack-Game-Development/images/79ab453bb091abb8.gif)
 
 
 
@@ -48,7 +48,7 @@ Let’s take another look at Binary Search and then discuss what is happening in
 
 
 
-![   ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/06_08_2024__06_14_47.gif)
+![   ](/Full-Stack-Game-Development/images/8092af1569222d89.gif)
 
 
 

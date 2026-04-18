@@ -52,7 +52,7 @@ Your first task is to point `**next**` of the new node `**n**` to to the curren
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_25_2024__08_27_38.png)
+![Image](/Full-Stack-Game-Development/images/1f683c4f5f318c26.png)
 
 
 
@@ -60,7 +60,7 @@ Then, you'll point `**previous**` of the current head to the new node `**n**`.
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_25_2024__08_28_30.png)
+![Image](/Full-Stack-Game-Development/images/7fb7e19985c4a230.png)
 
 
 

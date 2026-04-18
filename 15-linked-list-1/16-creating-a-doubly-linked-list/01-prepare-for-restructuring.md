@@ -14,7 +14,7 @@ Take a deep breath, maybe even do a quick meditation. Ready? 🧘‍♂️
 
 
 
-![Image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM0ZWRhdW43NDlxb3o1bXJ4NmU2dnBoNTUwanh3bHU3cTZ5OWhiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7kfFDvD9HSYGRbvid/giphy.gif)
+![Image](/Full-Stack-Game-Development/images/53b232153347361e.gif)
 
 ***ohhhhmmmm!***
 
@@ -45,7 +45,7 @@ In the old architecture, you had properties and classes for only `SingleLinkedLi
 
 **Old Architecture** 👇
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_24_2024__10_36_37.png)
+![Image](/Full-Stack-Game-Development/images/938aa021cd44f17c.png)
 
 ***Node for only Single Linked List***
 
@@ -67,7 +67,7 @@ This means better organization and more reliable code.
 
 **New Architecture** 👇
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_23_2024__08_40_32.png)
+![Image](/Full-Stack-Game-Development/images/b970408c0af140f1.png)
 
 ***Nodes divided into 2 Parts***
 

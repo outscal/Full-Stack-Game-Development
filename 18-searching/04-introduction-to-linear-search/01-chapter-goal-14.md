@@ -14,7 +14,7 @@ In the upcoming chapters, you will create this visualization.
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/664c357050602831d2c379d3/06_03_2024__06_34_52.gif)
+![ ](/Full-Stack-Game-Development/images/ce3410f574f8f198.gif)
 
 *Linear Search*
 

@@ -12,7 +12,7 @@
 <li>You will be given a Result of Passed or Failed. If you fail this Test, you will have to prepare more and take the test again.</li>
 </ul>
 <div style = "text-align:center;margin-top:1rem">
-<img src="https://media.tenor.com/VVOA7SCKgmkAAAAC/test.gif" width="70%">
+<img src="/Full-Stack-Game-Development/images/6d15d38fa1566282.gif" width="70%">
 </div>
 <br>
 <strong>[Submission Instructions]</strong>

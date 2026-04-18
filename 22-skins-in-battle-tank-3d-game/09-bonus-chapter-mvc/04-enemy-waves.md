@@ -13,4 +13,4 @@ Implement a Wave-based Enemy Spawning System
 
 
 
-![](https://tenor.com/view/daliaxez-war-thunder-tanks-tank-vibing-party-hard-gif-22787462.gif)
+![](/Full-Stack-Game-Development/images/6e1231bbae8e96e1.gif)

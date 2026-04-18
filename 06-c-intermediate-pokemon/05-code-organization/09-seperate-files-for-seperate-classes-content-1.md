@@ -1,4 +1,4 @@
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_31_2024__08_42_00.png)
+![Image](/Full-Stack-Game-Development/images/434c81845cc131de.png)
 
 
 
@@ -192,13 +192,13 @@ debugging has just begun!
 
 You will see an error like the one below in your `Player.cpp` after implementing it
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_31_2024__08_20_28.png)
+![Image](/Full-Stack-Game-Development/images/b17bcac92716688f.png)
 
 
 
 You will also see this error in your `main.cpp` file
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_31_2024__08_21_57.png)
+![Image](/Full-Stack-Game-Development/images/30a3d89ceb3d9091.png)
 
 
 
@@ -208,7 +208,7 @@ What does these errors mean?
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_31_2024__08_28_34.png)
+![Image](/Full-Stack-Game-Development/images/2d89337be1e6e41f.png)
 
 
 
@@ -247,7 +247,7 @@ Simply explaining in short,
 
 Similarly, if you take a look at your `main.cpp`, there is the following error as well:
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_31_2024__08_39_29.png)
+![Image](/Full-Stack-Game-Development/images/30a3d89ceb3d9091.png)
 
 ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/dce933f8-8d71-4fc0-a567-8c5c6ebb5cbf/image.png)
 

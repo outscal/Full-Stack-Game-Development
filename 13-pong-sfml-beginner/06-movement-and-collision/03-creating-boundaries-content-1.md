@@ -19,7 +19,7 @@ Think about it:
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/12_06_2024__07_07_40.png)
+![ ](/Full-Stack-Game-Development/images/03f34530cfcfc26e.png)
 
 **Boundaries**
 
@@ -38,7 +38,7 @@ You have done this before with paddles, so do this lesson as a quick sprint!🏃
 
 Click here to see the folder structure.
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/12_20_2024__11_51_55.png)
+![ ](/Full-Stack-Game-Development/images/a4373f7a8d070b32.png)
 
 **Folder Structure**
 

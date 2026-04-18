@@ -1,4 +1,4 @@
-![New Architecture](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/06_04_2024__10_11_01.png)
+![New Architecture](/Full-Stack-Game-Development/images/b970408c0af140f1.png)
 
 ***New Architecture***
 
@@ -17,7 +17,7 @@ This new architecture needs:
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_23_2024__09_15_40.png)
+![Image](/Full-Stack-Game-Development/images/2c0ca7d7b98e709b.png)
 
 **Old Structure ☝**
 
@@ -27,7 +27,7 @@ Alright, say goodbye to the old structure (bye-bye 👋) and build a better one!
 
 **New Structure 👇**
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_23_2024__09_16_18.png)
+![Image](/Full-Stack-Game-Development/images/47bbfe1c785cdb32.png)
 
 
 

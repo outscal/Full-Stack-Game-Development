@@ -45,7 +45,7 @@ The main function has become comparatively shorter, more readable, and easier to
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_30_2024__04_28_42.png)
+![Image](/Full-Stack-Game-Development/images/3eecbeeca1fbccff.png)
 
 
 

@@ -2,7 +2,7 @@ To move the snake, you need to move every body part, and every body part updates
 
 
 
-![SnakeController and Single Linked List Movement Flow Chart](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/06_09_2024__12_21_31.png)
+![SnakeController and Single Linked List Movement Flow Chart](/Full-Stack-Game-Development/images/fb24db7a189f86ba.png)
 
 
 
@@ -21,7 +21,7 @@ On every step forward the snake takes, the `head` will move in the direction of 
 
 For example: `A->B->C-NULL` 
 
-![Body Part Frame Movement](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/06_04_2024__13_53_33.png)
+![Body Part Frame Movement](/Full-Stack-Game-Development/images/cfdb6eb6536b9c46.png)
 
 ***Snake Moving***
 

@@ -24,7 +24,7 @@ Creating a **Fork** is producing a personal copy of someone else's project.
 
 Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/12_11_2023__07_25_44.png)
+![](/Full-Stack-Game-Development/images/6e2ce0f2c7421968.png)
 
 
 
@@ -39,7 +39,7 @@ Forks act as a sort of bridge between the original repository and your personal 
 
 
 
-![undefined](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_17_2023__10_18_21.png)
+![undefined](/Full-Stack-Game-Development/images/dd5b6a89f342e602.png)
 
 
 
@@ -51,7 +51,7 @@ Forks act as a sort of bridge between the original repository and your personal 
 
 
 
-![undefined](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_17_2023__10_18_58.png)
+![undefined](/Full-Stack-Game-Development/images/ace2030f3beb2bee.png)
 
 
 
@@ -77,4 +77,4 @@ For more information, see: [*How to clone a git repository*](https://docs.github
 
 
 
-![undefined](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_17_2023__10_21_44.gif)
+![undefined](/Full-Stack-Game-Development/images/e79bd3948ef2e04c.gif)

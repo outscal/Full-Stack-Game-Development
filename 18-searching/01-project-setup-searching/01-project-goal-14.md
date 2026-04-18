@@ -10,7 +10,7 @@ There is so much data that the computer needs to look through; should it not tak
 
 
 
-![    ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/06_17_2024__08_22_03.png)
+![    ](/Full-Stack-Game-Development/images/c7aaa6b03df9903c.png)
 
 
 
@@ -62,7 +62,7 @@ By applying the most appropriate search algorithm based on the situation, you ca
 
 
 
-![linear search algorithm](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/664c357050602831d2c379d3/05_22_2024__13_00_06.gif)
+![linear search algorithm](/Full-Stack-Game-Development/images/baecac1857873ca5.gif)
 
 *A classic Search algorithm*
 

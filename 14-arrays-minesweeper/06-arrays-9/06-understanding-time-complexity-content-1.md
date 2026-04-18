@@ -4,7 +4,7 @@ You have an old-school telephone at your home ☎️
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/03_11_2025__10_31_16.png)
+![ ](/Full-Stack-Game-Development/images/d12c93c8de29a83b.png)
 
 
 

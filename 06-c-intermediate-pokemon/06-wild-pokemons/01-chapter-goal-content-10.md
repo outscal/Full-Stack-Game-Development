@@ -20,7 +20,7 @@ And he does not know which wild Pokemon he will encounter next.
 
 
 
-![ ](https://media.tenor.com/mjcU5gTYAMAAAAAM/pokemon-bulbasaur.gif)
+![ ](/Full-Stack-Game-Development/images/ab2ef60638a17edf.gif)
 
 
 
@@ -38,7 +38,7 @@ and especially, when I try to recall math formulas in the exam 😢.
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_03_2024__05_57_59.png)
+![ ](/Full-Stack-Game-Development/images/0f343f978a788c9b.png)
 
 
 
@@ -97,7 +97,7 @@ Have you played Subway Suffers?
 Would you like it if you already know, when and where the obstacles will come?
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_16_2024__07_42_07.png)
+![ ](/Full-Stack-Game-Development/images/cc856272470bf1ff.png)
 
 
 
@@ -111,7 +111,7 @@ then there will be no point in playing that game.
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_16_2024__07_42_32.png)
+![ ](/Full-Stack-Game-Development/images/e28dfc3d70c2d742.png)
 
 
 

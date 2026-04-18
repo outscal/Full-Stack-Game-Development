@@ -2,7 +2,7 @@ Time to understand Bubble Sort, one of the simplest way to sort data.
 
 But first, a quick activity! Arrange the following list in ascending order:
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_14_2024__06_27_14.jpg)
+![ ](/Full-Stack-Game-Development/images/10a3b7d9551a4c03.jpg)
 
 
 
@@ -10,7 +10,7 @@ Take your time and think about how you would sort this list. Write down your app
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_28_2024__13_08_03.png)
+![ ](/Full-Stack-Game-Development/images/ae9713165ddb95b9.png)
 
 🕛...🕧...🕐...🕜...🕑...🕝...🕒...
 
@@ -56,7 +56,7 @@ For example: `[6, 5, 8]`
 
 Let's sort the above example array `[6, 5, 3, 1, 8, 7, 2, 4]` :
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_14_2024__06_32_39.gif)
+![ ](/Full-Stack-Game-Development/images/bad6cc3917b5e972.gif)
 
 *Bubble Sort *
 

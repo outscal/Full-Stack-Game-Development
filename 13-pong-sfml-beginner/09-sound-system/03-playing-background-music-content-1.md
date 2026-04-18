@@ -23,7 +23,7 @@ Let's break down the differences:
 
 Click here to see more differences between Sound and Music.
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/12_06_2024__07_22_31.png)
+![ ](/Full-Stack-Game-Development/images/05d1982c9662b47d.png)
 
 `**sf::Sound**`** vs **`**sf::Music**`
 

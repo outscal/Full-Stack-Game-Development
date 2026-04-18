@@ -6,7 +6,7 @@
 
 - Create currency in your game in form of **Coins**
 
-![](https://tenor.com/view/money-nintendo-super-mario-bros-money-rain-cash-gif-16762873.gif)
+![](/Full-Stack-Game-Development/images/05526cbb05ed87c6.gif)
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-![](https://tenor.com/view/coins-money-hording-raining-coins-the-beaches-band-gif-13064704.gif)
+![](/Full-Stack-Game-Development/images/fe3ebd989a022322.gif)
 
 
 

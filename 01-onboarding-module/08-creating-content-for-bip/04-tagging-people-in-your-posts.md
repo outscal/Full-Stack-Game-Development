@@ -18,7 +18,7 @@
 
 
 
-![](https://tenor.com/view/cooking-spongebob-dinner-cook-gif-7934757.gif)
+![](/Full-Stack-Game-Development/images/11a8395135775ea2.gif)
 
 
 
@@ -38,7 +38,7 @@
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/7ca67e47-4abb-46cf-9ab0-f94f13243b06/Untitled.png)
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/64cd02d0393723c5a46dde58/01_24_2024__09_55_31.png)
+![](/Full-Stack-Game-Development/images/492e9c1aaf8ef7e7.png)
 
 
 

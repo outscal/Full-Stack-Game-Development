@@ -17,7 +17,7 @@ Here's the deal:
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/11_06_2024__13_06_08.gif)
+![ ](/Full-Stack-Game-Development/images/7073aab657ecb691.gif)
 
 
 

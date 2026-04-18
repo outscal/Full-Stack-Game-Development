@@ -98,7 +98,7 @@ Here's how a method is written in C#:
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/10_03_2024__06_13_50.png)
+![ ](/Full-Stack-Game-Development/images/cf06e37a9ac7fcae.png)
 
 
 

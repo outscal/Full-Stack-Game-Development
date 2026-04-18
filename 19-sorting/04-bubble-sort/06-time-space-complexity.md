@@ -100,7 +100,7 @@ As the number of elements grows, the process slows down significantly and may ev
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_28_2024__13_16_15.jpg)
+![ ](/Full-Stack-Game-Development/images/aac7028778f8cafc.jpg)
 
 
 

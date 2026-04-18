@@ -40,11 +40,11 @@ You can do it if you want your game to be Payt To Win🤷
 
 But we don't do that here!
 
-![ ](https://tenor.com/en-GB/view/we-dont-do-that-here-black-panther-tchalla-bruce-gif-16558003)
+![ ](/Full-Stack-Game-Development/images/b280981f2f00ac5a.bin)
 
 
 
-![ ](https://media1.tenor.com/m/fBvQV_5Lp6UAAAAd/we-dont-do-that-here-black-panther.gif)
+![ ](/Full-Stack-Game-Development/images/fc37453e78fd6c15.gif)
 
 
 

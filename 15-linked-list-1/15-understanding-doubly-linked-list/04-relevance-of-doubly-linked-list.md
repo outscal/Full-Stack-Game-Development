@@ -23,7 +23,7 @@ To understand why Doubly Linked Lists can be superior, let’s look at some real
 
 ## **Browsing History: **
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_23_2024__06_09_12.gif)
+![Image](/Full-Stack-Game-Development/images/3fea3e2dcdb241eb.gif)
 
 ***browser’s tab history***
 
@@ -43,7 +43,7 @@ No need to start at the beginning and traverse through each page—saving both t
 
 ## **Document Editing: UNDO FEATURE**
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_23_2024__06_14_02.gif)
+![Image](/Full-Stack-Game-Development/images/5cf97c8c5a6deea3.gif)
 
 *Document Editing*
 

@@ -16,7 +16,7 @@ You'll use this link to work on this project.
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/09_30_2024__14_10_04.png)
+![ ](/Full-Stack-Game-Development/images/5a77833bd65badde.png)
 
 **Compiler**
 
@@ -24,7 +24,7 @@ You'll use this link to work on this project.
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/09_30_2024__14_16_07.png)
+![ ](/Full-Stack-Game-Development/images/fec42357311ed96c.png)
 
 **Save**
 

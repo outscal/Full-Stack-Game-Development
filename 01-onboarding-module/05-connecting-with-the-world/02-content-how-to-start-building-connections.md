@@ -14,6 +14,6 @@
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/01_09_2024__12_43_11.png)
+![](/Full-Stack-Game-Development/images/de8c1828a8f2c66b.png)
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/01_09_2024__12_43_33.png)
+![](/Full-Stack-Game-Development/images/2694a16855d079ef.png)

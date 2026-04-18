@@ -6,7 +6,7 @@ They say if you keep seeing more enemies in a video game then you are heading in
 
 You have done your warmup now and its time for you to do some heavy lifting.
 
-![](https://tenor.com/view/penguins-of-madagascar-only-thing-i-collect-are-tears-of-my-falle-enemies-swag-proud-gif-12259934.gif)
+![](/Full-Stack-Game-Development/images/04abc983878ee548.gif)
 
 
 
@@ -18,7 +18,7 @@ This creature is a massive, mutated monstrosity. Its states are designed to show
 
 
 
-![](https://tenor.com/view/juggernaut-nope-escape-run-wall-gif-13757929.gif)
+![](/Full-Stack-Game-Development/images/182605bc97a1ceda.gif)
 
 
 

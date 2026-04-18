@@ -18,4 +18,4 @@ because from the next chapter, your snake will eat all the junk food to get big,
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_05_2024__12_26_48.png)
+![Image](/Full-Stack-Game-Development/images/e74d21f34aa7863a.png)

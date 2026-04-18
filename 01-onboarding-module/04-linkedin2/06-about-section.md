@@ -12,4 +12,4 @@
 
 
 
-![gif](https://github.com/outscal/2D-Platformer-Game/assets/107213542/d5137337-9637-4c87-81ce-b6345588c250)
+![gif](/Full-Stack-Game-Development/images/cc4c332483c97c58.png)

@@ -50,7 +50,7 @@ It's like a wizardry of the digital realm! feels like we're conjuring spells ins
 
 
 
-![](https://tenor.com/view/time-stone-dr-strange-stone-time-eye-of-agamotto-gif-25696370.gif)
+![](/Full-Stack-Game-Development/images/17f58080b3c00127.gif)
 
 
 

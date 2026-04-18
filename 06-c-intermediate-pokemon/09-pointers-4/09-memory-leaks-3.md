@@ -55,7 +55,7 @@ That’s what a memory leak does to your system.
 
 
 
-![img](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_17_2024__11_46_52.png)
+![img](/Full-Stack-Game-Development/images/d82728d2cd677587.png)
 
 
 

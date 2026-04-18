@@ -21,7 +21,7 @@
 
 ![](https://www.loom.com/share/b3cf45377e6545108176918ca1e4fbab.png)
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/11_06_2023__14_37_19.png)
+![](/Full-Stack-Game-Development/images/bb468e6825a1a967.png)
 
 
 
@@ -32,7 +32,7 @@
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/11_06_2023__14_39_44.png)
+![](/Full-Stack-Game-Development/images/9887b2a56558b408.png)
 
 
 
@@ -43,7 +43,7 @@
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/11_06_2023__14_41_02.png)
+![](/Full-Stack-Game-Development/images/a6bf57c5bb1c857f.png)
 
 
 
@@ -54,4 +54,4 @@
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/11_06_2023__14_42_09.png)
+![](/Full-Stack-Game-Development/images/a254aaffd21413fe.png)

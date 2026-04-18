@@ -4,7 +4,7 @@ Let's try to solve a game dev problem using that knowledge.
 
 
 
-![Plague Tale Rats](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/04_01_2024__09_06_54.png)
+![Plague Tale Rats](/Full-Stack-Game-Development/images/655e0e8def30bba1.png)
 
 **Plague Tale Rats**
 
@@ -41,7 +41,7 @@ You can create separate variables, but how many?
 
 Do you know how many rats there are in Plague Tale?
 
-![placeholder](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/03_07_2024__13_39_13.png)
+![placeholder](/Full-Stack-Game-Development/images/2bfb1268d0a9f96b.png)
 
 
 

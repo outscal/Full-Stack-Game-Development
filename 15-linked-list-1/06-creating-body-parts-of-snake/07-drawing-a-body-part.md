@@ -2,7 +2,7 @@ In this chapter, you'll be setting the groundwork to see a Body Part on screen, 
 
 
 
-![BodyPart Function Call Tree](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/06_08_2024__08_44_47.png)
+![BodyPart Function Call Tree](/Full-Stack-Game-Development/images/54a547c39d422642.png)
 
 `**BodyPart**`** Function Call Chart**
 

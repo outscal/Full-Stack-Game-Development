@@ -6,7 +6,7 @@ Each has its own way of finding the target element, so let's explore them.
 
 
 
-![linear vs binary](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/06_12_2024__07_08_53.png)
+![linear vs binary](/Full-Stack-Game-Development/images/90f4a2f0b2dbd1f6.png)
 
 *Comparison between linear search and  binary search*
 

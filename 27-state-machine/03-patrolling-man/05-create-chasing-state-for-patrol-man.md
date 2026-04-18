@@ -17,4 +17,4 @@
 
 
 
-![](https://tenor.com/view/working-from-home-computer-homework-gif-13271998.gif)
+![](/Full-Stack-Game-Development/images/b8f7373d74d5c659.gif)

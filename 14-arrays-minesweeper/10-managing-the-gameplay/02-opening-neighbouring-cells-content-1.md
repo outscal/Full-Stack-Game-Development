@@ -10,7 +10,7 @@ Starting with the **empty cells** in this lesson!
 
 Click here to see the goal of this lesson.
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/03_01_2025__14_40_17.gif)
+![ ](/Full-Stack-Game-Development/images/ad639e4b7b81c9cb.gif)
 
 
 
@@ -163,25 +163,25 @@ void Board::processEmptyCell(sf::Vector2i cell_position) {
 
 Now, the clicked cell is empty, which means that the 8 adjacent cells around the empty cell are non-mine cells and are safe to open.
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/03_01_2025__16_23_35.png)
+![ ](/Full-Stack-Game-Development/images/ee31702373301e56.png)
 
 
 
 But, what if there's an empty cell around the clicked cell?🤔
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/03_01_2025__16_25_22.png)
+![ ](/Full-Stack-Game-Development/images/a46527cfad7e7ca6.png)
 
 
 
 Then we can again open the 8 adjacent cells around the empty cell.
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/03_01_2025__16_26_29.png)
+![ ](/Full-Stack-Game-Development/images/64b7c3befe74b4bd.png)
 
 
 
 This process of opening adjacent cells keeps on repeating until a numbered cell is opened. Because a numbered cell indicates that there's a mine around that cell.
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/03_01_2025__16_32_59.png)
+![ ](/Full-Stack-Game-Development/images/4019ed54e069886b.png)
 
 
 
@@ -223,7 +223,7 @@ Notice how `openCell` keeps on calling `processCellType` function and then the `
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/03_01_2025__16_05_32.png)
+![ ](/Full-Stack-Game-Development/images/a9c2ac6edee5f663.png)
 
 
 
@@ -318,7 +318,7 @@ You have successfully implemented the logic for empty cells!
 
 Expected Output
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/03_01_2025__14_40_17.gif)
+![ ](/Full-Stack-Game-Development/images/ad639e4b7b81c9cb.gif)
 
 
 

@@ -1,4 +1,4 @@
-![Snake Moving Fast](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_20_2024__07_50_51.gif)
+![Snake Moving Fast](/Full-Stack-Game-Development/images/f5e1fd5ace62b3b3.gif)
 
 
 

@@ -7,7 +7,7 @@
 - It should be up-to-date and relevant. Your name should be clearly visible as well.
 - For the Banner of your profile, feel free to use the Outscal banner given below to make your profile more vibrant.
 
-![gif](https://github.com/outscal/2D-Platformer-Game/assets/107213542/5b3c4d08-d260-4f16-9ea7-613886db0e7a)
+![gif](/Full-Stack-Game-Development/images/cdef389fc1473d7f.jpg)
 
 
-![gif](https://github.com/outscal/2D-Platformer-Game/assets/107213542/f20085be-d5ce-4ef6-961f-ac8e789c9bc2)
+![gif](/Full-Stack-Game-Development/images/354e8d52952791e1.png)

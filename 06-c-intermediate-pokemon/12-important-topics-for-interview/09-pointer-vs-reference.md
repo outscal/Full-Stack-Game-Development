@@ -199,7 +199,7 @@ Now that you know what a reference is, let’s list down the differences between
 
 
 
-![placeholder](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/06_07_2024__13_02_18.png)
+![placeholder](/Full-Stack-Game-Development/images/2b208d9000704b1c.png)
 
 
 

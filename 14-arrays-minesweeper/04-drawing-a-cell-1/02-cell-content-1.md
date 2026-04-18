@@ -6,7 +6,7 @@ It is a big piece in the game and now we'll work on the small pieces, the cells!
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/01_13_2025__12_01_22.png)
+![ ](/Full-Stack-Game-Development/images/b61f9e0ee0c3118a.png)
 
 
 

@@ -8,7 +8,7 @@ In the Pokémon world, battles are where the true bond between Trainer and Poké
 
 
 
-![Image result for gif of Ash going into the jungle with pikachu](https://www.bing.com/th/id/OGC.8f4478b4cc6a9dba54e6d864dbfd6acb?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2ffd%2f35%2f92%2ffd359267647722356e1d95620f693c3a.gif&ehk=jK8Hgqx5qEQocNEBGDFb0aNaOqAfj2gKMRIqyKr0%2bDY%3d)
+![Image result for gif of Ash going into the jungle with pikachu](/Full-Stack-Game-Development/images/64bba59298731102.gif)
 
 
 
@@ -219,7 +219,7 @@ So, I will be teaching you to create a simple loop for a battle that continues u
 
 
 
-![This Is Why Pokémon Bank Exists. Pokémon Black/White Still Seeing DLC ...](https://www.siliconera.com/wp-content/uploads/2013/09/sableye_thumb.jpg)
+![This Is Why Pokémon Bank Exists. Pokémon Black/White Still Seeing DLC ...](/Full-Stack-Game-Development/images/765e651a1c6fbaae.jpg)
 
 
 
@@ -270,7 +270,7 @@ void battle(Pokemon &playerPokemon, Pokemon &wildPokemon) {
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_04_2024__11_18_52.png)
+![Image](/Full-Stack-Game-Development/images/1c531812e52c83ce.png)
 
 
 

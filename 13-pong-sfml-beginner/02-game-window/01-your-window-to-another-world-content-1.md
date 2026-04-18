@@ -35,7 +35,7 @@ But, how can you create this magical window? 🤔
 
 Expected Folder Structure.
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/12_20_2024__08_28_35.png)
+![ ](/Full-Stack-Game-Development/images/ddb3547c5b86030f.png)
 
 **Folder Structure**
 

@@ -475,7 +475,7 @@ Take a look at the video below:-
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/06_07_2024__07_31_20.gif)
+![ ](/Full-Stack-Game-Development/images/c16aa763d54d6f29.gif)
 
 
 

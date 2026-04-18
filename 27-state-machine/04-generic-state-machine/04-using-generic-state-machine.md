@@ -2,13 +2,13 @@ Since you have now created a Generic State Machine you will no longer be needing
 
 So delete that script form your project.
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_20_2023__13_46_25.jpg)
+![](/Full-Stack-Game-Development/images/af360ea0245fd291.jpg)
 
 
 
 Your project must be showing a lot of errors in Unity after you deleted your state machine interface. Don't worry, we will refactor all our states and state machines and resolve all these errors quickly.
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_20_2023__13_47_27.jpg)
+![](/Full-Stack-Game-Development/images/f9277ec5fd36d4c5.jpg)
 
 
 
@@ -70,4 +70,4 @@ public class OnePunchManStateMachine : GenericStateMachine<OnePunchManController
 
 
 
-![](https://tenor.com/view/yes-thats-all-over-done-bye-gif-2359658865930065513.gif)
+![](/Full-Stack-Game-Development/images/ff7a80990939f5b0.gif)

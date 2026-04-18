@@ -10,7 +10,7 @@ Moving obstacles are a more bigger threat than static ones, but they're still ea
 
 
 
-![gif](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_02_2024__12_20_42.gif)
+![gif](/Full-Stack-Game-Development/images/9da903c8e2d73cf1.gif)
 
 ***Moving Obstacles***
 
@@ -94,7 +94,7 @@ Whether it's complex looping paths or simple back-and-forth motions, you have th
 
 **Ready for some action?**
 
-![gif](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/05_27_2024__19_48_18.gif)
+![gif](/Full-Stack-Game-Development/images/c61f29ca280c4ea8.gif)
 
 
 

@@ -12,7 +12,7 @@ while exploring different patches of grass.
 
 
 
-![Image result for gif of Ash going into the jungle with pikachu](https://www.bing.com/th/id/OGC.e0917adf3333358981b0e44ae462416f?pid=1.7&rurl=https%3a%2f%2fc.tenor.com%2fbJ52y56C-QAAAAAM%2fash-pikachu-pikachu.gif&ehk=2qVWF9O5G22wLpJbWl2zjrq%2ftLShLa8Llqcq6gaV1I0%3d)
+![Image result for gif of Ash going into the jungle with pikachu](/Full-Stack-Game-Development/images/fb3dcdac9fa820a8.gif)
 
 
 

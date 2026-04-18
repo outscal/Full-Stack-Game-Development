@@ -117,7 +117,7 @@ void Board::render(sf::RenderWindow& window)
 
 Final Output.
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/01_13_2025__13_08_56.png)
+![ ](/Full-Stack-Game-Development/images/9fd8e844824f3711.png)
 
 
 

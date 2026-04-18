@@ -1,4 +1,4 @@
-![Insertion at Middle](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_31_2024__12_51_03.gif)
+![Insertion at Middle](/Full-Stack-Game-Development/images/42cba2bc7ff3ae9c.gif)
 
 ***Inserting a Body Part in the Middle***
 

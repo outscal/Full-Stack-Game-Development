@@ -6,7 +6,7 @@ In this chapter, you'll complete the board by creating 8 more rows.
 
 Chapter Goal
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/01_13_2025__13_08_56.png)
+![ ](/Full-Stack-Game-Development/images/9fd8e844824f3711.png)
 
 
 

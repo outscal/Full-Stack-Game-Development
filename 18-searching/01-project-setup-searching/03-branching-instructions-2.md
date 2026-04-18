@@ -18,7 +18,7 @@ Once you are done with any of your assignment, You will create a Pull Request fr
 
 Take a look at the below diagram for reference:
 
-![branching instructions](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/04_02_2024__09_38_16.png)
+![branching instructions](/Full-Stack-Game-Development/images/44d74d2411c8d7e2.png)
 
 
 

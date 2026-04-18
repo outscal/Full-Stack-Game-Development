@@ -6,7 +6,7 @@ In this section we are going to tell you a few good and bad practice to keep in 
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/32b87b7c-3824-4791-8203-aa4cdc3ff135/Untitled.png)
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/64cd02d0393723c5a46dde58/01_24_2024__09_58_41.png)
+![](/Full-Stack-Game-Development/images/fffd974bfd030c7a.png)
 
 
 

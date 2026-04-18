@@ -19,7 +19,7 @@ There are numerous examples, your creativity is the only limit. Basically, as lo
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/64cd02d0393723c5a46dde58/01_24_2024__10_12_37.jpg)
+![](/Full-Stack-Game-Development/images/bdc13680aee7c929.jpg)
 
 
 

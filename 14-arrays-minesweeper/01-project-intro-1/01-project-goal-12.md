@@ -4,7 +4,7 @@ Everyone tried to play this but couldn't figure out what was going on!
 
 
 
-![Minesweeper Gameplay](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/02_12_2025__05_45_15.gif)
+![Minesweeper Gameplay](/Full-Stack-Game-Development/images/1702986fcc153eb2.gif)
 
 **This is Minesweeper for you!**
 
@@ -52,7 +52,7 @@ Throughout this course, you'll get hands-on learning on ***2D arrays***, a key i
 - Get a glimpse of what you'll create by the end of this course with this screenshot of our final game.
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/02_03_2024__10_31_43.png)
+![](/Full-Stack-Game-Development/images/8dd5d19e6c0e3007.png)
 
 
 

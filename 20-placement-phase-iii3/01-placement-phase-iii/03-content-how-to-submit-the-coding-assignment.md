@@ -37,6 +37,6 @@
 <p><a href="https://github.com/pseudo7/Rock-Paper-Scissors-Lizard-Spock" target="_blank">https://github.com/pseudo7/Rock-Paper-Scissors-Lizard-Spock</a></p>
 
 <div style = "text-align:center;margin-top:1rem">
-<img src="https://i.giphy.com/media/iTg9leJES5ErdIJ3No/200w.webp">
+<img src="/Full-Stack-Game-Development/images/270aa13621fce452.webp">
 </div>
 </div>

@@ -16,7 +16,7 @@ In the updated communication flow the unit which wants to perform an action will
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_25_2023__14_49_43.png)
+![](/Full-Stack-Game-Development/images/198d8f254e1bdd0c.png)
 
 
 
@@ -52,7 +52,7 @@ public enum CommandType
 
 The types of Commands will align with the previous Action types, as you're creating commands for Unit Actions exclusively.
 
-![](https://tenor.com/view/callboys-op-vier-vier-vier-tv-gif-15198742.gif)
+![](/Full-Stack-Game-Development/images/302712d77c275354.gif)
 
 
 
@@ -194,7 +194,7 @@ Similarly update the rest of your Action classes.
 
 Now you are all setup to create concrete Unit Commands for each Action. 
 
-![](https://tenor.com/view/minions-strong-cute-flex-time-to-get-serious-gif-17504468.gif)
+![](/Full-Stack-Game-Development/images/a273aed1b499e6e2.gif)
 
 
 

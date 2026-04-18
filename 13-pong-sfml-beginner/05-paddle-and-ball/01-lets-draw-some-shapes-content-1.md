@@ -46,7 +46,7 @@ Let's build it step by step.
 
 Click here to see the folder structure.
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/12_20_2024__09_30_41.png)
+![ ](/Full-Stack-Game-Development/images/8cae9b683b7d48e7.png)
 
 **Folder Structure**
 

@@ -25,7 +25,7 @@ You already have a reference of the current head node (`head_node`) in `SingleLi
 
 
 
-![Inserting at Head](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_31_2024__09_39_54.gif)
+![Inserting at Head](/Full-Stack-Game-Development/images/1991d7d718ffb7dd.gif)
 
 ***Inserting at Head***
 

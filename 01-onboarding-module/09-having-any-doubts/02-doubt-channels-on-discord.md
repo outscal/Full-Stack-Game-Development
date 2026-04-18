@@ -6,7 +6,7 @@ You can go to any relevant channels given in the below screenshot and ask your d
 
 
 
-![image](https://github.com/outscal/2D-Platformer-Game/assets/93391124/7bfd67c0-cb01-40fb-9646-787d19130d20)
+![image](/Full-Stack-Game-Development/images/fff7cedc618a6014.png)
 
 
 

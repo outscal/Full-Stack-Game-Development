@@ -69,7 +69,7 @@ private void Start()
 
 
 
-![Start](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/11_06_2024__13_31_03.png)
+![Start](/Full-Stack-Game-Development/images/80e8b113f1182670.png)
 
 **Start Method**
 
@@ -105,7 +105,7 @@ private void Update()
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/11_06_2024__13_34_01.gif)
+![ ](/Full-Stack-Game-Development/images/f953eae3a6f553f7.gif)
 
 **Update Method**
 

@@ -3,7 +3,7 @@ As we saw in the previous section, once our Player selects the Action and Target
 - The Input Service being the **Client **creates an instance of the required unit command 
 - And passes its reference to the GameService to process it.
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_26_2023__08_42_38.png)
+![](/Full-Stack-Game-Development/images/36acb7968068e7bb.png)
 
 
 

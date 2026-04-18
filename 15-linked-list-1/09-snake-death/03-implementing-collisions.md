@@ -1,4 +1,4 @@
-![OG Snake Colliding with Itself](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_20_2024__09_13_30.gif)
+![OG Snake Colliding with Itself](/Full-Stack-Game-Development/images/7210c9253ef71dd0.gif)
 
 **OG Snake colliding with itself**
 

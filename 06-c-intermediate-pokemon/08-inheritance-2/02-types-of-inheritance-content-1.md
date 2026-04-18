@@ -44,7 +44,7 @@ This is an example of **single inheritance.**
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_18_2024__08_45_02.png)
+![Image](/Full-Stack-Game-Development/images/3168c8b04fc1edb2.png)
 
 
 
@@ -107,7 +107,7 @@ You can create `Volcanion` without writing the extra code for `flameburst` and `
 
 
 
-![Placeholder](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65e6ccce836e97806ac0ee01/03_27_2024__11_19_29.png)
+![Placeholder](/Full-Stack-Game-Development/images/1ee16c495f442f5b.png)
 
 
 
@@ -151,7 +151,7 @@ And then you can simply add your other unique move for Blastoise `Hydrapump()`.
 
 - **Multilevel Inheritance: **A derived or child class can have a class that derives from it. This increases the length of the chain and is known as multilevel inheritance.
 
- ![Placeholder](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65e6ccce836e97806ac0ee01/03_27_2024__11_30_33.png)
+ ![Placeholder](/Full-Stack-Game-Development/images/86e9235da2b94fdc.png)
 
 
 
@@ -170,7 +170,7 @@ are inheriting the same common features `health` and `attackPower` from the base
 
 
 
-![Placeholder](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65e6ccce836e97806ac0ee01/03_27_2024__11_33_13.png)
+![Placeholder](/Full-Stack-Game-Development/images/1968f1171b962d84.png)
 
 
 
@@ -183,7 +183,7 @@ Another type of inheritance that you need to know is **Hybrid Inheritance**
 
 
 
-![Placeholder](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65e6ccce836e97806ac0ee01/03_27_2024__11_38_05.png)
+![Placeholder](/Full-Stack-Game-Development/images/4138196f5dadd24e.png)
 
 
 

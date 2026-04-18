@@ -742,7 +742,7 @@ Check out the video below:-
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/06_04_2024__12_58_10.gif)
+![ ](/Full-Stack-Game-Development/images/95bbbe07a1fa76ee.gif)
 
 
 

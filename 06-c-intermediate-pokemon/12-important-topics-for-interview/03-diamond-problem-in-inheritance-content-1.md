@@ -54,7 +54,7 @@ that leads to an ambiguity error and hence the name 'Diamond Problem.
 
 
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_09_2024__06_09_42.png)
+![Image](/Full-Stack-Game-Development/images/fefaa56a9636e28b.png)
 
 
 

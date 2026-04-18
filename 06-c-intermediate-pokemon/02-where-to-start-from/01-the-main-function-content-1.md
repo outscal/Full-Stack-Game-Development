@@ -30,7 +30,7 @@ If there is no player exists, then who will do the movement?
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_12_2024__08_55_56.png)
+![ ](/Full-Stack-Game-Development/images/fed446feab76e2a7.png)
 
 
 

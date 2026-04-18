@@ -172,7 +172,7 @@ public override void UpdateEnemy()
 
 
 
-![undefined](https://media.tenor.com/N2oM4suHbRgAAAAC/the-office-the.gif)
+![undefined](/Full-Stack-Game-Development/images/692cdf2a20610e80.gif)
 
 
 
@@ -205,7 +205,7 @@ Now inside this spaghetti code, lies a **bug**, can you notice it? take 2 minute
 
 > Hint: Booleans
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_20_2023__09_54_12.png)
+![](/Full-Stack-Game-Development/images/932f70ecc58d1473.png)
 
 
 
@@ -294,7 +294,7 @@ The code we have now is not very readable, manageable and its even more harder t
 
 Consider if you get new requirements of implementing 3 more unique behaviors for this enemy, at this rate, it will collapse into a heap of bugs before we’re done with it.
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_20_2023__09_54_43.png)
+![](/Full-Stack-Game-Development/images/5d14227e8e7d4dfe.png)
 
 
 
@@ -306,7 +306,7 @@ If you are working in a team, it will be even more difficult to make any kind of
 
 
 
-![undefined](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_20_2023__09_48_43.png)
+![undefined](/Full-Stack-Game-Development/images/894ee4648b214931.png)
 
 
 

@@ -1,4 +1,4 @@
-![OG Snake Death](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_20_2024__08_51_32.gif)
+![OG Snake Death](/Full-Stack-Game-Development/images/7210c9253ef71dd0.gif)
 
 
 
@@ -30,7 +30,7 @@ In this game, every Body Part occupies 1 position in the grid, so you can just c
 
 ---
 
-![Polygons](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_20_2024__09_07_43.gif)
+![Polygons](/Full-Stack-Game-Development/images/517fa9852d6c4e93.gif)
 
 **Polygons in a 3D Model**
 
@@ -54,7 +54,7 @@ Imagine having Hundreds or Thousands of such objects!
 
 To reduce this computation load, there are collision boxes.
 
-![Collision Box in a 3D Model](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_20_2024__09_11_46.png)
+![Collision Box in a 3D Model](/Full-Stack-Game-Development/images/3a04c2369dc6c276.png)
 
 **Collision Box on a 3D model**
 

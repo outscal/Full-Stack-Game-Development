@@ -6,7 +6,7 @@ But what exactly will be the output at the end of this chapter?
 
 Click here to see the goal output.
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/02_15_2025__09_10_32.png)
+![ ](/Full-Stack-Game-Development/images/31971097f1120a0f.png)
 
 
 

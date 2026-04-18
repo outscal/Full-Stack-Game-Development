@@ -24,7 +24,7 @@ Creating a **Fork** is producing a personal copy of someone else's project. Fork
 
 
 
-![forking and cloning repo](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/04_09_2024__24_04_16.png)
+![forking and cloning repo](/Full-Stack-Game-Development/images/a7103a5ce47ae423.png)
 
 
 
@@ -41,7 +41,7 @@ Creating a **Fork** is producing a personal copy of someone else's project. Fork
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_17_2023__10_18_21.png)
+![](/Full-Stack-Game-Development/images/dd5b6a89f342e602.png)
 
 
 
@@ -50,7 +50,7 @@ Creating a **Fork** is producing a personal copy of someone else's project. Fork
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_17_2023__10_18_58.png)
+![](/Full-Stack-Game-Development/images/ace2030f3beb2bee.png)
 
 
 
@@ -60,7 +60,7 @@ Creating a **Fork** is producing a personal copy of someone else's project. Fork
 
 
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGd6NnZzYWo0NWNxOWRvdnZ2azZtOHFrd3ptY2Q3bG9ld3BvcWNrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhww4LCgZFimBLDq/giphy.gif)
+![](/Full-Stack-Game-Development/images/f39f831697d42b7d.gif)
 
 
 
@@ -82,4 +82,4 @@ Cloning a repository pulls down a full copy of all the repository data that git 
 
 
 
-![undefined](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_17_2023__10_21_44.gif)
+![undefined](/Full-Stack-Game-Development/images/e79bd3948ef2e04c.gif)

@@ -26,4 +26,4 @@ To achieve this, we'll be creating four distinct states for PatrolMan:
 3. **Chasing**: Activated when the player enters his range, initiating pursuit.
 4. **Shooting**: PatrolMan fires at the player during the chase.
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_20_2023__11_40_09.png)
+![](/Full-Stack-Game-Development/images/80537493e2241926.png)

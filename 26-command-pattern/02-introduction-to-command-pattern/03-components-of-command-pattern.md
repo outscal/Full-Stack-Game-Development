@@ -12,7 +12,7 @@ These components of command pattern are as follows:
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_24_2023__12_49_34.png)
+![](/Full-Stack-Game-Development/images/8775d3c834f9e0a5.png)
 
 
 
@@ -20,7 +20,7 @@ To understand better, lets revisit our restaurant example from before. We will r
 
 
 
-![](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/10_24_2023__13_13_18.png)
+![](/Full-Stack-Game-Development/images/b530fe206d7fbb05.png)
 
 
 
@@ -32,7 +32,7 @@ To understand better, lets revisit our restaurant example from before. We will r
 
 
 
-![](https://tenor.com/view/reference-captain-america-avengers-understood-gif-7991943.gif)
+![](/Full-Stack-Game-Development/images/12dd970e90b6dd97.gif)
 
 
 

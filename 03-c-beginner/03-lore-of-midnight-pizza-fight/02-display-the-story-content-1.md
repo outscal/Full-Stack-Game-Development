@@ -14,7 +14,7 @@ You need to remove everything from the `Main()` function. You only have to show 
 
 
 
-![Game Title](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/09_02_2024__13_51_59.png)
+![Game Title](/Full-Stack-Game-Development/images/324698a9b4522281.png)
 
 **Game's Title in Console**
 
@@ -82,7 +82,7 @@ Well, because you always want your new game's title to be printed in a new line!
 
 
 
-![Game Lore](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/09_05_2024__11_12_47.png)
+![Game Lore](/Full-Stack-Game-Development/images/72844359b8934f5f.png)
 
 **Expected Output**
 

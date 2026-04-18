@@ -472,4 +472,4 @@ And it'll be fun ahead too!
 
 
 
-![Ready To Game Dev](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/09_05_2024__18_09_54.png)
+![Ready To Game Dev](/Full-Stack-Game-Development/images/93e3db34751fbb03.png)

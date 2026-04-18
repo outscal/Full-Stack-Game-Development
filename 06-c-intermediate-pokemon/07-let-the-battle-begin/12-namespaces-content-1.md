@@ -46,7 +46,7 @@ But there would have been no confusion if your friend would say "*your* room" or
 
 
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_16_2024__10_52_08.png)
+![ ](/Full-Stack-Game-Development/images/dc8c0d031d18936b.png)
 
 
 

@@ -63,7 +63,7 @@ Because of swapping, the relative order of elements with equal keys changes, mak
 
 **Click here for **Bubble vs Insertion vs Selection** Sort Comparision Chart**
 
-![ ](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_26_2024__06_43_52.png)
+![ ](/Full-Stack-Game-Development/images/38defd84c0d2cd37.png)
 
 ***Bubble vs Insertion vs Selection Sort***
 
