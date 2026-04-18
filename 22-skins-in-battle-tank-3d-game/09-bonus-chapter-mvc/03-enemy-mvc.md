@@ -18,7 +18,7 @@ In this assignment, you'll be creating three distinct enemy tank types, each wit
 
 
 
-![](/Full-Stack-Game-Development/images/0064424e08f7d448.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/0064424e08f7d448.gif)
 
 
 

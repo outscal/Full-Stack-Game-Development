@@ -25,7 +25,7 @@ From this chapter, you'll be making your boring and empty levels filled with you
 
 
 
-![Image](/Full-Stack-Game-Development/images/a71e0c74e904bd72.gif)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/a71e0c74e904bd72.gif)
 
 **Have a look at your game**.
 
@@ -46,7 +46,7 @@ Have a look at the player architecture.
 ---
 
 
-![Image](/Full-Stack-Game-Development/images/9d05be7b55e402c5.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/9d05be7b55e402c5.png)
 
 ***Player Architecture***
 

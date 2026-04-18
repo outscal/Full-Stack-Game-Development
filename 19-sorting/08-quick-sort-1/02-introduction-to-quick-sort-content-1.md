@@ -39,7 +39,7 @@ If you read the definition again, the algorithm can be divided into three parts:
 
 
 
-![ ](/Full-Stack-Game-Development/images/88a377fdf299ec1e.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/88a377fdf299ec1e.png)
 
 ***Choose a Pivot***
 
@@ -49,7 +49,7 @@ If you read the definition again, the algorithm can be divided into three parts:
 
 
 
-![ ](/Full-Stack-Game-Development/images/8d81258b71ba928b.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/8d81258b71ba928b.png)
 
 ***Partitioning***
 
@@ -66,7 +66,7 @@ If you read the definition again, the algorithm can be divided into three parts:
 
 To understand how the steps are implemented in Quick Sort, let's take an example of an array: `[9, 12, 9, 2, 17, 1, 6]`.
 
-![ ](/Full-Stack-Game-Development/images/b26d6dea97e04cc3.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/b26d6dea97e04cc3.png)
 
 **Pivot + Partitioning**
 
@@ -86,7 +86,7 @@ Take the exact same steps and apply them to the left and right partitions that s
 
 
 
-![ ](/Full-Stack-Game-Development/images/aeb491d311e142b6.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/aeb491d311e142b6.gif)
 
 
 
@@ -94,7 +94,7 @@ Great! Now that all the subarrays are sorted, you can combine them into the fina
 
 
 
-![ ](/Full-Stack-Game-Development/images/8726efb9354bdd40.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/8726efb9354bdd40.gif)
 
 ***Combining the Subarrays***
 
@@ -133,7 +133,7 @@ The basic steps to implement the swap functionality. It would be great to unders
 
 
 
-![ ](/Full-Stack-Game-Development/images/c24b07e996f47aa1.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/c24b07e996f47aa1.png)
 
 ***Pivot Selection***
 
@@ -144,7 +144,7 @@ The basic steps to implement the swap functionality. It would be great to unders
 
 
 
-![ ](/Full-Stack-Game-Development/images/e607d07a1b3f1862.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/e607d07a1b3f1862.png)
 
 `***i***`*** and ***`***j***`*** reference***
 
@@ -158,7 +158,7 @@ The basic steps to implement the swap functionality. It would be great to unders
 1. Continue moving the `***j***` reference and keep swapping elements until you're finished sorting the partitions.
 2. The last step, move the ***pivot*** into its correct place by swapping it with the item at the `***i+1***` The last, creating the new pivot for that subarray.
 
-![ ](/Full-Stack-Game-Development/images/b5920f815a5bcd56.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/b5920f815a5bcd56.gif)
 
 *Single Iteration of How Quick Sort Works *
 

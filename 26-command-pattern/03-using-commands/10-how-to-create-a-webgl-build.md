@@ -50,27 +50,27 @@ Check if the WebGL Build Support module has been added to your Unity installatio
 1. Open the Unity Hub.
 2. Select the **Projects** tab, and identify the version of Unity you are using in the project you want to build.
 
-![](/Full-Stack-Game-Development/images/8a52fd3b3bad1a00.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/8a52fd3b3bad1a00.png)
 
 
 
 1. Select the **Installs** tab and search for the **same version** in the list available as shown below in the image. 
   If the **WebGL Build Support** module is installed, a WebGL icon will be present at the bottom of the version tile.
 
-![](/Full-Stack-Game-Development/images/b8c7600983105a1b.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/b8c7600983105a1b.png)
 
 
 
 1. If the WebGL icon is not present, add the **WebGL Build Support** module to your version of Unity.
 2. Select “**Add modules**” option in Settings menu for the Unity version you wish to use.
 
-![](/Full-Stack-Game-Development/images/e090367647805820.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/e090367647805820.png)
 
 
 
 1. Choose “**WebGL Build Support**” module and select “**Install Button**”.
 
-![](/Full-Stack-Game-Development/images/2bb2d59957a369d8.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/2bb2d59957a369d8.png)
 
 
 
@@ -86,7 +86,7 @@ Check if the WebGL Build Support module has been added to your Unity installatio
 - In the Unity Editor top menu, go to **File** > **Build Settings**.
 - In the Build Settings window, find the **Scenes in Build** section. This is where you can control which Scenes are included in your build.
 
-![](/Full-Stack-Game-Development/images/40a3b1d56a0d2d17.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/40a3b1d56a0d2d17.png)
 
 - 
 
@@ -94,7 +94,7 @@ Check if the WebGL Build Support module has been added to your Unity installatio
 - Once WebGL is selected, A **Switch Platform** button will be available at the bottom right of the window as highlighted below. 
   Select it to change your build Platform to WebGL.
 
-![](/Full-Stack-Game-Development/images/7da858549d0dbf67.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/7da858549d0dbf67.png)
 
 
 

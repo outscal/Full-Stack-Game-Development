@@ -1,4 +1,4 @@
-![pro](/Full-Stack-Game-Development/images/c1623c9180c288ae.png)
+![pro](//outscal.github.io/Full-Stack-Game-Development/images/c1623c9180c288ae.png)
 
 
 
@@ -37,7 +37,7 @@ I guess that will be a fantastic start for your game.
 
 
 
-![c++](/Full-Stack-Game-Development/images/30ac3f795664d141.png)
+![c++](//outscal.github.io/Full-Stack-Game-Development/images/30ac3f795664d141.png)
 
 
 
@@ -138,7 +138,7 @@ Hmmmm, remember those conditional statements?
 
 
 
-![shocked](/Full-Stack-Game-Development/images/b94d2a090d2ad1b4.png)
+![shocked](//outscal.github.io/Full-Stack-Game-Development/images/b94d2a090d2ad1b4.png)
 
 
 

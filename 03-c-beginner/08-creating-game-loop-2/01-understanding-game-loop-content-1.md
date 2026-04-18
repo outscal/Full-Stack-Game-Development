@@ -4,7 +4,7 @@ What is a game loop?! Why do we need a game loop now?
 
 
 
-![ ](/Full-Stack-Game-Development/images/5c20a738bbfacfd4.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/5c20a738bbfacfd4.gif)
 
 
 
@@ -101,7 +101,7 @@ Let's complete the game!! 💪
 
 ---
 
-![Game Loop Flow Diagram](/Full-Stack-Game-Development/images/c0c0b59f12898ef9.png)
+![Game Loop Flow Diagram](//outscal.github.io/Full-Stack-Game-Development/images/c0c0b59f12898ef9.png)
 
 **Flow diagram for Game Loop**
 
@@ -233,7 +233,7 @@ Characters will spawn and then the Battle Loop will start! ⚔️
 
 
 
-![ ](/Full-Stack-Game-Development/images/ccd4a7b89623460e.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/ccd4a7b89623460e.png)
 
 **Characters are spawned and battle loop starts**
 
@@ -271,7 +271,7 @@ For any input other than **"S"**, the console will be cleared and the game will 
 
 
 
-![ ](/Full-Stack-Game-Development/images/745550c0b9b53fb2.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/745550c0b9b53fb2.png)
 
 **Exit Game**
 
@@ -418,7 +418,7 @@ You need to show a restart menu when the game ends.
 
 
 
-![ ](/Full-Stack-Game-Development/images/d7dfc63d842cf4e8.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/d7dfc63d842cf4e8.png)
 
 **Restart Menu**
 
@@ -514,7 +514,7 @@ There's still a small problem, though. Can you figure it out?!🤔
 
 **Hint: **Try playing** **the game and exit in the start menu.
 
-![ ](/Full-Stack-Game-Development/images/02a21bc94103980f.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/02a21bc94103980f.png)
 
 
 

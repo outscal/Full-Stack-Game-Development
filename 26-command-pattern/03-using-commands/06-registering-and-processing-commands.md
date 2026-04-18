@@ -4,7 +4,7 @@ Continuing from where we left in the previous section, we have created and given
 
 Here is a reminder of how its going to be processed:
 
-![](/Full-Stack-Game-Development/images/183849087d6f85a3.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/183849087d6f85a3.png)
 
 The command will pass through the player service, allowing each component to add necessary data to it.
 
@@ -105,7 +105,7 @@ While you won't notice significant gameplay changes yet, you've successfully int
 
 
 
-![](/Full-Stack-Game-Development/images/6e8ff1ea6e096f87.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/6e8ff1ea6e096f87.gif)
 
 
 

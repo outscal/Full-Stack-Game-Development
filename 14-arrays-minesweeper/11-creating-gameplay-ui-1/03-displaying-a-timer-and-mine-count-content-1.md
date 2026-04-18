@@ -130,7 +130,7 @@ Well, just subtract the `flaggedCells` from the `minesCount`!
 
 
 
-![ ](/Full-Stack-Game-Development/images/8207e0714aba3d1c.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/8207e0714aba3d1c.png)
 
 
 

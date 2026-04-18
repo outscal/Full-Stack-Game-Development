@@ -39,7 +39,7 @@ For 2D games like Mr. Blocks, Unity offers different types of 2D Colliders:
 
 
 
-![Colliders](/Full-Stack-Game-Development/images/2bd243214026a240.png)
+![Colliders](//outscal.github.io/Full-Stack-Game-Development/images/2bd243214026a240.png)
 
 **Colliders**
 

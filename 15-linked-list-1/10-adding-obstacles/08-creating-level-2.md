@@ -10,7 +10,7 @@ Get ready for some fun, some challenges, and a lot of snake nostalgia!
 
 First, let's take a look at what you're aiming for:
 
-![ ](/Full-Stack-Game-Development/images/b572cff86cbc4898.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/b572cff86cbc4898.png)
 
 ***Level 2 of the Game***
 
@@ -29,7 +29,7 @@ Imagine your game grid is a beautiful checkerboard. You'll place obstacles based
 
 
 
-![Image](/Full-Stack-Game-Development/images/5f75d657216ce4db.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/5f75d657216ce4db.png)
 
 ***Level Grid***
 
@@ -37,7 +37,7 @@ Imagine your game grid is a beautiful checkerboard. You'll place obstacles based
 
 Let's visualize the screen:
 
-![Image](/Full-Stack-Game-Development/images/099870b0eb5c32a9.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/099870b0eb5c32a9.png)
 
 ***Level Divided in Grid***
 
@@ -146,7 +146,7 @@ std::vector<Element::ElementData> level_two_element_list =
 
 ***You must see this screen in Level 2***
 
-![ ](/Full-Stack-Game-Development/images/b572cff86cbc4898.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/b572cff86cbc4898.png)
 
 
 

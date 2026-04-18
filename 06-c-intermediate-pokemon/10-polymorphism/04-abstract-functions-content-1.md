@@ -94,7 +94,7 @@ Did you also get an error similar to the one shown below?
 
 
 
-![ ](/Full-Stack-Game-Development/images/a13869a60cc73dce.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/a13869a60cc73dce.png)
 
 
 

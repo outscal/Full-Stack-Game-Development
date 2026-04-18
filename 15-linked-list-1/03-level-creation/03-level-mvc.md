@@ -3,7 +3,7 @@
 
 ---
 
-![Level Lableled](/Full-Stack-Game-Development/images/b71f4a4318cbaba7.png)
+![Level Lableled](//outscal.github.io/Full-Stack-Game-Development/images/b71f4a4318cbaba7.png)
 
 **LEVEL**
 
@@ -30,7 +30,7 @@ That'll save the texture budget and give you the freedom to pick any background 
 
 Here is a quick reminder about using `RectangleShapeView` 
 
-![RectangleShapeView Signature](/Full-Stack-Game-Development/images/0b9ed3fd8b3afbe8.png)
+![RectangleShapeView Signature](//outscal.github.io/Full-Stack-Game-Development/images/0b9ed3fd8b3afbe8.png)
 
 `**RectangleShapeView::initialize()**`** Signature**
 
@@ -97,7 +97,7 @@ Do you remember we discussed that the level in Snake is like a grid?
 
 Well, you need the grid's width and height
 
-![Border Width and Offsets](/Full-Stack-Game-Development/images/b0859bcfb5397479.png)
+![Border Width and Offsets](//outscal.github.io/Full-Stack-Game-Development/images/b0859bcfb5397479.png)
 
 **Border Width and Offsets**
 

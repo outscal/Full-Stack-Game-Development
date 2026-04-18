@@ -14,7 +14,7 @@ Each bullet type will have different data values for properties such as speed, d
 
 
 
-![](/Full-Stack-Game-Development/images/660fd7fb4ed9fd3d.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/660fd7fb4ed9fd3d.gif)
 
 
 
@@ -28,7 +28,7 @@ Blue Tank:
 
 - **Guided Missiles**: Implement bullets can lock onto targets and track the enemy tank's movement. These missiles could be slower but highly accurate and deal significant damage.
 
-![](/Full-Stack-Game-Development/images/57d91c12147e7562.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/57d91c12147e7562.gif)
 
 
 

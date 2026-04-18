@@ -10,7 +10,7 @@ Pull requests, also known as merge requests, is a request a developer or contrib
 
 
 
-![placeholder](/Full-Stack-Game-Development/images/0fa5034b0d8077c1.png)
+![placeholder](//outscal.github.io/Full-Stack-Game-Development/images/0fa5034b0d8077c1.png)
 
 
 
@@ -24,7 +24,7 @@ It’s the developer’s way of saying, “Hey, team, I’m ready to incorporate
 
 
 
-![placeholder](/Full-Stack-Game-Development/images/df8d2e5e2972ce39.png)
+![placeholder](//outscal.github.io/Full-Stack-Game-Development/images/df8d2e5e2972ce39.png)
 
 
 

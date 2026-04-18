@@ -119,7 +119,7 @@ public class HitmanStateMachine : GenericStateMachine<HitmanController>
 }
 ```
 
-![](/Full-Stack-Game-Development/images/83fce5d9ceb7fd82.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/83fce5d9ceb7fd82.gif)
 
 
 
@@ -237,4 +237,4 @@ With your robust code architecture adding new states and enemies is a piece of c
 
 
 
-![](/Full-Stack-Game-Development/images/14d23f05ef04b74a.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/14d23f05ef04b74a.gif)

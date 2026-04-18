@@ -14,6 +14,6 @@ In case there is any room for improvement, then refactor your code accordingly.
 
 
 
-![](/Full-Stack-Game-Development/images/54f23adae30fcbc9.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/54f23adae30fcbc9.png)
 
 **"Keep Calm and Keep Coding"**

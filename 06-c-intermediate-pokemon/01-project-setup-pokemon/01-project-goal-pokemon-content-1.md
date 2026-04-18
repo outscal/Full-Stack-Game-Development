@@ -26,13 +26,13 @@ My favorite was PIKACHU!!
 
 
 
-![pikachu](/Full-Stack-Game-Development/images/4daf4c4fa20eeabe.png)
+![pikachu](//outscal.github.io/Full-Stack-Game-Development/images/4daf4c4fa20eeabe.png)
 
 
 
 I still remember how much I cried in front of my parents (I was acting, guys, don't tell my parents, please😁) for the ***GameBoy console*** because I wanted to play Pokémon. 
 
-![c++](/Full-Stack-Game-Development/images/c1594219f567704f.png)
+![c++](//outscal.github.io/Full-Stack-Game-Development/images/c1594219f567704f.png)
 
 
 
@@ -95,4 +95,4 @@ Let's see how this game was developed and how the concept of Pokémon came into 
 
 
 
-![c++](/Full-Stack-Game-Development/images/855817e0fa0d1fa1.png)
+![c++](//outscal.github.io/Full-Stack-Game-Development/images/855817e0fa0d1fa1.png)

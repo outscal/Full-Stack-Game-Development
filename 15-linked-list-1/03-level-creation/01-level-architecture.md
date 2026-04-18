@@ -17,7 +17,7 @@ After trying the game, you can jump on creating The Snake!
 
 
 
-![Level Solution Output](/Full-Stack-Game-Development/images/64f71abf9c1df7df.png)
+![Level Solution Output](//outscal.github.io/Full-Stack-Game-Development/images/64f71abf9c1df7df.png)
 
 Level Solution Output SS
 
@@ -41,7 +41,7 @@ Let me share with you the case of *Gotham Knights*!
 
 
 
-![Gotham Knights](/Full-Stack-Game-Development/images/de4812954abc38b9.png)
+![Gotham Knights](//outscal.github.io/Full-Stack-Game-Development/images/de4812954abc38b9.png)
 
 ***Gotham Knights***
 
@@ -93,7 +93,7 @@ In this chapter, you'll get close to fulfilling this purpose by creating the bac
 
 ---
 
-![Snake Movement](/Full-Stack-Game-Development/images/a3ef944843650ac6.gif)
+![Snake Movement](//outscal.github.io/Full-Stack-Game-Development/images/a3ef944843650ac6.gif)
 
 
 
@@ -124,7 +124,7 @@ Don't worry we'll have an interesting discussion about collisions in games in th
 
 ---
 
-![Level Architecture](/Full-Stack-Game-Development/images/c1ac724aa441c186.png)
+![Level Architecture](//outscal.github.io/Full-Stack-Game-Development/images/c1ac724aa441c186.png)
 
 **Level Architecture**
 

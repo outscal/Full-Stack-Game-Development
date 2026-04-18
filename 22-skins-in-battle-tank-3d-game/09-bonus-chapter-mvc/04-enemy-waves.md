@@ -13,4 +13,4 @@ Implement a Wave-based Enemy Spawning System
 
 
 
-![](/Full-Stack-Game-Development/images/6e1231bbae8e96e1.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/6e1231bbae8e96e1.gif)

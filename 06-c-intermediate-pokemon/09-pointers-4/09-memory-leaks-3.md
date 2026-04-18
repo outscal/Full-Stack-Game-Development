@@ -55,7 +55,7 @@ That’s what a memory leak does to your system.
 
 
 
-![img](/Full-Stack-Game-Development/images/d82728d2cd677587.png)
+![img](//outscal.github.io/Full-Stack-Game-Development/images/d82728d2cd677587.png)
 
 
 

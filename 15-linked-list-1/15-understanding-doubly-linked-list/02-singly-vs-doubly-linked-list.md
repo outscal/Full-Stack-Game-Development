@@ -12,7 +12,7 @@ How would you tackle this? 🤔
 
 
 
-![Music Player Carousel](/Full-Stack-Game-Development/images/137eff5a7147070a.gif)
+![Music Player Carousel](//outscal.github.io/Full-Stack-Game-Development/images/137eff5a7147070a.gif)
 
 
 
@@ -57,7 +57,7 @@ Let's discuss them one feature at a time:
 
 
 
-![Image](/Full-Stack-Game-Development/images/aafab718db84b9fd.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/aafab718db84b9fd.png)
 
 ***Singly Linked List***
 
@@ -67,7 +67,7 @@ Let's discuss them one feature at a time:
 
 
 
-![Image](/Full-Stack-Game-Development/images/d3b65bc31e15996c.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/d3b65bc31e15996c.png)
 
 ***Doubly Linked List***
 
@@ -86,7 +86,7 @@ Let's discuss them one feature at a time:
 
 
 
-![Image](/Full-Stack-Game-Development/images/427322879bdd7386.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/427322879bdd7386.png)
 
 
 
@@ -140,7 +140,7 @@ Singly linked lists require traversing, while doubly linked lists can directly u
 
 Just like this, there are many operations where time complexity for operations differs between these two types of lists: 
 
-![Image](/Full-Stack-Game-Development/images/9ba686da361ca8c7.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/9ba686da361ca8c7.png)
 
 
 

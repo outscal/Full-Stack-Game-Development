@@ -95,7 +95,7 @@ Let's see what you'll be building:
 
 
 
-![Spikes](/Full-Stack-Game-Development/images/ca4934982eca0f63.gif)
+![Spikes](//outscal.github.io/Full-Stack-Game-Development/images/ca4934982eca0f63.gif)
 
 **Spikes**
 

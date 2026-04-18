@@ -7,7 +7,7 @@ But don’t worry, once we understand the syntax, we will come right back to it.
 
 
 
-![](/Full-Stack-Game-Development/images/e172a9120d7eb158.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/e172a9120d7eb158.png)
 
 **2D ARRAY**
 
@@ -24,7 +24,7 @@ Refer to this [**content**](https://outscal.com/course/full-stack-game-developme
 
 Remember this game?🤔
 
-![ ](/Full-Stack-Game-Development/images/97b86df6b7f22ba4.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/97b86df6b7f22ba4.png)
 
 **TIC-TAC-TOE**
 
@@ -60,7 +60,7 @@ int ticTacToeBoard[number_of_rows][number_of_columns];
 
 
 
-![ ](/Full-Stack-Game-Development/images/b01e1021896909b3.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/b01e1021896909b3.png)
 
 **Declaring a 2D Array**
 

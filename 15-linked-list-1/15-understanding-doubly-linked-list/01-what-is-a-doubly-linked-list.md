@@ -41,7 +41,7 @@ Forget about it! It was like hitting dead ends at every turn. 🚧
 
 
 
-![Image](/Full-Stack-Game-Development/images/809d9e00551776ac.jpg)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/809d9e00551776ac.jpg)
 
 ***Dead End***
 
@@ -82,7 +82,7 @@ Each train cart (node) is connected to the ones before and after it, allowing sm
 
 
 
-![Image](/Full-Stack-Game-Development/images/f292215cc34d31a9.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/f292215cc34d31a9.png)
 
 ***Train as a Doubly Linked List***
 
@@ -113,7 +113,7 @@ A **Doubly Linked List** is a complex type of linked list in which each node con
 
 This is what Doubly Linked List look like:
 
-![Image](/Full-Stack-Game-Development/images/559836d9b043ef95.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/559836d9b043ef95.png)
 
 
 
@@ -121,7 +121,7 @@ Oops that was Spidey Doubly Linked List, but let me show you how a doubly linked
 
 
 
-![Image](/Full-Stack-Game-Development/images/4bfed590d923b3a4.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/4bfed590d923b3a4.png)
 
 
 

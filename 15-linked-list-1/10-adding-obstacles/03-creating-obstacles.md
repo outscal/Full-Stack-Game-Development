@@ -112,7 +112,7 @@ Similarly, you can also calculate the obstacle's top screen position (**Y** coor
 
 
 
-![Image](/Full-Stack-Game-Development/images/0b572ac058ad2064.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/0b572ac058ad2064.png)
 
 ***Screen Position***
 

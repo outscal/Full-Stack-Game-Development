@@ -504,7 +504,7 @@ From the video, you can easily see the UI elements that are present on the scree
 
 
 
-![ ](/Full-Stack-Game-Development/images/ea55c0dc0ea9292e.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/ea55c0dc0ea9292e.gif)
 
 
 

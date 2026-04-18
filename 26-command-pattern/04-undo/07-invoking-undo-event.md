@@ -50,7 +50,7 @@ It's like a wizardry of the digital realm! feels like we're conjuring spells ins
 
 
 
-![](/Full-Stack-Game-Development/images/17f58080b3c00127.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/17f58080b3c00127.gif)
 
 
 

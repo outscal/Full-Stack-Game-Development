@@ -36,7 +36,7 @@ that mirror relationships found in the real world.
 
 
 
-![Image](/Full-Stack-Game-Development/images/bd0503205def50e1.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/bd0503205def50e1.png)
 
 
 
@@ -290,7 +290,7 @@ Let's understand the difference between IS-A and HAS-A relationship between Obje
 
 
 
-![Image](/Full-Stack-Game-Development/images/99713d41cfcbb0e3.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/99713d41cfcbb0e3.png)
 
 
 
@@ -370,7 +370,7 @@ you have created a list of `Pokemon`  which you have stored in the `forestGrass`
 
 
 
-![Image](/Full-Stack-Game-Development/images/623bf944deed0c15.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/623bf944deed0c15.png)
 
 
 

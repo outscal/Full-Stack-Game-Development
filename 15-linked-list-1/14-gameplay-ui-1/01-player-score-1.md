@@ -15,7 +15,7 @@ In your snake game, you'll implement a logic that increases the player's score e
 Take a look at what you're aiming for. In this chapter, you'll focus on the Gameplay UI.
 
 
-![gif](/Full-Stack-Game-Development/images/a71e0c74e904bd72.gif)
+![gif](//outscal.github.io/Full-Stack-Game-Development/images/a71e0c74e904bd72.gif)
 
 ***Top-Bar showing: Current**** ****Level, Point, Last Operation & Time Complexity***
 
@@ -56,7 +56,7 @@ At the end of this section, your screen should look like this:
 
 
 
-![Image](/Full-Stack-Game-Development/images/c9c96dab2a4efe81.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/c9c96dab2a4efe81.png)
 
 ***Level & Score Visible on Screen***
 
@@ -352,7 +352,7 @@ void LevelView::calculateGridExtents() {
 
 Because of these properties, the spaces outside borders looked like this:
 
-![Image](/Full-Stack-Game-Development/images/94a0b23c719ab699.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/94a0b23c719ab699.png)
 
 ***Current Screen***
 
@@ -392,7 +392,7 @@ void LevelView::calculateGridExtents() {
 
 
 
-![Image](/Full-Stack-Game-Development/images/c9c96dab2a4efe81.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/c9c96dab2a4efe81.png)
 
 
 

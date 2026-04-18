@@ -35,7 +35,7 @@ But, how can you create this magical window? 🤔
 
 Expected Folder Structure.
 
-![ ](/Full-Stack-Game-Development/images/ddb3547c5b86030f.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/ddb3547c5b86030f.png)
 
 **Folder Structure**
 

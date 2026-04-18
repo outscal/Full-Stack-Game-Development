@@ -30,7 +30,7 @@ you encounter a mysterious figure shrouded in shadows.
 
 
 
-![Image](/Full-Stack-Game-Development/images/80444438b9da1d19.jpg)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/80444438b9da1d19.jpg)
 
 
 

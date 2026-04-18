@@ -41,7 +41,7 @@ It means that every hit your Pokémon takes matters, and you'll need to think st
 
 
 
-![img](/Full-Stack-Game-Development/images/9a822ef8bba2c2f1.png)
+![img](//outscal.github.io/Full-Stack-Game-Development/images/9a822ef8bba2c2f1.png)
 
 
 

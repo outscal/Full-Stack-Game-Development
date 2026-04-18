@@ -40,11 +40,11 @@ You can do it if you want your game to be Payt To Win🤷
 
 But we don't do that here!
 
-![ ](/Full-Stack-Game-Development/images/b280981f2f00ac5a.bin)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/b280981f2f00ac5a.bin)
 
 
 
-![ ](/Full-Stack-Game-Development/images/fc37453e78fd6c15.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/fc37453e78fd6c15.gif)
 
 
 

@@ -31,7 +31,7 @@ Stay engaged, keep learning, and keep sharing. We’re here to support you, and 
 
 
 
-![](/Full-Stack-Game-Development/images/313c6bbe1a81a622.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/313c6bbe1a81a622.gif)
 
 
 

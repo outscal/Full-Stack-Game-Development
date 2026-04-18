@@ -13,7 +13,7 @@ Let's see the background image first:
 
 
 
-![ ](/Full-Stack-Game-Development/images/51f09d9aa6fca08a.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/51f09d9aa6fca08a.png)
 
 **A Background Image**
 
@@ -24,7 +24,7 @@ It's not just for looks - it helps players focus on what matters.
 
 Now, here's where it gets interesting...
 
-![ ](/Full-Stack-Game-Development/images/cc508b9fd162e8b2.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/cc508b9fd162e8b2.png)
 
 
 

@@ -12,7 +12,7 @@ while exploring different patches of grass.
 
 
 
-![Image result for gif of Ash going into the jungle with pikachu](/Full-Stack-Game-Development/images/fb3dcdac9fa820a8.gif)
+![Image result for gif of Ash going into the jungle with pikachu](//outscal.github.io/Full-Stack-Game-Development/images/fb3dcdac9fa820a8.gif)
 
 
 

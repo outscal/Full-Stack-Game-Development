@@ -21,7 +21,7 @@ What if I Program a robot for you that do all these chores for you. Now, you can
 
 
 
-![Image](/Full-Stack-Game-Development/images/ca07489798f57942.jpg)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/ca07489798f57942.jpg)
 
 
 
@@ -124,7 +124,7 @@ What is the output?
 
 The default values that we have given to the constructor 
 
-![Image](/Full-Stack-Game-Development/images/76e0e9f46f50e56f.jpg)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/76e0e9f46f50e56f.jpg)
 
 
 

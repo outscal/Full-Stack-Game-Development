@@ -18,4 +18,4 @@ go for a jog, refresh yourself, touch grass.
 
 
 
-![Refreshing Run](/Full-Stack-Game-Development/images/9efcf88671ab17d9.png)
+![Refreshing Run](//outscal.github.io/Full-Stack-Game-Development/images/9efcf88671ab17d9.png)

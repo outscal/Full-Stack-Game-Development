@@ -25,7 +25,7 @@ If you are not sure how to Fork or Clone the given repo, you can follow the guid
 Creating a **Fork** is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
 
 
-![forking and cloning repo](/Full-Stack-Game-Development/images/6e2ce0f2c7421968.png)
+![forking and cloning repo](//outscal.github.io/Full-Stack-Game-Development/images/6e2ce0f2c7421968.png)
 
 
 
@@ -39,7 +39,7 @@ Creating a **Fork** is producing a personal copy of someone else's project. Fork
 
 
 
-![](/Full-Stack-Game-Development/images/dd5b6a89f342e602.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/dd5b6a89f342e602.png)
 
 
 
@@ -48,7 +48,7 @@ Creating a **Fork** is producing a personal copy of someone else's project. Fork
 
 
 
-![](/Full-Stack-Game-Development/images/ace2030f3beb2bee.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/ace2030f3beb2bee.png)
 
 
 
@@ -57,7 +57,7 @@ Creating a **Fork** is producing a personal copy of someone else's project. Fork
 
 
 
-![](/Full-Stack-Game-Development/images/f39f831697d42b7d.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/f39f831697d42b7d.gif)
 
 
 
@@ -78,4 +78,4 @@ Cloning a repository pulls down a full copy of all the repository data that git 
 
 
 
-![undefined](/Full-Stack-Game-Development/images/e79bd3948ef2e04c.gif)
+![undefined](//outscal.github.io/Full-Stack-Game-Development/images/e79bd3948ef2e04c.gif)

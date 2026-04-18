@@ -8,7 +8,7 @@ Congratulations on implementing the observer pattern in your game project.
 
 
 
-![](/Full-Stack-Game-Development/images/35d7a7b81ef44c37.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/35d7a7b81ef44c37.gif)
 
 
 
@@ -20,4 +20,4 @@ Now, it's time to take your horror mansion to the next level. In this bonus assi
 
 
 
-![](/Full-Stack-Game-Development/images/405903ed394af177.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/405903ed394af177.gif)

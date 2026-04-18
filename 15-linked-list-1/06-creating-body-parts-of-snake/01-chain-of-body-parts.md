@@ -1,4 +1,4 @@
-![Snake into Pieces](/Full-Stack-Game-Development/images/d2b3de4c121d1ccb.png)
+![Snake into Pieces](//outscal.github.io/Full-Stack-Game-Development/images/d2b3de4c121d1ccb.png)
 
 **Snake into Pieces**
 
@@ -14,7 +14,7 @@ It is like walking in a March Past in school, you only need to follow the person
 
 
 
-![Marching](/Full-Stack-Game-Development/images/e17b415d2f57eb2d.png)
+![Marching](//outscal.github.io/Full-Stack-Game-Development/images/e17b415d2f57eb2d.png)
 
 ***1...2...1...***
 
@@ -24,7 +24,7 @@ This means each body part needs to have information about itself and a reference
 
 
 
-![ ](/Full-Stack-Game-Development/images/e263dd13fff5747b.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/e263dd13fff5747b.png)
 
 
 
@@ -81,7 +81,7 @@ In your case, that 'Data' will be a Body Part
 
 
 
-![Snake Node](/Full-Stack-Game-Development/images/7f7b36f943304ff9.png)
+![Snake Node](//outscal.github.io/Full-Stack-Game-Development/images/7f7b36f943304ff9.png)
 
 **Snake's Node**
 

@@ -18,7 +18,7 @@ Once you are done with any of your assignment, You will create a Pull Request fr
 
 Take a look at the below diagram for reference:
 
-![branching instructions](/Full-Stack-Game-Development/images/44d74d2411c8d7e2.png)
+![branching instructions](//outscal.github.io/Full-Stack-Game-Development/images/44d74d2411c8d7e2.png)
 
 
 

@@ -31,7 +31,7 @@ You need to call this function when creating a new node.
 
 ---
 
-![Healthy Food](/Full-Stack-Game-Development/images/63fec6a4063d2290.png)
+![Healthy Food](//outscal.github.io/Full-Stack-Game-Development/images/63fec6a4063d2290.png)
 
 ***Junk Food (It will make your Snake fat)***
 

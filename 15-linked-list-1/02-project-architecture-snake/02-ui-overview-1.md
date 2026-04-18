@@ -1,4 +1,4 @@
-![](/Full-Stack-Game-Development/images/acc2b3e4e9b9b37a.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/acc2b3e4e9b9b37a.png)
 
 
 

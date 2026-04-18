@@ -10,7 +10,7 @@ Ready to make your game more exciting? **Let’s get cooking! 🍲**
 
 
 
-![gif](/Full-Stack-Game-Development/images/94c6f0cd1e27e181.gif)
+![gif](//outscal.github.io/Full-Stack-Game-Development/images/94c6f0cd1e27e181.gif)
 
 
 

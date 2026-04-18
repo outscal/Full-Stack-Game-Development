@@ -18,7 +18,7 @@ From its beginning to its end, you'll discover how it's born, lives, and eventua
 
 Your snake gets the full human treatment: it’s born, eats, grows, dies, and rises again! 🐍♻️ 
 
-![Image](/Full-Stack-Game-Development/images/8b078e4cdd2ed84a.gif)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/8b078e4cdd2ed84a.gif)
 
 ***Lifecycle of Human***
 

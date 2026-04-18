@@ -13,7 +13,7 @@ When your Pokemon was paralyzed and couldn’t attack?
 
 
 
-![img](/Full-Stack-Game-Development/images/282c1e28c3149768.png)
+![img](//outscal.github.io/Full-Stack-Game-Development/images/282c1e28c3149768.png)
 
 
 
@@ -28,7 +28,7 @@ They weren’t just random—they added real strategy to the game.
 
 
 
-![c++](/Full-Stack-Game-Development/images/a83fc8b0f2413460.png)
+![c++](//outscal.github.io/Full-Stack-Game-Development/images/a83fc8b0f2413460.png)
 
 
 

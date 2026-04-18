@@ -4,7 +4,7 @@ Here’s how the Game Over UI looks:
 
 
 
-![Game Over UI](/Full-Stack-Game-Development/images/71d41ea75ac9a63d.png)
+![Game Over UI](//outscal.github.io/Full-Stack-Game-Development/images/71d41ea75ac9a63d.png)
 
 **Game Over UI**
 

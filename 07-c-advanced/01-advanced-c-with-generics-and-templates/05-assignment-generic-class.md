@@ -21,7 +21,7 @@
 4. Call `*performSpecialAbility*()` in each case to print the damage delivered.
 5. Add a cool gamified message to make the assignment exciting.
 
-![/Full-Stack-Game-Development/images/52c9968fac621cca.gif](/Full-Stack-Game-Development/images/52c9968fac621cca.gif)
+![//outscal.github.io/Full-Stack-Game-Development/images/52c9968fac621cca.gif](//outscal.github.io/Full-Stack-Game-Development/images/52c9968fac621cca.gif)
 
 
 

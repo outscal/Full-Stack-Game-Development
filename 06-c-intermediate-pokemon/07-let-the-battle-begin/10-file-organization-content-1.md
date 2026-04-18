@@ -47,7 +47,7 @@ then you will be able to do it on your own.
 
 
 
-![ ](/Full-Stack-Game-Development/images/eeda5e209d182f0a.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/eeda5e209d182f0a.png)
 
 
 
@@ -103,7 +103,7 @@ to organise the code according to functionalities.
 
 Your directory should look like
 
-![ ](/Full-Stack-Game-Development/images/a3b7c4e5dbd4ea37.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/a3b7c4e5dbd4ea37.png)
 
 
 
@@ -111,7 +111,7 @@ Your directory should look like
 
 ***include*** folder should look like
 
-![ ](/Full-Stack-Game-Development/images/f12fc7def4e1ad5f.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/f12fc7def4e1ad5f.png)
 
 
 
@@ -119,7 +119,7 @@ Your directory should look like
 
 ***src*** folder should look like
 
-![ ](/Full-Stack-Game-Development/images/965d3b70f56759b4.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/965d3b70f56759b4.png)
 
 
 

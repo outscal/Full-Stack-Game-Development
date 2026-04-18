@@ -1,4 +1,4 @@
-![Midnight Pizza Fight](/Full-Stack-Game-Development/images/c8a8a5ab53899eb9.png)
+![Midnight Pizza Fight](//outscal.github.io/Full-Stack-Game-Development/images/c8a8a5ab53899eb9.png)
 
 ***Midnight Pizza Fight!***
 
@@ -43,7 +43,7 @@ What happened?
 
 
 
-![Winners](/Full-Stack-Game-Development/images/73921f09803b64cb.png)
+![Winners](//outscal.github.io/Full-Stack-Game-Development/images/73921f09803b64cb.png)
 
 ***Game Award Winners... but which category?***
 

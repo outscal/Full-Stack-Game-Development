@@ -23,7 +23,7 @@ If you don't have SFML, install it from this link: [SFML](https://www.sfml-dev.o
 
 Download the version that works with Visual Studio C++ **2022** 
 
-![SFML Download Version](/Full-Stack-Game-Development/images/3fe1f73f7816fe77.png)
+![SFML Download Version](//outscal.github.io/Full-Stack-Game-Development/images/3fe1f73f7816fe77.png)
 
 
 
@@ -37,7 +37,7 @@ Download the version that works with Visual Studio C++ **2022**
 
 - Open the directory where your solution file (`, before we begin, you need to set up SFML for`) for your project is present, as shown in the image below:
 
-![](/Full-Stack-Game-Development/images/091fefcb5bd0641b.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/091fefcb5bd0641b.png)
 
 **Project Folder**
 
@@ -50,10 +50,10 @@ Download the version that works with Visual Studio C++ **2022**
 
 **BEFORE:**
 
-![](/Full-Stack-Game-Development/images/89e4d709f9c9ef03.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/89e4d709f9c9ef03.png)
 
 **AFTER:**
-![](/Full-Stack-Game-Development/images/744b9e93af502308.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/744b9e93af502308.png)
 
 
 
@@ -75,7 +75,7 @@ Download the version that works with Visual Studio C++ **2022**
 - Ensure you copy all the files highlighted below from the bin folder (they should have a -d suffix indicating debug mode).
 - Let's copy and paste them among our executable files as follows:
 
-![](/Full-Stack-Game-Development/images/a19dbcd7c5f7ea10.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/a19dbcd7c5f7ea10.png)
 
 
 
@@ -88,7 +88,7 @@ Download the version that works with Visual Studio C++ **2022**
 Expected Output.
 
 
-![Splash Screen](/Full-Stack-Game-Development/images/bb98e20096ff3083.gif)
+![Splash Screen](//outscal.github.io/Full-Stack-Game-Development/images/bb98e20096ff3083.gif)
 
 
 
@@ -102,6 +102,6 @@ You can compare your project with the [solution branch](https://github.com/outsc
 
 
 
-![Minesweeper is ready to be built](/Full-Stack-Game-Development/images/e234cd73b192fdab.png)
+![Minesweeper is ready to be built](//outscal.github.io/Full-Stack-Game-Development/images/e234cd73b192fdab.png)
 
 **The game is ready to be created!**

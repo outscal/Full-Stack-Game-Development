@@ -422,7 +422,7 @@ void Board::render(sf::RenderWindow& window)
 
 
 
-![ ](/Full-Stack-Game-Development/images/e88b4131f5c37c65.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/e88b4131f5c37c65.png)
 
 
 
@@ -437,7 +437,7 @@ void Board::render(sf::RenderWindow& window)
 
 ---
 
-![ ](/Full-Stack-Game-Development/images/d87a712125da19ee.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/d87a712125da19ee.png)
 
 **CELL TEXTURE**
 
@@ -445,7 +445,7 @@ This is the cell texture. The cell is a square in shape. But this texture is def
 
 
 
-![ ](/Full-Stack-Game-Development/images/b9ae323737cdab71.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/b9ae323737cdab71.png)
 
 **LABELLED**
 

@@ -8,7 +8,7 @@ In this section, you'll enhance your gaming experience by spawning random food i
 
 Remember how you placed mines randomly in Minesweeper using C++'s randomization tools? 💥
 
-![](/Full-Stack-Game-Development/images/8dd5d19e6c0e3007.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/8dd5d19e6c0e3007.png)
 
 ***Randomly Placed Mines in Minesweeper***
 
@@ -68,7 +68,7 @@ Let's discuss the solution!
 
 
 
-![ ](/Full-Stack-Game-Development/images/f831594660444114.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/f831594660444114.png)
 
 ***Flow diagram of generating random food***
 
@@ -330,7 +330,7 @@ sf::Vector2i FoodService::getValidSpawnPosition()
 **Keep pushing yourself!! You're almost there!!**
 
 
-![gif](/Full-Stack-Game-Development/images/b308a47d6ad657e3.gif)
+![gif](//outscal.github.io/Full-Stack-Game-Development/images/b308a47d6ad657e3.gif)
 
 
 
@@ -376,7 +376,7 @@ void FoodService::spawnFood()
 
 **Congratulations! You did it! 🎉**
 
-![gif](/Full-Stack-Game-Development/images/a907ef5cf8d8c010.gif)
+![gif](//outscal.github.io/Full-Stack-Game-Development/images/a907ef5cf8d8c010.gif)
 
 
 

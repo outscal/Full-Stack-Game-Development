@@ -28,7 +28,7 @@ Think about it.
 
 .
 
-![  ](/Full-Stack-Game-Development/images/79ab453bb091abb8.gif)
+![  ](//outscal.github.io/Full-Stack-Game-Development/images/79ab453bb091abb8.gif)
 
 
 
@@ -48,7 +48,7 @@ Let’s take another look at Binary Search and then discuss what is happening in
 
 
 
-![   ](/Full-Stack-Game-Development/images/8092af1569222d89.gif)
+![   ](//outscal.github.io/Full-Stack-Game-Development/images/8092af1569222d89.gif)
 
 
 

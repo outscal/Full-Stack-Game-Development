@@ -127,7 +127,7 @@ Did you get some error as shown below?
 
 
 
-![ ](/Full-Stack-Game-Development/images/d80679c273f03f32.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/d80679c273f03f32.png)
 
 
 

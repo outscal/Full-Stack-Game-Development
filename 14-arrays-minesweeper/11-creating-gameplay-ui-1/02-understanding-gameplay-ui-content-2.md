@@ -9,7 +9,7 @@ In this lesson, you'll understand the purpose of the UI Elements that you'll add
 
 
 
-![ ](/Full-Stack-Game-Development/images/8fae717a2f140c45.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/8fae717a2f140c45.png)
 
 **Gameplay UI Elements**
 

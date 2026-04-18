@@ -1,4 +1,4 @@
-![ ](/Full-Stack-Game-Development/images/e085c71abad5545e.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/e085c71abad5545e.png)
 
 **DRAWING A ROW**
 
@@ -22,7 +22,7 @@ Guess how many cell object that’ll be 🤔
 
 
 
-![](/Full-Stack-Game-Development/images/b7739d211879d7d8.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/b7739d211879d7d8.gif)
 
  
 

@@ -134,7 +134,7 @@ Unless you jump in from the window like me 😂
 
 
 
-![ ](/Full-Stack-Game-Development/images/fd1cf9faff24a846.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/fd1cf9faff24a846.png)
 
 
 

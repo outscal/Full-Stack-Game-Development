@@ -114,7 +114,7 @@ int main() {
 
 
 
-![Image](/Full-Stack-Game-Development/images/ec6f7949c3e94c75.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/ec6f7949c3e94c75.png)
 
 
 

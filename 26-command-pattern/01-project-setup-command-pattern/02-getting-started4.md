@@ -13,7 +13,7 @@ You just need to Fork this [Repository](https://github.com/outscal/AGD_CommandPa
 
 Creating a ***Fork*** is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
 
-![](/Full-Stack-Game-Development/images/6e2ce0f2c7421968.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/6e2ce0f2c7421968.png)
 
 
 
@@ -27,13 +27,13 @@ Creating a ***Fork*** is producing a personal copy of someone else's project. Fo
 1. Go to this project’s git repository [Repository link]
 2. **Fork this repository:** Click on the "Fork" button at the top right corner of this page. This action will create a copy of this repository under your GitHub account.
 
-![undefined](/Full-Stack-Game-Development/images/dd5b6a89f342e602.png)
+![undefined](//outscal.github.io/Full-Stack-Game-Development/images/dd5b6a89f342e602.png)
 
 
 
 1. **Uncheck main branch only:** After clicking on Fork Button, the following menu will appear. **Uncheck** the below highlighted option - “Copy the main branch only”
 
-![undefined](/Full-Stack-Game-Development/images/ace2030f3beb2bee.png)
+![undefined](//outscal.github.io/Full-Stack-Game-Development/images/ace2030f3beb2bee.png)
 
 
 
@@ -42,7 +42,7 @@ Creating a ***Fork*** is producing a personal copy of someone else's project. Fo
 
 
 
-![](/Full-Stack-Game-Development/images/f39f831697d42b7d.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/f39f831697d42b7d.gif)
 
 
 
@@ -63,7 +63,7 @@ Cloning a repository pulls down a full copy of all the repository data that git 
 
 
 
-![undefined](/Full-Stack-Game-Development/images/e79bd3948ef2e04c.gif)
+![undefined](//outscal.github.io/Full-Stack-Game-Development/images/e79bd3948ef2e04c.gif)
 
 
 

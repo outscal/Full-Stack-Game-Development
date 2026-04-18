@@ -8,7 +8,7 @@ You have already drawn 1 row, you can draw 8 more rows and you have a complete m
 
 
 
-![](/Full-Stack-Game-Development/images/fbd8290cd27685a1.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/fbd8290cd27685a1.png)
 
 **9 ROWS**
 
@@ -18,7 +18,7 @@ You have already drawn 1 row, you can draw 8 more rows and you have a complete m
 
 
 
-![](/Full-Stack-Game-Development/images/b7739d211879d7d8.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/b7739d211879d7d8.gif)
 
 **COPY PASTING 100 *****'For-Loops'*** 
 
@@ -43,7 +43,7 @@ Now you have to draw multiple arrays, wouldn't it be wonderful if you could draw
 
 
 
-![](/Full-Stack-Game-Development/images/37da263d19f582df.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/37da263d19f582df.png)
 
 **Array-Of-Arrays??**
 
@@ -59,7 +59,7 @@ So if I were in the **3rd row, 5th position**, my **i index = 3** and **j index 
 
 
 
-![](/Full-Stack-Game-Development/images/71b6542fb8a84667.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/71b6542fb8a84667.png)
 
 **2D Array**
 

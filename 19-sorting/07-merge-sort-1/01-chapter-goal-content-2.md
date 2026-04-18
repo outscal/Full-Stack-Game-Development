@@ -21,7 +21,7 @@ This algorithm overcomes the limitations of sorting only small datasets and redu
 
 Meanwhile, Bubble Sort with a large dataset:
 
-![ ](/Full-Stack-Game-Development/images/04e4be34da96a509.jpg)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/04e4be34da96a509.jpg)
 
 
 

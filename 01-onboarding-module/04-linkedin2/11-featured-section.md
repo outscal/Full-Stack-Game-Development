@@ -5,4 +5,4 @@
 - Here, you can highlight your Resume, Portfolio & Github Profile (if any) and make the job of a recruiter easier.
 - You can add any viral or important post that you created earlier for even more visibility.
 
-![gif](/Full-Stack-Game-Development/images/f7d83fdd4b8f4f98.png)
+![gif](//outscal.github.io/Full-Stack-Game-Development/images/f7d83fdd4b8f4f98.png)

@@ -25,13 +25,13 @@ They can be things that block your way, like **walls** or **rocks**. You have to
 
 In your game, each obstacle will appear as a black square. 
 
-![Image](/Full-Stack-Game-Development/images/e3e976752e3874bb.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/e3e976752e3874bb.png)
 
 ***Obstacle in Snake Game***
 
 
 
-![Image](/Full-Stack-Game-Development/images/d06fc8cfa90d2e74.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/d06fc8cfa90d2e74.png)
 
 ***Obstacles in Level 2***
 
@@ -66,7 +66,7 @@ But what would the architecture of the Element Service look like?
 
 
 
-![Image](/Full-Stack-Game-Development/images/ff65386246c77ada.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/ff65386246c77ada.png)
 
 ***Element Service Architecture***
 

@@ -1,4 +1,4 @@
-![Insertion at Middle](/Full-Stack-Game-Development/images/42cba2bc7ff3ae9c.gif)
+![Insertion at Middle](//outscal.github.io/Full-Stack-Game-Development/images/42cba2bc7ff3ae9c.gif)
 
 ***Inserting a Body Part in the Middle***
 

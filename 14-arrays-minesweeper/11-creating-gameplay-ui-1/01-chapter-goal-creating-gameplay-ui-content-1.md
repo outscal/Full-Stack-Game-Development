@@ -4,7 +4,7 @@ In this chapter, you'll add the UI required to complete the gameplay state.
 
 Click here to see the chapter goal.
 
-![ ](/Full-Stack-Game-Development/images/8fae717a2f140c45.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/8fae717a2f140c45.png)
 
 **Gameplay UI Elements**
 

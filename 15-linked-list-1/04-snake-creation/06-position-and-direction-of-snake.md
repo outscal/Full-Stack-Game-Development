@@ -15,7 +15,7 @@ But how would it be possible??
 
 ![Image](https://media.discordapp.net/attachments/823251706044481619/1236758306312290455/image.png?ex=66392c6e&is=6637daee&hm=d285a683d52c8be3dc3c69007e6e4746f28535030ee658a9c9343231658a571a&=&format=webp&quality=lossless)
 
-![Image](/Full-Stack-Game-Development/images/e06221819cc6d89d.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/e06221819cc6d89d.png)
 
 
 

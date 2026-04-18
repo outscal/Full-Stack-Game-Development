@@ -28,31 +28,31 @@ Let's see how selection sort actually works in detail.
 
 - **Start with an unsorted dataset**: Imagine a dataset of numbers that aren't in order yet.
 
-![ ](/Full-Stack-Game-Development/images/7a14b64ca69b7741.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/7a14b64ca69b7741.png)
 
 
 
 - **Mark the first element**: Begin by assuming the first element is the smallest.
 
-![ ](/Full-Stack-Game-Development/images/29da40bd5081cb6d.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/29da40bd5081cb6d.png)
 
 
 
 - **Find the smallest number**: Go through the entire dataset to find the actual smallest number. When you find it, swap it with the first element of the unsorted subset, making it the first element of the sorted subset.
 
-![ ](/Full-Stack-Game-Development/images/f1f5100927b6b664.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/f1f5100927b6b664.gif)
 
 
 
 - **Repeat the process**: Now, ignore the first element (since it's sorted) and repeat the steps for the rest of the dataset.
 
-![ ](/Full-Stack-Game-Development/images/5cf7e355b2058d89.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/5cf7e355b2058d89.gif)
 
 
 
 - **Continue until sorted**: Keep doing this until the whole list is sorted. Eventually, you will have a sorted dataset! 
 
-![ ](/Full-Stack-Game-Development/images/0e054e9aa5e92315.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/0e054e9aa5e92315.gif)
 
 ***Final Sorted Dataset***
 
@@ -60,7 +60,7 @@ Let's see how selection sort actually works in detail.
 
 Now, look at the whole process together:
 
-![ ](/Full-Stack-Game-Development/images/85f9b0b2f171e1eb.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/85f9b0b2f171e1eb.gif)
 
 ***Selection Sort ***
 

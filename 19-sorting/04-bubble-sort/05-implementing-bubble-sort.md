@@ -48,7 +48,7 @@ But first, let's talk about a few important things to make the visualizer experi
 
 1. **Updating texts for array access and comparison**: Remember when you created a search visualizer? You'll do something similar here. It's not too hard!
 
-![ ](/Full-Stack-Game-Development/images/19ec00bd7fbb6f9f.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/19ec00bd7fbb6f9f.gif)
 
 
 
@@ -66,7 +66,7 @@ But first, let's talk about a few important things to make the visualizer experi
 - - **Red**: Comparisons between two sticks.
   - **Green**: When you get the sorted sticks (largest sticks at the end).
 
-![ ](/Full-Stack-Game-Development/images/c9d5ceabb83016a5.jpg)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/c9d5ceabb83016a5.jpg)
 
 
 
@@ -91,7 +91,7 @@ It iterates through each stick in the collection, calculates its new x and y pos
 
 Watch this video carefully.
 
-![ ](/Full-Stack-Game-Development/images/8618d4652ea3a13b.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/8618d4652ea3a13b.gif)
 
 ***Swap Operation***
 

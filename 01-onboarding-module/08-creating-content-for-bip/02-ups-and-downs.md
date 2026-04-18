@@ -2,7 +2,7 @@ The journey to become a game developer is filled with ups and downs. We’ve all
 
 
 
-![](/Full-Stack-Game-Development/images/a4dece982b8c394c.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/a4dece982b8c394c.gif)
 
 
 
@@ -40,7 +40,7 @@ Cause its your journey and you are the main character of this story.
 
 
 
-![](/Full-Stack-Game-Development/images/b0f18f510b05cf6b.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/b0f18f510b05cf6b.gif)
 
 
 
@@ -48,4 +48,4 @@ Here is an example of Piyush’s (Outscal’s Marketing Head) posting on LinkedI
 
 
 
-![](/Full-Stack-Game-Development/images/d9fece33305ce9df.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/d9fece33305ce9df.png)

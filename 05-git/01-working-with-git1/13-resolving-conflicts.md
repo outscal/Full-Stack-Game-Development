@@ -4,7 +4,7 @@ Conflicts can arise when two or more branches modify the same part of a file ind
 
 
 
-![placeholder](/Full-Stack-Game-Development/images/ce5bafe4b316f9e4.jpg)
+![placeholder](//outscal.github.io/Full-Stack-Game-Development/images/ce5bafe4b316f9e4.jpg)
 
 
 
@@ -14,7 +14,7 @@ GitHub Desktop provides tools to help you resolve conflicts. When conflicts occu
 
 
 
-![placeholder](/Full-Stack-Game-Development/images/4c82406f50222c93.png)
+![placeholder](//outscal.github.io/Full-Stack-Game-Development/images/4c82406f50222c93.png)
 
 
 

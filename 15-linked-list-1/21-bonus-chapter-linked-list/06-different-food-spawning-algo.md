@@ -4,7 +4,7 @@ Which one should they eat?
 
 
 
-![Image](/Full-Stack-Game-Development/images/d68f2842d0047db1.gif)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/d68f2842d0047db1.gif)
 
 **The Thrill of Choice: Gainer vs Burner**
 
@@ -31,7 +31,7 @@ Plus, for an extra twist, **Alcohol** and **Poison** will spawn after every five
 
 
 
-![Image](/Full-Stack-Game-Development/images/33ed8aee05e9972f.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/33ed8aee05e9972f.png)
 
 
 

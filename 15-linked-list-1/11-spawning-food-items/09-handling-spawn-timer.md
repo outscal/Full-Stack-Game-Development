@@ -10,7 +10,7 @@ This requires a method to control when to start and stop generating food, much l
 
 
 
-![gif](/Full-Stack-Game-Development/images/e1b92b4856587cad.gif)
+![gif](//outscal.github.io/Full-Stack-Game-Development/images/e1b92b4856587cad.gif)
 
 
 
@@ -80,7 +80,7 @@ Just like a chef, who decides when to start serving food and when to stop, you n
 
 
 
-![Open The Door For Guests GIF | GIFDB.com](/Full-Stack-Game-Development/images/3d891fc3f0e2f340.gif)
+![Open The Door For Guests GIF | GIFDB.com](//outscal.github.io/Full-Stack-Game-Development/images/3d891fc3f0e2f340.gif)
 
 
 
@@ -329,7 +329,7 @@ But don't close up too soon because your customer, the snake, isn't eating yet.
 
 
 
-![Wont Eat GIFs - Find & Share on GIPHY](/Full-Stack-Game-Development/images/c6dac29f9b1b9688.gif)
+![Wont Eat GIFs - Find & Share on GIPHY](//outscal.github.io/Full-Stack-Game-Development/images/c6dac29f9b1b9688.gif)
 
 
 

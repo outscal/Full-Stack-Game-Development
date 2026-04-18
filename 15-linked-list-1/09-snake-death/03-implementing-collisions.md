@@ -1,4 +1,4 @@
-![OG Snake Colliding with Itself](/Full-Stack-Game-Development/images/7210c9253ef71dd0.gif)
+![OG Snake Colliding with Itself](//outscal.github.io/Full-Stack-Game-Development/images/7210c9253ef71dd0.gif)
 
 **OG Snake colliding with itself**
 

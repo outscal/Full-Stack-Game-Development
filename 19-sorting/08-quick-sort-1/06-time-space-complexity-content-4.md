@@ -37,7 +37,7 @@ Choosing a *good* pivot, one that divides the array into nearly equal parts, ens
 
 
 
-![ ](/Full-Stack-Game-Development/images/67aa1884cbe38a50.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/67aa1884cbe38a50.png)
 
 *Choosing a ****good**** pivot*
 
@@ -63,7 +63,7 @@ Continue similarly until the entire array is sorted.
 
 Each partitioning step results in one subarray of size `**n−1**` and another of size 0, leading to a highly unbalanced tree with `**n**` levels.
 
-![ ](/Full-Stack-Game-Development/images/9269d49942b4edf1.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/9269d49942b4edf1.png)
 
 *Choosing a ****bad**** pivot*
 

@@ -77,7 +77,7 @@ If you open your Build folder, you will see 3 files like these:
 
 
 
-![ ](/Full-Stack-Game-Development/images/b686caa95c0f59f1.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/b686caa95c0f59f1.png)
 
 
 

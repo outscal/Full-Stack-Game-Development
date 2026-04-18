@@ -21,7 +21,7 @@
 
 ![](https://www.loom.com/share/b3cf45377e6545108176918ca1e4fbab.png)
 
-![](/Full-Stack-Game-Development/images/bb468e6825a1a967.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/bb468e6825a1a967.png)
 
 
 
@@ -32,7 +32,7 @@
 
 
 
-![](/Full-Stack-Game-Development/images/9887b2a56558b408.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/9887b2a56558b408.png)
 
 
 
@@ -43,7 +43,7 @@
 
 
 
-![](/Full-Stack-Game-Development/images/a6bf57c5bb1c857f.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/a6bf57c5bb1c857f.png)
 
 
 
@@ -54,4 +54,4 @@
 
 
 
-![](/Full-Stack-Game-Development/images/a254aaffd21413fe.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/a254aaffd21413fe.png)

@@ -14,7 +14,7 @@ That's the beauty of a circular structure in action!
 
 
 
-![gif](/Full-Stack-Game-Development/images/0a9071f5be551a6e.gif)
+![gif](//outscal.github.io/Full-Stack-Game-Development/images/0a9071f5be551a6e.gif)
 
 ***Doubly-CLL in Action***
 

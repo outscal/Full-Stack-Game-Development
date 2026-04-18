@@ -16,7 +16,7 @@ Consider games like **Civilization** or **Chess**. In these turn-based strategy 
 
 
 
-![](/Full-Stack-Game-Development/images/993b46b3d2417dc2.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/993b46b3d2417dc2.gif)
 
 
 

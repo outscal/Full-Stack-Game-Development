@@ -154,7 +154,7 @@ Then, this is how the global bounds are calculated:
 
 
 
-![ ](/Full-Stack-Game-Development/images/f2a3c50ea0de4973.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/f2a3c50ea0de4973.png)
 
 **Ball Bounds**
 
@@ -182,7 +182,7 @@ SFML's `intersects()` function answers one simple question: "Do these two boxes 
 
 Look at these scenarios:
 
-![ ](/Full-Stack-Game-Development/images/d19a168226ae4560.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/d19a168226ae4560.png)
 
 **Intersection**
 

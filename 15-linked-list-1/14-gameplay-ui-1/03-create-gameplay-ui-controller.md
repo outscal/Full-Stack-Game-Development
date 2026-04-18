@@ -9,7 +9,7 @@
 
 
 
-![Image](/Full-Stack-Game-Development/images/a71e0c74e904bd72.gif)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/a71e0c74e904bd72.gif)
 
 **Top-Bar showing: Current*** ***Level, Point, Last Operation & Time Complexity**
 

@@ -2,7 +2,7 @@ If you ever want to check out the game builds that you have uploaded previously,
 
 It can be accessed from your profile menu on the top right corner:
 
-![sfml](/Full-Stack-Game-Development/images/2c18e04e8eac2f37.png)
+![sfml](//outscal.github.io/Full-Stack-Game-Development/images/2c18e04e8eac2f37.png)
 
 
 

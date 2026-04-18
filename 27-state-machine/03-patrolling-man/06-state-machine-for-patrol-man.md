@@ -127,34 +127,34 @@ Now that we have created our new Enemy lets set him up in a new Level in Unity.
 
 1. In Projects Tab, go to the following path -> `*Assets/Resources/Levels*` You will find a bunch of Level Scriptable Objects already set up for you. You can use these or create your own Level Designs with your own kind of enemies very easily.
 
-![](/Full-Stack-Game-Development/images/ca36d626270baca5.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/ca36d626270baca5.png)
 
 
 
 1. Right-Click in Project tab and select `*Create/ScriptableObjects/LevelScriptableObject*`
 
-![](/Full-Stack-Game-Development/images/1c6e062ca91980c1.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/1c6e062ca91980c1.png)
 
 
 
 1. You can configure the level according to your preference or use the preconfigured scriptable objects. 
 
-![](/Full-Stack-Game-Development/images/7d537418519e9d7b.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/7d537418519e9d7b.png)
 
 
 
 1. Just like Level Scriptable Object, you can create an Enemy Scriptable Object as well. Some preconfigured examples are already there in the project.
 
-![](/Full-Stack-Game-Development/images/77976953f7bb2292.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/77976953f7bb2292.png)
 
 
 
 1. Click on the GameService GameObject in the Hierarchy of your Unity Editor
 
-![](/Full-Stack-Game-Development/images/9d6c82e94faeca54.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/9d6c82e94faeca54.png)
 
 
 
 1. Drag and Drop your Level 2 Scriptable Object under the List of Level Scriptable Objects in GameService
 
-![](/Full-Stack-Game-Development/images/a753e53f1a66af87.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/a753e53f1a66af87.png)

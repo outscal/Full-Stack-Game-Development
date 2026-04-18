@@ -27,13 +27,13 @@
 - These screenshots are just for reference, use your creativity for showing messages and grid.
 - Also if you want to add any other features, add them and write the idea & logic in your code as comments.
 
-<img src="/Full-Stack-Game-Development/images/658c77b092415c2a.png" width = "1000">
+<img src="//outscal.github.io/Full-Stack-Game-Development/images/658c77b092415c2a.png" width = "1000">
 
-![Untitled](/Full-Stack-Game-Development/images/2b7e1c426afe8966.png)
+![Untitled](//outscal.github.io/Full-Stack-Game-Development/images/2b7e1c426afe8966.png)
 
-![Untitled](/Full-Stack-Game-Development/images/1b4b2ddcaa406130.png)
+![Untitled](//outscal.github.io/Full-Stack-Game-Development/images/1b4b2ddcaa406130.png)
 
-![Untitled](/Full-Stack-Game-Development/images/f276396f2693b9a9.png)
+![Untitled](//outscal.github.io/Full-Stack-Game-Development/images/f276396f2693b9a9.png)
 
 **[Submissions]**
 

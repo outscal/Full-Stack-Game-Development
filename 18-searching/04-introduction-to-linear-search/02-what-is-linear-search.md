@@ -61,7 +61,7 @@ If there is an overlap, then you can damage the player or run whatever logic you
 
 
 
-![collision detection in 2D games](/Full-Stack-Game-Development/images/5b80e2f91efa9ab2.gif)
+![collision detection in 2D games](//outscal.github.io/Full-Stack-Game-Development/images/5b80e2f91efa9ab2.gif)
 
 *Collision detection in games*
 
@@ -83,7 +83,7 @@ If no match is found, Unity returns `null`, indicating that the `GameObject` wit
 
 
 
-![   ](/Full-Stack-Game-Development/images/9835183f1a62d2fe.png)
+![   ](//outscal.github.io/Full-Stack-Game-Development/images/9835183f1a62d2fe.png)
 
 *Hierarchy of *`*GameObjects*`* in the scene*
 

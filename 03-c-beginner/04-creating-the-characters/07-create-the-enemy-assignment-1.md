@@ -49,7 +49,7 @@
 
 Expected Output.
 
-![ ](/Full-Stack-Game-Development/images/de13c7af98a60ab1.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/de13c7af98a60ab1.png)
 
 
 

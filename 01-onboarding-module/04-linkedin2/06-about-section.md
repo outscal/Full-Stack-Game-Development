@@ -12,4 +12,4 @@
 
 
 
-![gif](/Full-Stack-Game-Development/images/cc4c332483c97c58.png)
+![gif](//outscal.github.io/Full-Stack-Game-Development/images/cc4c332483c97c58.png)

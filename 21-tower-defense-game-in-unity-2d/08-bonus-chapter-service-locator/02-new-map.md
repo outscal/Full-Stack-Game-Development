@@ -10,7 +10,7 @@ Congratulations on progressing through the Angry Monkeys tower defense course! A
 
 
 
-![](/Full-Stack-Game-Development/images/18b05dfc7d8d16b0.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/18b05dfc7d8d16b0.gif)
 
 
 

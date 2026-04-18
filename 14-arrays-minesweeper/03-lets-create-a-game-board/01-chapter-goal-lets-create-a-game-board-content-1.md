@@ -6,7 +6,7 @@ But what exactly will be the output at the end of this chapter?
 
 Click here to see the goal output.
 
-![ ](/Full-Stack-Game-Development/images/31971097f1120a0f.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/31971097f1120a0f.png)
 
 
 

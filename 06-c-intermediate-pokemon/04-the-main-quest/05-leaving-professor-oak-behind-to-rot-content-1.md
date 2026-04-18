@@ -4,7 +4,7 @@ move on to your next adventure.
 
 
 
-![Pokemon Champion](/Full-Stack-Game-Development/images/d075ad17c5d636eb.png)
+![Pokemon Champion](//outscal.github.io/Full-Stack-Game-Development/images/d075ad17c5d636eb.png)
 
 
 

@@ -4,7 +4,7 @@ Now, it's time to visualize a more powerful search algorithm: Binary Search.
 
 
 
-![      ](/Full-Stack-Game-Development/images/395bdcebb80d7e59.jpg)
+![      ](//outscal.github.io/Full-Stack-Game-Development/images/395bdcebb80d7e59.jpg)
 
 
 
@@ -690,7 +690,7 @@ Check out the video below:-
 
 
 
-![  ](/Full-Stack-Game-Development/images/35031f2695e1dbf7.gif)
+![  ](//outscal.github.io/Full-Stack-Game-Development/images/35031f2695e1dbf7.gif)
 
 
 

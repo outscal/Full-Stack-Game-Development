@@ -66,7 +66,7 @@ This is how you can visualize the coordinate system in SFML:
 
 
 
-![ ](/Full-Stack-Game-Development/images/e7dcbb69809ee79b.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/e7dcbb69809ee79b.png)
 
 **Position calculation in 1280x720 Game Window**
 

@@ -357,7 +357,7 @@ Have a look at the `Take Damage` function of *Letho*:
 
 
 
-![ ](/Full-Stack-Game-Development/images/0f45e55f59338cb1.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/0f45e55f59338cb1.png)
 
 
 

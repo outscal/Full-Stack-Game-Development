@@ -16,7 +16,7 @@ In the updated communication flow the unit which wants to perform an action will
 
 
 
-![](/Full-Stack-Game-Development/images/198d8f254e1bdd0c.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/198d8f254e1bdd0c.png)
 
 
 
@@ -52,7 +52,7 @@ public enum CommandType
 
 The types of Commands will align with the previous Action types, as you're creating commands for Unit Actions exclusively.
 
-![](/Full-Stack-Game-Development/images/302712d77c275354.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/302712d77c275354.gif)
 
 
 
@@ -194,7 +194,7 @@ Similarly update the rest of your Action classes.
 
 Now you are all setup to create concrete Unit Commands for each Action. 
 
-![](/Full-Stack-Game-Development/images/a273aed1b499e6e2.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/a273aed1b499e6e2.gif)
 
 
 

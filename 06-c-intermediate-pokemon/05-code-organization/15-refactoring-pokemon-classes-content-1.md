@@ -225,7 +225,7 @@ You are doing really Good!!
 
 
 
-![Guess where? - Page 115 - World Discovery - Microsoft Flight Simulator ...](/Full-Stack-Game-Development/images/2cd79f8685812cd8.gif)
+![Guess where? - Page 115 - World Discovery - Microsoft Flight Simulator ...](//outscal.github.io/Full-Stack-Game-Development/images/2cd79f8685812cd8.gif)
 
 
 

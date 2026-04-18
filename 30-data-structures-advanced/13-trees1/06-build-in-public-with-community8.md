@@ -7,7 +7,7 @@
 <p>We hope you remember the <strong>Outscal ritual of #build-in-public</strong></p>
 <br>
 <div style = "text-align:center">
-<img  src="/Full-Stack-Game-Development/images/e7d55967d8780ce8.gif">
+<img  src="//outscal.github.io/Full-Stack-Game-Development/images/e7d55967d8780ce8.gif">
 </div>
 <br>
 <div>

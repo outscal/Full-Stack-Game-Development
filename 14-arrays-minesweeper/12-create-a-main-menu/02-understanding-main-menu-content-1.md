@@ -20,7 +20,7 @@ It needs:
 
 
 
-![ ](/Full-Stack-Game-Development/images/19eedad6f66a77ad.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/19eedad6f66a77ad.png)
 
 
 

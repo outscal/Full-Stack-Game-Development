@@ -1,4 +1,4 @@
-![Snake Moving Fast](/Full-Stack-Game-Development/images/f5e1fd5ace62b3b3.gif)
+![Snake Moving Fast](//outscal.github.io/Full-Stack-Game-Development/images/f5e1fd5ace62b3b3.gif)
 
 
 

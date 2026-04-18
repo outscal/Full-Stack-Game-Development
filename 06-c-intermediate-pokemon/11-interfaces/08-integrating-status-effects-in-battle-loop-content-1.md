@@ -12,7 +12,7 @@ think .. think.. think ...
 
 
 
-Answer![c++](/Full-Stack-Game-Development/images/ab1e5c88cd202e27.gif)
+Answer![c++](//outscal.github.io/Full-Stack-Game-Development/images/ab1e5c88cd202e27.gif)
 
 
 

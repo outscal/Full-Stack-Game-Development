@@ -35,7 +35,7 @@ But we don't do that here!
 
 
 
-![ ](/Full-Stack-Game-Development/images/fc37453e78fd6c15.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/fc37453e78fd6c15.gif)
 
 
 

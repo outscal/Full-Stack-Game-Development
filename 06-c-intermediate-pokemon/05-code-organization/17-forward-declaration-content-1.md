@@ -16,7 +16,7 @@ Look at the map below to understand it more clearly.
 
 
 
-![  ](/Full-Stack-Game-Development/images/752a337cbe10a139.png)
+![  ](//outscal.github.io/Full-Stack-Game-Development/images/752a337cbe10a139.png)
 
 
 
@@ -131,7 +131,7 @@ To tackle this problem, forward declaration is used.
 
 
 
-![ ](/Full-Stack-Game-Development/images/e73bfd84e8033e84.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/e73bfd84e8033e84.png)
 
 
 

@@ -14,7 +14,7 @@
 
 
 
-![Image](/Full-Stack-Game-Development/images/b572cff86cbc4898.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/b572cff86cbc4898.png)
 
 ***Level 2***
 

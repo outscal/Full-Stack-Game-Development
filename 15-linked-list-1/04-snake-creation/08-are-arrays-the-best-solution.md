@@ -28,12 +28,12 @@ Then, create an array of objects of that structure, with each element holding th
 That way, an array could be represented as a snake. Sounds good so far, right?
 
 
-![Image](/Full-Stack-Game-Development/images/07f583280125cbc3.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/07f583280125cbc3.png)
 
 ***This is how the array looks like***
 
 
-![Image](/Full-Stack-Game-Development/images/c2dd440706136043.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/c2dd440706136043.png)
 
 ***Not your Snake but kind of your Snake***
 
@@ -65,7 +65,7 @@ I will give you a few cases for insertion and deletion and you have to answer ho
 
 
 
-![Image](/Full-Stack-Game-Development/images/af65cbe28dec687f.gif)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/af65cbe28dec687f.gif)
 
 
 
@@ -93,13 +93,13 @@ Few more to come, what would be the time complexity for **Insertion at Middle,**
 
 Click here to check the answer (Don't worry you will not get Rick Rolled)
 
-![Image](/Full-Stack-Game-Development/images/5a45a47dea69f9ea.gif)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/5a45a47dea69f9ea.gif)
 
 
 
 Click here to check the answer
 
-![Image](/Full-Stack-Game-Development/images/3fea0d8f09fae033.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/3fea0d8f09fae033.png)
 
 
 
@@ -107,7 +107,7 @@ Click here to check the answer
 
 We have covered the time, so what do we have next?
 
-![Image](/Full-Stack-Game-Development/images/51f89c10f8b07ed8.gif)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/51f89c10f8b07ed8.gif)
 
 
 

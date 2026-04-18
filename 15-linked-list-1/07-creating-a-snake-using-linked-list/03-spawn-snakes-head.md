@@ -208,7 +208,7 @@ namespace LinkedList
 
 woah! Now, you will be able to see the head of your Snake.
 
-![Image](/Full-Stack-Game-Development/images/45895f25a3751212.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/45895f25a3751212.png)
 
 ***Snake's Head***
 

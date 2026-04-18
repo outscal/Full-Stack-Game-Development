@@ -14,4 +14,4 @@ You've got this! Keep learning, keep creating, and keep sharing. We can't wait t
 
 
 
-![](/Full-Stack-Game-Development/images/648d6599b1711051.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/648d6599b1711051.gif)

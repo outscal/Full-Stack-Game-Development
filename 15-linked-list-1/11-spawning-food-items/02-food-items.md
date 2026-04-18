@@ -347,7 +347,7 @@ Your food items are prepared, but they are still left to be served (**spawn**)!
 
 
 
-![Food GIFs - Find & Share on GIPHY](/Full-Stack-Game-Development/images/714ccdfaf3eb3f02.gif)
+![Food GIFs - Find & Share on GIPHY](//outscal.github.io/Full-Stack-Game-Development/images/714ccdfaf3eb3f02.gif)
 
 
 

@@ -2,7 +2,7 @@ Currently, you're in the Splash Screen state:
 
 `**GameLoop.cpp**`
 
-![ ](/Full-Stack-Game-Development/images/8da6f2fde648cbf6.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/8da6f2fde648cbf6.png)
 
 
 

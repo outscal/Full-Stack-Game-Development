@@ -22,7 +22,7 @@ When you post updates about your progress, skills, and projects, you increase yo
 
 
 
-![](/Full-Stack-Game-Development/images/1e2a0637a8f7036f.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/1e2a0637a8f7036f.gif)
 
 
 

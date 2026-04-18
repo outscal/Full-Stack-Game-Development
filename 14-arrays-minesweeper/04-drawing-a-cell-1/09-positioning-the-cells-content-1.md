@@ -20,7 +20,7 @@ A Straightforward approach is to create *offset*s for both width and height and 
 
 
 
-![](/Full-Stack-Game-Development/images/a420fc325ec840cc.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/a420fc325ec840cc.png)
 
 **Cell Offset**
 
@@ -78,7 +78,7 @@ sf::Vector2f Cell::getCellScreenPosition() const
 
 Expected Output.
 
-![ ](/Full-Stack-Game-Development/images/a256fd870737c141.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/a256fd870737c141.png)
 
 
 

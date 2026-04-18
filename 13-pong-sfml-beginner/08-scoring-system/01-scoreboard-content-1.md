@@ -10,7 +10,7 @@ And Pong? It needs a way to display the score!
 
 
 
-![ ](/Full-Stack-Game-Development/images/2e5c03e9317ba01c.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/2e5c03e9317ba01c.png)
 
 **Scoreboard**
 

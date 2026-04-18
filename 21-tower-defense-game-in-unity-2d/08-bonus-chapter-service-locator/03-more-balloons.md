@@ -6,7 +6,7 @@ Enhance your gameplay by creating even more balloon layers triggered upon poppin
 
 
 
-![](/Full-Stack-Game-Development/images/d5c69ef00626517a.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/d5c69ef00626517a.gif)
 
 
 
@@ -16,4 +16,4 @@ Enhance your gameplay by creating even more balloon layers triggered upon poppin
 
 
 
-![](/Full-Stack-Game-Development/images/d602846a93595f0e.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/d602846a93595f0e.gif)

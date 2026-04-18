@@ -22,7 +22,7 @@ Let's quickly recap the pseudocode for Quick Sort:
 
 
 
-![ ](/Full-Stack-Game-Development/images/6b0e35ee4de11d4a.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/6b0e35ee4de11d4a.gif)
 
 ***Quick Sort***
 
@@ -74,7 +74,7 @@ Then initialize `i` to the index before the lowest index (i.e `left - 1`) to kee
 
 
 
-![ ](/Full-Stack-Game-Development/images/d3f56e8296b4704a.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/d3f56e8296b4704a.png)
 
 *Pivot Selection*
 
@@ -100,7 +100,7 @@ If a swap occurs, play a sound effect and update the position of the sticks on t
 
 
 
-![ ](/Full-Stack-Game-Development/images/9599d9f1aa55d4c8.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/9599d9f1aa55d4c8.gif)
 
 *Swapping based on Pivot*
 
@@ -111,7 +111,7 @@ i.e. After the loop, swap the pivot `4` with `7` (element at `i+1`).
 
 
 
-![ ](/Full-Stack-Game-Development/images/1bec26965fecad86.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/1bec26965fecad86.gif)
 
 *Pivot on Correct Position*
 
@@ -124,7 +124,7 @@ At the end, you return the pivot index `i + 1` for partitioning. ( i.e return `3
 
 
 
-![ ](/Full-Stack-Game-Development/images/ed2f58494cfde92b.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/ed2f58494cfde92b.gif)
 
 ***Partitioning***
 
@@ -211,7 +211,7 @@ After sorting the segment, set the colour of all elements in this segment to `pl
 
 
 
-![ ](/Full-Stack-Game-Development/images/8823654b909ad639.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/8823654b909ad639.gif)
 
 ***Recursive Division***
 

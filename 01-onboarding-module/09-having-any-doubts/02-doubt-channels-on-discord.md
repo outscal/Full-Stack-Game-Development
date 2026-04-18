@@ -6,7 +6,7 @@ You can go to any relevant channels given in the below screenshot and ask your d
 
 
 
-![image](/Full-Stack-Game-Development/images/fff7cedc618a6014.png)
+![image](//outscal.github.io/Full-Stack-Game-Development/images/fff7cedc618a6014.png)
 
 
 

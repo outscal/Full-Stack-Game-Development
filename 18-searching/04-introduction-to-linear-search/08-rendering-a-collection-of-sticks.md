@@ -23,7 +23,7 @@ But how do you intend to set values for these?
 
 
 
-![    ](/Full-Stack-Game-Development/images/74f994fc27e62832.png)
+![    ](//outscal.github.io/Full-Stack-Game-Development/images/74f994fc27e62832.png)
 
 *Stick's size*
 
@@ -54,7 +54,7 @@ Let's discuss one of these ways:-
 
 
 
-![ ](/Full-Stack-Game-Development/images/df3ed3fa6a1104d3.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/df3ed3fa6a1104d3.png)
 
 *spacing between the sticks*
 
@@ -77,7 +77,7 @@ Imagine the `**space_percentage**` value is `**0.1**`; this means that 10% of th
 
 
 
-![ ](/Full-Stack-Game-Development/images/3d7c523735891b3e.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/3d7c523735891b3e.png)
 
 *sticks when the space percentage is high (0.5)*
 
@@ -85,7 +85,7 @@ Imagine the `**space_percentage**` value is `**0.1**`; this means that 10% of th
 
 
 
-![ ](/Full-Stack-Game-Development/images/8e2a6b5cf71a3a8b.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/8e2a6b5cf71a3a8b.png)
 
 *sticks when the space percentage is low (0)*
 
@@ -311,7 +311,7 @@ void Gameplay::Collection::StickCollectionContoller::resetSticksColor()
 
 Have a look at what the rendered sticks would look like!
 
-![ ](/Full-Stack-Game-Development/images/b74530ec6f21a934.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/b74530ec6f21a934.png)
 
 
 

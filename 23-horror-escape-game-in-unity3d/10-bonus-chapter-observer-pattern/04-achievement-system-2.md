@@ -6,7 +6,7 @@ Your task is to craft an achievement system for this project, that enhances play
 
 
 
-![](/Full-Stack-Game-Development/images/76534779e1e891c9.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/76534779e1e891c9.gif)
 
 
 

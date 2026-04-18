@@ -16,7 +16,7 @@ But guess what? You're just getting started! 💪
 
 
 
-![Image](/Full-Stack-Game-Development/images/938aa021cd44f17c.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/938aa021cd44f17c.png)
 
 ***LinkedList Architecture ***
 

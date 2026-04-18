@@ -26,7 +26,7 @@ It is like having a superpower. But yes, they can be scary. **Why?**
 
 
 
-![img](/Full-Stack-Game-Development/images/a2085dc9a976ee5b.png)
+![img](//outscal.github.io/Full-Stack-Game-Development/images/a2085dc9a976ee5b.png)
 
 
 
@@ -69,7 +69,7 @@ A pointer is something that points to something else!
 
 Yes, it's as simple as that.
 
-![img](/Full-Stack-Game-Development/images/e4bdb4893d34a094.png)
+![img](//outscal.github.io/Full-Stack-Game-Development/images/e4bdb4893d34a094.png)
 
 
 
@@ -89,7 +89,7 @@ Every variable has its own special place in memory.
 
 
 
-![img](/Full-Stack-Game-Development/images/2f822788a8a0864b.png)
+![img](//outscal.github.io/Full-Stack-Game-Development/images/2f822788a8a0864b.png)
 
 
 
@@ -99,7 +99,7 @@ Think of it like a house having its own address, so the computer can find out wh
 
 
 
-![img](/Full-Stack-Game-Development/images/5cc156889b0ce385.png)
+![img](//outscal.github.io/Full-Stack-Game-Development/images/5cc156889b0ce385.png)
 
 
 
@@ -217,7 +217,7 @@ Like sharing a drawer number instead of the whole stack of papers.
 
 
 
-![img](/Full-Stack-Game-Development/images/a5ce3117bef46d64.png)
+![img](//outscal.github.io/Full-Stack-Game-Development/images/a5ce3117bef46d64.png)
 
 
 
@@ -237,7 +237,7 @@ This is why developers who know how to use pointers effectively are considered s
 
 
 
-![img](/Full-Stack-Game-Development/images/0beb6aad7ffafdef.png)
+![img](//outscal.github.io/Full-Stack-Game-Development/images/0beb6aad7ffafdef.png)
 
 
 

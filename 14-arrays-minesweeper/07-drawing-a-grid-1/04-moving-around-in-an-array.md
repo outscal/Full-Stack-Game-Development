@@ -79,7 +79,7 @@ int oneDArray[5] = {1, 2, 3, 4, 5};
 
 
 
-click here to see the Output![undefined](/Full-Stack-Game-Development/images/5215f26eaf756432.png)
+click here to see the Output![undefined](//outscal.github.io/Full-Stack-Game-Development/images/5215f26eaf756432.png)
 
 
 
@@ -149,7 +149,7 @@ Address for any element is calculated using this formula:
 
 
 
-![ ](/Full-Stack-Game-Development/images/60ee4e579849b104.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/60ee4e579849b104.png)
 
 
 
@@ -216,7 +216,7 @@ So, if a `ticTacToeBoard` has all empty spaces (represented by -1) and player X 
 
 
 
-![ ](/Full-Stack-Game-Development/images/39176c02a30e0ccf.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/39176c02a30e0ccf.png)
 
 
 

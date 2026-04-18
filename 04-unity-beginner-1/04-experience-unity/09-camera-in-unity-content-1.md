@@ -9,7 +9,7 @@ You've built your scene, now let's see it through your player's eyes! We're talk
 
 
 
-![Camera In Unity](/Full-Stack-Game-Development/images/c675dc3e46511d44.png)
+![Camera In Unity](//outscal.github.io/Full-Stack-Game-Development/images/c675dc3e46511d44.png)
 
 
 

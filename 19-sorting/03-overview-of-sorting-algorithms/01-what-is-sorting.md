@@ -63,7 +63,7 @@ For instance, let's say you have to **find a number** within a list.
 
 
 
-![ ](/Full-Stack-Game-Development/images/b5b3089ccb31b89e.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/b5b3089ccb31b89e.png)
 
 
 
@@ -103,7 +103,7 @@ Each algorithm has its own pros and cons. We'll use these classifications to und
 
 
 
-![ ](/Full-Stack-Game-Development/images/1823fe91cb5b06db.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/1823fe91cb5b06db.png)
 
 *In-place vs. Out-of-place Sort*
 
@@ -117,7 +117,7 @@ Each algorithm has its own pros and cons. We'll use these classifications to und
 
 
 
-![ ](/Full-Stack-Game-Development/images/a71eacb801b95ea0.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/a71eacb801b95ea0.png)
 
 *Stable vs. Unstable Sorting*
 

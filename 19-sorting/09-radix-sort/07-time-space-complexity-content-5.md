@@ -199,7 +199,7 @@ So, pat yourself on the back for mastering sorting.
 
 
 
-![ ](/Full-Stack-Game-Development/images/41d5b9e37a84fb4a.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/41d5b9e37a84fb4a.gif)
 
 
 

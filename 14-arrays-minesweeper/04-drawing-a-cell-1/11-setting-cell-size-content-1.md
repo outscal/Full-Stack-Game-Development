@@ -25,7 +25,7 @@ Here is an example of different sizes of cells being drawn for different numbers
 
 
 
-![ ](/Full-Stack-Game-Development/images/9d2dea5c80323a6b.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/9d2dea5c80323a6b.png)
 
 **Multiple Grid Sizes**
 
@@ -78,7 +78,7 @@ Before starting to calculate, we have to subtract *"*`*horizontalCellPadding*`*"
 
 
 
-![ ](/Full-Stack-Game-Development/images/df3f325575ac74e5.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/df3f325575ac74e5.png)
 
 **Highlighted Extra Space**
 

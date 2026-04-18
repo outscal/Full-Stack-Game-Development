@@ -6,7 +6,7 @@ Its time to create our own Abstract Command Interface.
 
 Create a Folder and namespace inside your script folder called "Commands". Inside that Folder create another Folder called Abstract Commands:
 
-![](/Full-Stack-Game-Development/images/18e993d9ade6c8e1.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/18e993d9ade6c8e1.png)
 
 
 

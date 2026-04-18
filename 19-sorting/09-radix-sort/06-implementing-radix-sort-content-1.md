@@ -115,7 +115,7 @@ Consider you have the sticks (each represented by a number):
 
 
 
-![ ](/Full-Stack-Game-Development/images/bcee0a40030d6c98.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/bcee0a40030d6c98.png)
 
 `***output***`* & *`***count***`* array*
 
@@ -132,7 +132,7 @@ Consider you have the sticks (each represented by a number):
 
 
 
-![ ](/Full-Stack-Game-Development/images/9aefe379416cb003.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/9aefe379416cb003.gif)
 
 `***count***`* array*
 
@@ -144,7 +144,7 @@ Count vector after counting digits: `count = [1, 0, 0, 0, 1, 2, 0, 0, 0, 1]`
 
 - Then, accumulate the counts in the `count` vector to determine the positions for sorted output.
 
-![ ](/Full-Stack-Game-Development/images/bc8d1ed67eb816c6.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/bc8d1ed67eb816c6.png)
 
 `**count**` array accumulation
 
@@ -159,7 +159,7 @@ As a result, 66 will be placed in `output[count[6] - 1]`, which is `output[7]`, 
 
 
 
-![ ](/Full-Stack-Game-Development/images/3856acb61876a41f.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/3856acb61876a41f.gif)
 
 `**output**` array
 
@@ -173,7 +173,7 @@ Output vector after sorting unit place: `output = [90, 24, 75, 15, 9]`
   Use `processing_element_color` to change the colour of the processing sticks.
   Update the positions of the stick using the special function made for radix sort.
 
-![ ](/Full-Stack-Game-Development/images/649920463ed967e4.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/649920463ed967e4.png)
 
 
 

@@ -4,7 +4,7 @@ We're gathered here to welcome our new guest: **the Circular Linked List, or CLL
 
 
 
-![gif](/Full-Stack-Game-Development/images/c3ea8ba7ad6c0699.gif)
+![gif](//outscal.github.io/Full-Stack-Game-Development/images/c3ea8ba7ad6c0699.gif)
 
 
 
@@ -20,7 +20,7 @@ You must have noticed the **repeat** feature on Spotify that keeps your favourit
 
 
 
-![Image](/Full-Stack-Game-Development/images/7e1556081d6a0917.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/7e1556081d6a0917.png)
 
 
 
@@ -81,7 +81,7 @@ A Circular Linked List is a type of linked list in which the **last node points 
 
 
 
-![Image](/Full-Stack-Game-Development/images/cfc03a1f7c50bc9c.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/cfc03a1f7c50bc9c.png)
 
 ***The Oroborus is an ancient symbol of a snake eating its own tail.***
 
@@ -100,7 +100,7 @@ Circular linked lists are classified into two types: singly circular linked list
 
 
 
-![Image](/Full-Stack-Game-Development/images/3f06bae01fb311fb.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/3f06bae01fb311fb.png)
 
 
 
@@ -108,7 +108,7 @@ Circular linked lists are classified into two types: singly circular linked list
 
 
 
-![Image](/Full-Stack-Game-Development/images/f52ff83475d99171.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/f52ff83475d99171.png)
 
 ***SLL vs DLL vs CLL***
 

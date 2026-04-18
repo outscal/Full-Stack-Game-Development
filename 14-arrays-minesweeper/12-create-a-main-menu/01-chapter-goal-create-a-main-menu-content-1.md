@@ -8,7 +8,7 @@ A ***Main Menu***
 
 Click here to see the Main Menu.
 
-![ ](/Full-Stack-Game-Development/images/19eedad6f66a77ad.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/19eedad6f66a77ad.png)
 
 
 

@@ -46,7 +46,7 @@ But there would have been no confusion if your friend would say "*your* room" or
 
 
 
-![ ](/Full-Stack-Game-Development/images/dc8c0d031d18936b.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/dc8c0d031d18936b.png)
 
 
 

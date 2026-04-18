@@ -1,7 +1,7 @@
 In this chapter, you'll make those boring cells clickable!
 
 
-![ ](/Full-Stack-Game-Development/images/1e51c6b084f82418.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/1e51c6b084f82418.png)
 
 
 

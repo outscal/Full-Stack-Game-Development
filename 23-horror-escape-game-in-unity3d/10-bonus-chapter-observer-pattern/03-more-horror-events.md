@@ -8,7 +8,7 @@ Get ready to send shivers down players' spines with these new horrors. Here's yo
 
 
 
-![](/Full-Stack-Game-Development/images/388d3e442f254112.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/388d3e442f254112.gif)
 
 
 
@@ -22,7 +22,7 @@ Get ready to send shivers down players' spines with these new horrors. Here's yo
 
 
 
-![](/Full-Stack-Game-Development/images/3231ced7353bba8e.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/3231ced7353bba8e.gif)
 
 
 
@@ -36,7 +36,7 @@ Get ready to send shivers down players' spines with these new horrors. Here's yo
 
 
 
-![](/Full-Stack-Game-Development/images/07fdfa7929556a13.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/07fdfa7929556a13.gif)
 
 
 

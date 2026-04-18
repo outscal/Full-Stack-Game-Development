@@ -14,7 +14,7 @@ Remember the iconic **Snake Game**? If not, here, let us take a walk down the me
 
 
 
-![](/Full-Stack-Game-Development/images/4a7eb34188d65d06.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/4a7eb34188d65d06.gif)
 
 
 
@@ -32,7 +32,7 @@ Yes! My parents were addicted to a game!
 
 
 
-![Mom playing on Nokia](/Full-Stack-Game-Development/images/d554d0b92bbf93e2.png)
+![Mom playing on Nokia](//outscal.github.io/Full-Stack-Game-Development/images/d554d0b92bbf93e2.png)
 
 ***"Mom you've been playing for 3 hours!"***
 
@@ -69,7 +69,7 @@ Keep up your excitement!
 
 - Get a glimpse of what you'll create by the end of this course
 
-![Snake Gameplay](/Full-Stack-Game-Development/images/d3296f0cd82f08b0.gif)
+![Snake Gameplay](//outscal.github.io/Full-Stack-Game-Development/images/d3296f0cd82f08b0.gif)
 
 ***GAMEPLAY***
 

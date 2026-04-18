@@ -11,7 +11,7 @@ Let's discuss various problems that can be solved with data structures...
 
 
 
-![ ](/Full-Stack-Game-Development/images/8bfece6a5315c242.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/8bfece6a5315c242.png)
 
 
 

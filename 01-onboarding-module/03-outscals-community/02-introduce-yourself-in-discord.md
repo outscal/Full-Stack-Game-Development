@@ -6,7 +6,7 @@ Once you have Joined the server, the first thing you should do is introduce your
 
 
 
-![](/Full-Stack-Game-Development/images/344c54da703227f5.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/344c54da703227f5.png)
 
 
 

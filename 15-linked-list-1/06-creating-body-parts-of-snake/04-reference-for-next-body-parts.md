@@ -1,4 +1,4 @@
-![Nodes of Snake](/Full-Stack-Game-Development/images/4cfcf396a502ab21.png)
+![Nodes of Snake](//outscal.github.io/Full-Stack-Game-Development/images/4cfcf396a502ab21.png)
 
 **Nodes of Snake**
 

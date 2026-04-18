@@ -6,7 +6,7 @@ Without the heartbeat, the body wouldn’t know what to do, and everything would
 
 
 
-![c++](/Full-Stack-Game-Development/images/2a4232f048587c04.gif)
+![c++](//outscal.github.io/Full-Stack-Game-Development/images/2a4232f048587c04.gif)
 
 
 
@@ -43,7 +43,7 @@ During your turn, you make decisions, move your pieces, and then wait for the ot
 
 
 
-![chess](/Full-Stack-Game-Development/images/13ac28b46a7f0da8.png)
+![chess](//outscal.github.io/Full-Stack-Game-Development/images/13ac28b46a7f0da8.png)
 
 
 
@@ -94,7 +94,7 @@ And no way for the game to know when something happens.
 
 
 
-![img](/Full-Stack-Game-Development/images/a82f27d6f6e5d8bc.png)
+![img](//outscal.github.io/Full-Stack-Game-Development/images/a82f27d6f6e5d8bc.png)
 
 
 

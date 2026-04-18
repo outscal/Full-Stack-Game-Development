@@ -16,7 +16,7 @@ You'll use this link to work on this project.
 
 
 
-![ ](/Full-Stack-Game-Development/images/000f67733cc4f52d.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/000f67733cc4f52d.png)
 
 **Compiler**
 
@@ -26,7 +26,7 @@ You'll use this link to work on this project.
 
 
 
-![ ](/Full-Stack-Game-Development/images/a29a0f83e9db96e4.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/a29a0f83e9db96e4.png)
 
 **Save**
 

@@ -26,4 +26,4 @@
 - Connect with all members which have shared their profiles in the discord channel to increase your game industry network.
 - Submit the link to your LinkedIn profile as a submission for this assignment.
 
-![](/Full-Stack-Game-Development/images/a503f36d8488f9c0.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/a503f36d8488f9c0.gif)

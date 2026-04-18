@@ -30,4 +30,4 @@ In your LinkedIn profile page:
 
 
 
-![image](/Full-Stack-Game-Development/images/1255772f50e61080.png)
+![image](//outscal.github.io/Full-Stack-Game-Development/images/1255772f50e61080.png)

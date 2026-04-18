@@ -11,7 +11,7 @@
 
 - Get ready to make a grand entrance, you are going to make your First LinkedIn Post !!!!!
 
-![](/Full-Stack-Game-Development/images/8bcc5b1142efa918.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/8bcc5b1142efa918.gif)
 
 
 
@@ -23,7 +23,7 @@
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/a0c71c52-9a09-4d09-bf58-034da5e801e5/Untitled.png)
 
-![](/Full-Stack-Game-Development/images/f401f5983eb70802.jpg)
+![](//outscal.github.io/Full-Stack-Game-Development/images/f401f5983eb70802.jpg)
 
 
 

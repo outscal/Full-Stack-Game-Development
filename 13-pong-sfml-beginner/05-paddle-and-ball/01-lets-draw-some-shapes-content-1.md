@@ -46,7 +46,7 @@ Let's build it step by step.
 
 Click here to see the folder structure.
 
-![ ](/Full-Stack-Game-Development/images/8cae9b683b7d48e7.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/8cae9b683b7d48e7.png)
 
 **Folder Structure**
 

@@ -11,7 +11,7 @@ The battle loop is the flow of the battle.
 
 What the hell is the flow of the battle?!
 
-![  ](/Full-Stack-Game-Development/images/5104b048d693428b.webp)
+![  ](//outscal.github.io/Full-Stack-Game-Development/images/5104b048d693428b.webp)
 
 
 
@@ -28,7 +28,7 @@ Flow of the battle controls the battle between *Dough Master* and *Crust Bandit*
 
 
 
-![ ](/Full-Stack-Game-Development/images/20513fc8a7e29b9c.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/20513fc8a7e29b9c.png)
 
 ***Flow of Battle Loop***
 

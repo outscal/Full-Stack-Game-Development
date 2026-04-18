@@ -11,7 +11,7 @@
 <li>Take a screenshot of your written email and submit the screenshot as a submission.</li>
 </ul>
 <div style = "text-align:center;margin-top:1rem">
-<img src="/Full-Stack-Game-Development/images/dff555fd1b73b9be.gif" width="70%">
+<img src="//outscal.github.io/Full-Stack-Game-Development/images/dff555fd1b73b9be.gif" width="70%">
 </div>
 </div>
 

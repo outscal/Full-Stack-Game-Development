@@ -742,7 +742,7 @@ Check out the video below:-
 
 
 
-![ ](/Full-Stack-Game-Development/images/95bbbe07a1fa76ee.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/95bbbe07a1fa76ee.gif)
 
 
 

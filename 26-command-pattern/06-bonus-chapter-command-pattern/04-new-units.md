@@ -6,7 +6,7 @@ In this assignment, You must create some new playable characters for the game wi
 
 
 
-![](/Full-Stack-Game-Development/images/bddd9d71bc506b9e.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/bddd9d71bc506b9e.gif)
 
 
 
@@ -34,4 +34,4 @@ The details of these characters and their executable moves is as follows:
 
 
 
-![](/Full-Stack-Game-Development/images/497b2eb7398ab681.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/497b2eb7398ab681.png)

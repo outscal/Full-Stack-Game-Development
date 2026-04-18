@@ -4,7 +4,7 @@
 
 Your code has evolved a lot since you started. Now let's move on and use all this good architecture that you have created to add some more complex enemies in your game.
 
- ![](/Full-Stack-Game-Development/images/9ee526dd5157785b.jpg)
+ ![](//outscal.github.io/Full-Stack-Game-Development/images/9ee526dd5157785b.jpg)
 
 
 

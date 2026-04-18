@@ -18,7 +18,7 @@ Then, the body part will be drawn at the top-left corner of the screen with only
 
 
 
-![BodyPart at (0,0)](/Full-Stack-Game-Development/images/10e048648a3621f2.png)
+![BodyPart at (0,0)](//outscal.github.io/Full-Stack-Game-Development/images/10e048648a3621f2.png)
 
 `**BodyPart**`** at screen **`**(0,0)**`
 
@@ -58,7 +58,7 @@ sf::Vector2f BodyPart::getBodyPartScreenPosition()
 
 
 
-![OG Snake Rotating like CRAZY](/Full-Stack-Game-Development/images/75c42a9da235ecbb.gif)
+![OG Snake Rotating like CRAZY](//outscal.github.io/Full-Stack-Game-Development/images/75c42a9da235ecbb.gif)
 
 ***OG snake rotating like crazy***
 
@@ -70,7 +70,7 @@ Go help it!
 
 
 
-![Rotation Angles of BodyPart](/Full-Stack-Game-Development/images/4f974c7ed60b5202.png)
+![Rotation Angles of BodyPart](//outscal.github.io/Full-Stack-Game-Development/images/4f974c7ed60b5202.png)
 
 **Rotation Angles of **`**BodyPart**`** **
 

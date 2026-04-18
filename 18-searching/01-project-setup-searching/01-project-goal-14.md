@@ -10,7 +10,7 @@ There is so much data that the computer needs to look through; should it not tak
 
 
 
-![    ](/Full-Stack-Game-Development/images/c7aaa6b03df9903c.png)
+![    ](//outscal.github.io/Full-Stack-Game-Development/images/c7aaa6b03df9903c.png)
 
 
 
@@ -62,7 +62,7 @@ By applying the most appropriate search algorithm based on the situation, you ca
 
 
 
-![linear search algorithm](/Full-Stack-Game-Development/images/baecac1857873ca5.gif)
+![linear search algorithm](//outscal.github.io/Full-Stack-Game-Development/images/baecac1857873ca5.gif)
 
 *A classic Search algorithm*
 

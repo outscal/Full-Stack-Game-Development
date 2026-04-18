@@ -2,7 +2,7 @@ In this lesson, you'll render a row of cells using a 1D Array.
 
 
 
-![ ](/Full-Stack-Game-Development/images/e085c71abad5545e.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/e085c71abad5545e.png)
 
 **DRAWING A ROW**
 
@@ -95,7 +95,7 @@ Now, you just need to initialize the cells array to create a whole row of cells.
 
 
 
-![ ](/Full-Stack-Game-Development/images/e7ed6f1688e5ad40.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/e7ed6f1688e5ad40.png)
 
 
 
@@ -190,7 +190,7 @@ To position the cells properly, we need to calculate the positions of the cells.
 
 
 
-![ ](/Full-Stack-Game-Development/images/ad3bd30e7ac00a85.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/ad3bd30e7ac00a85.png)
 
 **Position**
 
@@ -276,7 +276,7 @@ This will make all your cells appear in a row!
 
 
 
-![ ](/Full-Stack-Game-Development/images/e085c71abad5545e.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/e085c71abad5545e.png)
 
 **ROW OF CELLS**
 

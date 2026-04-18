@@ -7,7 +7,7 @@ Remember those cool little flipbooks where each page had a slightly different im
 
 
 
-![ ](/Full-Stack-Game-Development/images/0d410d3d82fda165.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/0d410d3d82fda165.gif)
 
 **Flipbook**
 
@@ -55,7 +55,7 @@ Most movies run at 24 FPS. That's enough to trick our brains into seeing smooth 
 - 60 FPS is considered smooth
 - Some games even go for 120 FPS or more!
 
-![FPS Comparison](/Full-Stack-Game-Development/images/58175384558b2e8a.gif)
+![FPS Comparison](//outscal.github.io/Full-Stack-Game-Development/images/58175384558b2e8a.gif)
 
 **60 FPS vs 30 FPS vs 24 FPS**
 

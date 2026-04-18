@@ -34,7 +34,7 @@ A linked list where the last node points back to the first node, making the list
 
 
 
-![Image](/Full-Stack-Game-Development/images/61c04a868c978681.jpg)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/61c04a868c978681.jpg)
 
 
 

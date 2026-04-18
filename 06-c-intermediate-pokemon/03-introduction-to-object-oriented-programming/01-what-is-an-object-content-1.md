@@ -10,7 +10,7 @@
 
 Take a look around your room where you are right now. What do you see?
 
-                                                               ![MemeToYou](/Full-Stack-Game-Development/images/9c932ff848921823.gif)
+                                                               ![MemeToYou](//outscal.github.io/Full-Stack-Game-Development/images/9c932ff848921823.gif)
 
 ARE YOU LOOKING????
 
@@ -28,7 +28,7 @@ Picking up an object near you will not affect other objects that are there in th
 
 
 
-![c++](/Full-Stack-Game-Development/images/2da8cae2e23828c2.png)
+![c++](//outscal.github.io/Full-Stack-Game-Development/images/2da8cae2e23828c2.png)
 
 
 
@@ -129,7 +129,7 @@ But they work together in the game, the player chooses the pokemon it wants, it 
 
 Just like Objects in real world work together to keep it running :)
 
-                                                           ![Pokemon](/Full-Stack-Game-Development/images/44ff3c99b4221b27.jpg)
+                                                           ![Pokemon](//outscal.github.io/Full-Stack-Game-Development/images/44ff3c99b4221b27.jpg)
 
 
 
@@ -143,7 +143,7 @@ So, how was it? Refreshing right.
 
 Now, can you Think of different Objects that will be there in the game and what will be their properties and methods? Below are some snapshot to help you out!!!
 
-![game](/Full-Stack-Game-Development/images/cc934757945c25fc.jpg)
+![game](//outscal.github.io/Full-Stack-Game-Development/images/cc934757945c25fc.jpg)
 
 
 

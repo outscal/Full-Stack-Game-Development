@@ -27,7 +27,7 @@ Say hello to Mr. Blocks, the hero of your very first Unity game!
 
 
 
-![Mr. Blocks](/Full-Stack-Game-Development/images/51867f3a023757ef.png)
+![Mr. Blocks](//outscal.github.io/Full-Stack-Game-Development/images/51867f3a023757ef.png)
 
 
 

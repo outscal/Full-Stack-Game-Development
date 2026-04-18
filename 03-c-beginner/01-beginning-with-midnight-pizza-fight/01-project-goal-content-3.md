@@ -56,7 +56,7 @@ Before the ***"why"***, let's answer the ***"what"***!
 
 ---
 
-![Midnight Pizza Fight](/Full-Stack-Game-Development/images/c8a8a5ab53899eb9.png)
+![Midnight Pizza Fight](//outscal.github.io/Full-Stack-Game-Development/images/c8a8a5ab53899eb9.png)
 
 ***Midnight Pizza Fight***
 
@@ -120,4 +120,4 @@ So!
 
 Get ready to run!
 
-![RUN!](/Full-Stack-Game-Development/images/5f6c5bd802441cf1.png)
+![RUN!](//outscal.github.io/Full-Stack-Game-Development/images/5f6c5bd802441cf1.png)

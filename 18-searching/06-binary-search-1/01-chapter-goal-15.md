@@ -10,7 +10,7 @@ Let's take a look at what you will be making in the upcoming lessons.
 
 
 
-![ ](/Full-Stack-Game-Development/images/005be14387d985f8.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/005be14387d985f8.gif)
 
 
 

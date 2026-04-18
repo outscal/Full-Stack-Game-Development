@@ -51,7 +51,7 @@ Before we begin implementing methods in the above class, can you look at it agai
 
 **Hint:**
 
-![](/Full-Stack-Game-Development/images/7443e4195ebca829.jpg)
+![](//outscal.github.io/Full-Stack-Game-Development/images/7443e4195ebca829.jpg)
 
 
 
@@ -140,7 +140,7 @@ Once you are done refactoring the code for previous states, Let's continue imple
 
 The behavior of this state is quite simple, our enemy will have a set of patrol points assigned to it on which it will iterate one by one. 
 
-![](/Full-Stack-Game-Development/images/24c6f9fa7371302f.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/24c6f9fa7371302f.png)
 
 
 

@@ -23,7 +23,7 @@ Now, using the `steady_clock`, you can store the point at which a frame starts a
 
 Click here to see the folder structure.
 
-![ ](/Full-Stack-Game-Development/images/68b87b90d6317c35.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/68b87b90d6317c35.png)
 
 **Folder Strtucture**
 

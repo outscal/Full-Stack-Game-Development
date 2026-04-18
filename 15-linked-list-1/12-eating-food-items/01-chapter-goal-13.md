@@ -13,7 +13,7 @@
 
 
 
-![SNAKE](/Full-Stack-Game-Development/images/77f3d16699cb2fc3.png)
+![SNAKE](//outscal.github.io/Full-Stack-Game-Development/images/77f3d16699cb2fc3.png)
 
 
 
@@ -83,7 +83,7 @@ Now you will do these insertion and deletion operations at any position!
 
 
 
-![Food Items with Functions](/Full-Stack-Game-Development/images/98ad4570943f2d31.png)
+![Food Items with Functions](//outscal.github.io/Full-Stack-Game-Development/images/98ad4570943f2d31.png)
 
 
 

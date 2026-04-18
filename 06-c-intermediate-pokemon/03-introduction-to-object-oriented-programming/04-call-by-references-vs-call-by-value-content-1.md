@@ -1,4 +1,4 @@
-![ ](/Full-Stack-Game-Development/images/cdc42313dd6aa628.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/cdc42313dd6aa628.gif)
 
 
 
@@ -81,7 +81,7 @@ So, the actual code will not be changed in this case.
 
 
 
-![ ](/Full-Stack-Game-Development/images/eab8954ce583cca2.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/eab8954ce583cca2.png)
 
 
 
@@ -112,7 +112,7 @@ you can pass any variable as **call by reference**.
 
 
 
-![ ](/Full-Stack-Game-Development/images/cba9ac4421ccfa39.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/cba9ac4421ccfa39.png)
 
 
 

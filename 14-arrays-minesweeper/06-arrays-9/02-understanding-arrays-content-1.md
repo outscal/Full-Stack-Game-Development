@@ -23,7 +23,7 @@ What is an Array?!🤔
 
 
 
-![Biscuits](/Full-Stack-Game-Development/images/6ff79457d0f1c857.png)
+![Biscuits](//outscal.github.io/Full-Stack-Game-Development/images/6ff79457d0f1c857.png)
 
 
 

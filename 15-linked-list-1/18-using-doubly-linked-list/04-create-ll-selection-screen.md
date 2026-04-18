@@ -9,7 +9,7 @@
 
 
 
-![Image](/Full-Stack-Game-Development/images/080e4c539dd2d4b5.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/080e4c539dd2d4b5.png)
 
 ***Linked List Selection Screen***
 

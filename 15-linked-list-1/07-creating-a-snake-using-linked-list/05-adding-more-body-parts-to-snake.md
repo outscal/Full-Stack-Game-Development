@@ -71,7 +71,7 @@ If any node whose next pointer is not `**nullptr**` can never be referred to as 
 
 
 
-![Image](/Full-Stack-Game-Development/images/654f639298ccc52a.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/654f639298ccc52a.png)
 
 
 
@@ -101,7 +101,7 @@ This loop visits each node from the head to the node whose next pointer is `**nu
 
 
 
-![Image](/Full-Stack-Game-Development/images/0208b9359413092a.gif)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/0208b9359413092a.gif)
 
 
 
@@ -134,7 +134,7 @@ Imagine you have two nodes **A** & **B**. Both are pointing to `**nullptr**` rig
 
 
 
-![Image](/Full-Stack-Game-Development/images/178eef2d71099152.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/178eef2d71099152.png)
 
 
 
@@ -146,7 +146,7 @@ This connects node **A** to node **B**, creating a sequence in the linked list.
 
 
 
-![Image](/Full-Stack-Game-Development/images/12d99700f73e38a4.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/12d99700f73e38a4.png)
 
 
 
@@ -167,7 +167,7 @@ You know the drill: create a new node, reach till the end, then point it to the 
 
 This is how it looks:
 
-![Image](/Full-Stack-Game-Development/images/c66ef8ef0cdb73db.gif)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/c66ef8ef0cdb73db.gif)
 
 ***Insertion at the Tail***
 
@@ -360,7 +360,7 @@ Now, you should see your snake with its body. 🤭
 
 
 
-![Image](/Full-Stack-Game-Development/images/6f70a59fd0c9f2b5.gif)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/6f70a59fd0c9f2b5.gif)
 
 ***Inserting Node At Tail: Minion Edition *****😁**
 

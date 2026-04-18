@@ -15,7 +15,7 @@ This is my favourite topic.
 
 
 
-![ ](/Full-Stack-Game-Development/images/39462d63867edee9.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/39462d63867edee9.gif)
 
 
 
@@ -66,4 +66,4 @@ SO LETS GOOOOO!!!
 
 
 
-![ ](/Full-Stack-Game-Development/images/f98a3ce59acab195.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/f98a3ce59acab195.gif)

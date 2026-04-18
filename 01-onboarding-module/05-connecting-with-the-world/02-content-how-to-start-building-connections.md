@@ -14,6 +14,6 @@
 
 
 
-![](/Full-Stack-Game-Development/images/de8c1828a8f2c66b.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/de8c1828a8f2c66b.png)
 
-![](/Full-Stack-Game-Development/images/2694a16855d079ef.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/2694a16855d079ef.png)

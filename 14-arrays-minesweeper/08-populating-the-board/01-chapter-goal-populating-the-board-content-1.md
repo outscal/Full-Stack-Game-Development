@@ -8,7 +8,7 @@ In this chapter, you'll "*Populate*" the board by adding mine and numbers to the
 
 Here's your chapter goal.
 
-![ ](/Full-Stack-Game-Development/images/106be5d989971dec.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/106be5d989971dec.png)
 
 
 

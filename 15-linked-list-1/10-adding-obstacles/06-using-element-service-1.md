@@ -218,7 +218,7 @@ Now that you have connected everything. Great!!
 
 
 
-![i am restraining from freaking out quite admirably — Well, that's what will  happen if you open the red...](/Full-Stack-Game-Development/images/4c9fcbe7da0be717.gif)
+![i am restraining from freaking out quite admirably — Well, that's what will  happen if you open the red...](//outscal.github.io/Full-Stack-Game-Development/images/4c9fcbe7da0be717.gif)
 
 
 

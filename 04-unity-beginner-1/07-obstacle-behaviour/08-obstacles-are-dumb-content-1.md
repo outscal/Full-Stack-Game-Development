@@ -14,7 +14,7 @@ Mr. Blocks just passed right through it!
 
 
 
-![ ](/Full-Stack-Game-Development/images/d3ef716c7e89f602.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/d3ef716c7e89f602.gif)
 
 
 
@@ -25,7 +25,7 @@ Nothing! Mr. Blocks is unfazed!
 
 
 
-![ ](/Full-Stack-Game-Development/images/b178f6b26b143a2b.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/b178f6b26b143a2b.gif)
 
 
 
@@ -35,7 +35,7 @@ Mr. Blocks is still having a great day, completely ignoring the spike.
 
 
 
-![ ](/Full-Stack-Game-Development/images/2745d5488ded212a.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/2745d5488ded212a.gif)
 
 
 

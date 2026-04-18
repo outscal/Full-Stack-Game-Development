@@ -13,4 +13,4 @@ Now, you can take a break and let your snake hunt for food on its own.
 
 
 
-![Image](/Full-Stack-Game-Development/images/2e5927c5d9d5a384.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/2e5927c5d9d5a384.png)

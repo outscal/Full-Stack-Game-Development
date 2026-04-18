@@ -10,7 +10,7 @@ Sounds cute, right?
 
 In the classic Snake Game, when the snake eats food, you can watch it travel through its body until a new segment pops up at the tail.
 
-![gif](/Full-Stack-Game-Development/images/e171ba6ee1dd7dfb.gif)
+![gif](//outscal.github.io/Full-Stack-Game-Development/images/e171ba6ee1dd7dfb.gif)
 
 
 
@@ -62,7 +62,7 @@ When your snake eats a piece of food, it will move through the snake's body part
 Time to make your Snake Gobble-Gobble!!
 
 
-![Image](/Full-Stack-Game-Development/images/c084d8de9df1f524.gif)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/c084d8de9df1f524.gif)
 
 
 

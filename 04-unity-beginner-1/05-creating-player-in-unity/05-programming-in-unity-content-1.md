@@ -69,7 +69,7 @@ private void Start()
 
 
 
-![Start](/Full-Stack-Game-Development/images/80e8b113f1182670.png)
+![Start](//outscal.github.io/Full-Stack-Game-Development/images/80e8b113f1182670.png)
 
 **Start Method**
 
@@ -105,7 +105,7 @@ private void Update()
 
 
 
-![ ](/Full-Stack-Game-Development/images/f953eae3a6f553f7.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/f953eae3a6f553f7.gif)
 
 **Update Method**
 

@@ -10,7 +10,7 @@ You were obviously able to sort the papers since each page had a number.
 
 
 
-![Image](/Full-Stack-Game-Development/images/702bb3e2c6b95a93.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/702bb3e2c6b95a93.png)
 
 
 
@@ -38,7 +38,7 @@ What does sorting even mean?
 
 
 
-![Image](/Full-Stack-Game-Development/images/fe83247bb4fcb064.gif)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/fe83247bb4fcb064.gif)
 
 ***Sorting***
 

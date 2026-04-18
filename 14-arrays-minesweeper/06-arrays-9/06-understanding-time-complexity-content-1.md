@@ -4,7 +4,7 @@ You have an old-school telephone at your home ☎️
 
 
 
-![ ](/Full-Stack-Game-Development/images/d12c93c8de29a83b.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/d12c93c8de29a83b.png)
 
 
 

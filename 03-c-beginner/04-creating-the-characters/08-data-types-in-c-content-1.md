@@ -87,7 +87,7 @@ Let's see
 
 
 
-![Data Type Size Table](/Full-Stack-Game-Development/images/439233782906cff5.png)
+![Data Type Size Table](//outscal.github.io/Full-Stack-Game-Development/images/439233782906cff5.png)
 
 **Size of Data Types: C++ vs C#** 
 

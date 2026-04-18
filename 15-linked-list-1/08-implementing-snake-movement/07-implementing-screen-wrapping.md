@@ -1,4 +1,4 @@
-![Snake Wrapping](/Full-Stack-Game-Development/images/b2b0e62a6e048004.gif)
+![Snake Wrapping](//outscal.github.io/Full-Stack-Game-Development/images/b2b0e62a6e048004.gif)
 
 ***OG Snake Wrapping***
 
@@ -133,7 +133,7 @@ sf::Vector2i BodyPart::getNextPositionLeft()
 
 
 
-![Doofenshmirtz: Evil Laugh](/Full-Stack-Game-Development/images/53b78727bf462612.png)
+![Doofenshmirtz: Evil Laugh](//outscal.github.io/Full-Stack-Game-Development/images/53b78727bf462612.png)
 
 *It is time!*
 

@@ -10,7 +10,7 @@ Programmers strive to be as efficient/lazy as they can be. *(In a good way!)*
 
 
 
-![r/ProgrammerHumor - Lazy programming](/Full-Stack-Game-Development/images/ff59574ed49d741e.jpg)
+![r/ProgrammerHumor - Lazy programming](//outscal.github.io/Full-Stack-Game-Development/images/ff59574ed49d741e.jpg)
 
 
 
@@ -116,7 +116,7 @@ At the top, you have the grandparents, then their children, and finally the gran
 
 
 
-![Placeholder](/Full-Stack-Game-Development/images/1f53977b6b52a382.png)
+![Placeholder](//outscal.github.io/Full-Stack-Game-Development/images/1f53977b6b52a382.png)
 
 
 
@@ -145,7 +145,7 @@ In code, inheritance works like this:
 
 
 
-![Placeholder](/Full-Stack-Game-Development/images/1968f1171b962d84.png)
+![Placeholder](//outscal.github.io/Full-Stack-Game-Development/images/1968f1171b962d84.png)
 
 
 
@@ -188,7 +188,7 @@ Inheritance makes the code simpler and more organized.
 
 
 
-![img](/Full-Stack-Game-Development/images/2de8d3cdda899a59.png)
+![img](//outscal.github.io/Full-Stack-Game-Development/images/2de8d3cdda899a59.png)
 
 
 

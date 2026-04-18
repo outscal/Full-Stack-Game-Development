@@ -22,4 +22,4 @@ Discussing specific game mechanics, designs or coding concepts can provide usefu
 
 
 
-![](/Full-Stack-Game-Development/images/e8f1279d9613c9eb.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/e8f1279d9613c9eb.gif)

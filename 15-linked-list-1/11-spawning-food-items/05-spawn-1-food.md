@@ -6,7 +6,7 @@ Keep your goal simple for this section: spawn a delicious burger every time the 
 
 
 
-![Burgir GIF - Burgir - Discover & Share GIFs](/Full-Stack-Game-Development/images/739b44286c605b16.gif)
+![Burgir GIF - Burgir - Discover & Share GIFs](//outscal.github.io/Full-Stack-Game-Development/images/739b44286c605b16.gif)
 
 
 
@@ -292,7 +292,7 @@ Let's randomize the food item and its position in the next section.
 
 
 
-![ ](/Full-Stack-Game-Development/images/f51efc45fb820f96.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/f51efc45fb820f96.png)
 
 ***Game So Far***
 

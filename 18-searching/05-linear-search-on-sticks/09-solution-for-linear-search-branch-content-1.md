@@ -11,6 +11,6 @@ If your code needs improvement, refactor it accordingly before proceeding to the
 
 
 
-![](/Full-Stack-Game-Development/images/54f23adae30fcbc9.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/54f23adae30fcbc9.png)
 
 **"Keep Calm and Keep Coding"**

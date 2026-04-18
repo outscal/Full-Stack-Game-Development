@@ -4,7 +4,7 @@ It is time to call them now!
 
 
 
-![Food Items with Functions](/Full-Stack-Game-Development/images/98ad4570943f2d31.png)
+![Food Items with Functions](//outscal.github.io/Full-Stack-Game-Development/images/98ad4570943f2d31.png)
 
 ***Food Functions***
 

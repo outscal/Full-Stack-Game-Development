@@ -122,7 +122,7 @@ To check its adjacent cells, we need to calculate their positions:
 
 
 
-![ ](/Full-Stack-Game-Development/images/18aa0f06e2a9a573.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/18aa0f06e2a9a573.png)
 
 
 
@@ -344,7 +344,7 @@ void Board::populateCells()
 
 Expected Output before hiding the Cells.
 
-![ ](/Full-Stack-Game-Development/images/106be5d989971dec.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/106be5d989971dec.png)
 
 
 
@@ -354,7 +354,7 @@ Expected Output before hiding the Cells.
 
 Expected Output after hiding the Cells.
 
-![ ](/Full-Stack-Game-Development/images/1e236b3637c70b22.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/1e236b3637c70b22.png)
 
 
 

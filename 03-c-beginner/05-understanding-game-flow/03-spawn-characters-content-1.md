@@ -47,7 +47,7 @@ Click here to see the Hint.Did you think?😏Okay, here's the Hint!The objects o
 
 **Expected Output**
 
-![ ](/Full-Stack-Game-Development/images/cb8ea87eb39bf420.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/cb8ea87eb39bf420.png)
 
 
 

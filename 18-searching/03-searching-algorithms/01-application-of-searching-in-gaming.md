@@ -31,7 +31,7 @@ Finally, it picks out matches that it thinks you'll find challenging and enjoyab
 
 
 
-![matchmaking](/Full-Stack-Game-Development/images/c845b7234010bbdb.jpg)
+![matchmaking](//outscal.github.io/Full-Stack-Game-Development/images/c845b7234010bbdb.jpg)
 
 
 
@@ -47,7 +47,7 @@ For example, let's look at the Knight moves.
 
 
 
-![Valid moves for Knight](/Full-Stack-Game-Development/images/8812ad578df90c3a.png)
+![Valid moves for Knight](//outscal.github.io/Full-Stack-Game-Development/images/8812ad578df90c3a.png)
 
 *The image shows the valid moves that the ****Knight**** can make*
 
@@ -96,7 +96,7 @@ Let's think of a game that you must be familiar with, like **Pacman***.*
 
 
 
-![pathfinding in pacman](/Full-Stack-Game-Development/images/601cb1d6bb6d1b39.gif)
+![pathfinding in pacman](//outscal.github.io/Full-Stack-Game-Development/images/601cb1d6bb6d1b39.gif)
 
 
 

@@ -24,7 +24,7 @@ Creating a **Fork** is producing a personal copy of someone else's project. Fork
 
 
 
-![forking and cloning repo](/Full-Stack-Game-Development/images/a7103a5ce47ae423.png)
+![forking and cloning repo](//outscal.github.io/Full-Stack-Game-Development/images/a7103a5ce47ae423.png)
 
 
 
@@ -41,7 +41,7 @@ Creating a **Fork** is producing a personal copy of someone else's project. Fork
 
 
 
-![](/Full-Stack-Game-Development/images/dd5b6a89f342e602.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/dd5b6a89f342e602.png)
 
 
 
@@ -50,7 +50,7 @@ Creating a **Fork** is producing a personal copy of someone else's project. Fork
 
 
 
-![](/Full-Stack-Game-Development/images/ace2030f3beb2bee.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/ace2030f3beb2bee.png)
 
 
 
@@ -60,7 +60,7 @@ Creating a **Fork** is producing a personal copy of someone else's project. Fork
 
 
 
-![](/Full-Stack-Game-Development/images/f39f831697d42b7d.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/f39f831697d42b7d.gif)
 
 
 
@@ -82,4 +82,4 @@ Cloning a repository pulls down a full copy of all the repository data that git 
 
 
 
-![undefined](/Full-Stack-Game-Development/images/e79bd3948ef2e04c.gif)
+![undefined](//outscal.github.io/Full-Stack-Game-Development/images/e79bd3948ef2e04c.gif)

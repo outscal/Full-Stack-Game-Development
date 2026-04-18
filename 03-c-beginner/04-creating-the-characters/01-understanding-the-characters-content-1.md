@@ -1,4 +1,4 @@
-![Game Characters](/Full-Stack-Game-Development/images/c8a8a5ab53899eb9.png)
+![Game Characters](//outscal.github.io/Full-Stack-Game-Development/images/c8a8a5ab53899eb9.png)
 
 ***Dough Master and Crust Bandit***
 

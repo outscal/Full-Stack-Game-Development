@@ -39,7 +39,7 @@ Again you get a request to make a **Healer** Unit with the Actions **Heal & Clea
 - `**Heal()**`
 - `**Cleanse()**`
 
-![](/Full-Stack-Game-Development/images/6ac89fe44f69afb5.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/6ac89fe44f69afb5.png)
 
 
 
@@ -250,7 +250,7 @@ This can be changed by the designer in the scriptable object and that's all you 
 
 
 
-![](/Full-Stack-Game-Development/images/8090e6be9d2874ca.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/8090e6be9d2874ca.png)
 
 
 

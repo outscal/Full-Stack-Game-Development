@@ -1,4 +1,4 @@
-![Handling Snake Death](/Full-Stack-Game-Development/images/3077c698d184e4cb.png)
+![Handling Snake Death](//outscal.github.io/Full-Stack-Game-Development/images/3077c698d184e4cb.png)
 
 **Handling death in **`**SnakeController**`
 
@@ -34,7 +34,7 @@ Basically, death should trigger the **restarting** process.
 
 Here is the function call tree: 
 
-![Snake Death Function Call Tree](/Full-Stack-Game-Development/images/1c29cc66db6b3e75.png)
+![Snake Death Function Call Tree](//outscal.github.io/Full-Stack-Game-Development/images/1c29cc66db6b3e75.png)
 
 **Snake Death Function Call Tree**
 

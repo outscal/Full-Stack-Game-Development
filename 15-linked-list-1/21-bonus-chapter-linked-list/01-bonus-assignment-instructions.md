@@ -6,7 +6,7 @@ As you progress through each module in this course, you'll encounter an opportun
 
 
 
-![](/Full-Stack-Game-Development/images/2a898cd3d8ffa8c3.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/2a898cd3d8ffa8c3.png)
 
 
 

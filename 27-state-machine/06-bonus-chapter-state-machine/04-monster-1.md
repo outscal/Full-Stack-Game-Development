@@ -6,7 +6,7 @@ They say if you keep seeing more enemies in a video game then you are heading in
 
 You have done your warmup now and its time for you to do some heavy lifting.
 
-![](/Full-Stack-Game-Development/images/04abc983878ee548.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/04abc983878ee548.gif)
 
 
 
@@ -18,7 +18,7 @@ This creature is a massive, mutated monstrosity. Its states are designed to show
 
 
 
-![](/Full-Stack-Game-Development/images/182605bc97a1ceda.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/182605bc97a1ceda.gif)
 
 
 

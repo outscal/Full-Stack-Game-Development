@@ -25,7 +25,7 @@ So, for that, just **break the bond** between the blue and green blocks (unlin
 
 Insert the yellow block above the blue and then connect the green block with the yellow. Tada, simple that was. 
 
-![Image](/Full-Stack-Game-Development/images/4240d87764effacf.jpg)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/4240d87764effacf.jpg)
 
 *** Lego Tower***
 
@@ -35,13 +35,13 @@ In terms of a linked list, the **node** represents an individual Lego block, and
 
 The new block is like the **new node**. 
 
-![Image](/Full-Stack-Game-Development/images/0021c2fc0e36b339.jpg)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/0021c2fc0e36b339.jpg)
 
 
 
 The connection between these Lego blocks is like a **pointer**: the yellow block **points** to the blue block.
 
-![Image](/Full-Stack-Game-Development/images/416722ea02dd1ce3.jpg)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/416722ea02dd1ce3.jpg)
 
 
 
@@ -53,7 +53,7 @@ If you add a new red block on top, the blue block must now **point** to the red 
 
 Arrays are great for fast-indexed access, but you must know the exact number of elements.
 
-![Image](/Full-Stack-Game-Development/images/a9c924699922d104.jpg)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/a9c924699922d104.jpg)
 
 ***Theatre***
 
@@ -84,7 +84,7 @@ Now, if you want to insert an element/node in the 2nd index of both data structu
 
 
 
-![Image](/Full-Stack-Game-Development/images/dac926902ba07802.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/dac926902ba07802.png)
 
 
 
@@ -133,7 +133,7 @@ Simple right?
 
 
 
-![gif](/Full-Stack-Game-Development/images/c99719029826aeb4.gif)
+![gif](//outscal.github.io/Full-Stack-Game-Development/images/c99719029826aeb4.gif)
 
 ***Insertion at Middle***
 

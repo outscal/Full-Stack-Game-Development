@@ -15,7 +15,7 @@ Just like your jacket zip, it smoothly combines both sides to make one unit.
 
 
 
-![ ](/Full-Stack-Game-Development/images/0bd44b3f969f9c97.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/0bd44b3f969f9c97.gif)
 
 
 
@@ -79,7 +79,7 @@ Simply compare the two smallest elements and then copy the smaller one to the th
 
 
 
-![ ](/Full-Stack-Game-Development/images/e3e951f189d137c8.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/e3e951f189d137c8.gif)
 
 ***Merge Two Sorted Arrays***
 
@@ -156,7 +156,7 @@ To do that, you can define low (l), high (h), and mid (m), which you can use to 
 
 
 
-![ ](/Full-Stack-Game-Development/images/b2b31ea3f11915ae.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/b2b31ea3f11915ae.png)
 
 ***Define the two sub-array boundaries***.
 
@@ -172,7 +172,7 @@ Then, do exactly the same procedure, but instead of `i`, `j`, & `k` starting fro
 
 
 
-![ ](/Full-Stack-Game-Development/images/cb10ce5075a39fdc.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/cb10ce5075a39fdc.gif)
 
 ***Merge Two Sorted Sub-Arrays**** ****(Out-of-Place)***
 
@@ -207,7 +207,7 @@ Just like before, you need to define the boundaries of the two sub-arrays using 
 
 
 
-![ ](/Full-Stack-Game-Development/images/b2b31ea3f11915ae.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/b2b31ea3f11915ae.png)
 
 ***Define the two sub-array boundaries***.
 
@@ -230,7 +230,7 @@ If the element at `s` is smaller, here comes the main logic of **in-place**, you
 
 
 
-![ ](/Full-Stack-Game-Development/images/ff7455227190aaf4.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/ff7455227190aaf4.gif)
 
 ***In-place Merging***
 
@@ -315,7 +315,7 @@ Here’s how it works for this specific algorithm:
 
 
 
-![ ](/Full-Stack-Game-Development/images/8c074d46d4c96077.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/8c074d46d4c96077.gif)
 
 ***Merge Sort***
 
@@ -386,7 +386,7 @@ Let's try it on one more example `[8, 2, 9, 6, 5, 3, 7, 4]`
 
 
 
-![ ](/Full-Stack-Game-Development/images/5a433347ab6dc900.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/5a433347ab6dc900.gif)
 
 ***Merge Sort***
 

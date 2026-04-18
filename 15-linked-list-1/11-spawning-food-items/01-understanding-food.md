@@ -29,7 +29,7 @@ Remember the OG snake game where the only food was a tiny dot that made the snak
 
 
 
-![ ](/Full-Stack-Game-Development/images/e171ba6ee1dd7dfb.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/e171ba6ee1dd7dfb.gif)
 
 
 
@@ -41,7 +41,7 @@ Let's make it more exciting by offering your snake some tasty snacks (and a few 
 
 
 
-![Image](/Full-Stack-Game-Development/images/1e429e2839c9e0e5.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/1e429e2839c9e0e5.png)
 
 ***Food Items for Snake***
 
@@ -66,7 +66,7 @@ Do you have an idea of how the Food architecture would look like. Let's discuss.
 
 ---
 
-![Image](/Full-Stack-Game-Development/images/fb4f832694cc436a.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/fb4f832694cc436a.png)
 
 ***Food Architecture***
 

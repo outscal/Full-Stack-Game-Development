@@ -34,7 +34,7 @@
 2. Copy and paste the `include` and `lib` folders in the SFML folder. 
 3. Copy-paste the following `**.dll**` files from your downloaded `**SFML/bin**` folder into your `**Debug**` folder.
 
-![ ](/Full-Stack-Game-Development/images/364c35be9a99d388.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/364c35be9a99d388.png)
 
 **dll files**
 

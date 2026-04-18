@@ -14,4 +14,4 @@
 
 
 
-![](/Full-Stack-Game-Development/images/1ac215a7d5a04d24.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/1ac215a7d5a04d24.png)

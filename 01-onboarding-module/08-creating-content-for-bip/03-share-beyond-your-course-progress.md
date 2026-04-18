@@ -19,7 +19,7 @@ There are numerous examples, your creativity is the only limit. Basically, as lo
 
 
 
-![](/Full-Stack-Game-Development/images/bdc13680aee7c929.jpg)
+![](//outscal.github.io/Full-Stack-Game-Development/images/bdc13680aee7c929.jpg)
 
 
 

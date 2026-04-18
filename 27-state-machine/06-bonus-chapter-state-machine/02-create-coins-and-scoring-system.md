@@ -6,7 +6,7 @@
 
 - Create currency in your game in form of **Coins**
 
-![](/Full-Stack-Game-Development/images/05526cbb05ed87c6.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/05526cbb05ed87c6.gif)
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-![](/Full-Stack-Game-Development/images/fe3ebd989a022322.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/fe3ebd989a022322.gif)
 
 
 

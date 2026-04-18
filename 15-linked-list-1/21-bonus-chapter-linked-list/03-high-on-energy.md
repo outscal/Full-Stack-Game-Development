@@ -10,7 +10,7 @@ Get ready to supercharge your snake! 🐍⚡
 
 Just like Red Bull! You will create something like an energy drink, coffee, or chilli powder to boost your snake's speed when it eats it.
 
-![Image](/Full-Stack-Game-Development/images/1ab02760fd2f9d0c.gif)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/1ab02760fd2f9d0c.gif)
 
 
 
@@ -24,7 +24,7 @@ Imagine your supercharged snake racing around the screen like a rocket! 🚀💥
 
 
 
-![Image](/Full-Stack-Game-Development/images/1f26d7d865fa9aa1.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/1f26d7d865fa9aa1.png)
 
 
 

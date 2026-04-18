@@ -12,7 +12,7 @@ This is reversing!
 
 
 
-![Snake Reverse](/Full-Stack-Game-Development/images/41e0f76ce9033bb6.gif)
+![Snake Reverse](//outscal.github.io/Full-Stack-Game-Development/images/41e0f76ce9033bb6.gif)
 
 ***Snake Reversed after consuming Alcohol***
 
@@ -35,7 +35,7 @@ But with a linked list, you don't have to do this exchange of data. You only nee
 
 
 
-![reversing in 2 nodes](/Full-Stack-Game-Development/images/1f9ee2faed21d79d.gif)
+![reversing in 2 nodes](//outscal.github.io/Full-Stack-Game-Development/images/1f9ee2faed21d79d.gif)
 
 ***Reversing Linked List with 2 Nodes*** 
 
@@ -56,7 +56,7 @@ Let's see how this can be implemented.
 
 
 
-![reversing LL](/Full-Stack-Game-Development/images/3587c1833577967b.gif)
+![reversing LL](//outscal.github.io/Full-Stack-Game-Development/images/3587c1833577967b.gif)
 
 ***Reversing a Linked List using 3 pointers ***
 
@@ -84,7 +84,7 @@ next_node = nullptr
 
 
 
-![ ](/Full-Stack-Game-Development/images/16f4aea56e26adfb.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/16f4aea56e26adfb.png)
 
 
 
@@ -112,7 +112,7 @@ cur_node->next = prev_node
 
 
 
-![ ](/Full-Stack-Game-Development/images/9e3e5d0dc61cf62d.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/9e3e5d0dc61cf62d.gif)
 
 
 
@@ -135,7 +135,7 @@ cur_node = next_node
 
 
 
-![ ](/Full-Stack-Game-Development/images/1e41912488065c31.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/1e41912488065c31.png)
 
 
 
@@ -198,7 +198,7 @@ void SnakeController::delayedUpdate()
 
 
 
-![Direction->Collision->Move](/Full-Stack-Game-Development/images/46a88c1d8e4bc633.png)
+![Direction->Collision->Move](//outscal.github.io/Full-Stack-Game-Development/images/46a88c1d8e4bc633.png)
 
 
 
@@ -210,13 +210,13 @@ Let's see it frame by frame...
 
 
 
-![Reversing: Frame 0](/Full-Stack-Game-Development/images/5da546820af07e7d.png)
+![Reversing: Frame 0](//outscal.github.io/Full-Stack-Game-Development/images/5da546820af07e7d.png)
 
 **FRAME 0**: *Snake is 1 step away from food*
 
 
 
-![Reversing: Frame 1](/Full-Stack-Game-Development/images/60a690968732bcae.png)
+![Reversing: Frame 1](//outscal.github.io/Full-Stack-Game-Development/images/60a690968732bcae.png)
 
 **FRAME 1:** *Snake's head overlaps the food*
 
@@ -226,14 +226,14 @@ In **FRAME 2**,
 
 3 things will happen:
 
-1. ![Reversing: Frame 2a](/Full-Stack-Game-Development/images/73dc6e7e1e2eeabf.png)
+1. ![Reversing: Frame 2a](//outscal.github.io/Full-Stack-Game-Development/images/73dc6e7e1e2eeabf.png)
   
   **FRAME 2a:** *Direction will update*
-2. ![ll](/Full-Stack-Game-Development/images/567b79e1d640eb66.png)
+2. ![ll](//outscal.github.io/Full-Stack-Game-Development/images/567b79e1d640eb66.png)
   
   **FRAME 2b:** *Collision will be detected with *`*ALCHOHOL*`*, *
   *which will reverse the Linked List and snake's direction*
-3. ![Reversing: Frame 2c](/Full-Stack-Game-Development/images/29804d0aab6248db.png)
+3. ![Reversing: Frame 2c](//outscal.github.io/Full-Stack-Game-Development/images/29804d0aab6248db.png)
   
   **FRAME 2c:** *The snake will move in the reverse direction*
 
@@ -243,7 +243,7 @@ Now, Look carefully at Image **2a)** again:
 
 Look at node `C` in this frame below:
 
-![ll](/Full-Stack-Game-Development/images/faf8c732ef7ea9bc.png)
+![ll](//outscal.github.io/Full-Stack-Game-Development/images/faf8c732ef7ea9bc.png)
 
 
 

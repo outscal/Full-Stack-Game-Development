@@ -24,7 +24,7 @@ A `**unique_ptr**` represents exclusive ownership of a dynamically allocated o
 
 
 
-![gif](/Full-Stack-Game-Development/images/c97d59ab01fa3424.png)
+![gif](//outscal.github.io/Full-Stack-Game-Development/images/c97d59ab01fa3424.png)
 
 
 
@@ -53,7 +53,7 @@ A “`**shared_ptr**`” allows multiple pointers to share ownership of the same
 
 
 
-![gif](/Full-Stack-Game-Development/images/9922c154d7fb7f68.png)
+![gif](//outscal.github.io/Full-Stack-Game-Development/images/9922c154d7fb7f68.png)
 
 
 
@@ -94,7 +94,7 @@ So, it’s always like Player is pointing to GameMap and GameMap is pointing to 
 
 
 
-![gif](/Full-Stack-Game-Development/images/1c6d45bbffe62dc6.png)
+![gif](//outscal.github.io/Full-Stack-Game-Development/images/1c6d45bbffe62dc6.png)
 
 
 
@@ -103,7 +103,7 @@ So, it’s always like Player is pointing to GameMap and GameMap is pointing to 
 
 
 
-![gif](/Full-Stack-Game-Development/images/695007d93ae0f4a0.png)
+![gif](//outscal.github.io/Full-Stack-Game-Development/images/695007d93ae0f4a0.png)
 
 
 

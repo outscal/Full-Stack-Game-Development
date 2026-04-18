@@ -36,7 +36,7 @@
 
 ![A mysterious hallway with multiple doors leading to different rooms, each door unique in its design. One door is gilded and adorned with intricate patterns, hinting at riches and treasure within. Another is covered in ancient symbols, suggesting forbidden knowledge or secrets. A darker, more ominous door, half-shrouded in shadow, hints at danger and sinister forces lurking behind it. The lighting is dim, casting long shadows across the floor, and the air is thick with suspense, as if the adventurer must make a perilous choice of which room to enter.](https://files.oaiusercontent.com/file-n5O9VseCJL0VtX2BoyYiWyyt?se=2024-09-20T05%3A46%3A07Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dfafb2a7b-df3a-4ff7-98f1-cc00f16f507f.webp&sig=r5osNEvkIud7N25Sm0LO0lmJSpPVs2PX/pFK8mUOHHk%3D)
 
-![Image](/Full-Stack-Game-Development/images/6e1dde991972c9fe.jpg)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/6e1dde991972c9fe.jpg)
 
 
 
@@ -61,7 +61,7 @@ It’s all up to the room you pick."
 
 ![A mysterious hallway with multiple doors leading to different rooms, each door unique in its design. One door is gilded and adorned with intricate patterns, hinting at riches and treasure within. Another is covered in ancient symbols, suggesting forbidden knowledge or secrets. A darker, more ominous door, half-shrouded in shadow, hints at danger and sinister forces lurking behind it. The lighting is dim, casting long shadows across the floor, and the air is thick with suspense, as if the adventurer must make a perilous choice of which room to enter.](https://files.oaiusercontent.com/file-n5O9VseCJL0VtX2BoyYiWyyt?se=2024-09-20T05%3A46%3A07Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dfafb2a7b-df3a-4ff7-98f1-cc00f16f507f.webp&sig=r5osNEvkIud7N25Sm0LO0lmJSpPVs2PX/pFK8mUOHHk%3D)
 
-![Image](/Full-Stack-Game-Development/images/110ca844ecbd18b3.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/110ca844ecbd18b3.png)
 
 
 

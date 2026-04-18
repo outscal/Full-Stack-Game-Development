@@ -20,7 +20,7 @@ It's simple but effective.
 
 
 
-![Main Menu](/Full-Stack-Game-Development/images/3734876ba4a1a469.png)
+![Main Menu](//outscal.github.io/Full-Stack-Game-Development/images/3734876ba4a1a469.png)
 
 **Main Menu**
 
@@ -46,7 +46,7 @@ This appears during gameplay and includes:
 
 
 
-![Level UI](/Full-Stack-Game-Development/images/467dc8db4c254aae.png)
+![Level UI](//outscal.github.io/Full-Stack-Game-Development/images/467dc8db4c254aae.png)
 
 **Level UI**
 
@@ -63,7 +63,7 @@ It shows the current level number in the top left corner.
 
 ---
 
-![Game Over UI](/Full-Stack-Game-Development/images/71d41ea75ac9a63d.png)
+![Game Over UI](//outscal.github.io/Full-Stack-Game-Development/images/71d41ea75ac9a63d.png)
 
 **Game Over UI**
 

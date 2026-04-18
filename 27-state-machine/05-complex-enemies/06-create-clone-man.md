@@ -26,13 +26,13 @@
 
 
 
-![](/Full-Stack-Game-Development/images/e83d4943f1c08bb8.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/e83d4943f1c08bb8.png)
 
 
 
 - When the enemies which are clone twice killed by the player, they should not replicate themselves further and shall remain dead.
 
-![](/Full-Stack-Game-Development/images/97821ab8d4c4b406.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/97821ab8d4c4b406.gif)
 
 
 

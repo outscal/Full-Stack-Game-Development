@@ -475,7 +475,7 @@ Take a look at the video below:-
 
 
 
-![ ](/Full-Stack-Game-Development/images/c16aa763d54d6f29.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/c16aa763d54d6f29.gif)
 
 
 

@@ -25,13 +25,13 @@ Let's look at all of this in a bit more detail now.
 
 
 
-![ ](/Full-Stack-Game-Development/images/4bc7c810b1c9ce82.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/4bc7c810b1c9ce82.png)
 
 ***Unsorted Dataset***
 
 - Initially, only the first element is "Sorted".
 
-![ ](/Full-Stack-Game-Development/images/06e672574b810778.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/06e672574b810778.png)
 
 
 
@@ -39,7 +39,7 @@ Let's look at all of this in a bit more detail now.
 - - If the unsorted element is smaller than the sorted element; then shift the sorted element backwards to make room.
   - Otherwise, if it's larger than the sorted element, it stays as it is.
 
-![ ](/Full-Stack-Game-Development/images/4b04442683519ddf.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/4b04442683519ddf.gif)
 
 ***Case 1***
 
@@ -61,7 +61,7 @@ As the algorithm continues to iterate through the unsorted subset, it picks elem
 
 Imagine you have an unsorted dataset like this: `[6, 5, 3, 1, 8, 7, 2, 4]`.
 
-![ ](/Full-Stack-Game-Development/images/59cbb2c37f857d01.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/59cbb2c37f857d01.gif)
 
 *Insertion Sort *
 

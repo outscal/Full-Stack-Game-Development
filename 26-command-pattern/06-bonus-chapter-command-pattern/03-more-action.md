@@ -6,7 +6,7 @@ It's time to learn some new moves!
 
 
 
-![](/Full-Stack-Game-Development/images/711992134e9d91f1.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/711992134e9d91f1.png)
 
 
 

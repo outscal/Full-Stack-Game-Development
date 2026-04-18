@@ -117,7 +117,7 @@ void Board::render(sf::RenderWindow& window)
 
 Final Output.
 
-![ ](/Full-Stack-Game-Development/images/9fd8e844824f3711.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/9fd8e844824f3711.png)
 
 
 

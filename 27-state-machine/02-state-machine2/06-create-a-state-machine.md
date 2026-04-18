@@ -30,4 +30,4 @@
 
 
 
-![](/Full-Stack-Game-Development/images/c384479b0168e549.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/c384479b0168e549.gif)

@@ -33,7 +33,7 @@ But once the player is inside their range, they are able to detect the player an
 
 
 
-![](/Full-Stack-Game-Development/images/a11ae7f72cadbdc0.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/a11ae7f72cadbdc0.png)
 
 
 
@@ -41,7 +41,7 @@ If your player gets close enough to any of these enemies, that enemy will turn *
 
 
 
-![](/Full-Stack-Game-Development/images/7b2033d96f5d62e7.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/7b2033d96f5d62e7.png)
 
 
 
@@ -114,7 +114,7 @@ Lets see what is happening inside `CreateEnemy()` method:
 
 
 
-![](/Full-Stack-Game-Development/images/bd2f5ed1741c4c40.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/bd2f5ed1741c4c40.png)
 
 
 

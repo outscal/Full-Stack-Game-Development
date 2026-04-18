@@ -17,7 +17,7 @@ Here's the deal:
 
 
 
-![ ](/Full-Stack-Game-Development/images/7073aab657ecb691.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/7073aab657ecb691.gif)
 
 
 

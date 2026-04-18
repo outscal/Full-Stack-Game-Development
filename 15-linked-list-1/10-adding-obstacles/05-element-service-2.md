@@ -16,7 +16,7 @@ Step-by-step process:
 
 
 
-![gif](/Full-Stack-Game-Development/images/57adada380875f03.gif)
+![gif](//outscal.github.io/Full-Stack-Game-Development/images/57adada380875f03.gif)
 
 ***As Simple As That***
 
@@ -24,7 +24,7 @@ Sounds like a plan, right?
 
 Let's visualize this with a diagram:
 
-![Image](/Full-Stack-Game-Development/images/64507c84563bce5d.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/64507c84563bce5d.png)
 
 ***Flow diagram of Initialization of Obstacles***
 

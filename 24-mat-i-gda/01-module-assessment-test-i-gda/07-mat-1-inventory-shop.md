@@ -6,7 +6,7 @@
 - You have to create an Inventory and Shop Game mechanic as follows:
 - The Game Screen will be divided into 2 different UI Panels as shown below, each with a Grid UI:
 
-![](/Full-Stack-Game-Development/images/8344cd0b4ec2abc7.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/8344cd0b4ec2abc7.png)
 
 
 
@@ -86,7 +86,7 @@
 - Each item will have a unique Icon and Text Description
 - Any of the Items in inventory or the shop when selected, its icon, description, value, weight, and any other details will be shown in UI like in the below reference image:
 
-![](/Full-Stack-Game-Development/images/fbad7458d6b551ed.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/fbad7458d6b551ed.png)
 
 
 
@@ -124,7 +124,7 @@
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/217e3595-9645-4365-8415-f2d4064906fb/Untitled.png)
 
-![](/Full-Stack-Game-Development/images/4873600420430466.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/4873600420430466.png)
 
 
 
@@ -132,7 +132,7 @@
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/e14294c9-3de0-4d8d-832b-1c389d189001/Untitled.png)
 
-![](/Full-Stack-Game-Development/images/c5a8ba7116eb3191.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/c5a8ba7116eb3191.png)
 
 
 

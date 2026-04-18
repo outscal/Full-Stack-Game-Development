@@ -28,7 +28,7 @@
     6<br>
 - **Explanation**<br>
     
-    ![Untitled](/Full-Stack-Game-Development/images/23c9dd529f9a9d28.png)
+    ![Untitled](//outscal.github.io/Full-Stack-Game-Development/images/23c9dd529f9a9d28.png)
 
 
 **[Submission]**

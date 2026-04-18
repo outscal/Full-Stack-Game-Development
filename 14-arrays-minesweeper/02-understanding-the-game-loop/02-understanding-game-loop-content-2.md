@@ -28,7 +28,7 @@ Let's see this with ***Flappy Bird’s*** example.
 
 ---
 
-![Flappy Bird](/Full-Stack-Game-Development/images/4e4740d94a61e86f.gif)
+![Flappy Bird](//outscal.github.io/Full-Stack-Game-Development/images/4e4740d94a61e86f.gif)
 
 **Flappy Bird Gameplay**
 

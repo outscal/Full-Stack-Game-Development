@@ -154,7 +154,7 @@ Take a look at the below diagram:
 
 
 
-![Image](/Full-Stack-Game-Development/images/9c2860ea363cacab.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/9c2860ea363cacab.png)
 
 
 

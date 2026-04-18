@@ -472,4 +472,4 @@ And it'll be fun ahead too!
 
 
 
-![Ready To Game Dev](/Full-Stack-Game-Development/images/93e3db34751fbb03.png)
+![Ready To Game Dev](//outscal.github.io/Full-Stack-Game-Development/images/93e3db34751fbb03.png)

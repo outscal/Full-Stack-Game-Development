@@ -2,7 +2,7 @@ Loops in C++ are essential constructs that allow developers, including those in 
 
 
 
-![](/Full-Stack-Game-Development/images/495bdcdea67d611d.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/495bdcdea67d611d.gif)
 
 
 

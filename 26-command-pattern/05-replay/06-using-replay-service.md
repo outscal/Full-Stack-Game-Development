@@ -6,7 +6,7 @@ Right now when a Battle ends, you can see a **Game End UI Screen** which current
 
 
 
-![](/Full-Stack-Game-Development/images/873d46c4cfe1143f.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/873d46c4cfe1143f.png)
 
 
 
@@ -145,4 +145,4 @@ Its that easy to implement a replay functionality if you know how to utilize Com
 
 
 
-![](/Full-Stack-Game-Development/images/64feba886c1c3e51.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/64feba886c1c3e51.gif)

@@ -2,7 +2,7 @@ In this lesson, you'll add a reset button using the callback functionality.
 
 
 
-![ ](/Full-Stack-Game-Development/images/cb820174fe80703a.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/cb820174fe80703a.png)
 
 **Reset Button**
 

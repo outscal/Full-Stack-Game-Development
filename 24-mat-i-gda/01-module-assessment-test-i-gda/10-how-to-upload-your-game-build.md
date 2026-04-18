@@ -3,7 +3,7 @@
 - Next, Click on `**Upload Game Build**` button below this material.
 - A Popup will appear in which you will be able to upload your compressed (`**.zip**`) build file and add your Game's name and description.
 
-![Bonus Assignment](/Full-Stack-Game-Development/images/fc36e7aaebcec5e8.png)
+![Bonus Assignment](//outscal.github.io/Full-Stack-Game-Development/images/fc36e7aaebcec5e8.png)
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-![sfml](/Full-Stack-Game-Development/images/b94df68f1abc819e.png)
+![sfml](//outscal.github.io/Full-Stack-Game-Development/images/b94df68f1abc819e.png)
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-![Bonus Assignment](/Full-Stack-Game-Development/images/222ca7e49d3d8b0c.png)
+![Bonus Assignment](//outscal.github.io/Full-Stack-Game-Development/images/222ca7e49d3d8b0c.png)
 
 
 

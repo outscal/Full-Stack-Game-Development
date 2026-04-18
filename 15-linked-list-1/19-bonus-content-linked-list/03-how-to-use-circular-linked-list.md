@@ -6,7 +6,7 @@ Operations in a Circular Linked List (CLL) depend on the type of node you choose
 
 - **SingleNode:** Operations are similar to those in a Singly Linked List (SLL), but with a unique twist: ensuring the last node points back to the head node, creating a continuous loop of data.
 
-![Image](/Full-Stack-Game-Development/images/c9e8dd21e8ea7218.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/c9e8dd21e8ea7218.png)
 
 ***Singly Circular Linked List***
 
@@ -14,7 +14,7 @@ Operations in a Circular Linked List (CLL) depend on the type of node you choose
 
 - **DoubleNode:** Operations resemble those in a Doubly Linked List (DLL). Here, the last node's `next` pointer connects back to the head node, and the head node's `previous` pointer links to the last node. The one you saw in UNO.
 
-![Image](/Full-Stack-Game-Development/images/c5664ad617ef6d3f.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/c5664ad617ef6d3f.png)
 
 ***Doubly Circular Linked List***
 
@@ -52,7 +52,7 @@ So here we go:
 
 1. **Insertion: **Adding a node to a CLL involves placing the new node in the desired position and updating pointers to maintain the circular structure.
 
-![Image](/Full-Stack-Game-Development/images/77aa00792c97ba56.gif)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/77aa00792c97ba56.gif)
 
 ***Insertion at Beginning***
 
@@ -61,7 +61,7 @@ So here we go:
 
 
 
-![gif](/Full-Stack-Game-Development/images/5105b40c9f6c9238.gif)
+![gif](//outscal.github.io/Full-Stack-Game-Development/images/5105b40c9f6c9238.gif)
 
 ***Deletion from End***
 
@@ -69,7 +69,7 @@ So here we go:
 
 
 
-![Image](/Full-Stack-Game-Development/images/53149b8e8873802b.gif)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/53149b8e8873802b.gif)
 
 ***Traversal***
 

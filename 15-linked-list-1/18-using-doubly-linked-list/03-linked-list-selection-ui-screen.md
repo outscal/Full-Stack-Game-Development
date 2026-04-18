@@ -1,4 +1,4 @@
-![Linked List Selection UI Screen](/Full-Stack-Game-Development/images/0346a7f122377cb0.png)
+![Linked List Selection UI Screen](//outscal.github.io/Full-Stack-Game-Development/images/0346a7f122377cb0.png)
 
 ***Linked List Selection UI Screen***
 
@@ -16,7 +16,7 @@ You need 3 simple buttons,
 
 After the player clicks on "***PLAY***" in `MainMenu`, then the player will select the Level Number and finally the Linked List Type
 
-![Flow- LL Selection from UI](/Full-Stack-Game-Development/images/51f855329c6b4bdf.png)
+![Flow- LL Selection from UI](//outscal.github.io/Full-Stack-Game-Development/images/51f855329c6b4bdf.png)
 
 ***UI Flow of Linked List Creation through UI***
 

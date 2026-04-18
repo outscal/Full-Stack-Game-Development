@@ -22,7 +22,7 @@ and the only way to manage its powerful tools is through mystical tags called Po
 
 
 
-![Image](/Full-Stack-Game-Development/images/00a3d87c08860a88.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/00a3d87c08860a88.png)
 
 
 

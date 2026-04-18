@@ -12,7 +12,7 @@ No, it's not the class that you used to have in school
 
 
 
-![Image result for meme saying NO](/Full-Stack-Game-Development/images/9fe59e5004feca6e.jpg)
+![Image result for meme saying NO](//outscal.github.io/Full-Stack-Game-Development/images/9fe59e5004feca6e.jpg)
 
 
 
@@ -30,7 +30,7 @@ Think about a blueprint for a car:
 
 
 
-![c++](/Full-Stack-Game-Development/images/d9fb72cbb0b41d11.png)
+![c++](//outscal.github.io/Full-Stack-Game-Development/images/d9fb72cbb0b41d11.png)
 
 ***Blueprint of a Car***
 
@@ -59,7 +59,7 @@ The same Blueprint will also tell you what this car is supposed to do if you eve
 
 
 
-![Blueprint](/Full-Stack-Game-Development/images/2a4f45609e9e6088.jpg)
+![Blueprint](//outscal.github.io/Full-Stack-Game-Development/images/2a4f45609e9e6088.jpg)
 
 *Equating blueprint and a class :*
 *Properties of the Car (data) are present on the left*
@@ -81,7 +81,7 @@ Each one will look and behave the same
 
 
 
-![Cars](/Full-Stack-Game-Development/images/8652fb7673f818b7.jpg)
+![Cars](//outscal.github.io/Full-Stack-Game-Development/images/8652fb7673f818b7.jpg)
 
 
 
@@ -317,7 +317,7 @@ player.choosePokemon(choice);
 
 Nice you are doing good
 
-![Image](/Full-Stack-Game-Development/images/53f94ff259bdfa5a.gif)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/53f94ff259bdfa5a.gif)
 
 
 

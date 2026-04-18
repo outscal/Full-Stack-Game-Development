@@ -6,7 +6,7 @@ In this chapter, you render a very important part of Minesweeper: ***A CELL***
 
 Click here to see the goal.
 
-![ ](/Full-Stack-Game-Development/images/3a414577d68928d7.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/3a414577d68928d7.png)
 
 
 

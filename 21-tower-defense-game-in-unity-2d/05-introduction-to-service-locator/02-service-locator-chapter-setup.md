@@ -7,4 +7,4 @@ Go ahead and switch to the branch called [*Service-Locator-Setup*](https://gith
 
 
 
-![](/Full-Stack-Game-Development/images/bb52b6dccc42f3be.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/bb52b6dccc42f3be.png)

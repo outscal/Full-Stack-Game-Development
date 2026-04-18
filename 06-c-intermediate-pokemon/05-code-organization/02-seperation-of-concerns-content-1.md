@@ -452,7 +452,7 @@ This file will coordinate between the different parts of our code, managing the 
 
 What the... What the heck is a `.h` file?
 
-![confusedoak](/Full-Stack-Game-Development/images/08d0581c0f740ebd.png)
+![confusedoak](//outscal.github.io/Full-Stack-Game-Development/images/08d0581c0f740ebd.png)
 
 
 

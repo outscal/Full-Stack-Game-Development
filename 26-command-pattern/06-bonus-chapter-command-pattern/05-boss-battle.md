@@ -8,7 +8,7 @@ You must defeat the Boss of all enemies...  **THE HARBRINGER!**
 
 
 
-![](/Full-Stack-Game-Development/images/17ab4b3ee356e68f.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/17ab4b3ee356e68f.gif)
 
 
 
@@ -26,4 +26,4 @@ The **Harbinger** is a colossal, otherworldly being, a manifestation of the chao
 
 
 
-![](/Full-Stack-Game-Development/images/2e221d6204fe8e5f.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/2e221d6204fe8e5f.gif)

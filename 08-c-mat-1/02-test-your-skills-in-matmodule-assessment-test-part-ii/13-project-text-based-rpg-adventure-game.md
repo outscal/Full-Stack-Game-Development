@@ -44,7 +44,7 @@
 
 
 
-![gif](/Full-Stack-Game-Development/images/470673e33e408a97.gif)
+![gif](//outscal.github.io/Full-Stack-Game-Development/images/470673e33e408a97.gif)
 
 
 
@@ -86,7 +86,7 @@
 
 
 
-![gif](/Full-Stack-Game-Development/images/0bf7af1034dc1cb5.gif)
+![gif](//outscal.github.io/Full-Stack-Game-Development/images/0bf7af1034dc1cb5.gif)
 
 
 

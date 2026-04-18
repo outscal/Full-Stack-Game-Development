@@ -14,7 +14,7 @@ Welcome, young Trainer!
 
 The Pokémon world is vast and full of mysteries.
 
-![ProOak](/Full-Stack-Game-Development/images/59e6c3565655f8bf.png)
+![ProOak](//outscal.github.io/Full-Stack-Game-Development/images/59e6c3565655f8bf.png)
 
 
 
@@ -32,7 +32,7 @@ Each badge will prove your skill and determination.
 
 
 
-![Badges](/Full-Stack-Game-Development/images/73563351ce30761d.png)
+![Badges](//outscal.github.io/Full-Stack-Game-Development/images/73563351ce30761d.png)
 
 
 
@@ -50,7 +50,7 @@ Only those with all eight badges can challenge the Elite Four and the reigning C
 
 
 
-![img](/Full-Stack-Game-Development/images/3369e8cf9762eadd.png)
+![img](//outscal.github.io/Full-Stack-Game-Development/images/3369e8cf9762eadd.png)
 
 
 
@@ -74,7 +74,7 @@ Your Pokémon will grow stronger,  and so will you.
 
 
 
-![poketrain](/Full-Stack-Game-Development/images/4d2447bcfa7cafb6.png)
+![poketrain](//outscal.github.io/Full-Stack-Game-Development/images/4d2447bcfa7cafb6.png)
 
 
 
@@ -100,7 +100,7 @@ If you succeed,  you will earn the title of Pokémon Champion,  the highest hono
 
 
 
-![Pokemon Champion](/Full-Stack-Game-Development/images/160cc46503f696ed.png)
+![Pokemon Champion](//outscal.github.io/Full-Stack-Game-Development/images/160cc46503f696ed.png)
 
 
 
@@ -118,7 +118,7 @@ Remember — the bond between you and your Pokémon is the key to victory.
 
 
 
-![pokemon bond](/Full-Stack-Game-Development/images/acbd99af710e4d9f.png)
+![pokemon bond](//outscal.github.io/Full-Stack-Game-Development/images/acbd99af710e4d9f.png)
 
 
 

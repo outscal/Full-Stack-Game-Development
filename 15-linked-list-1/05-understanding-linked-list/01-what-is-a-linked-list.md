@@ -12,7 +12,7 @@ I'll make you hungry!🍽️😋
 
 Imagine you're at a buffet, you take a plate and start adding items one by one, linking them together like a food train.
 
-![Image](/Full-Stack-Game-Development/images/818d83a3a42512b4.gif)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/818d83a3a42512b4.gif)
 
 
 
@@ -48,7 +48,7 @@ Let's understand it with some technical definitions of linked list:
 
 
 
-![Image](/Full-Stack-Game-Development/images/ffe4b7841ffcd0b3.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/ffe4b7841ffcd0b3.png)
 
 ***Linked List as a chain of elements, each element holding hands with its neighbor***
 
@@ -61,7 +61,7 @@ Difference between **contiguous** and non-**contiguous memory**- Contiguous memo
 
 
 
-![Image](/Full-Stack-Game-Development/images/072309865f6c6304.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/072309865f6c6304.png)
 
 
 
@@ -69,7 +69,7 @@ Difference between **contiguous** and non-**contiguous memory**- Contiguous memo
 
 ## Node in a Linked List
 
-![Image](/Full-Stack-Game-Development/images/d87ba8bea7e15cfd.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/d87ba8bea7e15cfd.png)
 
 
 
@@ -77,7 +77,7 @@ Difference between **contiguous** and non-**contiguous memory**- Contiguous memo
 
 
 
-![Image](/Full-Stack-Game-Development/images/ea26d4af266e8a39.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/ea26d4af266e8a39.png)
 
 
 
@@ -91,7 +91,7 @@ The last node is not connected to any other node and thus, its connection to the
 
 
 
-![Image](/Full-Stack-Game-Development/images/58ae0ac1c6559ba7.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/58ae0ac1c6559ba7.png)
 
 
 
@@ -120,7 +120,7 @@ In this representation, completing Quest 1 unlocks Quest 2, completing Quest 2 u
 
 
 
-![Image](/Full-Stack-Game-Development/images/df2cf3469359018f.gif)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/df2cf3469359018f.gif)
 
 🎵***MUSIC PLAYLIST***
 

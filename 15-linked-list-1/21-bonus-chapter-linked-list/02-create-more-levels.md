@@ -16,7 +16,7 @@ You've already made two levels in your game! 🐍
 
 
 
-![gif](/Full-Stack-Game-Development/images/9bcf9afb3b71ea2d.gif)
+![gif](//outscal.github.io/Full-Stack-Game-Development/images/9bcf9afb3b71ea2d.gif)
 
 
 
@@ -34,7 +34,7 @@ If you've not played the classic Snake Game with its levels, don't worry—you w
 
 
 
-![Image](/Full-Stack-Game-Development/images/95cab0157e309f23.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/95cab0157e309f23.png)
 
 ***Welcome to The Gridlock!***
 
@@ -54,7 +54,7 @@ This level introduces new challenges and obstacles for the player.  Your task 
 
 
 
-![Image](/Full-Stack-Game-Development/images/a446a670877c6b21.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/a446a670877c6b21.png)
 
 ***Welcome to The Maze Runner!***
 

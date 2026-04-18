@@ -1,4 +1,4 @@
-![    ](/Full-Stack-Game-Development/images/a08a30624a361fe2.png)
+![    ](//outscal.github.io/Full-Stack-Game-Development/images/a08a30624a361fe2.png)
 
 
 
@@ -26,7 +26,7 @@ Let's go through the structure for this project before you dive into the tasks.
 
 ---
 
-![      ](/Full-Stack-Game-Development/images/9527f1d930ac6199.png)
+![      ](//outscal.github.io/Full-Stack-Game-Development/images/9527f1d930ac6199.png)
 
 ***Gameplay Hierarchy***
 
@@ -441,7 +441,7 @@ The background on the screen will look like this:-
 
 
 
-![background image](/Full-Stack-Game-Development/images/bbba114c575baeba.png)
+![background image](//outscal.github.io/Full-Stack-Game-Development/images/bbba114c575baeba.png)
 
 
 

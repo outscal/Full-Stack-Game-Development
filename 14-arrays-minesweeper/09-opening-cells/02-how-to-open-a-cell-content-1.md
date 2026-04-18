@@ -6,7 +6,7 @@ This lesson is going to be lengthy! So make sure you do it with proper focus.
 
 
 
-![ ](/Full-Stack-Game-Development/images/1e51c6b084f82418.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/1e51c6b084f82418.png)
 
 
 
@@ -149,7 +149,7 @@ you need to call the `handleButtonInteraction()` method in the `update` function
 
 Here's how the update method of the cell class will be called:
 
-![ ](/Full-Stack-Game-Development/images/8b211d8484e2ec02.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/8b211d8484e2ec02.png)
 
 
 
@@ -248,7 +248,7 @@ void GameLoop::update()
 
 Example Expected Output.
 
-![ ](/Full-Stack-Game-Development/images/661949bec75ef0d2.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/661949bec75ef0d2.png)
 
 
 
@@ -402,7 +402,7 @@ This simply means that `callback_function` will **now point to another function*
 
 
 
-![ ](/Full-Stack-Game-Development/images/aa6e21cdfeb0992c.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/aa6e21cdfeb0992c.png)
 
 
 
@@ -463,7 +463,7 @@ Let's understand this by looking at the below diagram:
 
 
 
-![ ](/Full-Stack-Game-Development/images/bea8e4bbbad52be7.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/bea8e4bbbad52be7.png)
 
 
 

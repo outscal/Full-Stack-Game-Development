@@ -199,7 +199,7 @@ Now that you know what a reference is, let’s list down the differences between
 
 
 
-![placeholder](/Full-Stack-Game-Development/images/2b208d9000704b1c.png)
+![placeholder](//outscal.github.io/Full-Stack-Game-Development/images/2b208d9000704b1c.png)
 
 
 

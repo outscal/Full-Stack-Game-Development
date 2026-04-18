@@ -19,7 +19,7 @@ Think about it:
 
 
 
-![ ](/Full-Stack-Game-Development/images/03f34530cfcfc26e.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/03f34530cfcfc26e.png)
 
 **Boundaries**
 
@@ -38,7 +38,7 @@ You have done this before with paddles, so do this lesson as a quick sprint!🏃
 
 Click here to see the folder structure.
 
-![ ](/Full-Stack-Game-Development/images/a4373f7a8d070b32.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/a4373f7a8d070b32.png)
 
 **Folder Structure**
 

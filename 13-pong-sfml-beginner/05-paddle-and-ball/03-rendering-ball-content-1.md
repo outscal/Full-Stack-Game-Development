@@ -50,7 +50,7 @@ namespace Gameplay
 
 
 
-![ ](/Full-Stack-Game-Development/images/881719fc1e4d6fe3.gif)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/881719fc1e4d6fe3.gif)
 
 **Better Ball**
 
@@ -152,7 +152,7 @@ A sprite is a rectangular entity that can display a texture (an image).
 
 
 
-![Sprite](/Full-Stack-Game-Development/images/5f94911f8a9d47a8.png)
+![Sprite](//outscal.github.io/Full-Stack-Game-Development/images/5f94911f8a9d47a8.png)
 
 **Sprite**
 
@@ -166,7 +166,7 @@ But what is a drawable object?🤔
 
 
 
-![Drawable](/Full-Stack-Game-Development/images/12a9fe524c612f3a.png)
+![Drawable](//outscal.github.io/Full-Stack-Game-Development/images/12a9fe524c612f3a.png)
 
 **Drawable Classes**
 

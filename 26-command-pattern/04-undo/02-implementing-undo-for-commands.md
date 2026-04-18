@@ -1,6 +1,6 @@
 You had updated your abstract commands in the previous section due to which you might have been getting errors in all your concrete command classes since there is an **Undo()** method which has not yet been implemented. 
 
-![](/Full-Stack-Game-Development/images/7f34d05c8b9bd060.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/7f34d05c8b9bd060.gif)
 
 
 
@@ -101,7 +101,7 @@ But there is still one bug in the above logic of undoing the Attack Action. Can 
 
 
 
-![](/Full-Stack-Game-Development/images/f999c7c93230bbc6.gif)
+![](//outscal.github.io/Full-Stack-Game-Development/images/f999c7c93230bbc6.gif)
 
 
 
@@ -161,7 +161,7 @@ Now you will also need to implement a **Revive()** functionality in your unit co
 
 
 
-![](/Full-Stack-Game-Development/images/03085da3899ff8c3.jpg)
+![](//outscal.github.io/Full-Stack-Game-Development/images/03085da3899ff8c3.jpg)
 
 
 

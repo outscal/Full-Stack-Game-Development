@@ -9,7 +9,7 @@
 - The **area** of an island is the number of cells with a value of 1 in the island.
 - Find the maximum area of an island in the grid. If there is no island, print 0.
     
-![maxarea1-grid.jpg](/Full-Stack-Game-Development/images/dbc0746577e3f82b.jpg)
+![maxarea1-grid.jpg](//outscal.github.io/Full-Stack-Game-Development/images/dbc0746577e3f82b.jpg)
     
 **Input Format**
 - First line: m n

@@ -1,4 +1,4 @@
-![ ](/Full-Stack-Game-Development/images/e5ccad594a07aac0.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/e5ccad594a07aac0.png)
 
 **ELONGATED CELL**
 
@@ -34,7 +34,7 @@ Depending on the number of mines around a cell, it can either be a mine, empty, 
 
 
 
-![ ](/Full-Stack-Game-Development/images/b9ae323737cdab71.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/b9ae323737cdab71.png)
 
 **Different Cell Types**
 
@@ -44,7 +44,7 @@ A cell can also be flagged or unflagged(Hidden). The default state of a cell is 
 
 
 
-![ ](/Full-Stack-Game-Development/images/9d889a8af971598a.png)
+![ ](//outscal.github.io/Full-Stack-Game-Development/images/9d889a8af971598a.png)
 
 **Different Cell State**
 

@@ -8,7 +8,7 @@ To understand the time complexity of CLL and its comparison with other SLL & DLL
 
 ***Operations Table👇***
 
-![Image](/Full-Stack-Game-Development/images/61c04a868c978681.jpg)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/61c04a868c978681.jpg)
 
 ***Operations Table ☝️***
 

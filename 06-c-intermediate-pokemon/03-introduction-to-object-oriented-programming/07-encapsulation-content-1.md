@@ -45,7 +45,7 @@ The main function has become comparatively shorter, more readable, and easier to
 
 
 
-![Image](/Full-Stack-Game-Development/images/3eecbeeca1fbccff.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/3eecbeeca1fbccff.png)
 
 
 

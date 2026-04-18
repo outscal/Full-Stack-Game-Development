@@ -43,11 +43,11 @@ undo the last step played by the user
 **Note - These are samples, create a more engaging look by printing the grid and messages in any other way.**
 
 .
-<img src="/Full-Stack-Game-Development/images/4a1494a9c5745847.png" alt="image" width = 800>
+<img src="//outscal.github.io/Full-Stack-Game-Development/images/4a1494a9c5745847.png" alt="image" width = 800>
 
-<img src="/Full-Stack-Game-Development/images/f2b72f1c30fdf808.png" alt="image" width = 300>
+<img src="//outscal.github.io/Full-Stack-Game-Development/images/f2b72f1c30fdf808.png" alt="image" width = 300>
 
-<img src="/Full-Stack-Game-Development/images/06be98d6414ee19b.png" alt="image" width = 450>
+<img src="//outscal.github.io/Full-Stack-Game-Development/images/06be98d6414ee19b.png" alt="image" width = 450>
 
 .
 

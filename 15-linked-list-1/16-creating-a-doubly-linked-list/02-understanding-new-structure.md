@@ -1,4 +1,4 @@
-![New Architecture](/Full-Stack-Game-Development/images/b970408c0af140f1.png)
+![New Architecture](//outscal.github.io/Full-Stack-Game-Development/images/b970408c0af140f1.png)
 
 ***New Architecture***
 
@@ -17,7 +17,7 @@ This new architecture needs:
 
 
 
-![Image](/Full-Stack-Game-Development/images/2c0ca7d7b98e709b.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/2c0ca7d7b98e709b.png)
 
 **Old Structure ☝**
 
@@ -27,7 +27,7 @@ Alright, say goodbye to the old structure (bye-bye 👋) and build a better one!
 
 **New Structure 👇**
 
-![Image](/Full-Stack-Game-Development/images/47bbfe1c785cdb32.png)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/47bbfe1c785cdb32.png)
 
 
 

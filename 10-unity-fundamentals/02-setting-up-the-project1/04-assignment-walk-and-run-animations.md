@@ -6,7 +6,7 @@
 >   🔗 Link: [**Github Repo**](https://github.com/outscal/2D-Platformer-Game)
 > - After the fork, clone the repository and start building your 2D platformer game.
 
-![Idle Animation](/Full-Stack-Game-Development/images/8eae26b8c5048502.gif)
+![Idle Animation](//outscal.github.io/Full-Stack-Game-Development/images/8eae26b8c5048502.gif)
 
 *Idle Animation*
 

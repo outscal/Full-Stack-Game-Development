@@ -15,7 +15,7 @@ In Mario, when a certain power up is consumed, behavior of Mario is changed with
 
 
 
-![](/Full-Stack-Game-Development/images/da877a53361d589c.png)
+![](//outscal.github.io/Full-Stack-Game-Development/images/da877a53361d589c.png)
 
 
 
