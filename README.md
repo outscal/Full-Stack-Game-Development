@@ -247,3 +247,13 @@
 </div>
 </div>
 </section>
+
+<footer class="site-footer">
+<div class="wrap">
+<strong>Full-Stack Game Development</strong>
+<span class="sep">·</span>
+<span>An 8-month program by Outscal</span>
+<span class="sep">·</span>
+<span>Open archive</span>
+</div>
+</footer>
