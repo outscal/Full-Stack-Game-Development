@@ -130,12 +130,12 @@
                 mod.chapters.forEach(function (ch, ci) {
                   var isCurrent = ch.folder === chSlug;
                   html += '<details class="dyn-ch' + (isCurrent ? ' is-current' : '') + '"' + (isCurrent ? ' open' : '') + '>';
-                  html += '<summary><span class="ch-num">Ch ' + pad2(ci + 1) + '</span><span>' + escape(ch.title) + '</span></summary>';
+                  html += '<summary><span>' + escape(ch.title) + '</span></summary>';
                   html += '<ul>';
                   ch.materials.forEach(function (mat) {
                     var isMat = isCurrent && mat.file === matFile;
                     var href = '#/' + mod.folder + '/' + ch.folder + '/' + mat.file;
-                    html += '<li class="' + (isMat ? 'is-current' : '') + '"><a href="' + href + '">' + escape(mat.title) + '<span class="mtag mtag-' + mat.type + '">' + mat.type + '</span></a></li>';
+                    html += '<li class="' + (isMat ? 'is-current' : '') + '"><a href="' + href + '">' + escape(mat.title) + '</a></li>';
                   });
                   html += '</ul></details>';
                 });
