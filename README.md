@@ -1,12 +1,11 @@
-# Full-Stack Game Development 
-
-_8-month flagship program from Outscal for you to unlock opportunities with those top game studios. _
-
-
-Premium Program with Alumni working at top studios like Ubisoft, Zynga,etc.
-
-
-1-on-11 mentorship program to harness your game development skills and unlock placement opportunities with top game studios
+<div class="outscal-hero">
+  <img class="hero-globe" src="assets/outscal-globe.gif" alt="Outscal" />
+  <div class="hero-text">
+    <div class="hero-eyebrow">Outscal Flagship Program</div>
+    <h1 class="hero-title">Full-Stack Game Development</h1>
+    <p class="hero-sub">An 8-month program with 1-on-1 mentorship — built to unlock placements at top studios like Ubisoft, Zynga and beyond.</p>
+  </div>
+</div>
 
 
 <div class="module-grid">
