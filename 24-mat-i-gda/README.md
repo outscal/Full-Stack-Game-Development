@@ -2,4 +2,4 @@
 
 ## Chapters
 
-1. [Module Assessment Test - I (GDA)](./01-module-assessment-test-i-gda/)
+1. [Module Assessment Test - I (GDA)](./01-module-assessment-test-i-gda/README.md)
