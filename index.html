@@ -64,13 +64,13 @@
     .sidebar { width: var(--sidebar-width) !important; }
     .content { left: var(--sidebar-width) !important; }
     .content { top: var(--topbar-h) !important; background: var(--paper); }
-    .markdown-section { max-width: 960px; padding: 24px 32px 64px; font-family: var(--sans); }
+    .markdown-section { max-width: 860px; padding: 28px 40px 72px; margin: 0; font-family: var(--sans); }
     body.on-home .sidebar, body.on-home .sidebar-toggle { display: none !important; }
     .sidebar-toggle { display: none !important; }
     .sidebar { transition: transform 0.25s ease; }
     body.close .sidebar { transform: translateX(-100%) !important; }
     body.close .content { left: 0 !important; }
-    body.close .markdown-section { max-width: 1100px; margin: 0 auto; }
+    body.close .markdown-section { max-width: 960px; margin: 0; }
     body.on-home .content { left: 0 !important; }
     body.on-home .markdown-section { max-width: none; margin: 0; padding: 0 0 0 0; }
 
@@ -159,8 +159,6 @@
     .phase-mastery { background: #EDE4FB; color: #6D28D9; }
     .folder .phase { margin-top: 2px; }
     .dyn-modhead .phase { margin-top: 6px; }
-    .article-phase { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin: 0 0 20px; padding: 0 0 16px; border-bottom: 1px solid var(--rule); }
-    .article-phase-mod { font-family: var(--serif); font-size: 12px; color: var(--muted); letter-spacing: .02em; }
 
     /* ---------------- FOOTER ---------------- */
     .site-footer { border-top: 1px solid var(--rule); margin-top: 32px; padding: 40px 0 56px; color: var(--muted); font-size: 13px; }
@@ -350,23 +348,8 @@
             }
             next(content);
           });
-          function stampArticlePhase() {
-            if (!window.COURSE) return;
-            var hash = (window.location.hash || '#/').replace(/^#/, '');
-            var modSlug = (hash.split('/').filter(Boolean)[0]) || null;
-            if (!modSlug || modSlug === 'README.md') return;
-            var idx = window.COURSE.modules.findIndex(function (mm) { return mm.folder === modSlug; });
-            if (idx < 0) return;
-            var section = document.querySelector('.markdown-section');
-            if (!section || section.querySelector('.article-phase')) return;
-            var p = phaseFor(idx);
-            var badge = document.createElement('div');
-            badge.className = 'article-phase';
-            badge.innerHTML = '<span class="phase phase-' + p.key + '">' + p.label + '</span><span class="article-phase-mod">Module ' + pad2(idx + 1) + ' · ' + escape(window.COURSE.modules[idx].title) + '</span>';
-            section.insertBefore(badge, section.firstChild);
-          }
-          hook.doneEach(function () { renderSidebar(); stampHomeFolders(); stampArticlePhase(); });
-          hook.ready(function () { renderSidebar(); stampHomeFolders(); stampArticlePhase(); });
+          hook.doneEach(function () { renderSidebar(); stampHomeFolders(); });
+          hook.ready(function () { renderSidebar(); stampHomeFolders(); });
         },
         function quizPlugin(hook) {
           hook.doneEach(function () {
