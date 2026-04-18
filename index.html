@@ -9,6 +9,10 @@
     :root { --sidebar-width: 320px; --accent: #42b983; --accent-dark: #369f73; }
     body { margin: 0; }
     .markdown-section { max-width: 960px; padding: 24px 32px 64px; }
+    body.on-home .sidebar,
+    body.on-home .sidebar-toggle { display: none !important; }
+    body.on-home .content { left: 0 !important; }
+    body.on-home .markdown-section { max-width: 1200px; margin: 0 auto; padding: 32px 40px 80px; }
     .markdown-section iframe { width: 100%; aspect-ratio: 16/9; height: auto; border: 0; border-radius: 8px; }
     .markdown-section img { max-width: 100%; height: auto; border-radius: 6px; }
 
@@ -107,8 +111,10 @@
             var chSlug = parts[1] || null;
             var matFile = parts[2] || null;
             if (matFile === 'README.md') matFile = null;
+            var isHome = !modSlug || modSlug === 'README.md';
+            document.body.classList.toggle('on-home', isHome);
             var html = '<ul class="dyn-nav">';
-            if (!modSlug || modSlug === 'README.md') {
+            if (isHome) {
               html += '<li><div class="dyn-modhead"><div class="num">Course</div><div class="title">Modules</div></div></li>';
               html += '<li><ul class="dyn-mod-list">';
               window.COURSE.modules.forEach(function (m, i) {
