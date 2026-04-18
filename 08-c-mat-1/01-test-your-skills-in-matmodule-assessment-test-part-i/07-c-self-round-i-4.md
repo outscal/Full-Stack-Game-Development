@@ -17,3 +17,4 @@
 <li>What is compile-time and runtime polymorphism? Explain with Example?</li>
 <li>What are static and dynamic binding?</li>
 </ol>
+</div>

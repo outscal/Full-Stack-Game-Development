@@ -17,3 +17,4 @@
 <li>What are the different types of templates in C++?</li>
 <li>Discuss the advantages of generics programming with examples.</li>
 </ol>
+</div>

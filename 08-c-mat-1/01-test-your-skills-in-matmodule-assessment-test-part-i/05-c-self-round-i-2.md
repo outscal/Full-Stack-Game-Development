@@ -17,3 +17,4 @@
 <li>Explain What is the inheritance with an example.</li>
 <li>What are the different types of inheritance?</li>
 </ol>
+</div>

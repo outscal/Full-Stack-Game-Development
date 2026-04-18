@@ -17,3 +17,4 @@
 <li>Explain the difference between virtual function and pure virtual function.</li>
 <li>What is dangling, void, null and wild pointers?(Google if you need)</li>
 </ol>
+</div>

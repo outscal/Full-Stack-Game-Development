@@ -10,4 +10,5 @@
 <li>This will be a professional exercise to be taken seriously. You will be given a Result of Passed or Failed on the basis of your performance.</li>
 <li>If you Fail this Mock Interview, you will have to prepare again and apply for another round.</li>
 <li>Remember all the instructions given to you previously about on answering non-technical questions.</li>
-<ul>
+</ul>
+</div>

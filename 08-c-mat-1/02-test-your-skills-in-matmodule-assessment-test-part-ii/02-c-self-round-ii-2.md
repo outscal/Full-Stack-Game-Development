@@ -3,7 +3,7 @@
 <h1><strong>IP(Interview Preparation)-Self-Round- II - Assignment 2</strong></h1>
 </div>
 
-<<p><strong>[Instructions]</strong></p>
+<p><strong>[Instructions]</strong></p>
 
 <ul>
 <li>Attach a single video answering all questions. Use any preferred software to record.</li>
@@ -18,3 +18,4 @@
 <li>Explain what is a pure abstract class and its usecase.</li>
 <li>Explain interfaces in C++.</li>
 </ol>
+</div>

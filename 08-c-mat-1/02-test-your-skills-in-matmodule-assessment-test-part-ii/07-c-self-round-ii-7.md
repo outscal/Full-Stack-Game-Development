@@ -17,3 +17,4 @@
 <li>What are the different types of smart pointers? Discuss the differences between them. (Google if you need)</li>
 <li>What are the five segments of the memory layout of a C/C++ program? (Google if you need)</li>
 </ol>
+</div>
