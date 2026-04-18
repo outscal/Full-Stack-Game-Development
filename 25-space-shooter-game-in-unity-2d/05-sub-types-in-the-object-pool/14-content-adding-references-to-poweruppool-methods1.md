@@ -5,7 +5,7 @@
 - Learn how to integrate and utilize the power-up pool in your game.
 - Implement the necessary code and logic to access and activate power-ups from the pool.
 
-https://www.loom.com/share/392fc9117fa249e2b102b4ed867186e4
+<iframe src="https://www.loom.com/embed/392fc9117fa249e2b102b4ed867186e4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 <br>

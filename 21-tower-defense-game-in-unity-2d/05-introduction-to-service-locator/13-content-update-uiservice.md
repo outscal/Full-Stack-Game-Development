@@ -11,5 +11,5 @@ In this video we will
 
 <br>
 
-https://www.loom.com/share/1733f0b0574e4bb7924e535530803850
+<iframe src="https://www.loom.com/embed/1733f0b0574e4bb7924e535530803850" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>

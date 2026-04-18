@@ -5,7 +5,7 @@
 - C# Generics
 - Generic Object Pool
 
-https://www.loom.com/share/73ad777709a94f6ebc83fc75e3ffb5d5
+<iframe src="https://www.loom.com/embed/73ad777709a94f6ebc83fc75e3ffb5d5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <div style="text-align: center">

@@ -16,7 +16,7 @@
     
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=2obkVqFn-ZI
+<iframe src="https://www.youtube.com/embed/2obkVqFn-ZI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
     
@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=2obkVqFn-ZI
     
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=QWHUCmgV9ng
+<iframe src="https://www.youtube.com/embed/QWHUCmgV9ng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
     
@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=QWHUCmgV9ng
     
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=x-HXZD1gM04
+<iframe src="https://www.youtube.com/embed/x-HXZD1gM04" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
     
@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=x-HXZD1gM04
     
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=9LVfzf_2IpY
+<iframe src="https://www.youtube.com/embed/9LVfzf_2IpY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
     
@@ -52,7 +52,7 @@ https://www.youtube.com/watch?v=9LVfzf_2IpY
     
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=dhNgvuzaBm8
+<iframe src="https://www.youtube.com/embed/dhNgvuzaBm8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
     
@@ -61,7 +61,7 @@ https://www.youtube.com/watch?v=dhNgvuzaBm8
     
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=Aci8eVR12rI
+<iframe src="https://www.youtube.com/embed/Aci8eVR12rI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
     
@@ -70,7 +70,7 @@ https://www.youtube.com/watch?v=Aci8eVR12rI
     
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=zNMRjgXy6Dg
+<iframe src="https://www.youtube.com/embed/zNMRjgXy6Dg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
     

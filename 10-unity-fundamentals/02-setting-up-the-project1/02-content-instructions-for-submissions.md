@@ -3,7 +3,7 @@
 
 <figure class="video_container">
   
-https://www.loom.com/share/b32fc0b46d2d4f3fab949e3a19457f70
+<iframe src="https://www.loom.com/embed/b32fc0b46d2d4f3fab949e3a19457f70" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 

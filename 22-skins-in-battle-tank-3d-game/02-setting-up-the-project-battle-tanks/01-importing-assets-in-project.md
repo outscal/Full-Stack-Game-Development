@@ -4,7 +4,7 @@
 
 <br>
 
-https://www.loom.com/share/37bc618005704d428811fab15c01b1fe
+<iframe src="https://www.loom.com/embed/37bc618005704d428811fab15c01b1fe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 

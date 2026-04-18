@@ -11,13 +11,13 @@
 
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=kOrrusvmBt8
+<iframe src="https://www.youtube.com/embed/kOrrusvmBt8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
 - Queue Implementation using Array
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=lT9QbfMHLGo
+<iframe src="https://www.youtube.com/embed/lT9QbfMHLGo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>

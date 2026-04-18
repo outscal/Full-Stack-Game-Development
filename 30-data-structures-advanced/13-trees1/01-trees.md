@@ -13,7 +13,7 @@
     
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=bV5QNAncYUo
+<iframe src="https://www.youtube.com/embed/bV5QNAncYUo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=bV5QNAncYUo
     
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=CZGDdS8lhyA
+<iframe src="https://www.youtube.com/embed/CZGDdS8lhyA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=CZGDdS8lhyA
     
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=J84fp0DovM0
+<iframe src="https://www.youtube.com/embed/J84fp0DovM0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=J84fp0DovM0
     
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=H7pdg5ftW6w
+<iframe src="https://www.youtube.com/embed/H7pdg5ftW6w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 

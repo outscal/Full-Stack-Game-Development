@@ -11,7 +11,7 @@
 
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=Z0Z7xc18CcA
+<iframe src="https://www.youtube.com/embed/Z0Z7xc18CcA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 

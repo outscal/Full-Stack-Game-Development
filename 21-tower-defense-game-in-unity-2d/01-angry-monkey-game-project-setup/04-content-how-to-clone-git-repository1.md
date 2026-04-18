@@ -9,7 +9,7 @@ Ready? Let's go!
 
 <br>
 
-https://www.loom.com/share/8a2334287e464918a87b1fcf577c5126
+<iframe src="https://www.loom.com/embed/8a2334287e464918a87b1fcf577c5126" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <div style = "text-align:center">

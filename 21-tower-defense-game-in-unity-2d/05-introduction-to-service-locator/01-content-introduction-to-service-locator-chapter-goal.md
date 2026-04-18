@@ -7,7 +7,7 @@ Let's get started.
 
 <br>
 
-https://www.loom.com/share/45b861953f8d427480f1a239e1b2dd76
+<iframe src="https://www.loom.com/embed/45b861953f8d427480f1a239e1b2dd76" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 <br>

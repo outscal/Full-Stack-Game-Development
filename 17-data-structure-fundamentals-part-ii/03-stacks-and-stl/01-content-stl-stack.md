@@ -1,7 +1,7 @@
 <div style="margin: auto 5%">
 <div style="text-align: center">
 <h1><strong>STL - Stack</strong></h1>
-https://www.youtube.com/watch?v=6GWG5hnjpsE
+<iframe src="https://www.youtube.com/embed/6GWG5hnjpsE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
 <br>

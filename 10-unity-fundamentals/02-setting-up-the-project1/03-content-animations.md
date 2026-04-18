@@ -15,7 +15,7 @@
 
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=F3HoyAQYEA8
+<iframe src="https://www.youtube.com/embed/F3HoyAQYEA8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=F3HoyAQYEA8
 
 <figure class="video_container">
   
-https://www.loom.com/share/fc7a01cb6e134d248d769c320a9c1a39
+<iframe src="https://www.loom.com/embed/fc7a01cb6e134d248d769c320a9c1a39" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -32,7 +32,7 @@ https://www.loom.com/share/fc7a01cb6e134d248d769c320a9c1a39
 
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=LHkWivKnqfQ
+<iframe src="https://www.youtube.com/embed/LHkWivKnqfQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=LHkWivKnqfQ
 
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=TMko-L9cJhg
+<iframe src="https://www.youtube.com/embed/TMko-L9cJhg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -50,7 +50,7 @@ https://www.youtube.com/watch?v=TMko-L9cJhg
 
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=S8FE3GPlyY4
+<iframe src="https://www.youtube.com/embed/S8FE3GPlyY4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -60,6 +60,6 @@ https://www.youtube.com/watch?v=S8FE3GPlyY4
 
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=ZS-zD3CnAMM
+<iframe src="https://www.youtube.com/embed/ZS-zD3CnAMM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>

@@ -13,7 +13,7 @@
 
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=UOycYjc42I8
+<iframe src="https://www.youtube.com/embed/UOycYjc42I8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -23,6 +23,6 @@ https://www.youtube.com/watch?v=UOycYjc42I8
 
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=dEGEh3RmYHw
+<iframe src="https://www.youtube.com/embed/dEGEh3RmYHw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>

@@ -7,5 +7,5 @@
 </ul>
 
 <figure class="video_container"> 
-https://www.loom.com/share/7e62bdfb39314225a1c449502cb0386c
+<iframe src="https://www.loom.com/embed/7e62bdfb39314225a1c449502cb0386c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </figure>

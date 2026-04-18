@@ -1,7 +1,7 @@
 <div style="margin: auto 5%">
 <div style="text-align: center">
 <h1><strong>All about your first call with the company (Non-Tech Call)</strong></h1>
-https://www.loom.com/share/59bd84794a1348cb97cf1cc99e1b9b9c
+<iframe src="https://www.loom.com/embed/59bd84794a1348cb97cf1cc99e1b9b9c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
 <br>

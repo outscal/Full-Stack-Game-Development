@@ -10,7 +10,7 @@ In this segment,
 
 <br>
 
-https://www.loom.com/share/a3cdce79a1f54dd1ba5805ab7a00d825
+<iframe src="https://www.loom.com/embed/a3cdce79a1f54dd1ba5805ab7a00d825" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 <br>

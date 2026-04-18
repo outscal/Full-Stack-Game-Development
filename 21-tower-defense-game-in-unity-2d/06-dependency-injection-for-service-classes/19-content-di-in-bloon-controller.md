@@ -7,11 +7,11 @@ In this video, we will start looking at how can we use Dependency Injection to r
 
 <br>
 
-https://www.loom.com/share/0f950e2e9be948789dcf26a38ff51625
+<iframe src="https://www.loom.com/embed/0f950e2e9be948789dcf26a38ff51625" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
 
-https://www.loom.com/share/deb0541db8e44363a637955f7fe5844b
+<iframe src="https://www.loom.com/embed/deb0541db8e44363a637955f7fe5844b" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 <br>

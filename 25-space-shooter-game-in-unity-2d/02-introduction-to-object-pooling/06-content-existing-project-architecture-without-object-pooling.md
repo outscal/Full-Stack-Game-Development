@@ -6,7 +6,7 @@
 <br>
 <br>
 
-https://www.loom.com/share/c336d769422b48c98f2cbe5ac64e0cf8
+<iframe src="https://www.loom.com/embed/c336d769422b48c98f2cbe5ac64e0cf8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
 <div style = "text-align:center">

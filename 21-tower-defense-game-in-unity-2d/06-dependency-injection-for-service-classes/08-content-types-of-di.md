@@ -6,7 +6,7 @@ In this video you will learn about different types of dependencies and various w
 
 <br>
 
-https://www.loom.com/share/02c31ad9a2d9401c8a00f84c142e4c3e
+<iframe src="https://www.loom.com/embed/02c31ad9a2d9401c8a00f84c142e4c3e" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 <br>

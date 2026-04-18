@@ -10,7 +10,7 @@
 - What are Git and GitHub? Why every developer should use Git?
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=h3912wG5LIA
+<iframe src="https://www.youtube.com/embed/h3912wG5LIA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 
@@ -20,6 +20,6 @@ https://www.youtube.com/watch?v=h3912wG5LIA
 
 <figure class="video_container">
   
-https://www.youtube.com/watch?v=8HDf7jsBBcU
+<iframe src="https://www.youtube.com/embed/8HDf7jsBBcU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>

@@ -11,7 +11,7 @@ Let's begin!
 
 <br>
 
-https://www.loom.com/share/38bcb58e40bb411ab23e8dddafdaadae
+<iframe src="https://www.loom.com/embed/38bcb58e40bb411ab23e8dddafdaadae" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <div style = "text-align:center">

@@ -5,7 +5,7 @@
 </div>
    <br>
 <div style="display:flex;justify-content: center;align-items: center;">
-        https://www.loom.com/share/a3ff69b71a1c4a318a681418274a84d4
+<iframe src="https://www.loom.com/embed/a3ff69b71a1c4a318a681418274a84d4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         https://giphy.com/embed/h7cMGUWAoICEkxHoQQ
         
 </div>
@@ -19,7 +19,7 @@
 </ol>
 <br>
 <div style="display:flex;justify-content: center;align-items: center;">
-        https://www.loom.com/share/6f8ac5cfb07544e09087dfda6a1c6117
+<iframe src="https://www.loom.com/embed/6f8ac5cfb07544e09087dfda6a1c6117" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         https://giphy.com/embed/3cXmze4Y8igXdnkc3U
         
 </div>

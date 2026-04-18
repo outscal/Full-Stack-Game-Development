@@ -12,7 +12,7 @@ You will uncover some valuable insights in this video:
 
 <br>
 
-https://www.loom.com/share/0df7f41040f0460b96f87a85b75b3fa9
+<iframe src="https://www.loom.com/embed/0df7f41040f0460b96f87a85b75b3fa9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 <br>

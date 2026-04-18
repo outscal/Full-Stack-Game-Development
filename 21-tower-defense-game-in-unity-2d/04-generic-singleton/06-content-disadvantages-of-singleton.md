@@ -11,7 +11,7 @@ Now, let's take a closer look at the potential downsides of the singleton design
 <br>
 <br>
 
-https://www.loom.com/share/cec6d7288cfa41429810304dbb1d4ae1
+<iframe src="https://www.loom.com/embed/cec6d7288cfa41429810304dbb1d4ae1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
 

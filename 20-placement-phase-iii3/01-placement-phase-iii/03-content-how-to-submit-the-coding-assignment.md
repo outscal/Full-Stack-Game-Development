@@ -6,7 +6,7 @@
 <br>
 <br>
 <div style="text-align: center">
-https://www.loom.com/share/51ce9ba47a684b5bbaa031b944e811ac
+<iframe src="https://www.loom.com/embed/51ce9ba47a684b5bbaa031b944e811ac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
 <strong>[Video Discussions]</strong>
