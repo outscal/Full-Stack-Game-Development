@@ -3,14 +3,57 @@
 <head>
   <meta charset="UTF-8" />
   <title>Full Stack Game Development</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
-  <meta name="description" content="Full Stack Game Development course content" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
   <style>
-    :root { --sidebar-width: 320px; }
-    .markdown-section iframe { width: 100%; aspect-ratio: 16/9; height: auto; }
-    .markdown-section img { max-width: 100%; height: auto; }
-    .sidebar-nav strong { color: var(--theme-color, #42b983); font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.04em; }
+    :root { --sidebar-width: 320px; --accent: #42b983; --accent-dark: #369f73; }
+    body { margin: 0; }
+    .markdown-section { max-width: 960px; padding: 24px 32px 64px; }
+    .markdown-section iframe { width: 100%; aspect-ratio: 16/9; height: auto; border: 0; border-radius: 8px; }
+    .markdown-section img { max-width: 100%; height: auto; border-radius: 6px; }
+
+    /* Module grid on home */
+    .module-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 18px; margin: 24px 0; }
+    .module-card { display: flex; flex-direction: column; border: 1px solid #e5e7eb; border-radius: 10px; overflow: hidden; text-decoration: none !important; color: inherit; background: #fff; transition: transform 0.15s, box-shadow 0.15s; }
+    .module-card:hover { transform: translateY(-3px); box-shadow: 0 8px 20px rgba(0,0,0,0.08); border-color: var(--accent); }
+    .module-card-img { width: 100%; aspect-ratio: 16/9; overflow: hidden; background: linear-gradient(135deg, #42b983, #2c7a5f); display: flex; align-items: center; justify-content: center; }
+    .module-card-img img { width: 100%; height: 100%; object-fit: cover; border-radius: 0 !important; }
+    .module-card-placeholder { color: #fff; font-size: 2.4em; font-weight: 800; letter-spacing: 0.05em; }
+    .module-card-body { padding: 14px 16px; }
+    .module-card-num { font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.08em; color: var(--accent); font-weight: 700; margin-bottom: 4px; }
+    .module-card-title { font-weight: 600; font-size: 1.05em; line-height: 1.3; margin-bottom: 6px; color: #111; }
+    .module-card-meta { font-size: 0.85em; color: #6b7280; }
+
+    /* Dynamic sidebar */
+    .sidebar { padding: 0 !important; }
+    .sidebar-nav { padding: 16px !important; }
+    .dyn-nav { list-style: none; padding: 0; margin: 0; }
+    .dyn-nav > li { margin: 0; }
+    .dyn-back { display: flex; align-items: center; gap: 6px; padding: 8px 10px; margin-bottom: 12px; color: var(--accent); font-weight: 600; text-decoration: none; font-size: 0.9em; border-radius: 6px; }
+    .dyn-back:hover { background: #f3f4f6; }
+    .dyn-modhead { padding: 8px 10px 12px; border-bottom: 1px solid #e5e7eb; margin-bottom: 10px; }
+    .dyn-modhead .num { font-size: 0.7em; text-transform: uppercase; letter-spacing: 0.08em; color: #6b7280; font-weight: 600; }
+    .dyn-modhead .title { font-weight: 700; font-size: 1.05em; color: #111; }
+    .dyn-mod-list { list-style: none; padding: 0; margin: 0; }
+    .dyn-mod-list li a { display: flex; align-items: center; padding: 10px 12px; border-radius: 6px; text-decoration: none; color: #1f2937; font-size: 0.92em; }
+    .dyn-mod-list li a:hover { background: #f3f4f6; color: var(--accent); }
+    .dyn-mod-list .num-badge { display: inline-block; min-width: 24px; padding: 2px 6px; margin-right: 10px; border-radius: 4px; background: #f3f4f6; color: #6b7280; font-size: 0.75em; font-weight: 700; text-align: center; }
+    .dyn-ch { border: 1px solid #e5e7eb; border-radius: 6px; margin: 6px 0; overflow: hidden; background: #fff; }
+    .dyn-ch > summary { padding: 10px 12px; cursor: pointer; font-weight: 600; font-size: 0.9em; list-style: none; display: flex; align-items: center; gap: 8px; user-select: none; color: #1f2937; }
+    .dyn-ch > summary::-webkit-details-marker { display: none; }
+    .dyn-ch > summary::before { content: "▸"; color: #9ca3af; transition: transform 0.15s; display: inline-block; }
+    .dyn-ch[open] > summary::before { transform: rotate(90deg); }
+    .dyn-ch > summary:hover { background: #f9fafb; }
+    .dyn-ch.is-current > summary { background: #ecfdf5; color: var(--accent-dark); }
+    .dyn-ch > summary .ch-num { font-size: 0.75em; color: #6b7280; font-weight: 500; margin-right: 2px; }
+    .dyn-ch ul { list-style: none; padding: 4px 0; margin: 0; background: #fafbfc; border-top: 1px solid #e5e7eb; }
+    .dyn-ch ul li a { display: flex; align-items: center; gap: 8px; padding: 8px 14px 8px 30px; text-decoration: none; color: #374151; font-size: 0.87em; border-left: 3px solid transparent; }
+    .dyn-ch ul li a:hover { background: #f3f4f6; color: var(--accent); }
+    .dyn-ch ul li.is-current a { background: #ecfdf5; color: var(--accent-dark); font-weight: 600; border-left-color: var(--accent); }
+    .mtag { font-size: 0.65em; text-transform: uppercase; letter-spacing: 0.05em; padding: 2px 6px; border-radius: 3px; margin-left: auto; font-weight: 600; }
+    .mtag-content { background: #dbeafe; color: #1e40af; }
+    .mtag-assignment { background: #fef3c7; color: #92400e; }
+    .mtag-quiz { background: #ede9fe; color: #6d28d9; }
 
     /* Interactive quiz */
     .outscal-quiz { border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 24px 0; background: #fafafa; }
@@ -18,16 +61,16 @@
     .oq-hint { color: #6b7280; font-size: 0.9em; }
     .oq-opts { display: flex; flex-direction: column; gap: 8px; margin: 16px 0; }
     .oq-opt { display: block; width: 100%; text-align: left; padding: 10px 14px; border: 1.5px solid #d1d5db; border-radius: 6px; background: #fff; cursor: pointer; font: inherit; color: inherit; transition: all 0.15s; }
-    .oq-opt:hover:not(:disabled) { border-color: #42b983; background: #f0fdf4; }
-    .oq-opt.oq-selected { border-color: #42b983; background: #ecfdf5; }
+    .oq-opt:hover:not(:disabled) { border-color: var(--accent); background: #f0fdf4; }
+    .oq-opt.oq-selected { border-color: var(--accent); background: #ecfdf5; }
     .oq-opt.oq-correct { border-color: #16a34a; background: #dcfce7; color: #14532d; }
     .oq-opt.oq-correct::after { content: " ✓"; font-weight: bold; color: #16a34a; }
     .oq-opt.oq-wrong { border-color: #dc2626; background: #fee2e2; color: #7f1d1d; }
     .oq-opt.oq-wrong::after { content: " ✗"; font-weight: bold; color: #dc2626; }
     .oq-opt:disabled { cursor: default; }
-    .oq-submit, .oq-next { padding: 8px 18px; border: none; border-radius: 6px; background: #42b983; color: #fff; font-weight: 600; cursor: pointer; margin-top: 8px; font: inherit; }
+    .oq-submit, .oq-next { padding: 8px 18px; border: none; border-radius: 6px; background: var(--accent); color: #fff; font-weight: 600; cursor: pointer; margin-top: 8px; font: inherit; }
     .oq-submit:disabled { background: #d1d5db; cursor: not-allowed; }
-    .oq-submit:hover:not(:disabled), .oq-next:hover { background: #3aa372; }
+    .oq-submit:hover:not(:disabled), .oq-next:hover { background: var(--accent-dark); }
     .oq-feedback { margin: 12px 0; padding: 10px 12px; border-radius: 6px; font-weight: 600; }
     .oq-feedback.oq-right { background: #dcfce7; color: #14532d; }
     .oq-feedback.oq-bad { background: #fee2e2; color: #7f1d1d; }
@@ -38,31 +81,82 @@
 </head>
 <body>
   <div id="app">Loading…</div>
+  <script src="/course-manifest.js"></script>
   <script>
     window.$docsify = {
       name: 'Full Stack Game Development',
       repo: 'https://github.com/outscal/Full-Stack-Game-Development',
       loadSidebar: true,
-      subMaxLevel: 3,
       auto2top: true,
       maxLevel: 4,
       homepage: 'README.md',
-      alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'
-      },
-      search: {
-        paths: 'auto',
-        placeholder: 'Search content…',
-        noData: 'No results.',
-        depth: 4
-      },
-      pagination: {
-        previousText: '← Previous',
-        nextText: 'Next →',
-        crossChapter: true,
-        crossChapterText: true
-      },
+      alias: { '/.*/_sidebar.md': '/_sidebar.md' },
+      search: { paths: 'auto', placeholder: 'Search…', noData: 'No results.', depth: 4 },
+      pagination: { previousText: '← Prev', nextText: 'Next →', crossChapter: true, crossChapterText: true },
       plugins: [
+        // Dynamic sidebar scoped to current module
+        function dynSidebar(hook, vm) {
+          function escape(s) { return String(s).replace(/[&<>"']/g, function (c) { return ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' })[c]; }); }
+          function pad2(n) { return ('0' + n).slice(-2); }
+          function renderSidebar() {
+            var nav = document.querySelector('.sidebar-nav');
+            if (!nav || !window.COURSE) return;
+            var hash = (window.location.hash || '#/').replace(/^#/, '');
+            var parts = hash.split('/').filter(Boolean);
+            var modSlug = parts[0] || null;
+            var chSlug = parts[1] || null;
+            var matFile = parts[2] || null;
+            if (matFile === 'README.md') matFile = null;
+            var html = '<ul class="dyn-nav">';
+            if (!modSlug || modSlug === 'README.md') {
+              html += '<li><div class="dyn-modhead"><div class="num">Course</div><div class="title">Modules</div></div></li>';
+              html += '<li><ul class="dyn-mod-list">';
+              window.COURSE.modules.forEach(function (m, i) {
+                html += '<li><a href="#/' + m.firstMaterial + '"><span class="num-badge">' + pad2(i + 1) + '</span>' + escape(m.title) + '</a></li>';
+              });
+              html += '</ul></li>';
+            } else {
+              var modIdx = window.COURSE.modules.findIndex(function (m) { return m.folder === modSlug; });
+              var mod = window.COURSE.modules[modIdx];
+              html += '<li><a class="dyn-back" href="#/">← All Modules</a></li>';
+              if (mod) {
+                html += '<li><div class="dyn-modhead"><div class="num">Module ' + pad2(modIdx + 1) + '</div><div class="title">' + escape(mod.title) + '</div></div></li>';
+                mod.chapters.forEach(function (ch, ci) {
+                  var isCurrent = ch.folder === chSlug;
+                  html += '<details class="dyn-ch' + (isCurrent ? ' is-current' : '') + '"' + (isCurrent ? ' open' : '') + '>';
+                  html += '<summary><span class="ch-num">Ch ' + pad2(ci + 1) + '</span><span>' + escape(ch.title) + '</span></summary>';
+                  html += '<ul>';
+                  ch.materials.forEach(function (mat) {
+                    var isMat = isCurrent && mat.file === matFile;
+                    var href = '#/' + mod.folder + '/' + ch.folder + '/' + mat.file;
+                    html += '<li class="' + (isMat ? 'is-current' : '') + '"><a href="' + href + '">' + escape(mat.title) + '<span class="mtag mtag-' + mat.type + '">' + mat.type + '</span></a></li>';
+                  });
+                  html += '</ul></details>';
+                });
+              } else {
+                html += '<li>Module not found in manifest.</li>';
+              }
+            }
+            html += '</ul>';
+            nav.innerHTML = html;
+          }
+          // Redirect module/chapter README requests to first material
+          hook.beforeEach(function (content, next) {
+            var hash = (window.location.hash || '#/').replace(/^#/, '');
+            var m = hash.match(/^\/([^/]+)(?:\/README\.md)?\/?$/);
+            if (m && m[1] && m[1] !== 'README.md' && window.COURSE) {
+              var mod = window.COURSE.modules.find(function (mm) { return mm.folder === m[1]; });
+              if (mod && mod.firstMaterial) {
+                window.location.hash = '#/' + mod.firstMaterial;
+                return;
+              }
+            }
+            next(content);
+          });
+          hook.doneEach(function () { renderSidebar(); });
+          hook.ready(function () { renderSidebar(); });
+        },
+        // Interactive quiz
         function quizPlugin(hook) {
           hook.doneEach(function () {
             var quizzes = document.querySelectorAll('.outscal-quiz');
@@ -74,7 +168,6 @@
               var done = quiz.querySelector('.oq-done');
               var currentIdx = 0;
               var score = 0;
-
               function showQuestion(idx) {
                 questions.forEach(function (q) { q.hidden = true; });
                 if (idx >= total) {
@@ -85,7 +178,6 @@
                 }
                 if (questions[idx]) questions[idx].hidden = false;
               }
-
               questions.forEach(function (q) {
                 var rawAns = q.dataset.answers || '';
                 var answers = rawAns.split(',').filter(Boolean).map(function (x) { return parseInt(x, 10); });
@@ -96,19 +188,13 @@
                 var feedback = q.querySelector('.oq-feedback');
                 var explain = q.querySelector('.oq-explain');
                 var selected = new Set();
-
                 opts.forEach(function (opt) {
                   opt.addEventListener('click', function () {
                     if (q.dataset.submitted === '1') return;
                     var i = parseInt(opt.dataset.i, 10);
                     if (multi) {
-                      if (selected.has(i)) {
-                        selected.delete(i);
-                        opt.classList.remove('oq-selected');
-                      } else {
-                        selected.add(i);
-                        opt.classList.add('oq-selected');
-                      }
+                      if (selected.has(i)) { selected.delete(i); opt.classList.remove('oq-selected'); }
+                      else { selected.add(i); opt.classList.add('oq-selected'); }
                     } else {
                       selected.clear();
                       opts.forEach(function (o) { o.classList.remove('oq-selected'); });
@@ -118,14 +204,12 @@
                     submit.disabled = selected.size === 0;
                   });
                 });
-
                 submit.addEventListener('click', function () {
                   q.dataset.submitted = '1';
                   var sel = Array.from(selected).sort(function (a, b) { return a - b; });
                   var ans = answers.slice().sort(function (a, b) { return a - b; });
                   var correct = sel.length === ans.length && sel.every(function (v, i) { return v === ans[i]; });
                   if (correct) score++;
-
                   opts.forEach(function (opt) {
                     var i = parseInt(opt.dataset.i, 10);
                     opt.disabled = true;
@@ -133,7 +217,6 @@
                     if (answers.indexOf(i) !== -1) opt.classList.add('oq-correct');
                     else if (selected.has(i)) opt.classList.add('oq-wrong');
                   });
-
                   feedback.textContent = correct ? '✓ Correct!' : '✗ Incorrect';
                   feedback.className = 'oq-feedback ' + (correct ? 'oq-right' : 'oq-bad');
                   feedback.hidden = false;
@@ -141,13 +224,8 @@
                   submit.hidden = true;
                   next.hidden = false;
                 });
-
-                next.addEventListener('click', function () {
-                  currentIdx++;
-                  showQuestion(currentIdx);
-                });
+                next.addEventListener('click', function () { currentIdx++; showQuestion(currentIdx); });
               });
-
               showQuestion(0);
             });
           });
@@ -161,6 +239,5 @@
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-cpp.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-csharp.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-json.min.js"></script>
 </body>
 </html>
