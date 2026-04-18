@@ -67,11 +67,21 @@
     .markdown-section { max-width: 960px; padding: 24px 32px 64px; font-family: var(--sans); }
     body.on-home .sidebar, body.on-home .sidebar-toggle { display: none !important; }
     .sidebar-toggle { display: none !important; }
+    .sidebar { transition: transform 0.25s ease; }
     body.close .sidebar { transform: translateX(-100%) !important; }
     body.close .content { left: 0 !important; }
     body.close .markdown-section { max-width: 1100px; margin: 0 auto; }
     body.on-home .content { left: 0 !important; }
     body.on-home .markdown-section { max-width: none; margin: 0; padding: 0 0 0 0; }
+
+    @media (max-width: 768px) {
+      .sidebar { position: fixed !important; left: 0; top: var(--topbar-h); bottom: 0; width: 280px !important; z-index: 1050; transform: translateX(-100%); box-shadow: 4px 0 24px rgba(10,10,10,0.12); overflow-y: auto; }
+      body.nav-open .sidebar { transform: translateX(0); }
+      .content { left: 0 !important; width: 100%; }
+      body:not(.on-home) .markdown-section { padding: 16px 18px 48px; }
+      body.nav-open .nav-scrim { display: block; }
+    }
+    .nav-scrim { display: none; position: fixed; inset: var(--topbar-h) 0 0 0; background: rgba(10,10,10,0.35); z-index: 1040; cursor: pointer; -webkit-tap-highlight-color: transparent; }
     .markdown-section iframe { width: 100%; aspect-ratio: 16/9; height: auto; border: 0; border-radius: 8px; }
     .markdown-section img { max-width: 100%; height: auto; border-radius: 6px; }
 
@@ -221,7 +231,7 @@
 </head>
 <body>
   <header class="masthead">
-    <button id="topbar-toggle" aria-label="Toggle sidebar" onclick="document.body.classList.toggle('close')"><span></span><span></span><span></span></button>
+    <button id="topbar-toggle" aria-label="Toggle sidebar" onclick="toggleNav()"><span></span><span></span><span></span></button>
     <div class="masthead-inner">
       <a class="brand" href="#/" aria-label="Full-Stack Game Development home">
         <img class="mark" src="assets/outscal-globe.gif" alt="" aria-hidden="true" />
@@ -237,6 +247,14 @@
     </div>
   </header>
   <div id="app">Loading…</div>
+  <div class="nav-scrim" onclick="closeNav()" aria-hidden="true"></div>
+  <script>
+    function isMobile() { return window.matchMedia('(max-width: 768px)').matches; }
+    function toggleNav() { document.body.classList.toggle(isMobile() ? 'nav-open' : 'close'); }
+    function closeNav() { document.body.classList.remove('nav-open'); }
+    window.addEventListener('hashchange', function () { if (isMobile()) closeNav(); });
+    window.addEventListener('resize', function () { if (!isMobile()) document.body.classList.remove('nav-open'); });
+  </script>
   <script src="course-manifest.js"></script>
   <script>
     window.$docsify = {
