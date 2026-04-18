@@ -11,20 +11,20 @@
 - Intro to Hash Maps
     
 
-[▶ Class 42 - DS - HashMaps(Intro to Hash Maps)](https://www.youtube.com/watch?v=u8pjGtuqrRs)
+<iframe src="https://www.youtube.com/embed/u8pjGtuqrRs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 
 - Hash Functions
     
 
-[▶ Class 43 - DS - HashMaps(Hash Functions)](https://www.youtube.com/watch?v=CrOgfoIjAz0)
+<iframe src="https://www.youtube.com/embed/CrOgfoIjAz0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 - Collision & Channeling
     
 
-[▶ Class 44 - DS - Hash Maps(Collision & Channeling)](https://www.youtube.com/watch?v=RqJw-lLtXlY)
+<iframe src="https://www.youtube.com/embed/RqJw-lLtXlY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 

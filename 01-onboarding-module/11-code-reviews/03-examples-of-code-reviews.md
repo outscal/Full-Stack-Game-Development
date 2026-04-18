@@ -16,7 +16,7 @@ A good code review should
 Here is an example of a good code review for reference:
 
 
-[Watch video](https://www.loom.com/embed/38f361a7da5841ce88c5bfdd1fc3869f)
+<iframe src="https://www.loom.com/embed/38f361a7da5841ce88c5bfdd1fc3869f" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

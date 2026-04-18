@@ -28,7 +28,7 @@ What will happen if you delete the camera?🤔
 ---
 
 
-[Watch video](https://www.loom.com/embed/ae77a0c0433b4f5292ec5a8ec918b244?sid=e989281c-1fcf-402c-bc35-92529cc47283)
+<iframe src="https://www.loom.com/embed/ae77a0c0433b4f5292ec5a8ec918b244" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

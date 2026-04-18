@@ -18,7 +18,7 @@ Creating a Prefab is actually quite simple. Here's how you do it:
 
 
 
-[Watch video](https://www.loom.com/embed/b0bf15d09703484e944a5f7f36bc99cb?sid=a219bff4-87cf-4127-8e15-282d912ff32b)
+<iframe src="https://www.loom.com/embed/b0bf15d09703484e944a5f7f36bc99cb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

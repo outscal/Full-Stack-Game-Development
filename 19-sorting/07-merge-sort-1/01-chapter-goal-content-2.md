@@ -36,7 +36,7 @@ Here’s a preview of Merge Sort in action—watch this video to see its impress
 
 
 
-[Watch video](https://www.loom.com/embed/36dcbf98b5c84f23a2d66a6e11f2dfa8)
+<iframe src="https://www.loom.com/embed/36dcbf98b5c84f23a2d66a6e11f2dfa8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

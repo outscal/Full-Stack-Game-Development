@@ -56,7 +56,7 @@ Now, let's give it the correct appearance:
 
 
 
-[Watch video](https://www.loom.com/embed/de9cd1f2dea94c3ab8e26514b8d6d5f9)
+<iframe src="https://www.loom.com/embed/de9cd1f2dea94c3ab8e26514b8d6d5f9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -88,7 +88,7 @@ Finally, let's turn our spike ball into a prefab:
 
 
 
-[Watch video](https://www.loom.com/embed/ea97286b72294ced914760fce4f9b099?sid=ae941826-eac2-4653-8e1a-41ea360893ba)
+<iframe src="https://www.loom.com/embed/ea97286b72294ced914760fce4f9b099" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

@@ -87,7 +87,7 @@ Unity's got some cool layouts all ready for you to try:
 
 
 
-[Watch video](https://www.loom.com/embed/832ae2941a8340e29bdeebf42ad4007b?sid=413f3836-309c-4782-b8f3-34a87eec6bcc)
+<iframe src="https://www.loom.com/embed/832ae2941a8340e29bdeebf42ad4007b" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

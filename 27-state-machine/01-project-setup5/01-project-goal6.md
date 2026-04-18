@@ -32,7 +32,7 @@ To solve this problem like a pro game developer, you can implement the State Des
 
 
 
-[Watch video](https://www.loom.com/embed/7255a8ced2fd47bb889453a9448b2e65?sid=9c3b3e7c-9709-4471-a4d5-7c42703d3e97)
+<iframe src="https://www.loom.com/embed/7255a8ced2fd47bb889453a9448b2e65" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

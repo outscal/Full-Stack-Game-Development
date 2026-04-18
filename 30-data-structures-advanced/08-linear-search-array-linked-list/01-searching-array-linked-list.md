@@ -11,24 +11,24 @@
 - Time Complexity
     
 
-[▶ Class 79 - Algo - Searching(Time complexity)](https://www.youtube.com/watch?v=TF47c0fDlH0)
+<iframe src="https://www.youtube.com/embed/TF47c0fDlH0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 
 - Searching in Array
     
 
-[▶ Class 80 - Algo - Searching(searching in array)](https://www.youtube.com/watch?v=qwKpULmNs7c)
+<iframe src="https://www.youtube.com/embed/qwKpULmNs7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 - Searching in Linked List
     
 
-[▶ Class 82 - Algo - Searching(searching in LL)](https://www.youtube.com/watch?v=NRzZpOnyVBA)
+<iframe src="https://www.youtube.com/embed/NRzZpOnyVBA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 
 **[Optional Study Materials]**
 
 
-[▶ 1.5.1 Time Complexity #1](https://www.youtube.com/watch?v=9TlHvipP5yA)
+<iframe src="https://www.youtube.com/embed/9TlHvipP5yA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

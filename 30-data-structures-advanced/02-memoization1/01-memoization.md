@@ -2,7 +2,7 @@
 <div style="text-align: center">
 <h1><strong>Algo - Recursion(Memorization & Code implement)</strong></h1>
 
-[▶ Class 38 - Algo - Recursion(Memorization & Code implement)](https://www.youtube.com/watch?v=UG9-_vFfl4A)
+<iframe src="https://www.youtube.com/embed/UG9-_vFfl4A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 

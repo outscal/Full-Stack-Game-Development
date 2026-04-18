@@ -46,7 +46,7 @@ Now, let's see how to track where these clicks happen in the game window:
 
 
 
-[Watch video](https://www.loom.com/embed/400aafa407ea4a318b8d71997332eb46?sid=0586c3ee-e8d9-4466-808e-9def500a771e)
+<iframe src="https://www.loom.com/embed/400aafa407ea4a318b8d71997332eb46" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

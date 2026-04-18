@@ -2,7 +2,7 @@
 <div style="text-align: center">
 <h1><strong>2D Platformer (Unity Tilemaps)</strong></h1>
 
-[▶ Class 18 - 2D Platformer (Unity TileMaps)](https://www.youtube.com/watch?v=qUI09vzV8l4)
+<iframe src="https://www.youtube.com/embed/qUI09vzV8l4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 

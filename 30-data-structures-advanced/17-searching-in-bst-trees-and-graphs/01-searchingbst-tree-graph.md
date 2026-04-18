@@ -11,16 +11,16 @@
 - Searching in BST
     
 
-[▶ Class 81 - Algo - Searching(searching in BST)](https://www.youtube.com/watch?v=tnZLbl7MBH4)
+<iframe src="https://www.youtube.com/embed/tnZLbl7MBH4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 - Searching in Tree
     
 
-[▶ Class 83 - Algo - Searching(searching in tree)](https://www.youtube.com/watch?v=e_TORIHfKyY)
+<iframe src="https://www.youtube.com/embed/e_TORIHfKyY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 - Searching in Graph
     
 
-[▶ Class 84 - Algo - Searching(Searching in graph)](https://www.youtube.com/watch?v=vbcSiMdACq8)
+<iframe src="https://www.youtube.com/embed/vbcSiMdACq8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

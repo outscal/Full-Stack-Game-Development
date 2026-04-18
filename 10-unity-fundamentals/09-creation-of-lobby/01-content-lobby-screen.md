@@ -2,7 +2,7 @@
 <div style="text-align: center">
 <h1><strong>2D Platformer (UI Setup for Lobby Scene)</strong></h1>
 
-[▶ Class 30 - 2D Platformer (UI Setup for Lobby Scene)](https://www.youtube.com/watch?v=3kwi24ideao)
+<iframe src="https://www.youtube.com/embed/3kwi24ideao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 

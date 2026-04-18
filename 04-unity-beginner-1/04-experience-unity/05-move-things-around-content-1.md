@@ -50,7 +50,7 @@ Let's explore each of them:
 
 
 
-[Watch video](https://www.loom.com/embed/27e62bac942e47a281f9eda078b750ea)
+<iframe src="https://www.loom.com/embed/27e62bac942e47a281f9eda078b750ea" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

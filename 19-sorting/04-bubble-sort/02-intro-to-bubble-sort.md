@@ -137,7 +137,7 @@ Take a look at how it should appear:
 
 
 
-[Watch video](https://www.loom.com/embed/27d2b629ebf241d39366c7ed37c129ee)
+<iframe src="https://www.loom.com/embed/27d2b629ebf241d39366c7ed37c129ee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

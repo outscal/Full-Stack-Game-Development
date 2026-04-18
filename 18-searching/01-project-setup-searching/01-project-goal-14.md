@@ -84,7 +84,7 @@ Taking inspiration from the quote mentioned, you will be learning topics not jus
 
 
 
-[Watch video](https://www.loom.com/embed/3615879ac02b4bdba8e54356738551ad?sid=63290f32-4fd2-46d2-87fb-c5f9ba542bf4)
+<iframe src="https://www.loom.com/embed/3615879ac02b4bdba8e54356738551ad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

@@ -18,7 +18,7 @@ In Unity, each major section of your game, like the main menu, typically has its
 
 
 
-[Watch video](https://www.loom.com/embed/a40508ce74c84f4dbe7ec78ee510921d?sid=df2f38f4-2329-4abb-87d6-b91d615b9b4c)
+<iframe src="https://www.loom.com/embed/a40508ce74c84f4dbe7ec78ee510921d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -106,7 +106,7 @@ To fill the entire screen, its Anchor preset should `Stretch-Stretch`
 
 
 
-[Watch video](https://www.loom.com/embed/1c9362035a11422a98497a24df875be5?sid=8bc2722b-6156-4232-805e-8faded6cf311)
+<iframe src="https://www.loom.com/embed/1c9362035a11422a98497a24df875be5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -164,7 +164,7 @@ Now you need to create the `Play` and `Quit` buttons:
 
 
 
-[Watch video](https://www.loom.com/embed/76b1277220e547ff9bebfef821bc4bb3?sid=7dfbe8b7-3404-46c8-904e-787f0f8873d2)
+<iframe src="https://www.loom.com/embed/76b1277220e547ff9bebfef821bc4bb3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

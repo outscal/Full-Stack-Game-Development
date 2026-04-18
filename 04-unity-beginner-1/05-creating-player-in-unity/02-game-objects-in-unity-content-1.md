@@ -19,7 +19,7 @@ You need to create a game object for the Player.
 
 
 
-[Watch video](https://www.loom.com/embed/4b82dac72c9448d995a523fbf02547e0)
+<iframe src="https://www.loom.com/embed/4b82dac72c9448d995a523fbf02547e0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -100,7 +100,7 @@ There is a component: `Sprite Renderer`
 
 
 
-[Watch video](https://www.loom.com/embed/ac5699bc53754d0ba6fdd1fff9230c62?sid=93ae1bce-86b8-42cc-ad2a-262cf1de7168)
+<iframe src="https://www.loom.com/embed/ac5699bc53754d0ba6fdd1fff9230c62" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

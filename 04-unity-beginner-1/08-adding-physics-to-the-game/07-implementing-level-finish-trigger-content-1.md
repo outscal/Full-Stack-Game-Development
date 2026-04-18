@@ -13,7 +13,7 @@ Here’s how you can create a Trigger:
 
 
 
-[Watch video](https://www.loom.com/embed/a7ad073a816242fc95dcdc0b86d43983?sid=6700e813-f2ee-440f-b4e0-678407c543ba)
+<iframe src="https://www.loom.com/embed/a7ad073a816242fc95dcdc0b86d43983" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

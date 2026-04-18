@@ -60,7 +60,7 @@ You will be ready with your WebGL Build in no time.
 
 
 
-[Watch video](https://www.loom.com/embed/8fe3ec37c05e403fa074943e8d2fa812)
+<iframe src="https://www.loom.com/embed/8fe3ec37c05e403fa074943e8d2fa812" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

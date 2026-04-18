@@ -218,7 +218,7 @@ If you understood Merge Sort, Quick Sort should be straightforward for you to im
 Take a look at how it should appear:
 
 
-[Watch video](https://www.loom.com/embed/cfc5aeefa1e3417884b8ad4e2b35db60)
+<iframe src="https://www.loom.com/embed/cfc5aeefa1e3417884b8ad4e2b35db60" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

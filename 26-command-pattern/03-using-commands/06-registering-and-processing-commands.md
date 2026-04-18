@@ -95,7 +95,7 @@ Play the game, and it should function as before.
 
 
 
-[Watch video](https://www.loom.com/embed/9f4bd64a0f9840d789eaacfb7872d6b2?sid=ada05bd7-8090-4e0a-bf3c-f26da0acc956)
+<iframe src="https://www.loom.com/embed/9f4bd64a0f9840d789eaacfb7872d6b2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

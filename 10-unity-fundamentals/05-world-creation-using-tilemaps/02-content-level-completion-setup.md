@@ -2,7 +2,7 @@
 <div style="text-align: center">
 <h1><strong>2D Platformer (Level Completion Setup)</strong></h1>
 
-[▶ Class 19 - 2D Platformer (Level Completion Setup)](https://www.youtube.com/watch?v=zZvoHeMzqG4)
+<iframe src="https://www.youtube.com/embed/zZvoHeMzqG4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 

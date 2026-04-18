@@ -43,7 +43,7 @@ We would fight because everybody wanted to prove that their favorite Pokémon wa
 
 
 Check out this video to regain the memory of Pokémon
-[Watch video](https://www.youtube.com/embed/nkaPpwOhr8Y?si=a4RqcwHNJkxz5r3k)
+<iframe src="https://www.youtube.com/embed/nkaPpwOhr8Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

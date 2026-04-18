@@ -75,7 +75,7 @@
 Expected Output.
 
 
-[Watch video](https://www.loom.com/embed/760b75558d0543bf8c1c1e31de6fca4f)
+<iframe src="https://www.loom.com/embed/760b75558d0543bf8c1c1e31de6fca4f" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

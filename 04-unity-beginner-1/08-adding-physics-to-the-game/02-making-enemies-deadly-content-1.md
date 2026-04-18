@@ -22,7 +22,7 @@ Here are the steps behind adding a collider to the obstacles:
 
 
 
-[Watch video](https://www.loom.com/embed/ef18b69c3ebf4490b97ddcf5c0ce741f?sid=f338c827-33e8-4502-91d5-323029db7a41)
+<iframe src="https://www.loom.com/embed/ef18b69c3ebf4490b97ddcf5c0ce741f" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

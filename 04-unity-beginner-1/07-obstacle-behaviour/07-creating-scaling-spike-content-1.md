@@ -52,7 +52,7 @@ Let's create our new obstacle: the SpikeBall_Scaling!
 
 
 
-[Watch video](https://www.loom.com/embed/542c5f1790f94433a0c158e5f4f00166?sid=b7ca679b-8ce1-4490-a3e1-3caa8e70e1c6)
+<iframe src="https://www.loom.com/embed/542c5f1790f94433a0c158e5f4f00166" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -80,7 +80,7 @@ Now, let's give our spike some brains:
 
 
 
-[Watch video](https://www.loom.com/embed/12fa0fc0585c4fbab86b29be2686c782?sid=adb6d543-35fe-4a8f-b48e-56fb047e8942)
+<iframe src="https://www.loom.com/embed/12fa0fc0585c4fbab86b29be2686c782" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

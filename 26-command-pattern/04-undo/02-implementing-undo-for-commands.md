@@ -57,7 +57,7 @@ But what if that unit is already dead? You can't set a dead unit as active. That
 
 
 
-[Watch video](https://www.loom.com/embed/27cf011e9c804d6f9beedc3342f36a1c?sid=6716a972-8cad-4f81-8da1-c892a61e7cc9)
+<iframe src="https://www.loom.com/embed/27cf011e9c804d6f9beedc3342f36a1c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

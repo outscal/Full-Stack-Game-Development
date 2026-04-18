@@ -41,7 +41,7 @@ Here's a detailed explanation:
 
 
 
-[Watch video](https://www.loom.com/embed/8ecdf138d05c4fcabfa317205a4781bb)
+<iframe src="https://www.loom.com/embed/8ecdf138d05c4fcabfa317205a4781bb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

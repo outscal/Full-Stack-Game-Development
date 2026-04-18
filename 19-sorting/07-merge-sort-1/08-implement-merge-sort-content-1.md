@@ -295,7 +295,7 @@ Lastly, add `setCompletedColor()` to your `processMergeSort()` to create a drama
 This is how it should look like:
 
 
-[Watch video](https://www.loom.com/embed/355e9051edb54257a6b485639e01532e)
+<iframe src="https://www.loom.com/embed/355e9051edb54257a6b485639e01532e" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ***Out-of-Place Merge Sort***

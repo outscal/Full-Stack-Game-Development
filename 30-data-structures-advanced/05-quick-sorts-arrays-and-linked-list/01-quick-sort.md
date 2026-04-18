@@ -2,7 +2,7 @@
 <div style="text-align: center">
 <h1><strong>Algo - Sorting(Algorithm of Quick Sort)</strong></h1>
 
-[▶ Class 97  - Algo - Sorting(Algorithm of quick sort)](https://www.youtube.com/watch?v=40wZO5WQrtc)
+<iframe src="https://www.youtube.com/embed/40wZO5WQrtc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 

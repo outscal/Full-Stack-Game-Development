@@ -13,7 +13,7 @@ What are the steps to start an ***EA Sports FC 24 (PS: FIFA 24)*** game?
 7. Game Starts
 
 
-[Watch video](https://www.loom.com/embed/85049d3b5841471884c781b1963b3205)
+<iframe src="https://www.loom.com/embed/85049d3b5841471884c781b1963b3205" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -111,7 +111,7 @@ To understand what this `Game` class should do, you have to understand what all 
 
 
 
-[Watch video](https://www.loom.com/embed/760b75558d0543bf8c1c1e31de6fca4f)
+<iframe src="https://www.loom.com/embed/760b75558d0543bf8c1c1e31de6fca4f" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

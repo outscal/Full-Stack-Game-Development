@@ -53,7 +53,7 @@ Let's create our new spike ball: the SpikeBall_Patrolling!
 
 
 
-[Watch video](https://www.loom.com/embed/50af36b316be4688bfb45995a4e57e83?sid=392d7c77-1b9f-4783-b912-2ca17cbb7b2a)
+<iframe src="https://www.loom.com/embed/50af36b316be4688bfb45995a4e57e83" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -80,7 +80,7 @@ Now, let's give our spike some brains and make it reusable:
 
 
 
-[Watch video](https://www.loom.com/embed/cbb93d89dc2a4eb992eb3000d0ee2a99?sid=79d2fb7d-d361-408e-846c-597da3b7c5ae)
+<iframe src="https://www.loom.com/embed/cbb93d89dc2a4eb992eb3000d0ee2a99" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

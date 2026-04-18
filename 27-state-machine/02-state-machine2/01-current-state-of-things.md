@@ -7,7 +7,7 @@ Once you have cloned this repository and checked out the branch above, open this
 
 
 
-[Watch video](https://www.loom.com/embed/f8dcb416b50e43fd82eb2e9afca58898?sid=75324543-f25d-4a53-9388-00e80498b4b3)
+<iframe src="https://www.loom.com/embed/f8dcb416b50e43fd82eb2e9afca58898" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

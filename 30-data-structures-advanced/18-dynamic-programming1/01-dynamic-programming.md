@@ -10,14 +10,14 @@
 - DP and its applications
     
 
-[▶ Class 138- Algo(Dynamic programming and its application)](https://www.youtube.com/watch?v=cDUq591L2xg)
+<iframe src="https://www.youtube.com/embed/cDUq591L2xg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 
 - DP
     
 
-[▶ Dynamic Programming](https://www.youtube.com/watch?v=w7s5XYo4u-w)
+<iframe src="https://www.youtube.com/embed/w7s5XYo4u-w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 

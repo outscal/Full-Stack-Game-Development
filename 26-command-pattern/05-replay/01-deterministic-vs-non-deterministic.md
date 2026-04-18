@@ -37,7 +37,7 @@ Discrete gameplay involves actions in the game occurring in distinct, separate s
 
 
 
-[Watch video](https://www.youtube.com/embed/IaO70dFKlc4?si=cUSK4UIp394-z7ms)
+<iframe src="https://www.youtube.com/embed/IaO70dFKlc4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

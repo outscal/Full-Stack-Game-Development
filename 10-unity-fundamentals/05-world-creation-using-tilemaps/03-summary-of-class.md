@@ -2,7 +2,7 @@
 <div style="text-align: center">
 <h1><strong>2D Platformer (Summary of Class)</strong></h1>
 
-[▶ Class 20 - 2D Platformer (Summary of Class)](https://www.youtube.com/watch?v=ZAYS0efneaY)
+<iframe src="https://www.youtube.com/embed/ZAYS0efneaY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 

@@ -38,7 +38,7 @@ You will recreate this classic game with our knowledge of C++ and learn some new
 
 
 Check out this video to understand Minesweeper's gameplay! (click here)
-[Watch video](https://www.youtube.com/embed/2kxM87neXRw?si=pNkW7XH1ifCGmmcN)
+<iframe src="https://www.youtube.com/embed/2kxM87neXRw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

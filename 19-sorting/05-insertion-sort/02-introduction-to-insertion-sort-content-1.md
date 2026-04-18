@@ -111,7 +111,7 @@ If you understood Bubble Sort, Insertion Sort should be straightforward for you 
 Take a look at how it should appear:
 
 
-[Watch video](https://www.loom.com/embed/9ebd20625c8146f09ba312743de19801)
+<iframe src="https://www.loom.com/embed/9ebd20625c8146f09ba312743de19801" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

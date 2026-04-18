@@ -88,7 +88,7 @@ Now, it's time for you to try Selection Sort!
 Take a look at how it should appear:
 
 
-[Watch video](https://www.loom.com/embed/72bbb180ec274311824a5509081a71aa)
+<iframe src="https://www.loom.com/embed/72bbb180ec274311824a5509081a71aa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

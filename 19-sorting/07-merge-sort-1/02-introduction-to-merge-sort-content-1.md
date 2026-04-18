@@ -401,7 +401,7 @@ Don't worry if you encounter challenges along the way; that's part of the learni
 Take a look at how it should appear:
 
 
-[Watch video](https://www.loom.com/embed/36dcbf98b5c84f23a2d66a6e11f2dfa8)
+<iframe src="https://www.loom.com/embed/36dcbf98b5c84f23a2d66a6e11f2dfa8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

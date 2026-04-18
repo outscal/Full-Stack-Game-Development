@@ -1,7 +1,7 @@
 # **Making of Resume**
 
 
-[Watch video](https://www.youtube.com/embed/HRHgPUfXT1c)
+<iframe src="https://www.youtube.com/embed/HRHgPUfXT1c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

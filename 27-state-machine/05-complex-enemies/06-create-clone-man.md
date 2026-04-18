@@ -20,7 +20,7 @@
  
 
 
-[Watch video](https://www.loom.com/embed/2831b39990ef48c9ba6424b5219ef4ce?sid=4ae61f8b-137f-447b-a625-9560a61f9775)
+<iframe src="https://www.loom.com/embed/2831b39990ef48c9ba6424b5219ef4ce" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

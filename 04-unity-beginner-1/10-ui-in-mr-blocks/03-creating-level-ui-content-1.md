@@ -81,7 +81,7 @@ Here are the important ones:
 
 
 
-[Watch video](https://www.loom.com/embed/725414bd423b48b28fbe894b6ec1d589?sid=8daf94f0-28c2-4b4b-8d20-830927974125)
+<iframe src="https://www.loom.com/embed/725414bd423b48b28fbe894b6ec1d589" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -121,7 +121,7 @@ Here’s how you can add a panel to group the UI elements:
 
 
 
-[Watch video](https://www.loom.com/embed/73b5516957fc4a129ab4882e677445ce?sid=81220674-4452-466d-80b3-d8f400fab876)
+<iframe src="https://www.loom.com/embed/73b5516957fc4a129ab4882e677445ce" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -163,7 +163,7 @@ The level number can be displayed using `Text-TextMeshPro`:
 
 
 
-[Watch video](https://www.loom.com/embed/4f190e0370b046ffa75ce06eafa34fa5?sid=115f75ee-f562-4d06-b479-3adeb4ee9c6d)
+<iframe src="https://www.loom.com/embed/4f190e0370b046ffa75ce06eafa34fa5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

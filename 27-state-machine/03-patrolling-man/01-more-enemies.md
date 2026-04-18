@@ -13,7 +13,7 @@ PatrolMan is all about movement. He's designed to patrol an area, moving from on
 
 
 
-[Watch video](https://www.loom.com/embed/ecd1bbd3f71145b587abc6640d5684cc?sid=1a84e5f2-87aa-4225-a642-6ee8d150d6c7)
+<iframe src="https://www.loom.com/embed/ecd1bbd3f71145b587abc6640d5684cc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

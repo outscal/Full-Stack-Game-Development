@@ -290,7 +290,7 @@ Lastly, add `setCompletedColor()` to your `processInPlaceMergeSort()` to create 
 This is how it should look like:
 
 
-[Watch video](https://www.loom.com/embed/36dcbf98b5c84f23a2d66a6e11f2dfa8)
+<iframe src="https://www.loom.com/embed/36dcbf98b5c84f23a2d66a6e11f2dfa8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -319,7 +319,7 @@ You did it. You can do that as well. 💪
 Take a look at how it should appear:
 
 
-[Watch video](https://www.loom.com/embed/355e9051edb54257a6b485639e01532e)
+<iframe src="https://www.loom.com/embed/355e9051edb54257a6b485639e01532e" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

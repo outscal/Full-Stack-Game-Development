@@ -20,7 +20,7 @@ Here's what you need to do:
 
 
 
-[Watch video](https://www.loom.com/embed/bd63bc7fe8d844538ecafe4f8852b2a5?sid=06c8304f-4f08-4706-b309-08e7065465e1)
+<iframe src="https://www.loom.com/embed/bd63bc7fe8d844538ecafe4f8852b2a5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

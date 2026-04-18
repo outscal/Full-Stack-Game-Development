@@ -16,7 +16,7 @@ Here's how to set up your project:
 
 
 
-[Watch video](https://www.loom.com/embed/9e5ca4ac19cf403bbc53dcaf419da4fc?sid=c02b7314-9364-43b3-afe9-02d6745a313c)
+<iframe src="https://www.loom.com/embed/9e5ca4ac19cf403bbc53dcaf419da4fc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -64,7 +64,7 @@ Let's add them to your project:
 
 
 
-[Watch video](https://www.loom.com/embed/825d7698d4be4c318d01fe09661c662d?sid=3d963ae9-5b7a-4f03-b653-c726c4b7a3e3)
+<iframe src="https://www.loom.com/embed/825d7698d4be4c318d01fe09661c662d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

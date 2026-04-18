@@ -12,28 +12,28 @@
 - Introduction to Greedy Algorithm
     
 
-[▶ Class 129- DS - STL(Introduction to greedy algorithm)](https://www.youtube.com/watch?v=lHlMDJ_ffbg)
+<iframe src="https://www.youtube.com/embed/lHlMDJ_ffbg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 
 - Job Scheduling Problem
     
 
-[▶ Class 131- DS - Greedy | Job Scheduling Problem](https://www.youtube.com/watch?v=4uG2yoQ6Nm0)
+<iframe src="https://www.youtube.com/embed/4uG2yoQ6Nm0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 
 - Optimal Merge Patterns
     
 
-[▶ Class 135- Algo(optimal merge patterns)](https://www.youtube.com/watch?v=Q8PwHypzwJk)
+<iframe src="https://www.youtube.com/embed/Q8PwHypzwJk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 
 - Huffman Coding
     
 
-[▶ Class 136- Algo(Huffman coding)](https://www.youtube.com/watch?v=HiWKFR7w7po)
+<iframe src="https://www.youtube.com/embed/HiWKFR7w7po" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 

@@ -30,7 +30,7 @@ You'll use `Box Collider 2D` component on these walls.
 
 
 
-[Watch video](https://www.loom.com/embed/c7a1da0680f84bf19d4c2cac808b3e0c?sid=69aef733-92d7-46d0-9d5c-354cfc3cb570)
+<iframe src="https://www.loom.com/embed/c7a1da0680f84bf19d4c2cac808b3e0c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -86,7 +86,7 @@ You can group similar objects together, like putting all walls into an empty "Wa
 
 
 
-[Watch video](https://www.loom.com/embed/a500648300384cf3ad62bb3f4d4852c9?sid=858178a2-1d64-4748-adfb-fe67f3fd0bc3)
+<iframe src="https://www.loom.com/embed/a500648300384cf3ad62bb3f4d4852c9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

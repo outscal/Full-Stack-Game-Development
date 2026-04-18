@@ -14,42 +14,42 @@
 - Insertion Sort
     
 
-[▶ Class 87 - Algo - Sorting(Insertion sort)](https://www.youtube.com/watch?v=rp6hc_tdOuY)
+<iframe src="https://www.youtube.com/embed/rp6hc_tdOuY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 
 - Selection Sort
     
 
-[▶ Class 88 - Algo - Sorting(selection sort)](https://www.youtube.com/watch?v=B5yQ2Ioc488)
+<iframe src="https://www.youtube.com/embed/B5yQ2Ioc488" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 
 - Bubble Sort
     
 
-[▶ Class 89 - Algo - Sorting(Bubble sort)](https://www.youtube.com/watch?v=VqYyFp78cCY)
+<iframe src="https://www.youtube.com/embed/VqYyFp78cCY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 
 - Time Complexity Comparison of Sorting Algorithms
     
 
-[▶ Class 90 - Algo - Sorting(Time complexity comparison of sorting algorithms)](https://www.youtube.com/watch?v=oi20-a_K1dA)
+<iframe src="https://www.youtube.com/embed/oi20-a_K1dA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 
 - Podcast
     
 
-[▶ Class 91 - Algo - Sorting(Podcasts)](https://www.youtube.com/watch?v=XMStXDhWl64)
+<iframe src="https://www.youtube.com/embed/XMStXDhWl64" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 
 - Codes of Insertion, Selecfion and Bubble Sort
     
 
-[▶ Class 92 - Algo - Sorting(Codes of Insertion  Selection and Bubble Sorts)](https://www.youtube.com/watch?v=9yCHPSlVrYc)
+<iframe src="https://www.youtube.com/embed/9yCHPSlVrYc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 

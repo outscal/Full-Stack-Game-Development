@@ -10,7 +10,7 @@ Let's take a look at how your project looks when it's actually running!
 
 
 
-[Watch video](https://www.loom.com/embed/eb84fd3f65be47ceac51f33e562afd37)
+<iframe src="https://www.loom.com/embed/eb84fd3f65be47ceac51f33e562afd37" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

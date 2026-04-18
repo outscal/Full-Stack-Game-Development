@@ -4,7 +4,7 @@
 ---
 
 
-[Watch video](https://www.loom.com/embed/bc4fa6f20de145bb831aa3eef6a1fed4)
+<iframe src="https://www.loom.com/embed/bc4fa6f20de145bb831aa3eef6a1fed4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

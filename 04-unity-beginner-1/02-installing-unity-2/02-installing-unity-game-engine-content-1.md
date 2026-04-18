@@ -49,7 +49,7 @@ Why choose specific modules?
 
 
 
-[Watch video](https://www.loom.com/embed/64e53482658041cba05c36ac5c3b8648?sid=30ec3234-7592-4a84-88aa-e2a9bbd629ea)
+<iframe src="https://www.loom.com/embed/64e53482658041cba05c36ac5c3b8648" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

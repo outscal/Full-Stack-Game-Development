@@ -10,7 +10,7 @@ In this module you are going to learn the **Command Pattern** and make a **turn-
 
 
 
-[Watch video](https://www.loom.com/embed/096f7bc0fda5431183e5a4b22483d03f?sid=40f7f6b9-8889-49e9-9e5f-c9eeed4a8bc9)
+<iframe src="https://www.loom.com/embed/096f7bc0fda5431183e5a4b22483d03f" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -31,7 +31,7 @@ There are many other such examples in games where these tricky game mechanics ca
 
 
 
-[Watch video](https://www.youtube.com/embed/GFHbNX8ASqA?si=yHI90xm0xiZ_ZV4X)
+<iframe src="https://www.youtube.com/embed/GFHbNX8ASqA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -44,4 +44,4 @@ In this module you will learn how you can use command pattern to implement Undo 
 
 
 
-[Watch video](https://www.loom.com/embed/767fa9f07d34431fad8acf3cd7924499?sid=bc4dd24c-c7e7-455b-9de1-10077bb98347)
+<iframe src="https://www.loom.com/embed/767fa9f07d34431fad8acf3cd7924499" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -21,7 +21,7 @@ The next enemy that we are going to create is called Hitman. This guy must have 
 The patrolling behavior and chasing behavior will be same as it is for Patrol Man. But whenever Hitman shoots at player he will teleport at some random place and continue chasing and attacking player from there. Hitman adds an element of surprise by teleporting after shooting. This creates an engaging challenge for players.
 
 
-[Watch video](https://www.loom.com/embed/d3891cbd0e2242f3a7182529cd38b9c3?sid=d0ad42fc-55e6-44e3-9881-bdb31860d716)
+<iframe src="https://www.loom.com/embed/d3891cbd0e2242f3a7182529cd38b9c3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

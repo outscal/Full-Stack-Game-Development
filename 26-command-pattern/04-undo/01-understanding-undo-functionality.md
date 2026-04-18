@@ -25,7 +25,7 @@ In your existing Command Pattern, you have classes that represent various unit a
 
 
 
-[Watch video](https://www.loom.com/embed/920aefdb12604991870feb228f6422e6?sid=afb27653-96ae-42d1-82bb-ac807fec8dc0)
+<iframe src="https://www.loom.com/embed/920aefdb12604991870feb228f6422e6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

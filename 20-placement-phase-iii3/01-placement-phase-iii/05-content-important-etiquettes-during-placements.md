@@ -2,7 +2,7 @@
 
 
 
-[Watch video](https://www.loom.com/embed/01200211f6fe413fae1ceba92842cfae?sid=321fe011-cbfc-4f78-8b78-91a5be9c1ac9)
+<iframe src="https://www.loom.com/embed/01200211f6fe413fae1ceba92842cfae" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

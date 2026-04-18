@@ -29,7 +29,7 @@ First, let's open the demo scene we've prepared for you:
 
 
 
-[Watch video](https://www.loom.com/embed/7adf3b214e7149f3acd4f2fc562bf950?sid=f34ed2e1-807b-49f8-94df-cc655188094d)
+<iframe src="https://www.loom.com/embed/7adf3b214e7149f3acd4f2fc562bf950" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -63,7 +63,7 @@ Let's look around your new game world:
 
 
 
-[Watch video](https://www.loom.com/embed/9865ff2fa33748a99f89fded3323d48d)
+<iframe src="https://www.loom.com/embed/9865ff2fa33748a99f89fded3323d48d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

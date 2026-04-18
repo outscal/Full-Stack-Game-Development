@@ -24,7 +24,7 @@ But first, let’s start with a quick visualization of the sort.
 
 
 
-[Watch video](https://www.loom.com/embed/9ebd20625c8146f09ba312743de19801)
+<iframe src="https://www.loom.com/embed/9ebd20625c8146f09ba312743de19801" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

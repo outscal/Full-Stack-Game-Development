@@ -25,7 +25,7 @@ Firstly, you need to set up a panel for Game Over UI
 
 
 
-[Watch video](https://www.loom.com/embed/a78ea5ba716648c7bc9255526bb37846?sid=fee3a31e-ccd8-4c7d-ba08-5b05a5bfbf70)
+<iframe src="https://www.loom.com/embed/a78ea5ba716648c7bc9255526bb37846" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -57,7 +57,7 @@ You can add the text using the below steps:
 
 
 
-[Watch video](https://www.loom.com/embed/967889864133450b94f4cc70b492bffd?sid=a71ef6fa-ddfd-4ff1-9206-e863071ce4f6)
+<iframe src="https://www.loom.com/embed/967889864133450b94f4cc70b492bffd" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -91,7 +91,7 @@ Here’s how you can create a button:
 
 
 
-[Watch video](https://www.loom.com/embed/0c34ee1ee54d4530be6fa45e185a98a4?sid=e0cbd3fb-426f-4fba-9fe7-cd3429fa896d)
+<iframe src="https://www.loom.com/embed/0c34ee1ee54d4530be6fa45e185a98a4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -163,7 +163,7 @@ You won’t want the players always to see the Game over panel.
 
 
 
-[Watch video](https://www.loom.com/embed/652d686e0eb24414a968e73ef9e93775?sid=336166c8-39e3-414e-8d40-3515e70331f6)
+<iframe src="https://www.loom.com/embed/652d686e0eb24414a968e73ef9e93775" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

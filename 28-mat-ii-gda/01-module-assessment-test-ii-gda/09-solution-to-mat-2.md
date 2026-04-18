@@ -3,19 +3,19 @@
 
 
 **Part 1 - Introduction to the problem**
-[Watch video](https://www.loom.com/embed/5f39943008d84b71810fb486c755d81d)
+<iframe src="https://www.loom.com/embed/5f39943008d84b71810fb486c755d81d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
 **Part 2 - Top-Down System Design**
-[Watch video](https://www.loom.com/embed/31e702128cb945dc8e2e7fdcb8000e57)
+<iframe src="https://www.loom.com/embed/31e702128cb945dc8e2e7fdcb8000e57" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
 
 
 **Part 3 - Top-Down Class Diagram**
-[Watch video](https://www.loom.com/embed/b3cf45377e6545108176918ca1e4fbab)
+<iframe src="https://www.loom.com/embed/b3cf45377e6545108176918ca1e4fbab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -28,7 +28,7 @@
 
 
 **Part 4 - Spawn Chest**
-[Watch video](https://www.loom.com/embed/880b6fabbdfe411eb3813e4fd28c58fd)
+<iframe src="https://www.loom.com/embed/880b6fabbdfe411eb3813e4fd28c58fd" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -39,7 +39,7 @@
 
 
 **Part 5 - Unlocking Chest**
-[Watch video](https://www.loom.com/embed/8e8ed34d2e954438a734eed33171b663)
+<iframe src="https://www.loom.com/embed/8e8ed34d2e954438a734eed33171b663" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -50,7 +50,7 @@
 
 
 **Part 6 - Queue Chests For Unlocking**
-[Watch video](https://www.loom.com/embed/24dbc4f8dd5d4d7a92253eaaae928662)
+<iframe src="https://www.loom.com/embed/24dbc4f8dd5d4d7a92253eaaae928662" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

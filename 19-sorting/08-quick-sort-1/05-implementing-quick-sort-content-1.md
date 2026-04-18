@@ -262,7 +262,7 @@ Lastly, add `setCompletedColor()` to your `processQuickSort()` to create a drama
 This is how it should look like:
 
 
-[Watch video](https://www.loom.com/embed/cfc5aeefa1e3417884b8ad4e2b35db60)
+<iframe src="https://www.loom.com/embed/cfc5aeefa1e3417884b8ad4e2b35db60" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

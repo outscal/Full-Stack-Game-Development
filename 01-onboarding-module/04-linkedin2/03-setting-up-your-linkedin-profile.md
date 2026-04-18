@@ -20,4 +20,4 @@ We'll be briefly explaining some of the very important sections of your LinkedIn
 
 
 
-[Watch video](https://www.loom.com/embed/0276a4af420d4f1dacc5b01351db3028?sid=6ed45525-f725-4113-a771-bd92aed25db9)
+<iframe src="https://www.loom.com/embed/0276a4af420d4f1dacc5b01351db3028" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

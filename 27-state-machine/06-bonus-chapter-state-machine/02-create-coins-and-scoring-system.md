@@ -22,7 +22,7 @@
 - The Coins you collect will contribute to our overall score.
 
 
-[Watch video](https://www.youtube.com/embed/RQopzSBpyG0)
+<iframe src="https://www.youtube.com/embed/RQopzSBpyG0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

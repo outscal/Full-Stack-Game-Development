@@ -10,13 +10,13 @@
 - Summarization and comparison among searching in all DS
     
 
-[▶ Class 85 - Algo - Searching(Summarization and comparison among searching in all DS)](https://www.youtube.com/watch?v=-RETq9XvHQI)
+<iframe src="https://www.youtube.com/embed/-RETq9XvHQI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 - Binary Search Discussion
     
 
-[▶ Class 86 - Algo - Searching(Discussion on binary search using recursion)](https://www.youtube.com/watch?v=BqEqAzxi7_A)
+<iframe src="https://www.youtube.com/embed/BqEqAzxi7_A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     
 

@@ -24,7 +24,7 @@ Here’s how you can add a collider to the `Player` game object:
 
 
 
-[Watch video](https://www.loom.com/embed/c93084f76e474b99a3ca9c6cf38812e2?sid=1901069a-8968-4558-9b7f-4a810fbe3055)
+<iframe src="https://www.loom.com/embed/c93084f76e474b99a3ca9c6cf38812e2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -59,7 +59,7 @@ Here’s how you can add `Rigidbody` to Mr. Blocks:
 
 
 
-[Watch video](https://www.loom.com/embed/9be7dcb6b9dc4c0e89c28ac4883dfdf8?sid=32bbe7e3-982d-41ab-892d-097f047a3427)
+<iframe src="https://www.loom.com/embed/9be7dcb6b9dc4c0e89c28ac4883dfdf8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -97,7 +97,7 @@ Tags are incredibly useful for:
 
 
 
-[Watch video](https://www.loom.com/embed/e39a6826bce749eb86c6a69f946d3d42?sid=ef615cf4-1d12-4677-a932-900c40577056)
+<iframe src="https://www.loom.com/embed/e39a6826bce749eb86c6a69f946d3d42" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

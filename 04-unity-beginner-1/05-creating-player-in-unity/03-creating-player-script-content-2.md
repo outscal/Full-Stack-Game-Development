@@ -25,7 +25,7 @@ You can name it `Player` and put it in a separate folder `Assets/Scripts` to kee
 
 
 
-[Watch video](https://www.loom.com/embed/1e2b365665ee49b7b6925d33d72a8d88?sid=92f8b16f-3c53-46c2-a634-1e7d6c91d9c6)
+<iframe src="https://www.loom.com/embed/1e2b365665ee49b7b6925d33d72a8d88" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -75,7 +75,7 @@ For Mr. Blocks to use the script, you need to attach it to the `Player` Game Obj
 
 
 
-[Watch video](https://www.loom.com/embed/87d251da1add44768584b7e75486d512)
+<iframe src="https://www.loom.com/embed/87d251da1add44768584b7e75486d512" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

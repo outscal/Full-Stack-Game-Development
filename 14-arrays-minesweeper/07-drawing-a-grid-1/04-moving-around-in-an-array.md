@@ -102,7 +102,7 @@ Similarly, we use ***"nested-loop"*** to traverse a 2D array
 
 
 
-[Watch video](https://www.loom.com/embed/47b111ade78945caba57a5b940d569b9)
+<iframe src="https://www.loom.com/embed/47b111ade78945caba57a5b940d569b9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

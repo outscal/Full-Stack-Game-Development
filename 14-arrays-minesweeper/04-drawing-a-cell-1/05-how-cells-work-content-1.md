@@ -26,7 +26,7 @@ In this lesson, you'll understand the cell's behavior.
 ---
 
 
-[Watch video](https://www.loom.com/embed/2aecb425b32f4664af06f03075be64d4)
+<iframe src="https://www.loom.com/embed/2aecb425b32f4664af06f03075be64d4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

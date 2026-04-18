@@ -28,7 +28,7 @@ Let's create a new scene for your next level:
 
 
 
-[Watch video](https://www.loom.com/embed/3d6501a682624e5f8cd106ed66049ae6?sid=c187f192-c2c5-4178-bcd4-c333b5f943d8)
+<iframe src="https://www.loom.com/embed/3d6501a682624e5f8cd106ed66049ae6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -55,7 +55,7 @@ Now that you have multiple scenes, you need a way to manage them. That's where B
 
 
 
-[Watch video](https://www.loom.com/embed/13a96b57ed514bb1a8cd431864130bcb?sid=3309cc27-eaa9-42a0-b789-9128df01652a)
+<iframe src="https://www.loom.com/embed/13a96b57ed514bb1a8cd431864130bcb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

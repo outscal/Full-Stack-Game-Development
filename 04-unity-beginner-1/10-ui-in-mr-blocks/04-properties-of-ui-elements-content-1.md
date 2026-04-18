@@ -93,7 +93,7 @@ Let's move our Level Number to the top-left:
 
 
 
-[Watch video](https://www.loom.com/embed/897636fe4bcf449fb3777771857e5bac?sid=342d02a2-15f3-482a-969f-a606c843e976)
+<iframe src="https://www.loom.com/embed/897636fe4bcf449fb3777771857e5bac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

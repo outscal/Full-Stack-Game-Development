@@ -18,7 +18,7 @@ When you're just starting your career, naturally you do not have that connection
 
 
 
-[Watch video](https://www.loom.com/embed/6f8ac5cfb07544e09087dfda6a1c6117?sid=a5a2561c-3ebd-4605-ab50-7d5999746c3c)
+<iframe src="https://www.loom.com/embed/6f8ac5cfb07544e09087dfda6a1c6117" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

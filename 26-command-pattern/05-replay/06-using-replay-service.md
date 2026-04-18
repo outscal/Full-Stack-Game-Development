@@ -135,7 +135,7 @@ Its that easy to implement a replay functionality if you know how to utilize Com
 
 
 
-[Watch video](https://www.loom.com/embed/8c4ce323dc7d40b8a73eb583a075bcee?sid=124f89bf-305a-49fc-8fa1-5b390b1a3d11)
+<iframe src="https://www.loom.com/embed/8c4ce323dc7d40b8a73eb583a075bcee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

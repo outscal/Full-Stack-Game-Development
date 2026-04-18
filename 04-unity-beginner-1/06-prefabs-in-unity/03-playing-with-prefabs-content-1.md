@@ -35,7 +35,7 @@ Here's how to update all prefabs using `Override`:
 
 
 
-[Watch video](https://www.loom.com/embed/bfb24b7bb6ac4ac9ac3664ed4d336c94?sid=af65870e-ac17-4b38-b625-9349ecb3877e)
+<iframe src="https://www.loom.com/embed/bfb24b7bb6ac4ac9ac3664ed4d336c94" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -75,7 +75,7 @@ Here's how to unpack prefabs:
 
 
 
-[Watch video](https://www.loom.com/embed/577b605fb60448e1903bb63e30d69186?sid=01feb759-79a0-4b40-9807-98d223cff1fb)
+<iframe src="https://www.loom.com/embed/577b605fb60448e1903bb63e30d69186" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
