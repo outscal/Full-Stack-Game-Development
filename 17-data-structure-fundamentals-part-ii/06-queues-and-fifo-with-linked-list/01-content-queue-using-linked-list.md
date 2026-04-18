@@ -7,7 +7,7 @@
 
 ---
 
-## [Watch video](https://www.youtube.com/embed/7Ip-UYaX72I?si=8bGhSsRKZCIg1S43)
+<iframe src="https://www.youtube.com/embed/7Ip-UYaX72I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -16,4 +16,4 @@
 
 ---
 
-## [Watch video](https://www.youtube.com/embed/h_E-lXenOkc?si=F7DVCgK5f45IcsTJ)
+<iframe src="https://www.youtube.com/embed/h_E-lXenOkc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
