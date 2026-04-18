@@ -79,9 +79,7 @@
       body.nav-open .sidebar { transform: translateX(0); }
       .content { left: 0 !important; width: 100%; }
       body:not(.on-home) .markdown-section { padding: 16px 18px 48px; }
-      body.nav-open .nav-scrim { display: block; }
     }
-    .nav-scrim { display: none; position: fixed; inset: var(--topbar-h) 0 0 0; background: rgba(10,10,10,0.35); z-index: 1040; cursor: pointer; -webkit-tap-highlight-color: transparent; }
     .markdown-section iframe { width: 100%; aspect-ratio: 16/9; height: auto; border: 0; border-radius: 8px; }
     .markdown-section img { max-width: 100%; height: auto; border-radius: 6px; }
 
@@ -240,14 +238,9 @@
           <span class="by">by Outscal</span>
         </span>
       </a>
-      <nav class="nav">
-        <a href="#/01-onboarding-module/01-about-the-course-3/01-goal-of-this-course.md">Start</a>
-        <a href="#/" onclick="if(location.hash==='#/'||location.hash===''){event.preventDefault();document.getElementById('modules')?.scrollIntoView({behavior:'smooth'});}">Modules</a>
-      </nav>
     </div>
   </header>
   <div id="app">Loading…</div>
-  <div class="nav-scrim" onclick="closeNav()" aria-hidden="true"></div>
   <script>
     function isMobile() { return window.matchMedia('(max-width: 768px)').matches; }
     function toggleNav() { document.body.classList.toggle(isMobile() ? 'nav-open' : 'close'); }
