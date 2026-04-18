@@ -2,7 +2,7 @@
 
 ## Materials
 
-1. [Project Goal](./01-project-goal-12.md) _(content)_
-2. [Getting Started!](./02-getting-started-content-4.md) _(content)_
-3. [Branching Instructions](./03-branching-instructions-1.md) _(content)_
-4. [Configuring Project](./04-configuring-project-content-3.md) _(content)_
+1. [Project Goal](/14-arrays-minesweeper/01-project-intro-1/01-project-goal-12.md) _(content)_
+2. [Getting Started!](/14-arrays-minesweeper/01-project-intro-1/02-getting-started-content-4.md) _(content)_
+3. [Branching Instructions](/14-arrays-minesweeper/01-project-intro-1/03-branching-instructions-1.md) _(content)_
+4. [Configuring Project](/14-arrays-minesweeper/01-project-intro-1/04-configuring-project-content-3.md) _(content)_

@@ -5,4 +5,4 @@ Placement Phase I
 
 ## Chapters
 
-1. [Placement Phase I](./01-placement-phase-i/README.md)
+1. [Placement Phase I](/09-placement-phase-i9/01-placement-phase-i/README.md)
