@@ -24,8 +24,6 @@ Sounds like a plan, right?
 
 Let's visualize this with a diagram:
 
-![Image]()
-
 ![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_05_2024__07_31_54.png)
 
 ***Flow diagram of Initialization of Obstacles***

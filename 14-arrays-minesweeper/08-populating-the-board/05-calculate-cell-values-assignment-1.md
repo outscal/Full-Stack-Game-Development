@@ -8,13 +8,13 @@
 - Create a `Pull Request`, from this feature branch `Feature-5_Populating-The-Board` to the previous branch `main` if not already created.
 - If you had created a PR previously, no need to create again, simply commit your changes and that PR will be updated.
 - Since, this is a guided assignment, code reviews will not happen, instead the solution code is present in the assignment.
-  [**Click Here To See The Solution**](-calculate-cell-values-assignment-1)
+  [**Click Here To See The Solution**](https://github.com/outscal/Arrays/tree/Feature-5_Populating-The-Board/Array-Minesweeper)
 - But, before checking the solution code, try your best to solve it independently.
 
 
 
 > 💡**PROTIP:**
-> You can spoil yourself by looking at the [**solution**](-calculate-cell-values-assignment-1) before trying out the assignments, but we don't recommend learning that way.
+> You can spoil yourself by looking at the [**solution**](https://github.com/outscal/Arrays/tree/Feature-5_Populating-The-Board/Array-Minesweeper) before trying out the assignments, but we don't recommend learning that way.
 
 > If you feel stuck somewhere, don't worry 😌
 

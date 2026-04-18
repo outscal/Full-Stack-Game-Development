@@ -41,8 +41,6 @@ These game changed the whole scenario of the gaming industry at that time.
 
 
 
-![c++]()
-
 ![c++](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/09_09_2024__07_19_35.png)
 
 

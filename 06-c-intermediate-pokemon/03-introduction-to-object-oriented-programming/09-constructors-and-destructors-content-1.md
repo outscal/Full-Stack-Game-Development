@@ -124,8 +124,6 @@ What is the output?
 
 The default values that we have given to the constructor 
 
-![image]()
-
 ![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_28_2024__11_23_12.jpg)
 
 

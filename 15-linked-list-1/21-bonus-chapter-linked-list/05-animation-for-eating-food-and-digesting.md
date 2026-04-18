@@ -10,8 +10,6 @@ Sounds cute, right?
 
 In the classic Snake Game, when the snake eats food, you can watch it travel through its body until a new segment pops up at the tail.
 
-![gif]()
-
 ![gif](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6635d6da56724faeff889a65/06_02_2024__12_08_28.gif)
 
 

@@ -3,8 +3,6 @@
 
 ---
 
-![Level Labeled]()
-
 ![Level Lableled](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/65a8c70a6348a80a870c1fa7/05_14_2024__08_49_25.png)
 
 **LEVEL**
