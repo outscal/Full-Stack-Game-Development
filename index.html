@@ -11,6 +11,29 @@
     .markdown-section iframe { width: 100%; aspect-ratio: 16/9; height: auto; }
     .markdown-section img { max-width: 100%; height: auto; }
     .sidebar-nav strong { color: var(--theme-color, #42b983); font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.04em; }
+
+    /* Interactive quiz */
+    .outscal-quiz { border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin: 24px 0; background: #fafafa; }
+    .outscal-quiz h2, .outscal-quiz h3 { margin-top: 0; }
+    .oq-hint { color: #6b7280; font-size: 0.9em; }
+    .oq-opts { display: flex; flex-direction: column; gap: 8px; margin: 16px 0; }
+    .oq-opt { display: block; width: 100%; text-align: left; padding: 10px 14px; border: 1.5px solid #d1d5db; border-radius: 6px; background: #fff; cursor: pointer; font: inherit; color: inherit; transition: all 0.15s; }
+    .oq-opt:hover:not(:disabled) { border-color: #42b983; background: #f0fdf4; }
+    .oq-opt.oq-selected { border-color: #42b983; background: #ecfdf5; }
+    .oq-opt.oq-correct { border-color: #16a34a; background: #dcfce7; color: #14532d; }
+    .oq-opt.oq-correct::after { content: " ✓"; font-weight: bold; color: #16a34a; }
+    .oq-opt.oq-wrong { border-color: #dc2626; background: #fee2e2; color: #7f1d1d; }
+    .oq-opt.oq-wrong::after { content: " ✗"; font-weight: bold; color: #dc2626; }
+    .oq-opt:disabled { cursor: default; }
+    .oq-submit, .oq-next { padding: 8px 18px; border: none; border-radius: 6px; background: #42b983; color: #fff; font-weight: 600; cursor: pointer; margin-top: 8px; font: inherit; }
+    .oq-submit:disabled { background: #d1d5db; cursor: not-allowed; }
+    .oq-submit:hover:not(:disabled), .oq-next:hover { background: #3aa372; }
+    .oq-feedback { margin: 12px 0; padding: 10px 12px; border-radius: 6px; font-weight: 600; }
+    .oq-feedback.oq-right { background: #dcfce7; color: #14532d; }
+    .oq-feedback.oq-bad { background: #fee2e2; color: #7f1d1d; }
+    .oq-explain { margin: 8px 0 12px; padding: 10px 12px; background: #eff6ff; border-left: 3px solid #3b82f6; border-radius: 4px; }
+    .oq-done { text-align: center; padding: 24px; background: #ecfdf5; border-radius: 6px; }
+    .oq-done .oq-score { font-size: 1.8em; font-weight: bold; color: #16a34a; }
   </style>
 </head>
 <body>
@@ -38,7 +61,98 @@
         nextText: 'Next →',
         crossChapter: true,
         crossChapterText: true
-      }
+      },
+      plugins: [
+        function quizPlugin(hook) {
+          hook.doneEach(function () {
+            var quizzes = document.querySelectorAll('.outscal-quiz');
+            quizzes.forEach(function (quiz) {
+              if (quiz.dataset.qInit === '1') return;
+              quiz.dataset.qInit = '1';
+              var total = parseInt(quiz.dataset.total, 10) || 0;
+              var questions = quiz.querySelectorAll('.oq-q');
+              var done = quiz.querySelector('.oq-done');
+              var currentIdx = 0;
+              var score = 0;
+
+              function showQuestion(idx) {
+                questions.forEach(function (q) { q.hidden = true; });
+                if (idx >= total) {
+                  var s = done.querySelector('.oq-score');
+                  if (s) s.textContent = score;
+                  done.hidden = false;
+                  return;
+                }
+                if (questions[idx]) questions[idx].hidden = false;
+              }
+
+              questions.forEach(function (q) {
+                var rawAns = q.dataset.answers || '';
+                var answers = rawAns.split(',').filter(Boolean).map(function (x) { return parseInt(x, 10); });
+                var multi = answers.length > 1;
+                var opts = Array.prototype.slice.call(q.querySelectorAll('.oq-opt'));
+                var submit = q.querySelector('.oq-submit');
+                var next = q.querySelector('.oq-next');
+                var feedback = q.querySelector('.oq-feedback');
+                var explain = q.querySelector('.oq-explain');
+                var selected = new Set();
+
+                opts.forEach(function (opt) {
+                  opt.addEventListener('click', function () {
+                    if (q.dataset.submitted === '1') return;
+                    var i = parseInt(opt.dataset.i, 10);
+                    if (multi) {
+                      if (selected.has(i)) {
+                        selected.delete(i);
+                        opt.classList.remove('oq-selected');
+                      } else {
+                        selected.add(i);
+                        opt.classList.add('oq-selected');
+                      }
+                    } else {
+                      selected.clear();
+                      opts.forEach(function (o) { o.classList.remove('oq-selected'); });
+                      selected.add(i);
+                      opt.classList.add('oq-selected');
+                    }
+                    submit.disabled = selected.size === 0;
+                  });
+                });
+
+                submit.addEventListener('click', function () {
+                  q.dataset.submitted = '1';
+                  var sel = Array.from(selected).sort(function (a, b) { return a - b; });
+                  var ans = answers.slice().sort(function (a, b) { return a - b; });
+                  var correct = sel.length === ans.length && sel.every(function (v, i) { return v === ans[i]; });
+                  if (correct) score++;
+
+                  opts.forEach(function (opt) {
+                    var i = parseInt(opt.dataset.i, 10);
+                    opt.disabled = true;
+                    opt.classList.remove('oq-selected');
+                    if (answers.indexOf(i) !== -1) opt.classList.add('oq-correct');
+                    else if (selected.has(i)) opt.classList.add('oq-wrong');
+                  });
+
+                  feedback.textContent = correct ? '✓ Correct!' : '✗ Incorrect';
+                  feedback.className = 'oq-feedback ' + (correct ? 'oq-right' : 'oq-bad');
+                  feedback.hidden = false;
+                  if (explain) explain.hidden = false;
+                  submit.hidden = true;
+                  next.hidden = false;
+                });
+
+                next.addEventListener('click', function () {
+                  currentIdx++;
+                  showQuestion(currentIdx);
+                });
+              });
+
+              showQuestion(0);
+            });
+          });
+        }
+      ]
     };
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
