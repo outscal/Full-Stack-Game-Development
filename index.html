@@ -6,8 +6,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
   <style>
-    :root { --sidebar-width: 320px; --accent: #42b983; --accent-dark: #369f73; }
+    :root { --sidebar-width: 320px; --accent: #42b983; --accent-dark: #369f73; --topbar-h: 56px; }
     body { margin: 0; }
+
+    /* Top banner with course title */
+    #top-bar { position: fixed; top: 0; left: 0; right: 0; height: var(--topbar-h); background: #fff; border-bottom: 1px solid #e5e7eb; display: flex; align-items: center; padding: 0 24px 0 64px; z-index: 1000; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
+    #top-bar a { text-decoration: none; color: #111; font-weight: 700; font-size: 1.05em; letter-spacing: 0.01em; }
+    #top-bar a:hover { color: var(--accent); }
+
+    /* Hide the default sidebar name; shift sidebar + content under the top bar */
+    .sidebar > h1.app-name, .sidebar .app-name { display: none !important; }
+    .sidebar { top: var(--topbar-h) !important; }
+    .content { top: var(--topbar-h) !important; }
     .markdown-section { max-width: 960px; padding: 24px 32px 64px; }
     body.on-home .sidebar,
     body.on-home .sidebar-toggle { display: none !important; }
@@ -86,6 +96,7 @@
   </style>
 </head>
 <body>
+  <header id="top-bar"><a href="#/">Full Stack Game Development</a></header>
   <div id="app">Loading…</div>
   <script src="course-manifest.js"></script>
   <script>
