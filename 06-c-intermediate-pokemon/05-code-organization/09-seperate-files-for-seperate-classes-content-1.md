@@ -249,7 +249,7 @@ Similarly, if you take a look at your `main.cpp`, there is the following error a
 
 ![Image](//outscal.github.io/Full-Stack-Game-Development/images/30a3d89ceb3d9091.png)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/dce933f8-8d71-4fc0-a567-8c5c6ebb5cbf/image.png)
+<!-- image unavailable: image.png -->
 
 
 

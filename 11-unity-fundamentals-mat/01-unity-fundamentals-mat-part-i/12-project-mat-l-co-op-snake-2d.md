@@ -27,7 +27,7 @@
      ⬆️ ⬇️ ⬅️➡️
   3. Implement screen wrapping for all the directions ⬆️ ⬇️ ⬅️➡️
 
-     ![instructions](<https://outscal.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F23b6b61f-0b60-4c33-9f45-ac5e7a270ee8%2FComponent_1_(1).png?table=block&id=29d066b1-1838-4b25-95ed-95ef2e430a3e&spaceId=8c9f7b97-3438-434a-b8ca-0a53eb7262ea&width=1250&userId=&cache=v2>)
+     ![instructions](//outscal.github.io/Full-Stack-Game-Development/images/bd53ab5f05d00ec3.png)
 
   4. Snake should die after biting himself.
   5. Snake should grow after eating food.

@@ -86,7 +86,7 @@ you will be able to see this particular error:
 
 
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/80dc55b5-0e65-4bbe-86e3-a45362bd25b1/image.png)
+<!-- image unavailable: image.png -->
 
 ![error](//outscal.github.io/Full-Stack-Game-Development/images/52e7c1a9d5fc09d7.png)
 

@@ -77,7 +77,7 @@ With so many entangled noodles it will be nearly impossible to pull one out with
 
  
 
-![Image](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/634ff2a63bfd3eecf3cfe038/08_28_2024__12_23_10.jpeg)
+![Image](//outscal.github.io/Full-Stack-Game-Development/images/9d1e54ce2afacecb.jpg)
 
 
 

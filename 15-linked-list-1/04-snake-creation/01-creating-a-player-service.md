@@ -33,7 +33,7 @@ From this chapter, you'll be making your boring and empty levels filled with you
 
 You create a snake, which is controlled by Player, but how?
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/0ac260ff-5451-432a-a8d7-c58765073efd/Untitled.png)
+<!-- image unavailable: Untitled -->
 
 ![](https://file.notion.so/f/f/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/0ac260ff-5451-432a-a8d7-c58765073efd/Untitled.png?id=bc6e41b1-5651-4645-aa1d-3c9b710741c4&table=block&spaceId=8c9f7b97-3438-434a-b8ca-0a53eb7262ea&expirationTimestamp=1714953600000&signature=bvIjyQMIoQMb6mXSwVzbe1HfWe081epM3dgf9rr_rmk&downloadName=Untitled.png)
 

@@ -36,7 +36,7 @@
 
 - You can create a separate section below your post content where you are tagging relevant people from the community as shown in the [example below:](https://www.linkedin.com/posts/rohithkannan_devlog-ds-fundamentals-ii-mat-activity-7066726295656673280-2-ju?utm_source=share&utm_medium=member_desktop)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/7ca67e47-4abb-46cf-9ab0-f94f13243b06/Untitled.png)
+<!-- image unavailable: Untitled -->
 
 ![](//outscal.github.io/Full-Stack-Game-Development/images/492e9c1aaf8ef7e7.png)
 

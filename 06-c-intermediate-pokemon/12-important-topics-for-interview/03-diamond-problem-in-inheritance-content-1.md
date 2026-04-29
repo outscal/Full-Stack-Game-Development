@@ -50,7 +50,7 @@ It is because of this kind of relationship,
 
 that leads to an ambiguity error and hence the name 'Diamond Problem.
 
-![Screenshot 2024-09-09 082245.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/87f3b36b-96eb-4ef2-a00c-f1f0327e3d68/Screenshot_2024-09-09_082245.png)
+<!-- image unavailable: Screenshot 2024-09-09 082245.png -->
 
 
 

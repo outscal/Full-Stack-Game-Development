@@ -122,7 +122,7 @@
 
 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/217e3595-9645-4365-8415-f2d4064906fb/Untitled.png)
+<!-- image unavailable: Untitled -->
 
 ![](//outscal.github.io/Full-Stack-Game-Development/images/4873600420430466.png)
 
@@ -130,7 +130,7 @@
 
 - After selecting the quantity of the item, there should be a popup asking for conformation like shown in the example below:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/e14294c9-3de0-4d8d-832b-1c389d189001/Untitled.png)
+<!-- image unavailable: Untitled -->
 
 ![](//outscal.github.io/Full-Stack-Game-Development/images/c5a8ba7116eb3191.png)
 

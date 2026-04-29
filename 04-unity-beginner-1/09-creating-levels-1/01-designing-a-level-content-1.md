@@ -57,7 +57,7 @@ Let's think about what you really need for the first level:
 
 
 
-![Level 1](https://outscal-assets.s3.ap-south-1.amazonaws.com/production/LMS/6675375f717323b2671e88fc/11_06_2024__14_12_33.png)
+![Level 1](//outscal.github.io/Full-Stack-Game-Development/images/73c41edf84dad0f5.png)
 
 **Level 1**
 

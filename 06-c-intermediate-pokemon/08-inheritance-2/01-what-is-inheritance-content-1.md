@@ -24,7 +24,7 @@ This is why we have the **DRY** principle → **Don't-Repeat-Yourself**.
 
 
 
-![7 Software Development Principles Boiled Down to Memes | by Jose Granja |  Better Programming](https://miro.medium.com/v2/resize:fit:1200/1*TwfpCvvZsuKzQTt3KGK0NA.jpeg)
+![7 Software Development Principles Boiled Down to Memes | by Jose Granja |  Better Programming](//outscal.github.io/Full-Stack-Game-Development/images/b41e6eb214f419d8.jpg)
 
 
 

@@ -1,6 +1,6 @@
 ![placeholder](//outscal.github.io/Full-Stack-Game-Development/images/280bb6fd05c62af7.png)
 
-![PROJECT ARCHITECTURE](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/34a1f35f-f2e5-4cde-b936-0baee49870e2/Project_Architecture.png)
+<!-- image unavailable: PROJECT ARCHITECTURE -->
 
 PROJECT ARCHITECTURE
 
@@ -23,7 +23,7 @@ A service is responsible for handling a specific set of functions. A *‘service
 
 In the `***main***` branch, you have the following services:
 
-![s_Services in Project Setup.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/3fe1c8e0-a125-4899-a2bf-98b74705e611/s_Services_in_Project_Setup.png)
+<!-- image unavailable: s_Services in Project Setup.png -->
 
 ![ ](//outscal.github.io/Full-Stack-Game-Development/images/21e373d6988b0ce0.png)
 
@@ -48,7 +48,7 @@ Every entity in a game goes through some critical milestones:
 
 
 
-![Birth-Life-Death.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/b86ccf8c-78d8-46f9-a831-1abc1589c4d4/Birth-Life-Death.png)
+<!-- image unavailable: Birth-Life-Death.png -->
 
 ![Birth-Life-Death](//outscal.github.io/Full-Stack-Game-Development/images/a04ec4ccea37df7f.png)
 
@@ -56,7 +56,7 @@ Every entity in a game goes through some critical milestones:
 
 You will handle these milestones with *Lifecycle methods*
 
-![Lifecycle Methods.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/cd0fb88d-42c4-40c3-a861-7924e6ca6367/Lifecycle_Methods.png)
+<!-- image unavailable: Lifecycle Methods.png -->
 
 ![Lifecycle Methods](//outscal.github.io/Full-Stack-Game-Development/images/5bccdb786271b375.png)
 

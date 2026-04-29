@@ -33,6 +33,6 @@ In short, it is about your **Journey** rather than your **Achievements**. Your j
 
 (Click the link to check out the whole post)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/e610a136-47d2-42e4-a0a7-ef463a0db2a2/Untitled.png)
+<!-- image unavailable: Untitled -->
 
 ![](//outscal.github.io/Full-Stack-Game-Development/images/452147856a081b33.png)

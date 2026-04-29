@@ -435,7 +435,7 @@ But something looks missing 🤔
 
 I think a background image would look nice 😌
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/a7d6668a-5568-4edf-8a73-f36478984998/image.png)
+<!-- image unavailable: image.png -->
 
 
 

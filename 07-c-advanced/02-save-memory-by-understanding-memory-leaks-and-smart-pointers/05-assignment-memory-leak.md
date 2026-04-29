@@ -37,7 +37,7 @@
 
               8. Now again run the whole code and notice the difference in outputs with that of step 6.
 
-![244314029-7e6dd441-ea4a-4974-9e3c-fef0564f4448.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/4eefa77b-e65e-4f5b-9d4e-a696904bfbe7/244314029-7e6dd441-ea4a-4974-9e3c-fef0564f4448.png)
+<!-- image unavailable: 244314029-7e6dd441-ea4a-4974-9e3c-fef0564f4448.png -->
 
 
 

@@ -15,7 +15,7 @@ There are numerous examples, your creativity is the only limit. Basically, as lo
 
 [Here is an example of such a post from one of our students:](https://www.linkedin.com/posts/mridul-agrawal-j52_indianculture-gamingindustry-gamedevelopers-activity-7037735090524696576-s8fa?utm_source=share&utm_medium=member_desktop)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/3a438a95-4cd0-4e92-8142-31f08c0687a8/Untitled.png)
+<!-- image unavailable: Untitled -->
 
 
 

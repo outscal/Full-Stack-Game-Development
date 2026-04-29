@@ -70,7 +70,7 @@ Let's add them to your project:
 
 
 
-1. Download the Unity Package: [Mr. Blocks Package](https://outscal-content.s3.ap-south-1.amazonaws.com/Mr_Blocks_Pacakge_87ce869f31.unitypackage)
+1. Download the Unity Package: [Mr. Blocks Package](//outscal.github.io/Full-Stack-Game-Development/images/Mr_Blocks_Package_87ce869f31.unitypackage)
 2. In Unity, go to `Assets` > `Import Package` > `Custom Package`.
 3. Select the downloaded package.
 4. Click `Import` (make sure all assets are checked).

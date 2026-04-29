@@ -78,7 +78,7 @@ But with a doubly linked list, it is like a metro train that can move in both di
 
 Each train cart (node) is connected to the ones before and after it, allowing smooth travel in either direction.
 
-![Illustration of a vector image of metro being presented as a doubly linked list](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/ad20cfcb-3454-4f78-ad33-fdb6f3259ae9/s_Image_Required_Placeholder.png)
+<!-- image unavailable: Illustration of a vector image of metro being presented as a doubly linked list -->
 
 
 
@@ -104,7 +104,7 @@ A **Doubly Linked List** is a complex type of linked list in which each node con
 
 
 
-> ![Illustration of a doubly linked list like the below reference video](https://prod-files-secure.s3.us-west-2.amazonaws.com/8c9f7b97-3438-434a-b8ca-0a53eb7262ea/ad20cfcb-3454-4f78-ad33-fdb6f3259ae9/s_Image_Required_Placeholder.png)
+> <!-- image unavailable: Illustration of a doubly linked list like the below reference video -->
 > 
 > **So if a Linked List ⇒  **`**A → B → C**`
 > **Then a Doubly Linked List ⇒  **`**A ⇆ B ⇆ C**`
