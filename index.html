@@ -40,7 +40,7 @@
 
     /* ---------------- MASTHEAD ---------------- */
     .masthead { position: fixed; top: 0; left: 0; right: 0; height: var(--topbar-h); border-bottom: 1px solid var(--rule); background: rgba(250,250,246,0.92); backdrop-filter: saturate(160%) blur(8px); -webkit-backdrop-filter: saturate(160%) blur(8px); z-index: 1000; }
-    .masthead-inner { max-width: 1240px; margin: 0 auto; padding: 0 24px 0 56px; height: 100%; display: flex; align-items: center; gap: 20px; }
+    .masthead-inner { max-width: 1240px; margin: 0 auto; padding: 0 24px; height: 100%; display: flex; align-items: center; gap: 14px; }
     .brand { font-family: var(--serif); font-weight: 700; letter-spacing: -0.01em; font-size: 15px; display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; }
     .brand .mark { width: 24px; height: 24px; display: block; flex-shrink: 0; }
     .brand .title { display: flex; align-items: baseline; gap: 10px; }
@@ -52,7 +52,7 @@
     .nav a:hover { color: var(--ink); }
     @media (max-width: 560px) { .nav { gap: 16px; } .nav a { font-size: 13px; } }
 
-    #topbar-toggle { position: absolute; left: 14px; top: 50%; transform: translateY(-50%); background: transparent; border: none; cursor: pointer; padding: 10px; display: flex; flex-direction: column; justify-content: center; gap: 4px; border-radius: 6px; }
+    #topbar-toggle { background: transparent; border: none; cursor: pointer; padding: 10px; display: flex; flex-direction: column; justify-content: center; gap: 4px; border-radius: 6px; flex-shrink: 0; }
     #topbar-toggle:hover { background: var(--paper-tint); }
     #topbar-toggle span { display: block; width: 22px; height: 2.5px; background: var(--ink); border-radius: 2px; transition: transform 0.2s, opacity 0.2s; }
     body.on-home #topbar-toggle { display: none; }
@@ -204,6 +204,7 @@
     .mtag-content { background: #E3ECFD; color: var(--blue); }
     .mtag-assignment { background: var(--yellow); color: var(--ink); }
     .mtag-quiz { background: #EDE4FB; color: #6D28D9; }
+    .mat-icon { flex-shrink: 0; }
 
     /* ---------------- QUIZ ---------------- */
     .outscal-quiz { border: 1px solid var(--rule); border-left: 4px solid var(--yellow); border-radius: 8px; padding: 22px 24px; margin: 28px 0; background: var(--paper); }
@@ -240,12 +241,26 @@
     .module-card-meta { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .1em; font-family: var(--serif); }
 
     @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+
+    /* ---------------- INNER-PAGE MASTHEAD: pill + globe only (no "Full-Stack Game Dev" text) ---------------- */
+    body:not(.on-home) .brand .title { display: none; }
+    body:not(.on-home) #topbar-toggle { padding: 7px 14px; border-radius: 100px; background: var(--paper-tint); border: 1px solid var(--rule); flex-direction: row; gap: 0; }
+    body:not(.on-home) #topbar-toggle:hover { background: var(--paper); border-color: var(--yellow); }
+    body:not(.on-home) #topbar-toggle span { display: none; }
+    body:not(.on-home) #topbar-toggle::before { content: "☰  " attr(data-lessons-label); font-family: var(--serif); font-size: 13px; font-weight: 600; color: var(--ink); white-space: nowrap; letter-spacing: -.005em; }
+
+    /* ---------------- LESSON HEADER (top of every material page) ---------------- */
+    .lesson-header { border: 1px solid var(--rule); border-left: 3px solid var(--yellow); border-radius: 6px; padding: 14px 18px 16px; margin: 0 0 28px; background: var(--paper); }
+    .lesson-header .lh-chapter { font-family: var(--serif); font-size: 13px; font-weight: 500; color: var(--ink-soft); margin: 0 0 4px; letter-spacing: -.005em; }
+    .lesson-header .lh-title { font-family: var(--serif); font-size: 19px; font-weight: 700; color: var(--ink); letter-spacing: -.015em; line-height: 1.25; display: flex; align-items: baseline; justify-content: space-between; gap: 16px; }
+    .lesson-header .lh-title-text { flex: 1; min-width: 0; }
+    .lesson-header .lh-progress { font-family: var(--serif); font-size: 12px; font-weight: 500; color: var(--muted); letter-spacing: 0; flex-shrink: 0; }
   </style>
 </head>
 <body>
   <header class="masthead">
-    <button id="topbar-toggle" aria-label="Toggle sidebar" onclick="toggleNav()"><span></span><span></span><span></span></button>
     <div class="masthead-inner">
+      <button id="topbar-toggle" aria-label="Toggle sidebar" onclick="toggleNav()"><span></span><span></span><span></span></button>
       <a class="brand" href="#/" aria-label="Full-Stack Game Development home">
         <img class="mark" src="assets/outscal-globe.gif" alt="" aria-hidden="true" />
         <span class="title">
@@ -261,7 +276,7 @@
     function toggleNav() { document.body.classList.toggle(isMobile() ? 'nav-open' : 'close'); }
     function closeNav() { document.body.classList.remove('nav-open'); }
     window.addEventListener('hashchange', function () { if (isMobile()) closeNav(); });
-    window.addEventListener('resize', function () { if (!isMobile()) document.body.classList.remove('nav-open'); });
+    window.addEventListener('resize', function () { if (isMobile()) { document.body.classList.remove('close'); } else { document.body.classList.remove('nav-open'); } });
   </script>
   <script src="course-manifest.js"></script>
   <script>
@@ -281,6 +296,12 @@
             if (idx < 27) return { key: 'projects', label: 'Projects' };
             return { key: 'mastery', label: 'Mastery' };
           }
+          function typeIcon(t) {
+            if (t === 'quiz') return '<svg class="mat-icon mat-icon-quiz" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M10.6 16q0-2.025.363-2.912T12.5 11.15q1.025-.9 1.563-1.562t.537-1.513q0-1.025-.687-1.7T12 5.7q-1.275 0-1.937.775T9.125 8.05L6.55 6.95q.525-1.6 1.925-2.775T12 3q2.625 0 4.038 1.463t1.412 3.512q0 1.25-.537 2.138t-1.688 2.012Q14 13.3 13.738 13.913T13.475 16zm1.4 6q-.825 0-1.412-.587T10 20t.588-1.412T12 18t1.413.588T14 20t-.587 1.413T12 22"/></svg>';
+            if (t === 'assignment') return '<svg class="mat-icon mat-icon-assignment" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83l3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75z"/></svg>';
+            return '';
+          }
+          function cleanTitle(t) { return String(t).replace(/^\[(?:quiz|assignment)\]\s*/i, ''); }
           function stampHomeFolders() {
             if (!window.COURSE) return;
             var folders = document.querySelectorAll('.library-folders .folder');
@@ -333,7 +354,7 @@
                   ch.materials.forEach(function (mat) {
                     var isMat = isCurrent && mat.file === matFile;
                     var href = '#/' + mod.folder + '/' + ch.folder + '/' + mat.file;
-                    html += '<li class="' + (isMat ? 'is-current' : '') + '"><a href="' + href + '">' + escape(mat.title) + '</a></li>';
+                    html += '<li class="' + (isMat ? 'is-current' : '') + '"><a href="' + href + '">' + typeIcon(mat.type) + escape(cleanTitle(mat.title)) + '</a></li>';
                   });
                   html += '</ul></details>';
                 });
@@ -483,6 +504,42 @@
               html += '<div class="pagination-item pagination-item--placeholder"></div>';
             }
             container.innerHTML = html;
+          });
+        },
+        function lessonHeaderPlugin(hook) {
+          function escape(s) { return String(s).replace(/[&<>"']/g, function (c) { return ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' })[c]; }); }
+
+          function locate(hash) {
+            if (!window.COURSE) return null;
+            var parts = hash.split('/').filter(Boolean);
+            if (parts.length < 3) return null;
+            var mod = window.COURSE.modules.find(function (m) { return m.folder === parts[0]; });
+            if (!mod) return null;
+            var ch = mod.chapters.find(function (c) { return c.folder === parts[1]; });
+            if (!ch) return null;
+            var matIdx = ch.materials.findIndex(function (m) { return m.file === parts[2]; });
+            if (matIdx < 0) return null;
+            return { mod: mod, ch: ch, matIdx: matIdx, mat: ch.materials[matIdx] };
+          }
+
+          hook.doneEach(function () {
+            var hash = (window.location.hash || '#/').replace(/^#/, '');
+            var loc = locate(hash);
+
+            var btn = document.querySelector('#topbar-toggle');
+            if (btn) btn.dataset.lessonsLabel = loc ? ('Lessons (' + loc.mod.materialCount + ')') : 'Lessons';
+
+            var section = document.querySelector('.markdown-section');
+            if (!section) return;
+            var existing = section.querySelector('.lesson-header');
+            if (existing) existing.remove();
+            if (!loc) return;
+            var card = document.createElement('div');
+            card.className = 'lesson-header';
+            card.innerHTML = '<div class="lh-chapter">' + escape(loc.ch.title) + '</div>'
+                           + '<div class="lh-title"><span class="lh-title-text">' + escape(loc.mat.title) + '</span>'
+                           + '<span class="lh-progress">' + (loc.matIdx + 1) + ' of ' + loc.ch.materials.length + '</span></div>';
+            section.insertBefore(card, section.firstChild);
           });
         }
       ]
