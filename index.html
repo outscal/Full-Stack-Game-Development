@@ -40,7 +40,7 @@
 
     /* ---------------- MASTHEAD ---------------- */
     .masthead { position: fixed; top: 0; left: 0; right: 0; height: var(--topbar-h); border-bottom: 1px solid var(--rule); background: rgba(250,250,246,0.92); backdrop-filter: saturate(160%) blur(8px); -webkit-backdrop-filter: saturate(160%) blur(8px); z-index: 1000; }
-    .masthead-inner { max-width: 1240px; margin: 0 auto; padding: 0 24px; height: 100%; display: flex; align-items: center; gap: 14px; }
+    .masthead-inner { max-width: 1240px; margin: 0 auto; padding: 0 24px 0 56px; height: 100%; display: flex; align-items: center; gap: 14px; }
     .brand { font-family: var(--serif); font-weight: 700; letter-spacing: -0.01em; font-size: 15px; display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; }
     .brand .mark { width: 24px; height: 24px; display: block; flex-shrink: 0; }
     .brand .title { display: flex; align-items: baseline; gap: 10px; }
@@ -52,7 +52,7 @@
     .nav a:hover { color: var(--ink); }
     @media (max-width: 560px) { .nav { gap: 16px; } .nav a { font-size: 13px; } }
 
-    #topbar-toggle { background: transparent; border: none; cursor: pointer; padding: 10px; display: flex; flex-direction: column; justify-content: center; gap: 4px; border-radius: 6px; flex-shrink: 0; }
+    #topbar-toggle { position: absolute; left: 14px; top: 50%; transform: translateY(-50%); background: transparent; border: none; cursor: pointer; padding: 10px; display: flex; flex-direction: column; justify-content: center; gap: 4px; border-radius: 6px; }
     #topbar-toggle:hover { background: var(--paper-tint); }
     #topbar-toggle span { display: block; width: 22px; height: 2.5px; background: var(--ink); border-radius: 2px; transition: transform 0.2s, opacity 0.2s; }
     body.on-home #topbar-toggle { display: none; }
@@ -242,12 +242,15 @@
 
     @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
 
-    /* ---------------- INNER-PAGE MASTHEAD: pill + globe only (no "Full-Stack Game Dev" text) ---------------- */
+    /* ---------------- INNER-PAGE MASTHEAD: hide brand title, mobile gets a labelled pill ---------------- */
     body:not(.on-home) .brand .title { display: none; }
-    body:not(.on-home) #topbar-toggle { padding: 7px 14px; border-radius: 100px; background: var(--paper-tint); border: 1px solid var(--rule); flex-direction: row; gap: 0; }
-    body:not(.on-home) #topbar-toggle:hover { background: var(--paper); border-color: var(--yellow); }
-    body:not(.on-home) #topbar-toggle span { display: none; }
-    body:not(.on-home) #topbar-toggle::before { content: "☰  " attr(data-lessons-label); font-family: var(--serif); font-size: 13px; font-weight: 600; color: var(--ink); white-space: nowrap; letter-spacing: -.005em; }
+    @media (max-width: 768px) {
+      body:not(.on-home) .masthead-inner { padding-left: 14px; }
+      body:not(.on-home) #topbar-toggle { position: static; transform: none; padding: 7px 14px; border-radius: 100px; background: var(--paper-tint); border: 1px solid var(--rule); flex-direction: row; gap: 0; }
+      body:not(.on-home) #topbar-toggle:hover { background: var(--paper); border-color: var(--yellow); }
+      body:not(.on-home) #topbar-toggle span { display: none; }
+      body:not(.on-home) #topbar-toggle::before { content: "☰  All Lessons"; font-family: var(--serif); font-size: 13px; font-weight: 600; color: var(--ink); white-space: nowrap; letter-spacing: -.005em; }
+    }
 
     /* ---------------- LESSON HEADER (top of every material page) ---------------- */
     .lesson-header { border: 1px solid var(--rule); border-left: 3px solid var(--yellow); border-radius: 6px; padding: 14px 18px 16px; margin: 0 0 28px; background: var(--paper); }
@@ -525,9 +528,6 @@
           hook.doneEach(function () {
             var hash = (window.location.hash || '#/').replace(/^#/, '');
             var loc = locate(hash);
-
-            var btn = document.querySelector('#topbar-toggle');
-            if (btn) btn.dataset.lessonsLabel = loc ? ('Lessons (' + loc.mod.materialCount + ')') : 'Lessons';
 
             var section = document.querySelector('.markdown-section');
             if (!section) return;
